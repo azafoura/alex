@@ -1,0 +1,62 @@
+[
+    {
+        "name": "AUTHKEY",
+        "value": "wi%2B4K2Zaed9r8SSchJ5lu7JsPxABS%2F%2B1AeJ4RmDo%2BRREQ5oUSZgi%2B54TDN7M2fcYaqJmBRpa9QkvZWVKeIWBdHQCQwwaw%2FQdjz3qQ6zLQRKGBy18d1wjmw%3D%3D",
+        "domain": ".qimai.cn",
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "expires": 1751352345.133553,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "PHPSESSID",
+        "value": "ic997gf698rpimg80abt65s4gb",
+        "domain": ".qimai.cn",
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "expires": 1748069145.133454,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "qm_check",
+        "value": "A1sdRUIQChtxen8pI0dAOTQ+GRdzfX0QZlkBAwgGUC03HBd1QlhAXFEGFUdASAFKBQcCAQ8DDBFFIg4aHRoOBnMDARlGR2dQOVdICAolAGgCHBl0B3xUV05KVFsZXVJRWxsKFghJVktYVElWBRVP",
+        "domain": ".qimai.cn",
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "expires": 1750056338,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "syncd",
+        "value": "28483",
+        "domain": ".qimai.cn",
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "expires": 1747550738,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "synct",
+        "value": "1747464366.985",
+        "domain": ".qimai.cn",
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "expires": 1747723538.19332,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "USERINFO",
+        "value": "v6JZeMwa%2BAwl6MDOKhdRchLERis7dnXbN1kFlN%2BpPpXpi3a79qe6Z71mvtwpnpXTL%2FkI2rHJ8jl3n5qKkwfviQU801HRIOTBhYs2ssm9LP1gHEWtfN0YVHZlwpnieO4P9lySKuT6M4M%2FD7nWsenl%2BQylGZOSMNR1",
+        "domain": ".qimai.cn",
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "expires": 1751352345.133525,
+        "sameSite": "Lax"
+    }
+]
