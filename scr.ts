@@ -115,7 +115,7 @@ function recursiv(page){
   console.log(`processing ${page}`)
   
   if (errors<10){
-    const nextelem= liste.shift()
+    const nextelem= liste.pop()
   waitForAppStatusReques(page,nextelem)
 .then(([x,y])=> {storeInWhitelist(x,y)})
 .catch(([x,y])=>{storeInBlacklist(x,y);errors++})
