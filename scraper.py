@@ -98,7 +98,7 @@ async def setup_browser(playwright: Playwright):
     
     # Create a context with additional options to avoid detection
     context = await browser.new_context(
-        viewport={'width': 1280, 'height': 800},
+        viewport={'width': 1262, 'height': 587},
         user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
         has_touch=False,
         java_script_enabled=True,

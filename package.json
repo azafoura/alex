@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "csv-parse": "^6.1.0",
+    "rebrowser-puppeteer": "^24.8.1",
+    "rebrowser-puppeteer-core": "^24.8.1",
+    "tsx": "^4.20.4"
+  },
+  "name": "alex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "k.js",
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azafoura/alex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/azafoura/alex/issues"
+  },
+  "homepage": "https://github.com/azafoura/alex#readme"
+}
