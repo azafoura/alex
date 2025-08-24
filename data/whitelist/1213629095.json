@@ -1,0 +1,20 @@
+{
+  "1213629095": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-06-03 10:53:32",
+        "edate": "",
+        "status": "online",
+        "duration": "8年80天20小时34分",
+        "version": "1.0~3.4.2"
+      }
+    ],
+    "total": 1,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

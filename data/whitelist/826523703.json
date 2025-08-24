@@ -1,0 +1,41 @@
+{
+  "826523703": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:14:35",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时52分",
+        "version": "5.2.0"
+      },
+      {
+        "sdate": "2019-12-12 05:11:34",
+        "edate": "2020-12-31 04:14:35",
+        "status": "online",
+        "duration": "1年19天23小时3分",
+        "version": "4.5.2~5.2.0"
+      },
+      {
+        "sdate": "2019-12-12 03:54:25",
+        "edate": "2019-12-12 05:11:34",
+        "status": "offline",
+        "duration": "1小时17分",
+        "version": "4.5.2"
+      },
+      {
+        "sdate": "2014-05-30 23:01:19",
+        "edate": "2019-12-12 03:54:25",
+        "status": "online",
+        "duration": "5年196天4小时53分",
+        "version": "1.0.0~4.5.2"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

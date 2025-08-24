@@ -1,0 +1,27 @@
+{
+  "628838797": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2024-10-19 20:22:10",
+        "edate": "2024-12-19 13:00:00",
+        "duration": "60天16小时37分",
+        "version": "3.1"
+      },
+      {
+        "sdate": "2013-04-30 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "12年115天8小时50分",
+        "version": "1.0~3.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

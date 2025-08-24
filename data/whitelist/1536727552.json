@@ -1,0 +1,27 @@
+{
+  "1536727552": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-06-22 02:54:18",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年61天3小时15分",
+        "version": "1.2.1"
+      },
+      {
+        "sdate": "2021-01-21 00:00:00",
+        "edate": "2024-06-22 02:54:18",
+        "status": "online",
+        "duration": "3年153天2小时54分",
+        "version": "1.1.30~1.2.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

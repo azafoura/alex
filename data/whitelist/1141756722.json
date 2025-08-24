@@ -1,0 +1,27 @@
+{
+  "1141756722": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-06-17 05:29:37",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年65天23小时29分",
+        "version": "2.29"
+      },
+      {
+        "sdate": "2016-08-29 17:26:32",
+        "edate": "2023-06-17 05:29:37",
+        "status": "online",
+        "duration": "6年292天12小时3分",
+        "version": "1.0~2.29"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

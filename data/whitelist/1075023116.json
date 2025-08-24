@@ -1,0 +1,27 @@
+{
+  "1075023116": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-12 02:27:29",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年252天21小时15分",
+        "version": "32.9.28750"
+      },
+      {
+        "sdate": "2017-11-22 12:41:03",
+        "edate": "2020-12-12 02:27:29",
+        "status": "online",
+        "duration": "3年20天13小时46分",
+        "version": "18.0.22823~32.9.28750"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "1362383596": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-03-23 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "7年153天11小时42分",
+        "version": "1.0~2.5"
+      }
+    ],
+    "total": 1,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

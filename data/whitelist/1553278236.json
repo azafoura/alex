@@ -1,0 +1,27 @@
+{
+  "1553278236": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-03-12 07:27:12",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年164天4小时10分",
+        "version": "1.14"
+      },
+      {
+        "sdate": "2021-02-15 19:30:00",
+        "edate": "2021-03-12 07:27:12",
+        "status": "online",
+        "duration": "24天11小时57分",
+        "version": "1.0~1.14"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

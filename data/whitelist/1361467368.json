@@ -1,0 +1,27 @@
+{
+  "1361467368": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-05 21:14:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年47天14小时27分",
+        "version": "1.0.15"
+      },
+      {
+        "sdate": "2018-05-23 00:00:00",
+        "edate": "2020-07-05 21:14:13",
+        "status": "online",
+        "duration": "2年44天21小时14分",
+        "version": "1.0.0~1.0.15"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

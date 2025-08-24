@@ -1,0 +1,34 @@
+{
+  "1254366247": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-01-19 11:51:48",
+        "edate": "",
+        "status": "online",
+        "duration": "4年214天19小时55分",
+        "version": "1.8.72~2.0.2"
+      },
+      {
+        "sdate": "2020-12-31 04:27:44",
+        "edate": "2021-01-19 11:51:48",
+        "status": "offline",
+        "duration": "19天7小时24分",
+        "version": "1.8.60~1.8.72"
+      },
+      {
+        "sdate": "2017-07-13 06:02:36",
+        "edate": "2020-12-31 04:27:44",
+        "status": "online",
+        "duration": "3年171天22小时25分",
+        "version": "1.0.1~1.8.60"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

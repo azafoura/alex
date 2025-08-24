@@ -1,0 +1,27 @@
+{
+  "1097735195": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-03-23 01:46:34",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年153天2小时32分",
+        "version": ""
+      },
+      {
+        "sdate": "2017-10-20 07:26:16",
+        "edate": "2018-03-23 01:46:34",
+        "status": "online",
+        "duration": "153天18小时20分",
+        "version": ""
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

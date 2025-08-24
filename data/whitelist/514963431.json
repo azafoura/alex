@@ -1,0 +1,34 @@
+{
+  "514963431": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-01-03 03:14:18",
+        "edate": "",
+        "status": "online",
+        "duration": "1年230天5小时27分",
+        "version": "1.8~2.0.2"
+      },
+      {
+        "sdate": "2020-12-31 04:08:32",
+        "edate": "2024-01-03 03:14:18",
+        "status": "offline",
+        "duration": "3年2天23小时5分",
+        "version": "1.7.3~1.8"
+      },
+      {
+        "sdate": "2012-04-07 00:00:00",
+        "edate": "2020-12-31 04:08:32",
+        "status": "online",
+        "duration": "8年270天4小时8分",
+        "version": "1.0~1.7.3"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

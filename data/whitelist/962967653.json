@@ -1,0 +1,27 @@
+{
+  "962967653": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2025-04-25 23:47:43",
+        "edate": null,
+        "status": "offline",
+        "duration": "116天22小时20分",
+        "version": "2.9"
+      },
+      {
+        "sdate": "2015-03-02 00:00:00",
+        "edate": "2025-04-25 23:47:43",
+        "status": "online",
+        "duration": "10年57天23小时47分",
+        "version": "1.1~2.9"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1576146368": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-08-16 13:17:47",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年7天2小时32分",
+        "version": "1.5"
+      },
+      {
+        "sdate": "2021-07-14 00:00:00",
+        "edate": "2021-08-16 13:17:47",
+        "status": "online",
+        "duration": "33天13小时17分",
+        "version": "1.0~1.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

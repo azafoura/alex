@@ -1,0 +1,41 @@
+{
+  "1506180378": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-29 23:28:40",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年24天5小时37分",
+        "version": "1.5"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-07-23 11:30:06",
+        "edate": "2020-07-23 13:30:32",
+        "duration": "2小时0分",
+        "version": "1.4"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-06-21 11:26:37",
+        "edate": "2020-06-21 13:26:40",
+        "duration": "2小时0分",
+        "version": "1.1"
+      },
+      {
+        "sdate": "2020-04-03 00:00:00",
+        "edate": "2020-07-29 23:28:40",
+        "status": "online",
+        "duration": "117天23小时28分",
+        "version": "0.4~1.5"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

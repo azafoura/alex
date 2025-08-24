@@ -1,0 +1,27 @@
+{
+  "1297427137": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-09-20 03:02:50",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年337天5小时1分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2017-10-21 01:19:06",
+        "edate": "2018-09-20 03:02:50",
+        "status": "online",
+        "duration": "334天1小时43分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

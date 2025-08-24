@@ -1,0 +1,34 @@
+{
+  "1383410114": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:31:42",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天7小时23分",
+        "version": "3.7.9"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-09-19 12:27:29",
+        "edate": "2019-09-19 15:00:00",
+        "duration": "2小时32分",
+        "version": "3.5.3"
+      },
+      {
+        "sdate": "2018-06-07 22:00:18",
+        "edate": "2020-12-31 04:31:42",
+        "status": "online",
+        "duration": "2年207天6小时31分",
+        "version": "1.0~3.7.9"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

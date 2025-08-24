@@ -1,0 +1,27 @@
+{
+  "1262262200": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-04-02 15:11:19",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年141天16小时39分",
+        "version": "3.26.1"
+      },
+      {
+        "sdate": "2017-09-22 16:13:10",
+        "edate": "2020-04-02 15:11:19",
+        "status": "online",
+        "duration": "2年192天22小时58分",
+        "version": "1.0~3.26.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

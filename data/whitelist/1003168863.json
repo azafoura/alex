@@ -1,0 +1,27 @@
+{
+  "1003168863": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-29 11:55:00",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年146天10小时54分",
+        "version": "2.3.0~2.4.0"
+      },
+      {
+        "sdate": "2015-07-23 00:08:10",
+        "edate": "2016-03-29 11:55:00",
+        "status": "online",
+        "duration": "250天11小时46分",
+        "version": "1.0.5~2.3.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1492270071": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-08-21 13:56:10",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年1天15小时2分",
+        "version": "2.0.7"
+      },
+      {
+        "sdate": "2020-02-01 11:00:18",
+        "edate": "2020-08-21 13:56:10",
+        "status": "online",
+        "duration": "202天2小时55分",
+        "version": "1.0~2.0.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

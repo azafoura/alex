@@ -1,0 +1,27 @@
+{
+  "1407155063": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-09-01 12:10:07",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年356天9小时0分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-07-25 04:01:51",
+        "edate": "2018-09-01 12:10:07",
+        "status": "online",
+        "duration": "38天8小时8分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "922810008": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-31 08:41:55",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年294天13小时14分",
+        "version": "1.0.31"
+      },
+      {
+        "sdate": "2014-10-15 02:37:12",
+        "edate": "2020-10-31 08:41:55",
+        "status": "online",
+        "duration": "6年18天6小时4分",
+        "version": "1.0.0~1.0.31"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

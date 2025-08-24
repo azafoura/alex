@@ -1,0 +1,27 @@
+{
+  "1544263998": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-11-10 07:51:58",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年285天22小时28分",
+        "version": "3.0"
+      },
+      {
+        "sdate": "2020-12-11 00:00:00",
+        "edate": "2021-11-10 07:51:58",
+        "status": "online",
+        "duration": "334天7小时51分",
+        "version": "1.0~3.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

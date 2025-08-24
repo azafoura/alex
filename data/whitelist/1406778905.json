@@ -1,0 +1,27 @@
+{
+  "1406778905": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-02-07 05:43:15",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年197天15小时27分",
+        "version": "3.0"
+      },
+      {
+        "sdate": "2018-07-04 02:54:30",
+        "edate": "2019-02-07 05:43:15",
+        "status": "online",
+        "duration": "218天2小时48分",
+        "version": "1.0~3.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

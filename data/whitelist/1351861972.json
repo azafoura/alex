@@ -1,0 +1,27 @@
+{
+  "1351861972": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-21 20:28:59",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年243天15小时6分",
+        "version": "1.26"
+      },
+      {
+        "sdate": "2019-01-03 09:29:25",
+        "edate": "2020-12-21 20:28:59",
+        "status": "online",
+        "duration": "1年353天10小时59分",
+        "version": "1.0.0~1.26"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

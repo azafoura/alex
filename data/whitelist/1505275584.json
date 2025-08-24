@@ -1,0 +1,27 @@
+{
+  "1505275584": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-06-16 19:42:32",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年67天9小时23分",
+        "version": "1.51.5003"
+      },
+      {
+        "sdate": "2020-04-16 02:45:29",
+        "edate": "2020-06-16 19:42:32",
+        "status": "online",
+        "duration": "61天16小时57分",
+        "version": "1.00.5003~1.51.5003"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

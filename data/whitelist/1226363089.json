@@ -1,0 +1,27 @@
+{
+  "1226363089": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:26:06",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天3小时7分",
+        "version": "1.5"
+      },
+      {
+        "sdate": "2017-10-18 07:35:49",
+        "edate": "2020-12-31 04:26:06",
+        "status": "online",
+        "duration": "3年74天20小时50分",
+        "version": "1.0~1.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "1329455663": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:29:53",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天6小时55分",
+        "version": "2.14"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-06-15 23:38:04",
+        "edate": "2020-06-16 01:35:39",
+        "duration": "1小时57分",
+        "version": "2.14"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-03-09 20:45:41",
+        "edate": "2020-03-09 22:40:50",
+        "duration": "1小时55分",
+        "version": "2.13"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-11-17 11:38:38",
+        "edate": "2019-11-17 14:00:00",
+        "duration": "2小时21分",
+        "version": "2.4"
+      },
+      {
+        "sdate": "2019-02-27 12:12:31",
+        "edate": "2020-12-31 04:29:53",
+        "status": "online",
+        "duration": "1年307天16小时17分",
+        "version": "1.0~2.14"
+      }
+    ],
+    "total": 5,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1209083773": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 05:09:28",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天20分",
+        "version": "30"
+      },
+      {
+        "sdate": "2017-08-04 12:40:53",
+        "edate": "2020-12-31 05:09:28",
+        "status": "online",
+        "duration": "3年149天16小时28分",
+        "version": "1~30"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

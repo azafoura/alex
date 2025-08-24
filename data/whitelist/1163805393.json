@@ -1,0 +1,48 @@
+{
+  "1163805393": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-06-29 16:16:32",
+        "edate": "",
+        "status": "online",
+        "duration": "2年53天12小时52分",
+        "version": "3.83~47.0.3"
+      },
+      {
+        "sdate": "2020-12-29 19:47:39",
+        "edate": "2023-06-29 16:16:32",
+        "status": "offline",
+        "duration": "2年181天20小时28分",
+        "version": "3.03~3.83"
+      },
+      {
+        "sdate": "2020-07-03 18:05:00",
+        "edate": "2020-12-29 19:47:39",
+        "status": "online",
+        "duration": "179天1小时42分",
+        "version": "2.91~3.03"
+      },
+      {
+        "sdate": "2020-07-02 22:40:05",
+        "edate": "2020-07-03 18:05:00",
+        "status": "offline",
+        "duration": "19小时24分",
+        "version": "2.91"
+      },
+      {
+        "sdate": "2018-08-31 12:22:20",
+        "edate": "2020-07-02 22:40:05",
+        "status": "online",
+        "duration": "1年306天10小时17分",
+        "version": "1.52~2.91"
+      }
+    ],
+    "total": 5,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

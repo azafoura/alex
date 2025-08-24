@@ -1,0 +1,27 @@
+{
+  "997498692": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:19:26",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天18小时28分",
+        "version": "4.2"
+      },
+      {
+        "sdate": "2015-06-03 18:15:08",
+        "edate": "2020-12-31 04:19:26",
+        "status": "online",
+        "duration": "5年212天10小时4分",
+        "version": "1.0~4.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

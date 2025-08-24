@@ -1,0 +1,34 @@
+{
+  "478829300": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-12-25 00:09:21",
+        "edate": "",
+        "status": "online",
+        "duration": "1年239天8小时29分",
+        "version": "2.1~3.0.3"
+      },
+      {
+        "sdate": "2020-12-31 04:07:32",
+        "edate": "2023-12-25 00:09:21",
+        "status": "offline",
+        "duration": "2年358天20小时1分",
+        "version": "2.0.1~2.1"
+      },
+      {
+        "sdate": "2011-11-17 00:00:00",
+        "edate": "2020-12-31 04:07:32",
+        "status": "online",
+        "duration": "9年47天4小时7分",
+        "version": "1.0~2.0.1"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

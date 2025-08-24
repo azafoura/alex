@@ -1,0 +1,27 @@
+{
+  "1106352070": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-07-14 04:18:40",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年40天2分",
+        "version": ""
+      },
+      {
+        "sdate": "2016-10-21 12:35:05",
+        "edate": "2017-07-14 04:18:40",
+        "status": "online",
+        "duration": "265天15小时43分",
+        "version": ""
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

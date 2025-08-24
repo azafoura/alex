@@ -1,0 +1,41 @@
+{
+  "1391138490": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-08-08 11:12:53",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年15天46分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2018-06-14 20:07:47",
+        "edate": "2018-08-08 11:12:53",
+        "status": "online",
+        "duration": "54天15小时5分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2018-06-14 14:29:28",
+        "edate": "2018-06-14 20:07:47",
+        "status": "offline",
+        "duration": "5小时38分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2018-06-14 02:28:41",
+        "edate": "2018-06-14 14:29:28",
+        "status": "online",
+        "duration": "12小时0分",
+        "version": "1.0.1"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

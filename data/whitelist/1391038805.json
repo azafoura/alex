@@ -1,0 +1,20 @@
+{
+  "1391038805": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-06-20 18:39:18",
+        "edate": "",
+        "status": "offline",
+        "duration": "7年63天17小时20分",
+        "version": "1.0.0"
+      }
+    ],
+    "total": 1,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

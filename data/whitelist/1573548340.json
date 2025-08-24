@@ -1,0 +1,27 @@
+{
+  "1573548340": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-11-02 13:49:49",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年294天1小时58分",
+        "version": "1.0.6"
+      },
+      {
+        "sdate": "2021-06-30 00:00:00",
+        "edate": "2021-11-02 13:49:49",
+        "status": "online",
+        "duration": "125天13小时49分",
+        "version": "1.0~1.0.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

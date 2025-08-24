@@ -1,0 +1,27 @@
+{
+  "509458284": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-11-05 17:17:53",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年289天15小时23分",
+        "version": "3.5.5"
+      },
+      {
+        "sdate": "2012-11-07 02:22:54",
+        "edate": "2019-11-05 17:17:53",
+        "status": "online",
+        "duration": "6年364天14小时54分",
+        "version": "1.0.0~3.5.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

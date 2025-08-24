@@ -1,0 +1,27 @@
+{
+  "1542762737": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2025-03-06 19:33:26",
+        "edate": null,
+        "status": "offline",
+        "duration": "168天10小时43分",
+        "version": "1.0.9"
+      },
+      {
+        "sdate": "2020-12-02 00:00:00",
+        "edate": "2025-03-06 19:33:26",
+        "status": "online",
+        "duration": "4年95天19小时33分",
+        "version": "1.0~1.0.9"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

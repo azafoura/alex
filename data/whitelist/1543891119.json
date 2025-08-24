@@ -1,0 +1,27 @@
+{
+  "1543891119": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-30 22:09:53",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年235天8小时9分",
+        "version": "1.6"
+      },
+      {
+        "sdate": "2020-12-10 07:31:14",
+        "edate": "2020-12-30 22:09:53",
+        "status": "online",
+        "duration": "20天14小时38分",
+        "version": "1.0~1.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

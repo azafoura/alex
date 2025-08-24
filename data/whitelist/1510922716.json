@@ -1,0 +1,34 @@
+{
+  "1510922716": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-04-16 12:33:55",
+        "edate": "",
+        "status": "online",
+        "duration": "1年127天16小时38分",
+        "version": "2.5"
+      },
+      {
+        "sdate": "2024-03-12 19:01:48",
+        "edate": "2024-04-16 12:33:55",
+        "status": "offline",
+        "duration": "34天17小时32分",
+        "version": "2.5"
+      },
+      {
+        "sdate": "2020-05-09 00:00:00",
+        "edate": "2024-03-12 19:01:48",
+        "status": "online",
+        "duration": "3年308天19小时1分",
+        "version": "1.0~2.5"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "968310717": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:18:42",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时52分",
+        "version": "1.107.1"
+      },
+      {
+        "sdate": "2016-05-19 08:34:20",
+        "edate": "2020-12-31 04:18:42",
+        "status": "online",
+        "duration": "4年226天19小时44分",
+        "version": "1.0.0~1.107.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

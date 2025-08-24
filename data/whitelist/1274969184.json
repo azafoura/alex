@@ -1,0 +1,34 @@
+{
+  "1274969184": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2024-02-05 16:16:43",
+        "edate": "2024-02-05 17:30:02",
+        "duration": "1小时13分",
+        "version": "1.10.12"
+      },
+      {
+        "status": "out",
+        "sdate": "2024-01-05 18:37:25",
+        "edate": "2024-01-05 20:40:03",
+        "duration": "2小时2分",
+        "version": "1.10.12"
+      },
+      {
+        "sdate": "2017-09-20 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "7年337天7小时55分",
+        "version": "1.0.0~1.10.12"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

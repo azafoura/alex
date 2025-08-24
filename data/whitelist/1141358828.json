@@ -1,0 +1,20 @@
+{
+  "1141358828": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-10-06 14:10:28",
+        "edate": "",
+        "status": "online",
+        "duration": "8年320天14小时37分",
+        "version": "1.0~2025.1.9"
+      }
+    ],
+    "total": 1,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "981796690": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-08 14:39:49",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年317天8小时3分",
+        "version": "1.6.20"
+      },
+      {
+        "sdate": "2016-08-17 23:56:23",
+        "edate": "2020-10-08 14:39:49",
+        "status": "online",
+        "duration": "4年52天14小时43分",
+        "version": "1.0.5~1.6.20"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

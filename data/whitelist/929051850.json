@@ -1,0 +1,27 @@
+{
+  "929051850": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-12-04 01:57:22",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年260天20小时0分",
+        "version": "4.0"
+      },
+      {
+        "sdate": "2014-10-23 00:00:00",
+        "edate": "2022-12-04 01:57:22",
+        "status": "online",
+        "duration": "8年44天1小时57分",
+        "version": "1.0~4.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

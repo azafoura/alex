@@ -1,0 +1,27 @@
+{
+  "1518806009": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-07-03 17:04:17",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年50天12小时33分",
+        "version": "1.7.0"
+      },
+      {
+        "sdate": "2020-06-27 00:00:00",
+        "edate": "2023-07-03 17:04:17",
+        "status": "online",
+        "duration": "3年6天17小时4分",
+        "version": "0.1~1.7.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

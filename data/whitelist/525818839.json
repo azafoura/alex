@@ -1,0 +1,27 @@
+{
+  "525818839": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-02-27 05:15:14",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年176天3小时27分",
+        "version": "1.17.4"
+      },
+      {
+        "sdate": "2012-11-09 20:51:56",
+        "edate": "2020-02-27 05:15:14",
+        "status": "online",
+        "duration": "7年110天8小时23分",
+        "version": "1.4.1~1.17.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

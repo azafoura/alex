@@ -1,0 +1,27 @@
+{
+  "454146397": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-01 07:04:38",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年324天1小时33分",
+        "version": "20.0"
+      },
+      {
+        "sdate": "2011-08-15 22:26:08",
+        "edate": "2020-10-01 07:04:38",
+        "status": "online",
+        "duration": "9年49天8小时38分",
+        "version": "1.0~20.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

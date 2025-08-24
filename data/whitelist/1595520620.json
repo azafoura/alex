@@ -1,0 +1,27 @@
+{
+  "1595520620": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-05-22 11:13:32",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年93天4小时45分",
+        "version": "0.0.8"
+      },
+      {
+        "sdate": "2021-11-16 00:00:00",
+        "edate": "2022-05-22 11:13:32",
+        "status": "online",
+        "duration": "187天11小时13分",
+        "version": "0.0.4~0.0.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

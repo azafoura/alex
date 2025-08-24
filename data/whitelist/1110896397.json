@@ -1,0 +1,27 @@
+{
+  "1110896397": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-06-02 19:38:52",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年80天8小时44分",
+        "version": "1.0.4"
+      },
+      {
+        "sdate": "2016-05-17 03:10:06",
+        "edate": "2020-06-02 19:38:52",
+        "status": "online",
+        "duration": "4年17天16小时28分",
+        "version": "1.0~1.0.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

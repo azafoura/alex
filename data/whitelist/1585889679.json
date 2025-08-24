@@ -1,0 +1,27 @@
+{
+  "1585889679": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-04-29 23:18:05",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年114天16小时37分",
+        "version": "0.14.26"
+      },
+      {
+        "sdate": "2021-10-01 00:00:00",
+        "edate": "2024-04-29 23:18:05",
+        "status": "online",
+        "duration": "2年211天23小时18分",
+        "version": "0.14.26"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

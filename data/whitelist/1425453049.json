@@ -1,0 +1,27 @@
+{
+  "1425453049": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-01-12 16:38:01",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年223天4小时37分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-08-17 05:41:52",
+        "edate": "2019-01-12 16:38:01",
+        "status": "online",
+        "duration": "148天10小时56分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

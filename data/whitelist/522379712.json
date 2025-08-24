@@ -1,0 +1,27 @@
+{
+  "522379712": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:08:42",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时33分",
+        "version": "9.35"
+      },
+      {
+        "sdate": "2012-06-17 00:12:16",
+        "edate": "2020-12-31 04:08:42",
+        "status": "online",
+        "duration": "8年199天3小时56分",
+        "version": "1.0~9.35"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "760645916": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-06-28 23:23:20",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年54天9小时38分",
+        "version": "2.11.0"
+      },
+      {
+        "sdate": "2014-03-28 01:00:18",
+        "edate": "2016-06-28 23:23:20",
+        "status": "online",
+        "duration": "2年93天22小时23分",
+        "version": "1.0.3~2.11.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

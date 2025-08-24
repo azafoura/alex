@@ -1,0 +1,27 @@
+{
+  "1554987712": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-03-24 11:22:28",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年152天17分",
+        "version": "0.10.4"
+      },
+      {
+        "sdate": "2021-03-20 22:58:47",
+        "edate": "2021-03-24 11:22:28",
+        "status": "online",
+        "duration": "3天12小时23分",
+        "version": "0.10.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

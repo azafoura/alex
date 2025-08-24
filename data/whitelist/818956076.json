@@ -1,0 +1,27 @@
+{
+  "818956076": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-10-03 02:56:45",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年323天6小时9分",
+        "version": "10.0.0"
+      },
+      {
+        "sdate": "2014-05-16 20:54:42",
+        "edate": "2018-10-03 02:56:45",
+        "status": "online",
+        "duration": "4年140天6小时2分",
+        "version": "1.0.0~10.0.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

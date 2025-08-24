@@ -1,0 +1,83 @@
+{
+  "1597238781": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-01-24 22:38:30",
+        "edate": "",
+        "status": "online",
+        "duration": "3年210天17小时20分",
+        "version": "3.0~4.0"
+      },
+      {
+        "sdate": "2022-01-24 21:15:25",
+        "edate": "2022-01-24 22:38:30",
+        "status": "offline",
+        "duration": "1小时23分",
+        "version": "3.0"
+      },
+      {
+        "sdate": "2022-01-05 11:50:12",
+        "edate": "2022-01-24 21:15:25",
+        "status": "online",
+        "duration": "19天9小时25分",
+        "version": "2.0~3.0"
+      },
+      {
+        "sdate": "2022-01-04 00:18:19",
+        "edate": "2022-01-05 11:50:12",
+        "status": "offline",
+        "duration": "1天11小时31分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2022-01-02 08:09:51",
+        "edate": "2022-01-04 00:18:19",
+        "status": "online",
+        "duration": "1天16小时8分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2022-01-01 23:14:58",
+        "edate": "2022-01-02 08:09:51",
+        "status": "offline",
+        "duration": "8小时54分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2022-01-01 09:47:51",
+        "edate": "2022-01-01 23:14:58",
+        "status": "online",
+        "duration": "13小时27分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2021-12-30 22:56:49",
+        "edate": "2022-01-01 09:47:51",
+        "status": "offline",
+        "duration": "1天10小时51分",
+        "version": "2.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-12-05 21:40:28",
+        "edate": "2021-12-05 23:23:59",
+        "duration": "1小时43分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2021-12-02 00:00:00",
+        "edate": "2021-12-30 22:56:49",
+        "status": "online",
+        "duration": "28天22小时56分",
+        "version": "1.0~2.0"
+      }
+    ],
+    "total": 10,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

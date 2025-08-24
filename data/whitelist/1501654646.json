@@ -1,0 +1,27 @@
+{
+  "1501654646": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2020-07-18 21:44:50",
+        "edate": "2020-07-18 23:32:12",
+        "duration": "1小时47分",
+        "version": "1.1.2"
+      },
+      {
+        "sdate": "2020-03-10 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "5年166天5小时3分",
+        "version": "1.0.0~1.1.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

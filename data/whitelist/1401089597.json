@@ -1,0 +1,27 @@
+{
+  "1401089597": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-05-10 10:44:26",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年105天10小时24分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2018-06-30 01:43:05",
+        "edate": "2019-05-10 10:44:26",
+        "status": "online",
+        "duration": "314天9小时1分",
+        "version": "1.0~1.0.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

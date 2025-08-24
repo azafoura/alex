@@ -1,0 +1,41 @@
+{
+  "1578484863": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-12-09 02:58:28",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年257天12小时53分",
+        "version": "1.1.6"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-09-10 06:20:39",
+        "edate": "2021-09-10 08:10:07",
+        "duration": "1小时49分",
+        "version": "1.1.6"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-08-07 11:44:48",
+        "edate": "2021-08-07 13:38:52",
+        "duration": "1小时54分",
+        "version": "1.0.4"
+      },
+      {
+        "sdate": "2021-07-28 00:00:00",
+        "edate": "2021-12-09 02:58:28",
+        "status": "online",
+        "duration": "134天2小时58分",
+        "version": "1.0.4~1.1.6"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

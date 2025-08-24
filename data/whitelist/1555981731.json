@@ -1,0 +1,27 @@
+{
+  "1555981731": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-03-12 00:37:43",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年164天11小时3分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2021-03-05 00:00:00",
+        "edate": "2021-03-12 00:37:43",
+        "status": "online",
+        "duration": "7天37分",
+        "version": "1.0.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

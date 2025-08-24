@@ -1,0 +1,27 @@
+{
+  "1544011412": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-05-18 19:48:25",
+        "edate": "",
+        "status": "online",
+        "duration": "4年96天10小时30分",
+        "version": "0.6.9~0.6.15"
+      },
+      {
+        "sdate": "2021-04-02 13:02:11",
+        "edate": "2021-05-18 19:48:25",
+        "status": "preorder",
+        "duration": "46天6小时46分",
+        "version": "0.6.0~0.6.9"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "739067593": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:13:32",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时46分",
+        "version": "11.96"
+      },
+      {
+        "sdate": "2013-11-16 19:09:37",
+        "edate": "2020-12-31 04:13:32",
+        "status": "online",
+        "duration": "7年46天9小时3分",
+        "version": "1.0~11.96"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

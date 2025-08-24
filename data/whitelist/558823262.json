@@ -1,0 +1,27 @@
+{
+  "558823262": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-06-08 09:08:21",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年74天23小时36分",
+        "version": "14.1.0"
+      },
+      {
+        "sdate": "2013-09-18 16:48:33",
+        "edate": "2017-06-08 09:08:21",
+        "status": "online",
+        "duration": "3年263天16小时19分",
+        "version": "8.0.0~14.1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

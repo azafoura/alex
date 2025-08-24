@@ -1,0 +1,41 @@
+{
+  "1426198916": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-04-03 08:41:57",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年142天12小时34分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2019-01-18 19:17:22",
+        "edate": "2019-04-03 08:41:57",
+        "status": "online",
+        "duration": "74天13小时24分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-09-15 03:51:49",
+        "edate": "2019-01-18 19:17:22",
+        "status": "offline",
+        "duration": "125天15小时25分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-09-08 04:56:14",
+        "edate": "2018-09-15 03:51:49",
+        "status": "online",
+        "duration": "6天22小时55分",
+        "version": "1.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

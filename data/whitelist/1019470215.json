@@ -1,0 +1,27 @@
+{
+  "1019470215": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-12-12 15:45:23",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年253天7小时7分",
+        "version": "1.1.4"
+      },
+      {
+        "sdate": "2015-08-19 22:52:16",
+        "edate": "2019-12-12 15:45:23",
+        "status": "online",
+        "duration": "4年115天16小时53分",
+        "version": "1.0.0~1.1.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

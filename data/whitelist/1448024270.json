@@ -1,0 +1,27 @@
+{
+  "1448024270": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-04-04 18:42:27",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年141天4小时53分",
+        "version": "1.9.01"
+      },
+      {
+        "sdate": "2019-03-31 17:19:57",
+        "edate": "2019-04-04 18:42:27",
+        "status": "online",
+        "duration": "4天1小时22分",
+        "version": "1.9.01"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

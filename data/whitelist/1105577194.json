@@ -1,0 +1,41 @@
+{
+  "1105577194": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:24:42",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天23小时56分",
+        "version": "1.7.25"
+      },
+      {
+        "sdate": "2020-01-11 08:37:01",
+        "edate": "2020-12-31 04:24:42",
+        "status": "online",
+        "duration": "354天19小时47分",
+        "version": "1.5.15~1.7.25"
+      },
+      {
+        "sdate": "2019-04-05 10:31:06",
+        "edate": "2020-01-11 08:37:01",
+        "status": "offline",
+        "duration": "280天22小时5分",
+        "version": "1.4.56~1.5.15"
+      },
+      {
+        "sdate": "2016-06-08 00:12:46",
+        "edate": "2019-04-05 10:31:06",
+        "status": "online",
+        "duration": "2年301天10小时18分",
+        "version": "1.0.7~1.4.56"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

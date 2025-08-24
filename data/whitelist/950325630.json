@@ -1,0 +1,27 @@
+{
+  "950325630": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-07-29 03:22:10",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年24天18小时40分",
+        "version": "1.125"
+      },
+      {
+        "sdate": "2015-02-20 20:20:37",
+        "edate": "2017-07-29 03:22:10",
+        "status": "online",
+        "duration": "2年159天7小时1分",
+        "version": "1.107~1.125"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

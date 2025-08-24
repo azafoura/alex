@@ -1,0 +1,27 @@
+{
+  "1145420529": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-29 20:46:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年235天8小时15分",
+        "version": "1.97"
+      },
+      {
+        "sdate": "2018-02-02 15:45:05",
+        "edate": "2020-12-29 20:46:13",
+        "status": "online",
+        "duration": "2年331天5小时1分",
+        "version": "1.01~1.97"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

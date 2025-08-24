@@ -1,0 +1,27 @@
+{
+  "1518647699": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-03-12 07:31:45",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年162天22小时6分",
+        "version": "6.5"
+      },
+      {
+        "sdate": "2020-06-18 00:00:00",
+        "edate": "2024-03-12 07:31:45",
+        "status": "online",
+        "duration": "3年268天7小时31分",
+        "version": "1.0~6.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

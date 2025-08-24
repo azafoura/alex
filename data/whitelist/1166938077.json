@@ -1,0 +1,27 @@
+{
+  "1166938077": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-08-28 14:27:55",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年359天14小时41分",
+        "version": "1.2.1"
+      },
+      {
+        "sdate": "2017-03-07 07:15:32",
+        "edate": "2019-08-28 14:27:55",
+        "status": "online",
+        "duration": "2年174天7小时12分",
+        "version": "1.0~1.2.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

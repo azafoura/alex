@@ -1,0 +1,27 @@
+{
+  "1098532344": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-08-19 17:30:35",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年3天10小时48分",
+        "version": "3.15.10"
+      },
+      {
+        "sdate": "2016-11-02 15:41:01",
+        "edate": "2019-08-19 17:30:35",
+        "status": "online",
+        "duration": "2年290天1小时49分",
+        "version": "2.13~3.15.10"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1580891236": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-03-26 10:22:52",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年150天5小时30分",
+        "version": "1.7"
+      },
+      {
+        "sdate": "2021-08-16 00:00:00",
+        "edate": "2022-03-26 10:22:52",
+        "status": "online",
+        "duration": "222天10小时22分",
+        "version": "1.0~1.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

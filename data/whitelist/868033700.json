@@ -1,0 +1,27 @@
+{
+  "868033700": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-05-29 08:15:56",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年85天9小时37分",
+        "version": "1.1.4"
+      },
+      {
+        "sdate": "2014-06-18 16:02:44",
+        "edate": "2017-05-29 08:15:56",
+        "status": "online",
+        "duration": "2年345天16小时13分",
+        "version": "1.0.0~1.1.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

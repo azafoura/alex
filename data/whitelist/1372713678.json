@@ -1,0 +1,27 @@
+{
+  "1372713678": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-09-02 18:19:48",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年354天17小时29分",
+        "version": "5.1.6"
+      },
+      {
+        "sdate": "2018-07-23 08:32:46",
+        "edate": "2019-09-02 18:19:48",
+        "status": "online",
+        "duration": "1年41天9小时47分",
+        "version": "1.0~5.1.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

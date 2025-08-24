@@ -1,0 +1,27 @@
+{
+  "897716622": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-12-21 06:25:16",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年244天11小时44分",
+        "version": "2.3"
+      },
+      {
+        "sdate": "2014-07-21 23:51:18",
+        "edate": "2019-12-21 06:25:16",
+        "status": "online",
+        "duration": "5年153天6小时33分",
+        "version": "1.0~2.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1308276578": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-05-22 17:53:01",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年92天14小时15分",
+        "version": "0.4.1"
+      },
+      {
+        "sdate": "2017-12-11 12:18:37",
+        "edate": "2019-05-22 17:53:01",
+        "status": "online",
+        "duration": "1年162天5小时34分",
+        "version": "0.1.46~0.4.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

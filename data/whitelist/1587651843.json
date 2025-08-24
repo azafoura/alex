@@ -1,0 +1,27 @@
+{
+  "1587651843": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-07-07 19:28:29",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年46天20小时27分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2021-09-29 00:00:00",
+        "edate": "2022-07-07 19:28:29",
+        "status": "online",
+        "duration": "281天19小时28分",
+        "version": "1.0~1.0.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

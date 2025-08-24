@@ -1,0 +1,27 @@
+{
+  "1283576102": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-31 08:47:16",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年294天23小时12分",
+        "version": "1.7.0"
+      },
+      {
+        "sdate": "2018-08-15 00:00:00",
+        "edate": "2020-10-31 08:47:16",
+        "status": "online",
+        "duration": "2年78天8小时47分",
+        "version": "1.0~1.7.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "976021896": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-06-03 18:39:24",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年79天3小时37分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2019-05-04 18:57:27",
+        "edate": "2020-06-03 18:39:24",
+        "status": "online",
+        "duration": "1年30天23小时41分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2019-04-27 18:56:47",
+        "edate": "2019-05-04 18:57:27",
+        "status": "offline",
+        "duration": "7天0分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2015-03-18 20:17:07",
+        "edate": "2019-04-27 18:56:47",
+        "status": "online",
+        "duration": "4年40天22小时39分",
+        "version": "1.0.0~1.0.2"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1488758904": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-03-02 10:13:14",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年102天4小时57分",
+        "version": "0.1.0"
+      },
+      {
+        "sdate": "2020-02-20 23:04:16",
+        "edate": "2020-03-02 10:13:14",
+        "status": "preorder",
+        "duration": "71天13小时46分",
+        "version": "0.1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "946882449": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:56:48",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时4分",
+        "version": "4.2"
+      },
+      {
+        "sdate": "2019-12-12 04:58:35",
+        "edate": "2020-12-31 04:56:48",
+        "status": "online",
+        "duration": "1年19天23小时58分",
+        "version": "3.7.4~4.2"
+      },
+      {
+        "sdate": "2019-12-12 04:07:23",
+        "edate": "2019-12-12 04:58:35",
+        "status": "offline",
+        "duration": "51分",
+        "version": "3.7.4"
+      },
+      {
+        "sdate": "2015-01-07 21:59:29",
+        "edate": "2019-12-12 04:07:23",
+        "status": "online",
+        "duration": "4年339天6小时7分",
+        "version": "1.0~3.7.4"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "1490389165": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2020-11-25 03:24:34",
+        "edate": "2020-11-25 04:53:21",
+        "duration": "1小时28分",
+        "version": "2.0.12"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-10-19 08:48:36",
+        "edate": "2020-10-19 10:46:44",
+        "duration": "1小时58分",
+        "version": "2.0.10"
+      },
+      {
+        "sdate": "2020-09-16 18:42:05",
+        "edate": "",
+        "status": "online",
+        "duration": "4年340天10小时15分",
+        "version": "2.0.7~2.0.78"
+      },
+      {
+        "sdate": "2020-07-29 21:56:30",
+        "edate": "2020-09-16 18:42:05",
+        "status": "preorder",
+        "duration": "48天20小时45分",
+        "version": "2.0.2~2.0.7"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

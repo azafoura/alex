@@ -1,0 +1,48 @@
+{
+  "441444902": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-09-27 01:08:25",
+        "edate": "",
+        "status": "online",
+        "duration": "1年328天7小时28分",
+        "version": "7.2.1~9.0.2"
+      },
+      {
+        "sdate": "2023-09-26 18:43:33",
+        "edate": "2023-09-27 01:08:25",
+        "status": "offline",
+        "duration": "6小时24分",
+        "version": "7.2.1"
+      },
+      {
+        "sdate": "2018-03-24 02:27:05",
+        "edate": "2023-09-26 18:43:33",
+        "status": "online",
+        "duration": "5年187天16小时16分",
+        "version": "5.3.1~7.2.1"
+      },
+      {
+        "sdate": "2018-03-24 00:55:41",
+        "edate": "2018-03-24 02:27:05",
+        "status": "offline",
+        "duration": "1小时31分",
+        "version": "5.3.1"
+      },
+      {
+        "sdate": "2013-05-23 21:59:46",
+        "edate": "2018-03-24 00:55:41",
+        "status": "online",
+        "duration": "4年305天2小时55分",
+        "version": "2.6.1~5.3.1"
+      }
+    ],
+    "total": 5,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

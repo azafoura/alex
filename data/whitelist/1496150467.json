@@ -1,0 +1,27 @@
+{
+  "1496150467": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-03-04 19:33:21",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年171天9小时28分",
+        "version": "1.4"
+      },
+      {
+        "sdate": "2020-01-24 18:34:20",
+        "edate": "2020-03-04 19:33:21",
+        "status": "online",
+        "duration": "40天59分",
+        "version": "1.0~1.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

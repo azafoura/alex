@@ -1,0 +1,41 @@
+{
+  "955103240": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-08-06 19:14:23",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年15天2小时49分",
+        "version": "1.0.3"
+      },
+      {
+        "sdate": "2019-07-07 21:12:13",
+        "edate": "2020-08-06 19:14:23",
+        "status": "online",
+        "duration": "1年30天22小时2分",
+        "version": "1.0.3"
+      },
+      {
+        "sdate": "2019-07-07 19:24:49",
+        "edate": "2019-07-07 21:12:13",
+        "status": "offline",
+        "duration": "1小时47分",
+        "version": "1.0.3"
+      },
+      {
+        "sdate": "2015-01-11 02:52:29",
+        "edate": "2019-07-07 19:24:49",
+        "status": "online",
+        "duration": "4年178天16小时32分",
+        "version": "1.0~1.0.3"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

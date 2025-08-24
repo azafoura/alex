@@ -1,0 +1,34 @@
+{
+  "900211132": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-07-18 01:24:05",
+        "edate": "",
+        "status": "online",
+        "duration": "3年34天16小时46分",
+        "version": "1.2.2"
+      },
+      {
+        "sdate": "2022-07-16 18:47:58",
+        "edate": "2022-07-18 01:24:05",
+        "status": "offline",
+        "duration": "1天6小时36分",
+        "version": "1.2.2"
+      },
+      {
+        "sdate": "2014-07-25 00:00:00",
+        "edate": "2022-07-16 18:47:58",
+        "status": "online",
+        "duration": "7年358天18小时47分",
+        "version": "1.0~1.2.2"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

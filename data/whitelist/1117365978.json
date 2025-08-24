@@ -1,0 +1,27 @@
+{
+  "1117365978": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-10-15 21:21:50",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年311天7小时7分",
+        "version": "43.211.909"
+      },
+      {
+        "sdate": "2016-06-30 08:12:58",
+        "edate": "2019-10-15 21:21:50",
+        "status": "online",
+        "duration": "3年107天13小时8分",
+        "version": "5.0.377~43.211.909"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

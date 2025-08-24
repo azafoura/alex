@@ -1,0 +1,27 @@
+{
+  "948452996": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:17:43",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时43分",
+        "version": "2.4.4"
+      },
+      {
+        "sdate": "2015-02-05 16:29:40",
+        "edate": "2020-12-31 04:17:43",
+        "status": "online",
+        "duration": "5年330天11小时48分",
+        "version": "1.2~2.4.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

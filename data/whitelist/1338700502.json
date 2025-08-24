@@ -1,0 +1,27 @@
+{
+  "1338700502": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 05:13:34",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天6小时15分",
+        "version": "1.6.4"
+      },
+      {
+        "sdate": "2019-03-22 09:50:23",
+        "edate": "2020-12-31 05:13:34",
+        "status": "online",
+        "duration": "1年284天19小时23分",
+        "version": "1.0~1.6.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

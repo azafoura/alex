@@ -1,0 +1,41 @@
+{
+  "566537830": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:09:48",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时35分",
+        "version": "11.16"
+      },
+      {
+        "sdate": "2019-03-17 12:13:10",
+        "edate": "2020-12-31 04:09:48",
+        "status": "online",
+        "duration": "1年289天15小时56分",
+        "version": "8.50~11.16"
+      },
+      {
+        "sdate": "2019-03-16 23:41:38",
+        "edate": "2019-03-17 12:13:10",
+        "status": "offline",
+        "duration": "12小时31分",
+        "version": "8.50"
+      },
+      {
+        "sdate": "2014-09-12 12:50:52",
+        "edate": "2019-03-16 23:41:38",
+        "status": "online",
+        "duration": "4年186天10小时50分",
+        "version": "1.4~8.50"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

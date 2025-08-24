@@ -1,0 +1,41 @@
+{
+  "1363190493": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2025-08-07 22:16:09",
+        "edate": null,
+        "status": "offline",
+        "duration": "13天13小时26分",
+        "version": "2.1"
+      },
+      {
+        "sdate": "2024-07-09 02:18:04",
+        "edate": "2025-08-07 22:16:09",
+        "status": "online",
+        "duration": "1年29天19小时58分",
+        "version": "2.1"
+      },
+      {
+        "sdate": "2024-06-21 19:07:00",
+        "edate": "2024-07-09 02:18:04",
+        "status": "offline",
+        "duration": "17天7小时11分",
+        "version": "2.1"
+      },
+      {
+        "sdate": "2018-05-09 00:00:00",
+        "edate": "2024-06-21 19:07:00",
+        "status": "online",
+        "duration": "6年45天19小时7分",
+        "version": "2.1"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

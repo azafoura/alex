@@ -1,0 +1,27 @@
+{
+  "1203606075": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-10-29 14:58:11",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年297天14小时29分",
+        "version": "2.2"
+      },
+      {
+        "sdate": "2017-04-05 13:02:36",
+        "edate": "2018-10-29 14:58:11",
+        "status": "online",
+        "duration": "1年207天1小时55分",
+        "version": "1.0~2.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

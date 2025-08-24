@@ -1,0 +1,27 @@
+{
+  "1247367105": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-08-09 07:37:56",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年14天6分",
+        "version": "1.4.0"
+      },
+      {
+        "sdate": "2017-06-22 13:39:09",
+        "edate": "2018-08-09 07:37:56",
+        "status": "online",
+        "duration": "1年47天17小时58分",
+        "version": "1.2.0~1.4.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

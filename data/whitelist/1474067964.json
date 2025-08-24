@@ -1,0 +1,27 @@
+{
+  "1474067964": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-01 07:02:46",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年325天17小时35分",
+        "version": "0.90"
+      },
+      {
+        "sdate": "2019-09-04 00:00:00",
+        "edate": "2020-10-01 07:02:46",
+        "status": "online",
+        "duration": "1年28天7小时2分",
+        "version": "0.66~0.90"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

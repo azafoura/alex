@@ -1,0 +1,41 @@
+{
+  "1435460882": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-02-25 01:23:49",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年179天19小时55分",
+        "version": "1.6.9"
+      },
+      {
+        "sdate": "2019-07-10 11:14:32",
+        "edate": "2020-02-25 01:23:49",
+        "status": "online",
+        "duration": "229天14小时9分",
+        "version": "1.2.00~1.6.9"
+      },
+      {
+        "sdate": "2019-04-30 21:30:50",
+        "edate": "2019-07-10 11:14:32",
+        "status": "offline",
+        "duration": "64天11小时14分",
+        "version": "1.0~1.2.00"
+      },
+      {
+        "sdate": "2019-04-23 03:51:06",
+        "edate": "2019-04-30 21:30:50",
+        "status": "preorder",
+        "duration": "7天17小时39分",
+        "version": "1.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

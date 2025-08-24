@@ -1,0 +1,27 @@
+{
+  "309409628": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 05:31:04",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天22小时0分",
+        "version": "3.8.2"
+      },
+      {
+        "sdate": "2009-03-26 00:00:00",
+        "edate": "2020-12-31 05:31:04",
+        "status": "online",
+        "duration": "11年283天5小时31分",
+        "version": "1.0~3.8.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

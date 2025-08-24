@@ -1,0 +1,34 @@
+{
+  "1588385844": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-06-03 16:29:09",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年79天23小时27分",
+        "version": "9.10.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-11-30 15:34:02",
+        "edate": "2021-11-30 17:25:04",
+        "duration": "1小时51分",
+        "version": "6.7.5"
+      },
+      {
+        "sdate": "2021-11-19 00:00:00",
+        "edate": "2024-06-03 16:29:09",
+        "status": "online",
+        "duration": "2年197天16小时29分",
+        "version": "6.7.4~9.10.0"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

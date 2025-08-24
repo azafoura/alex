@@ -1,0 +1,27 @@
+{
+  "1173759438": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-05-04 18:37:42",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年109天10小时34分",
+        "version": "1.2"
+      },
+      {
+        "sdate": "2016-11-17 00:00:00",
+        "edate": "2023-05-04 18:37:42",
+        "status": "online",
+        "duration": "6年169天18小时37分",
+        "version": "1.0~1.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

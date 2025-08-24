@@ -1,0 +1,55 @@
+{
+  "1297180034": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-10-31 17:48:23",
+        "edate": "",
+        "status": "online",
+        "duration": "293天14小时15分",
+        "version": "3.9"
+      },
+      {
+        "sdate": "2024-10-29 16:43:01",
+        "edate": "2024-10-31 17:48:23",
+        "status": "offline",
+        "duration": "2天1小时5分",
+        "version": "3.8~3.9"
+      },
+      {
+        "sdate": "2024-10-29 11:42:44",
+        "edate": "2024-10-29 16:43:01",
+        "status": "online",
+        "duration": "5小时0分",
+        "version": "3.8"
+      },
+      {
+        "sdate": "2024-10-21 11:14:47",
+        "edate": "2024-10-29 11:42:44",
+        "status": "offline",
+        "duration": "8天27分",
+        "version": "3.6~3.8"
+      },
+      {
+        "status": "out",
+        "sdate": "2024-08-03 20:44:06",
+        "edate": "2024-10-03 13:00:00",
+        "duration": "60天16小时15分",
+        "version": "3.5"
+      },
+      {
+        "sdate": "2017-12-30 00:00:00",
+        "edate": "2024-10-21 11:14:47",
+        "status": "online",
+        "duration": "6年297天11小时14分",
+        "version": "1.0~3.6"
+      }
+    ],
+    "total": 6,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

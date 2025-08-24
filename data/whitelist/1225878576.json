@@ -1,0 +1,27 @@
+{
+  "1225878576": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-03-23 11:41:56",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年152天19小时51分",
+        "version": "1.1"
+      },
+      {
+        "sdate": "2017-04-17 22:38:32",
+        "edate": "2019-03-23 11:41:56",
+        "status": "online",
+        "duration": "1年339天13小时3分",
+        "version": "1.0~1.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

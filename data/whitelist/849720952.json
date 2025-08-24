@@ -1,0 +1,41 @@
+{
+  "849720952": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-03-25 17:14:11",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年148天15小时54分",
+        "version": "1.25.0"
+      },
+      {
+        "sdate": "2020-07-08 14:42:00",
+        "edate": "2021-03-25 17:14:11",
+        "status": "online",
+        "duration": "260天2小时32分",
+        "version": "1.25.0"
+      },
+      {
+        "sdate": "2020-07-01 22:11:11",
+        "edate": "2020-07-08 14:42:00",
+        "status": "offline",
+        "duration": "6天16小时30分",
+        "version": "1.25.0"
+      },
+      {
+        "sdate": "2014-04-18 05:19:06",
+        "edate": "2020-07-01 22:11:11",
+        "status": "online",
+        "duration": "6年76天16小时52分",
+        "version": "1.0~1.25.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

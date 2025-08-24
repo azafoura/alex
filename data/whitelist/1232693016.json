@@ -1,0 +1,27 @@
+{
+  "1232693016": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-30 08:03:16",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年22天23小时33分",
+        "version": "3.10.0"
+      },
+      {
+        "sdate": "2017-05-11 20:18:02",
+        "edate": "2020-07-30 08:03:16",
+        "status": "online",
+        "duration": "3年80天11小时45分",
+        "version": "1.0.0~3.10.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

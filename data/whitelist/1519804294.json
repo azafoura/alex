@@ -1,0 +1,34 @@
+{
+  "1519804294": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-12-06 10:08:41",
+        "edate": null,
+        "status": "offline",
+        "duration": "258天19小时31分",
+        "version": "1.6.2"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-08-20 23:35:57",
+        "edate": "2020-08-21 01:32:49",
+        "duration": "1小时56分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2020-07-01 00:00:00",
+        "edate": "2024-12-06 10:08:41",
+        "status": "online",
+        "duration": "4年159天10小时8分",
+        "version": "1.0.0~1.6.2"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

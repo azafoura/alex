@@ -1,0 +1,27 @@
+{
+  "1277626282": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:28:29",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天3小时27分",
+        "version": "1.2.56"
+      },
+      {
+        "sdate": "2017-12-06 12:06:50",
+        "edate": "2020-12-31 04:28:29",
+        "status": "online",
+        "duration": "3年25天16小时21分",
+        "version": "1.0.0~1.2.56"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

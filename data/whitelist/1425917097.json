@@ -1,0 +1,27 @@
+{
+  "1425917097": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-01-31 23:50:20",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年203天21小时25分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2018-10-18 09:35:51",
+        "edate": "2020-01-31 23:50:20",
+        "status": "online",
+        "duration": "1年105天14小时14分",
+        "version": "1.0~2.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

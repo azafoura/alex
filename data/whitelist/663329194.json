@@ -1,0 +1,27 @@
+{
+  "663329194": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:12:25",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时41分",
+        "version": "1.10.60"
+      },
+      {
+        "sdate": "2013-11-23 00:00:00",
+        "edate": "2020-12-31 04:12:25",
+        "status": "online",
+        "duration": "7年40天4小时12分",
+        "version": "1.0~1.10.60"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

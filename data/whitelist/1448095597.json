@@ -1,0 +1,27 @@
+{
+  "1448095597": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-05-13 13:23:30",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年101天10小时12分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2019-01-04 00:00:00",
+        "edate": "2021-05-13 13:23:30",
+        "status": "online",
+        "duration": "2年130天13小时23分",
+        "version": "1.0~2.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

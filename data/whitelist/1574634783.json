@@ -1,0 +1,27 @@
+{
+  "1574634783": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-10-26 14:02:06",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年301天1小时47分",
+        "version": "1.5.4"
+      },
+      {
+        "sdate": "2021-07-09 00:00:00",
+        "edate": "2022-10-26 14:02:06",
+        "status": "online",
+        "duration": "1年109天14小时2分",
+        "version": "1.0~1.5.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1500387725": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-04-10 19:50:37",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年280天5小时3分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2020-04-02 00:05:07",
+        "edate": "2020-04-10 19:50:37",
+        "status": "preorder",
+        "duration": "219天4小时9分",
+        "version": "1.0.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1140351199": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-05-30 00:46:14",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年83天4小时0分",
+        "version": "1.6.2"
+      },
+      {
+        "sdate": "2016-11-09 02:56:36",
+        "edate": "2024-05-30 00:46:14",
+        "status": "online",
+        "duration": "7年203天21小时49分",
+        "version": "1.0.1~1.6.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

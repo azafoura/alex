@@ -1,0 +1,41 @@
+{
+  "1575043546": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-11-18 01:40:02",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年278天14小时9分",
+        "version": "2.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-10-05 09:03:03",
+        "edate": "2021-10-05 12:46:08",
+        "duration": "3小时43分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2021-08-01 02:29:05",
+        "edate": "2021-11-18 01:40:02",
+        "status": "online",
+        "duration": "108天23小时10分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2021-07-27 00:00:00",
+        "edate": "2021-08-01 02:29:05",
+        "status": "preorder",
+        "duration": "5天2小时29分",
+        "version": "1.0~2.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

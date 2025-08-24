@@ -1,0 +1,34 @@
+{
+  "1358240705": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-03-17 03:43:20",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年159天7小时56分",
+        "version": "2.0.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2018-05-01 07:00:34",
+        "edate": "2018-06-30 00:00:00",
+        "duration": "59天16小时59分",
+        "version": "1.0.10~1.1.0"
+      },
+      {
+        "sdate": "2018-04-17 05:43:21",
+        "edate": "2019-03-17 03:43:20",
+        "status": "online",
+        "duration": "333天21小时59分",
+        "version": "1.0~2.0.0"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

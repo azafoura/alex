@@ -1,0 +1,34 @@
+{
+  "779157948": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:18:12",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时44分",
+        "version": "1.3.48"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-07-04 08:34:53",
+        "edate": "2020-07-04 10:34:20",
+        "duration": "1小时59分",
+        "version": "1.3.24"
+      },
+      {
+        "sdate": "2014-01-23 01:10:27",
+        "edate": "2020-12-31 04:18:12",
+        "status": "online",
+        "duration": "6年344天3小时7分",
+        "version": "1.0~1.3.48"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

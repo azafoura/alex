@@ -1,0 +1,27 @@
+{
+  "1182244373": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:25:02",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天50分",
+        "version": "3.8.2"
+      },
+      {
+        "sdate": "2016-12-05 23:26:29",
+        "edate": "2020-12-31 04:25:02",
+        "status": "online",
+        "duration": "4年26天4小时58分",
+        "version": "1.0~3.8.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

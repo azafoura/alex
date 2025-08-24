@@ -1,0 +1,27 @@
+{
+  "1595042777": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-11-17 05:06:39",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年279天10小时52分",
+        "version": "0.1.6"
+      },
+      {
+        "sdate": "2021-11-13 00:00:00",
+        "edate": "2021-11-17 05:06:39",
+        "status": "online",
+        "duration": "4天5小时6分",
+        "version": "0.1.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

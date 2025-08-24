@@ -1,0 +1,27 @@
+{
+  "1575212641": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-09-29 22:51:04",
+        "edate": "",
+        "status": "online",
+        "duration": "3年327天16小时58分",
+        "version": "1.9.0~6.2.0"
+      },
+      {
+        "sdate": "2021-07-29 18:36:49",
+        "edate": "2021-09-29 22:51:04",
+        "status": "preorder",
+        "duration": "62天4小时14分",
+        "version": "1.2.1~1.9.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

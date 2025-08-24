@@ -1,0 +1,27 @@
+{
+  "1249980518": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-29 20:10:23",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年296天11小时35分",
+        "version": "1.2"
+      },
+      {
+        "sdate": "2017-07-21 11:21:33",
+        "edate": "2020-10-29 20:10:23",
+        "status": "online",
+        "duration": "3年101天8小时48分",
+        "version": "1.0~1.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

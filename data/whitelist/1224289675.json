@@ -1,0 +1,27 @@
+{
+  "1224289675": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-12-19 14:10:52",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年246天17小时21分",
+        "version": "2.0.0"
+      },
+      {
+        "sdate": "2017-04-10 19:30:54",
+        "edate": "2019-12-19 14:10:52",
+        "status": "online",
+        "duration": "2年252天18小时39分",
+        "version": "1.0~2.0.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

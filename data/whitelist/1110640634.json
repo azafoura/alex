@@ -1,0 +1,27 @@
+{
+  "1110640634": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-04-26 19:09:38",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年116天9小时13分",
+        "version": "0.0.5"
+      },
+      {
+        "sdate": "2016-05-11 00:00:00",
+        "edate": "2024-04-26 19:09:38",
+        "status": "online",
+        "duration": "7年352天19小时9分",
+        "version": "0.0.3~0.0.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

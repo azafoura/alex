@@ -1,0 +1,34 @@
+{
+  "1523245533": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-03 11:29:42",
+        "edate": "",
+        "status": "online",
+        "duration": "4年262天18小时14分",
+        "version": "1.19.1~1.20.2"
+      },
+      {
+        "sdate": "2020-12-02 13:46:20",
+        "edate": "2020-12-03 11:29:42",
+        "status": "offline",
+        "duration": "21小时43分",
+        "version": "1.19.1"
+      },
+      {
+        "sdate": "2020-07-14 00:00:00",
+        "edate": "2020-12-02 13:46:20",
+        "status": "online",
+        "duration": "141天13小时46分",
+        "version": "1.0~1.19.1"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

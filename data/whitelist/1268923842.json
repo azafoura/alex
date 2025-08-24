@@ -1,0 +1,69 @@
+{
+  "1268923842": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-02-11 00:08:06",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年192天7小时44分",
+        "version": "1.4.1"
+      },
+      {
+        "sdate": "2019-11-07 20:30:27",
+        "edate": "2022-02-11 00:08:06",
+        "status": "online",
+        "duration": "2年96天3小时37分",
+        "version": "1.4.1"
+      },
+      {
+        "sdate": "2019-11-06 22:04:44",
+        "edate": "2019-11-07 20:30:27",
+        "status": "offline",
+        "duration": "22小时25分",
+        "version": "1.4.1"
+      },
+      {
+        "sdate": "2019-06-10 01:02:41",
+        "edate": "2019-11-06 22:04:44",
+        "status": "online",
+        "duration": "149天21小时2分",
+        "version": "1.4.1"
+      },
+      {
+        "sdate": "2019-06-10 00:47:01",
+        "edate": "2019-06-10 01:02:41",
+        "status": "offline",
+        "duration": "15分",
+        "version": "1.4.1"
+      },
+      {
+        "sdate": "2019-06-10 00:42:34",
+        "edate": "2019-06-10 00:47:01",
+        "status": "online",
+        "duration": "4分",
+        "version": "1.4.1"
+      },
+      {
+        "sdate": "2019-05-17 03:38:04",
+        "edate": "2019-06-10 00:42:34",
+        "status": "offline",
+        "duration": "23天21小时4分",
+        "version": "1.4.0~1.4.1"
+      },
+      {
+        "sdate": "2017-09-09 00:00:00",
+        "edate": "2019-05-17 03:38:04",
+        "status": "online",
+        "duration": "1年250天3小时38分",
+        "version": "1.0.0~1.4.0"
+      }
+    ],
+    "total": 8,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

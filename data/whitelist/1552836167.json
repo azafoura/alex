@@ -1,0 +1,34 @@
+{
+  "1552836167": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-10-14 15:25:37",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年312天20小时11分",
+        "version": "2.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-09-02 19:23:01",
+        "edate": "2021-09-03 18:14:52",
+        "duration": "22小时51分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2021-02-12 00:00:00",
+        "edate": "2023-10-14 15:25:37",
+        "status": "online",
+        "duration": "2年244天15小时25分",
+        "version": "1.0~2.0"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1215668882": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 05:08:04",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天2小时20分",
+        "version": "7.1.19318"
+      },
+      {
+        "sdate": "2019-02-21 19:51:48",
+        "edate": "2020-12-31 05:08:04",
+        "status": "online",
+        "duration": "1年313天9小时16分",
+        "version": "3.0~7.1.19318"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

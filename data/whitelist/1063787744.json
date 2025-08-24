@@ -1,0 +1,41 @@
+{
+  "1063787744": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-04-27 02:22:36",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年116天20小时53分",
+        "version": "7.18"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-12-04 00:08:43",
+        "edate": "2020-12-04 01:52:08",
+        "duration": "1小时43分",
+        "version": "6.68"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-07-10 20:44:48",
+        "edate": "2019-07-10 23:00:00",
+        "duration": "2小时15分",
+        "version": "6.66"
+      },
+      {
+        "sdate": "2015-12-12 00:00:00",
+        "edate": "2022-04-27 02:22:36",
+        "status": "online",
+        "duration": "6年138天2小时22分",
+        "version": "2.58~7.18"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

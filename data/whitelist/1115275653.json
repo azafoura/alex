@@ -1,0 +1,27 @@
+{
+  "1115275653": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-04-12 05:11:37",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年131天23小时15分",
+        "version": "2.0.6"
+      },
+      {
+        "sdate": "2016-05-23 00:00:00",
+        "edate": "2022-04-12 05:11:37",
+        "status": "online",
+        "duration": "5年325天5小时11分",
+        "version": "1.0.0~2.0.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

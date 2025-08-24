@@ -1,0 +1,41 @@
+{
+  "1500564080": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:42:09",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年235天21分",
+        "version": "2.02"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-10-31 05:51:28",
+        "edate": "2020-10-31 07:46:27",
+        "duration": "1小时54分",
+        "version": "1.09"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-06-03 11:34:43",
+        "edate": "2020-06-03 13:33:36",
+        "duration": "1小时58分",
+        "version": "1.07"
+      },
+      {
+        "sdate": "2020-03-19 05:24:36",
+        "edate": "2020-12-31 04:42:09",
+        "status": "online",
+        "duration": "286天23小时17分",
+        "version": "1.0~2.02"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

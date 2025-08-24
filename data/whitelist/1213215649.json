@@ -1,0 +1,27 @@
+{
+  "1213215649": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-04-03 17:27:32",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年140天14小时0分",
+        "version": "2.1"
+      },
+      {
+        "sdate": "2017-07-04 15:23:27",
+        "edate": "2020-04-03 17:27:32",
+        "status": "online",
+        "duration": "2年274天2小时4分",
+        "version": "1.0~2.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

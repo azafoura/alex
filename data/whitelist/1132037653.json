@@ -1,0 +1,41 @@
+{
+  "1132037653": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-31 08:45:31",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年294天19小时56分",
+        "version": "1.1"
+      },
+      {
+        "sdate": "2020-03-18 19:56:55",
+        "edate": "2020-10-31 08:45:31",
+        "status": "online",
+        "duration": "226天12小时48分",
+        "version": "1.1"
+      },
+      {
+        "sdate": "2020-03-06 19:55:36",
+        "edate": "2020-03-18 19:56:55",
+        "status": "offline",
+        "duration": "12天1分",
+        "version": "1.1"
+      },
+      {
+        "sdate": "2016-07-13 00:00:00",
+        "edate": "2020-03-06 19:55:36",
+        "status": "online",
+        "duration": "3年237天19小时55分",
+        "version": "1.0~1.1"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

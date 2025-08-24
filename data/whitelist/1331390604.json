@@ -1,0 +1,34 @@
+{
+  "1331390604": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-07-25 22:10:28",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年28天13小时15分",
+        "version": "1.0.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2018-07-11 23:18:25",
+        "edate": "2018-07-25 22:10:28",
+        "duration": "13天22小时52分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2018-01-10 19:40:50",
+        "edate": "2018-07-25 22:10:28",
+        "status": "online",
+        "duration": "196天2小时29分",
+        "version": "1.0.0"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

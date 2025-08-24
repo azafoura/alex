@@ -1,0 +1,27 @@
+{
+  "754577884": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2015-03-29 03:32:21",
+        "edate": null,
+        "status": "offline",
+        "duration": "10年147天5小时29分",
+        "version": ""
+      },
+      {
+        "sdate": "2013-12-13 17:28:03",
+        "edate": "2015-03-29 03:32:21",
+        "status": "online",
+        "duration": "1年105天10小时4分",
+        "version": ""
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

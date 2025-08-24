@@ -1,0 +1,41 @@
+{
+  "523642255": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:08:48",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时33分",
+        "version": "17.5"
+      },
+      {
+        "sdate": "2019-02-08 01:11:52",
+        "edate": "2020-12-31 04:08:48",
+        "status": "online",
+        "duration": "1年327天2小时56分",
+        "version": "15.5~17.5"
+      },
+      {
+        "sdate": "2019-01-16 09:44:12",
+        "edate": "2019-02-08 01:11:52",
+        "status": "offline",
+        "duration": "22天15小时27分",
+        "version": "15.4~15.5"
+      },
+      {
+        "sdate": "2014-09-12 00:55:13",
+        "edate": "2019-01-16 09:44:12",
+        "status": "online",
+        "duration": "4年127天8小时48分",
+        "version": "6.5~15.4"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

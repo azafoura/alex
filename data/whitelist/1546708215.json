@@ -1,0 +1,34 @@
+{
+  "1546708215": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-04-01 16:10:57",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年142天19小时12分",
+        "version": "1.1.6"
+      },
+      {
+        "sdate": "2021-08-18 22:26:17",
+        "edate": "2024-04-01 16:10:57",
+        "status": "online",
+        "duration": "2年226天17小时44分",
+        "version": "1.0.3~1.1.6"
+      },
+      {
+        "sdate": "2021-04-14 11:28:10",
+        "edate": "2021-08-18 22:26:17",
+        "status": "preorder",
+        "duration": "126天10小时58分",
+        "version": "1.0~1.0.3"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

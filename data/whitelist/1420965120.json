@@ -1,0 +1,27 @@
+{
+  "1420965120": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-04-26 07:17:18",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年119天13小时57分",
+        "version": "1.11.0"
+      },
+      {
+        "sdate": "2018-08-10 10:13:25",
+        "edate": "2019-04-26 07:17:18",
+        "status": "online",
+        "duration": "258天21小时3分",
+        "version": "1.11.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

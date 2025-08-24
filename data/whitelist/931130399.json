@@ -1,0 +1,27 @@
+{
+  "931130399": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-04-26 10:51:48",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年118天11小时6分",
+        "version": "5.03"
+      },
+      {
+        "sdate": "2014-11-04 22:56:18",
+        "edate": "2018-04-26 10:51:48",
+        "status": "online",
+        "duration": "3年173天11小时55分",
+        "version": "1.0~5.03"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "1208952944": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-30 07:52:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年22天21小时37分",
+        "version": "4.12.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-02-06 17:48:03",
+        "edate": "2020-02-06 19:43:54",
+        "duration": "1小时55分",
+        "version": "4.7.0"
+      },
+      {
+        "sdate": "2017-03-03 05:19:19",
+        "edate": "2020-07-30 07:52:13",
+        "status": "online",
+        "duration": "3年150天2小时32分",
+        "version": "1.2.4~4.12.0"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

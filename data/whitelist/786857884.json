@@ -1,0 +1,34 @@
+{
+  "786857884": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-12-12 05:11:34",
+        "edate": "",
+        "status": "online",
+        "duration": "5年253天3小时51分",
+        "version": "2.14.1~2.19.4"
+      },
+      {
+        "sdate": "2019-12-12 04:47:24",
+        "edate": "2019-12-12 05:11:34",
+        "status": "offline",
+        "duration": "24分",
+        "version": "2.14.1"
+      },
+      {
+        "sdate": "2014-04-10 21:40:03",
+        "edate": "2019-12-12 04:47:24",
+        "status": "online",
+        "duration": "5年246天7小时7分",
+        "version": "1.3.0~2.14.1"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

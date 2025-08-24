@@ -1,0 +1,34 @@
+{
+  "1541871003": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-08-05 23:50:49",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年16天6小时24分",
+        "version": "2.9"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-02-03 17:47:30",
+        "edate": "2021-02-03 19:48:35",
+        "duration": "2小时1分",
+        "version": "1.9"
+      },
+      {
+        "sdate": "2020-12-20 00:00:00",
+        "edate": "2024-08-05 23:50:49",
+        "status": "online",
+        "duration": "3年229天23小时50分",
+        "version": "1.0~2.9"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

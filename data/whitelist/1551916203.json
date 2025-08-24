@@ -1,0 +1,27 @@
+{
+  "1551916203": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-10-07 10:06:42",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年320天1小时28分",
+        "version": "1.1"
+      },
+      {
+        "sdate": "2021-02-09 00:00:00",
+        "edate": "2021-10-07 10:06:42",
+        "status": "online",
+        "duration": "240天10小时6分",
+        "version": "0.4~1.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

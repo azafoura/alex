@@ -1,0 +1,27 @@
+{
+  "1213326976": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-12-21 00:37:23",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年245天6小时50分",
+        "version": "2.2.1"
+      },
+      {
+        "sdate": "2017-05-09 16:00:16",
+        "edate": "2018-12-21 00:37:23",
+        "status": "online",
+        "duration": "1年225天8小时37分",
+        "version": "2.2~2.2.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

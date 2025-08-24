@@ -1,0 +1,27 @@
+{
+  "1134895689": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:23:51",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天20分",
+        "version": "5.3.1"
+      },
+      {
+        "sdate": "2016-07-16 09:00:25",
+        "edate": "2020-12-31 04:23:51",
+        "status": "online",
+        "duration": "4年168天19小时23分",
+        "version": "1.0.0~5.3.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

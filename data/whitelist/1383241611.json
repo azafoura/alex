@@ -1,0 +1,27 @@
+{
+  "1383241611": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-09-08 03:28:05",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年348天8小时26分",
+        "version": "2.1.7"
+      },
+      {
+        "sdate": "2018-05-14 00:00:00",
+        "edate": "2021-09-08 03:28:05",
+        "status": "online",
+        "duration": "3年118天3小时28分",
+        "version": "1.0~2.1.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

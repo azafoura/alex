@@ -1,0 +1,34 @@
+{
+  "999924447": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-01-04 01:47:04",
+        "edate": "",
+        "status": "online",
+        "duration": "6年230天21小时1分",
+        "version": "2.0~2.1"
+      },
+      {
+        "sdate": "2019-01-03 08:07:06",
+        "edate": "2019-01-04 01:47:04",
+        "status": "offline",
+        "duration": "17小时39分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2015-06-24 00:00:00",
+        "edate": "2019-01-03 08:07:06",
+        "status": "online",
+        "duration": "3年194天8小时7分",
+        "version": "1.3~2.0"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

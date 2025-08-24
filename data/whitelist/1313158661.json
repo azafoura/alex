@@ -1,0 +1,27 @@
+{
+  "1313158661": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-08-07 14:10:42",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年15天17小时59分",
+        "version": "1.9"
+      },
+      {
+        "sdate": "2017-11-22 20:57:51",
+        "edate": "2019-08-07 14:10:42",
+        "status": "online",
+        "duration": "1年257天17小时12分",
+        "version": "1.0~1.9"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

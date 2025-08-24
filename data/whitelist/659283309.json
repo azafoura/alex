@@ -1,0 +1,41 @@
+{
+  "659283309": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:12:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时40分",
+        "version": "7.9.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-11-30 14:58:21",
+        "edate": "2019-11-30 17:00:00",
+        "duration": "2小时1分",
+        "version": "7.5.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-08-27 14:51:55",
+        "edate": "2019-08-27 17:00:00",
+        "duration": "2小时8分",
+        "version": "7.3.0"
+      },
+      {
+        "sdate": "2013-12-05 16:28:32",
+        "edate": "2020-12-31 04:12:13",
+        "status": "online",
+        "duration": "7年27天11小时43分",
+        "version": "1.1.0~7.9.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

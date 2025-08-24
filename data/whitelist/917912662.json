@@ -1,0 +1,27 @@
+{
+  "917912662": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-10-13 23:52:01",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年312天21小时51分",
+        "version": "1.8.0"
+      },
+      {
+        "sdate": "2015-07-29 01:34:01",
+        "edate": "2017-10-13 23:52:01",
+        "status": "online",
+        "duration": "2年77天22小时18分",
+        "version": "1.0.0~1.8.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

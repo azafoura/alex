@@ -1,0 +1,41 @@
+{
+  "1539907568": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-08-07 11:14:03",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年14天18小时58分",
+        "version": "1.2.0"
+      },
+      {
+        "sdate": "2021-09-23 15:31:31",
+        "edate": "2024-08-07 11:14:03",
+        "status": "online",
+        "duration": "2年318天19小时42分",
+        "version": "1.1.1~1.2.0"
+      },
+      {
+        "sdate": "2021-09-22 19:13:46",
+        "edate": "2021-09-23 15:31:31",
+        "status": "offline",
+        "duration": "20小时17分",
+        "version": "1.1.1"
+      },
+      {
+        "sdate": "2020-11-25 00:00:00",
+        "edate": "2021-09-22 19:13:46",
+        "status": "online",
+        "duration": "301天19小时13分",
+        "version": "1.1.1"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

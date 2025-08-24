@@ -1,0 +1,41 @@
+{
+  "1361517485": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-01-09 03:46:08",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年226天7小时56分",
+        "version": "2.2.0"
+      },
+      {
+        "sdate": "2018-12-20 18:16:46",
+        "edate": "2019-01-09 03:46:08",
+        "status": "online",
+        "duration": "19天9小时29分",
+        "version": "2.2.0"
+      },
+      {
+        "sdate": "2018-08-01 15:28:26",
+        "edate": "2018-12-20 18:16:46",
+        "status": "offline",
+        "duration": "141天2小时48分",
+        "version": "1.1.0~2.2.0"
+      },
+      {
+        "sdate": "2018-07-30 13:17:43",
+        "edate": "2018-08-01 15:28:26",
+        "status": "online",
+        "duration": "2天2小时10分",
+        "version": "1.1.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

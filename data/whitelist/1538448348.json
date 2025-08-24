@@ -1,0 +1,27 @@
+{
+  "1538448348": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-02 06:58:27",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年263天23小时11分",
+        "version": "3.0"
+      },
+      {
+        "sdate": "2020-11-05 15:03:47",
+        "edate": "2020-12-02 06:58:27",
+        "status": "online",
+        "duration": "26天15小时54分",
+        "version": "1.0~3.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

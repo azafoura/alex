@@ -1,0 +1,27 @@
+{
+  "1483019344": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:39:29",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天20小时12分",
+        "version": "1.4"
+      },
+      {
+        "sdate": "2019-10-23 21:10:49",
+        "edate": "2020-12-31 04:39:29",
+        "status": "online",
+        "duration": "1年69天7小时28分",
+        "version": "1.0~1.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

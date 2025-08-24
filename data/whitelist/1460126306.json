@@ -1,0 +1,34 @@
+{
+  "1460126306": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-05-23 21:27:30",
+        "edate": "",
+        "status": "online",
+        "duration": "2年91天2小时52分",
+        "version": "2.0.28"
+      },
+      {
+        "sdate": "2023-05-17 18:58:37",
+        "edate": "2023-05-23 21:27:30",
+        "status": "offline",
+        "duration": "6天2小时28分",
+        "version": "2.0.28"
+      },
+      {
+        "sdate": "2019-04-26 19:05:40",
+        "edate": "2023-05-17 18:58:37",
+        "status": "online",
+        "duration": "4年21天23小时52分",
+        "version": "1.0~2.0.28"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

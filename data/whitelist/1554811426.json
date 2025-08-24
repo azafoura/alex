@@ -1,0 +1,34 @@
+{
+  "1554811426": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-01-15 10:15:16",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年220天1小时23分",
+        "version": "2.6.1"
+      },
+      {
+        "sdate": "2021-05-24 22:00:37",
+        "edate": "2024-01-15 10:15:16",
+        "status": "online",
+        "duration": "2年235天12小时14分",
+        "version": "2.0.1~2.6.1"
+      },
+      {
+        "sdate": "2021-03-25 18:11:10",
+        "edate": "2021-05-24 22:00:37",
+        "status": "preorder",
+        "duration": "60天3小时49分",
+        "version": "1.9.1~2.0.1"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

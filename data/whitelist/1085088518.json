@@ -1,0 +1,27 @@
+{
+  "1085088518": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:24:22",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天19小时26分",
+        "version": "1.15.18"
+      },
+      {
+        "sdate": "2016-03-03 08:44:27",
+        "edate": "2020-12-31 04:24:22",
+        "status": "online",
+        "duration": "4年303天19小时39分",
+        "version": "1.0~1.15.18"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

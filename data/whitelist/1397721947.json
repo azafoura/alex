@@ -1,0 +1,27 @@
+{
+  "1397721947": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-08-31 04:40:38",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年358天14分",
+        "version": "1.24.0"
+      },
+      {
+        "sdate": "2018-06-28 07:42:50",
+        "edate": "2018-08-31 04:40:38",
+        "status": "online",
+        "duration": "63天20小时57分",
+        "version": "1.24.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1491878539": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:41:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年235天17分",
+        "version": "1.4"
+      },
+      {
+        "sdate": "2019-12-28 11:08:05",
+        "edate": "2020-12-31 04:41:13",
+        "status": "online",
+        "duration": "1年3天17小时33分",
+        "version": "1.0~1.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1477789090": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:38:49",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天20小时4分",
+        "version": "2.0.44"
+      },
+      {
+        "sdate": "2019-10-09 00:00:21",
+        "edate": "2020-12-31 04:38:49",
+        "status": "online",
+        "duration": "1年84天4小时38分",
+        "version": "2.0.18~2.0.44"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

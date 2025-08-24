@@ -1,0 +1,27 @@
+{
+  "938302806": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-12-29 04:13:19",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年236天17小时46分",
+        "version": "3.0.27"
+      },
+      {
+        "sdate": "2015-02-18 00:52:25",
+        "edate": "2017-12-29 04:13:19",
+        "status": "online",
+        "duration": "2年315天3小时20分",
+        "version": "3.0.1~3.0.27"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

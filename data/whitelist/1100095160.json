@@ -1,0 +1,27 @@
+{
+  "1100095160": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-11-15 19:50:19",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年280天8小时28分",
+        "version": "1.02"
+      },
+      {
+        "sdate": "2016-04-28 18:40:54",
+        "edate": "2018-11-15 19:50:19",
+        "status": "online",
+        "duration": "2年201天1小时9分",
+        "version": "1.0~1.02"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

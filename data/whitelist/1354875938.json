@@ -1,0 +1,27 @@
+{
+  "1354875938": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-08-04 05:54:00",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年19天5小时43分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-04-22 06:50:11",
+        "edate": "2018-08-04 05:54:00",
+        "status": "online",
+        "duration": "103天23小时3分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

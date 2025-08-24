@@ -1,0 +1,27 @@
+{
+  "1367401926": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-08-30 08:03:15",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年358天3小时42分",
+        "version": "1.17.2215"
+      },
+      {
+        "sdate": "2018-05-09 02:38:54",
+        "edate": "2018-08-30 08:03:15",
+        "status": "online",
+        "duration": "113天5小时24分",
+        "version": "1.17.2215"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

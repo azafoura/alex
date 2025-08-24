@@ -1,0 +1,27 @@
+{
+  "604752655": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-01-01 03:59:15",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年233天4小时50分",
+        "version": "2.1.19"
+      },
+      {
+        "sdate": "2013-04-09 21:48:52",
+        "edate": "2019-01-01 03:59:15",
+        "status": "online",
+        "duration": "5年267天6小时10分",
+        "version": "1.0~2.1.19"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

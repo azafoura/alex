@@ -1,0 +1,27 @@
+{
+  "1161747978": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 05:04:52",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天2分",
+        "version": "2.7.1"
+      },
+      {
+        "sdate": "2017-02-22 15:13:42",
+        "edate": "2020-12-31 05:04:52",
+        "status": "online",
+        "duration": "3年312天13小时51分",
+        "version": "1.0~2.7.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

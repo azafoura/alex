@@ -1,0 +1,27 @@
+{
+  "1577345873": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-09-28 11:54:27",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年329天3小时56分",
+        "version": "1.0.4"
+      },
+      {
+        "sdate": "2021-07-21 00:00:00",
+        "edate": "2021-09-28 11:54:27",
+        "status": "online",
+        "duration": "69天11小时54分",
+        "version": "1.0~1.0.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

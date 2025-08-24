@@ -1,0 +1,34 @@
+{
+  "738881888": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2025-03-12 19:43:29",
+        "edate": "",
+        "status": "online",
+        "duration": "160天13小时16分",
+        "version": "1.58~1.65"
+      },
+      {
+        "sdate": "2024-09-03 15:03:49",
+        "edate": "2025-03-12 19:43:29",
+        "status": "offline",
+        "duration": "190天4小时39分",
+        "version": "1.57~1.58"
+      },
+      {
+        "sdate": "2013-11-12 00:00:00",
+        "edate": "2024-09-03 15:03:49",
+        "status": "online",
+        "duration": "10年298天15小时3分",
+        "version": "1.2~1.57"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

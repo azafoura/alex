@@ -1,0 +1,27 @@
+{
+  "477846014": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-09-11 01:34:37",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年345天7小时4分",
+        "version": "2.1.1"
+      },
+      {
+        "sdate": "2011-11-30 18:36:56",
+        "edate": "2019-09-11 01:34:37",
+        "status": "online",
+        "duration": "7年286天6小时57分",
+        "version": "1.0.0~2.1.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

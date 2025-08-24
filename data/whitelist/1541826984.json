@@ -1,0 +1,27 @@
+{
+  "1541826984": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-04-12 01:24:02",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年133天4小时51分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2021-02-05 11:23:20",
+        "edate": "2021-04-12 01:24:02",
+        "status": "online",
+        "duration": "65天14小时0分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

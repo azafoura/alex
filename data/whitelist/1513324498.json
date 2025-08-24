@@ -1,0 +1,41 @@
+{
+  "1513324498": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2020-11-12 13:59:24",
+        "edate": "2021-01-12 12:00:00",
+        "duration": "60天22小时0分",
+        "version": "1.1.4"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-11-06 23:51:29",
+        "edate": "2020-11-07 01:42:16",
+        "duration": "1小时50分",
+        "version": "1.1.4"
+      },
+      {
+        "sdate": "2020-08-31 22:05:16",
+        "edate": "",
+        "status": "online",
+        "duration": "4年356天7小时8分",
+        "version": "1.1.0~1.2.5"
+      },
+      {
+        "sdate": "2020-07-28 11:38:04",
+        "edate": "2020-08-31 22:05:16",
+        "status": "preorder",
+        "duration": "34天10小时27分",
+        "version": "1.0.0~1.1.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

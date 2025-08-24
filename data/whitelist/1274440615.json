@@ -1,0 +1,27 @@
+{
+  "1274440615": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 05:15:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天2小时39分",
+        "version": "4.1.2"
+      },
+      {
+        "sdate": "2017-09-07 01:24:40",
+        "edate": "2020-12-31 05:15:13",
+        "status": "online",
+        "duration": "3年116天3小时50分",
+        "version": "1.0~4.1.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

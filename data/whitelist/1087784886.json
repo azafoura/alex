@@ -1,0 +1,27 @@
+{
+  "1087784886": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-08-09 08:57:24",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年13天14小时54分",
+        "version": "1.2"
+      },
+      {
+        "sdate": "2016-03-03 22:04:42",
+        "edate": "2018-08-09 08:57:24",
+        "status": "online",
+        "duration": "2年158天10小时52分",
+        "version": "1.0~1.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

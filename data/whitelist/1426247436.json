@@ -1,0 +1,27 @@
+{
+  "1426247436": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-03-23 11:06:23",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年153天10小时9分",
+        "version": "1.6"
+      },
+      {
+        "sdate": "2018-09-01 15:22:29",
+        "edate": "2019-03-23 11:06:23",
+        "status": "online",
+        "duration": "202天19小时43分",
+        "version": "1.0~1.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

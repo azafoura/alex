@@ -1,0 +1,27 @@
+{
+  "1173389417": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-02-24 00:30:52",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年180天4小时40分",
+        "version": ""
+      },
+      {
+        "sdate": "2017-02-13 00:00:00",
+        "edate": "2017-02-24 00:30:52",
+        "status": "online",
+        "duration": "11天30分",
+        "version": ""
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

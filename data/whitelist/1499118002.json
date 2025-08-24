@@ -1,0 +1,20 @@
+{
+  "1499118002": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2020-06-12 11:28:55",
+        "edate": "2020-06-12 13:27:09",
+        "duration": "1小时58分",
+        "version": "2.1.2"
+      }
+    ],
+    "total": 1,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

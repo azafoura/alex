@@ -1,0 +1,27 @@
+{
+  "1092434028": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-07-21 01:40:43",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年33天2小时35分",
+        "version": "2.2.0"
+      },
+      {
+        "sdate": "2016-05-10 15:24:01",
+        "edate": "2018-07-21 01:40:43",
+        "status": "online",
+        "duration": "2年71天10小时16分",
+        "version": "2.1.5~2.2.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1069295877": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-11-06 20:17:36",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年289天2小时59分",
+        "version": "8.0"
+      },
+      {
+        "sdate": "2016-01-04 18:33:21",
+        "edate": "2019-11-06 20:17:36",
+        "status": "online",
+        "duration": "3年307天1小时44分",
+        "version": "1.0~8.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

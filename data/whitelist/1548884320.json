@@ -1,0 +1,27 @@
+{
+  "1548884320": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-02-28 10:02:18",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年176天1小时26分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2021-01-15 01:13:42",
+        "edate": "2021-02-28 10:02:18",
+        "status": "online",
+        "duration": "44天8小时48分",
+        "version": "1.0.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

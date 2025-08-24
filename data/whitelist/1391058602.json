@@ -1,0 +1,41 @@
+{
+  "1391058602": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-02-19 04:24:16",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年185天7小时35分",
+        "version": "39.41.6"
+      },
+      {
+        "sdate": "2018-08-11 19:13:04",
+        "edate": "2019-02-19 04:24:16",
+        "status": "online",
+        "duration": "191天9小时11分",
+        "version": "39.41.6"
+      },
+      {
+        "sdate": "2018-08-09 11:03:34",
+        "edate": "2018-08-11 19:13:04",
+        "status": "offline",
+        "duration": "2天8小时9分",
+        "version": "39.41.6"
+      },
+      {
+        "sdate": "2018-07-02 04:13:31",
+        "edate": "2018-08-09 11:03:34",
+        "status": "online",
+        "duration": "38天6小时50分",
+        "version": "39.41.6"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

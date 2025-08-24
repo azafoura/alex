@@ -1,0 +1,48 @@
+{
+  "1117273600": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-10-31 10:17:55",
+        "edate": null,
+        "status": "offline",
+        "duration": "293天18小时11分",
+        "version": "3.0600"
+      },
+      {
+        "sdate": "2024-08-28 02:16:02",
+        "edate": "2024-10-31 10:17:55",
+        "status": "online",
+        "duration": "64天8小时1分",
+        "version": "3.0500~3.0600"
+      },
+      {
+        "sdate": "2024-08-28 01:10:02",
+        "edate": "2024-08-28 02:16:02",
+        "status": "offline",
+        "duration": "1小时6分",
+        "version": "3.0500"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-09-02 19:23:01",
+        "edate": "2021-09-02 20:53:21",
+        "duration": "1小时30分",
+        "version": "2.0800"
+      },
+      {
+        "sdate": "2016-07-06 10:06:56",
+        "edate": "2024-08-28 01:10:02",
+        "status": "online",
+        "duration": "8年54天15小时3分",
+        "version": "1.022~3.0500"
+      }
+    ],
+    "total": 5,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

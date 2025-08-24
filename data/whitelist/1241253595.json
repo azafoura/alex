@@ -1,0 +1,27 @@
+{
+  "1241253595": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-10-14 07:52:12",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年312天23小时49分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2017-07-19 08:17:40",
+        "edate": "2018-10-14 07:52:12",
+        "status": "online",
+        "duration": "1年86天23小时34分",
+        "version": "1.4.1~2.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

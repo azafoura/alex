@@ -1,0 +1,27 @@
+{
+  "1276931628": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-11-17 15:15:03",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年278天16小时41分",
+        "version": "1.2"
+      },
+      {
+        "sdate": "2017-09-06 02:12:54",
+        "edate": "2017-11-17 15:15:03",
+        "status": "online",
+        "duration": "72天13小时2分",
+        "version": "1.0~1.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

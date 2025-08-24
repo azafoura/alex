@@ -1,0 +1,27 @@
+{
+  "1335848927": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-31 19:25:40",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年21天16小时2分",
+        "version": "1.0.29"
+      },
+      {
+        "sdate": "2018-05-07 07:41:39",
+        "edate": "2020-07-31 19:25:40",
+        "status": "online",
+        "duration": "2年86天11小时44分",
+        "version": "1.0.0~1.0.29"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

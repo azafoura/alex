@@ -1,0 +1,41 @@
+{
+  "1227830356": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 05:08:32",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天2小时25分",
+        "version": "1.2.1"
+      },
+      {
+        "sdate": "2019-04-19 09:43:30",
+        "edate": "2020-12-31 05:08:32",
+        "status": "online",
+        "duration": "1年256天19小时25分",
+        "version": "0.8.5~1.2.1"
+      },
+      {
+        "sdate": "2018-03-14 09:38:25",
+        "edate": "2019-04-19 09:43:30",
+        "status": "offline",
+        "duration": "1年36天5分",
+        "version": "0.0.7~0.8.5"
+      },
+      {
+        "sdate": "2018-02-23 17:15:12",
+        "edate": "2018-03-14 09:38:25",
+        "status": "online",
+        "duration": "18天16小时23分",
+        "version": "0.0.3~0.0.7"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

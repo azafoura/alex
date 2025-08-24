@@ -1,0 +1,41 @@
+{
+  "1357435027": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-07-01 14:40:02",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年52天20小时59分",
+        "version": "1.6.4"
+      },
+      {
+        "sdate": "2018-06-30 10:19:19",
+        "edate": "2018-07-01 14:40:02",
+        "status": "online",
+        "duration": "1天4小时20分",
+        "version": "1.6.4"
+      },
+      {
+        "sdate": "2018-05-30 13:45:31",
+        "edate": "2018-06-30 10:19:19",
+        "status": "offline",
+        "duration": "30天20小时33分",
+        "version": "1.6.3~1.6.4"
+      },
+      {
+        "sdate": "2018-05-07 05:46:50",
+        "edate": "2018-05-30 13:45:31",
+        "status": "online",
+        "duration": "23天7小时58分",
+        "version": "1.6.2~1.6.3"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

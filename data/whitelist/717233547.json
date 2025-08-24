@@ -1,0 +1,27 @@
+{
+  "717233547": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:13:09",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时44分",
+        "version": "1.41"
+      },
+      {
+        "sdate": "2014-04-24 00:00:00",
+        "edate": "2020-12-31 04:13:09",
+        "status": "online",
+        "duration": "6年253天4小时13分",
+        "version": "0.95~1.41"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

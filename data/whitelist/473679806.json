@@ -1,0 +1,27 @@
+{
+  "473679806": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:07:27",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时31分",
+        "version": "1.9.1"
+      },
+      {
+        "sdate": "2012-02-14 00:00:00",
+        "edate": "2020-12-31 04:07:27",
+        "status": "online",
+        "duration": "8年323天4小时7分",
+        "version": "1.0~1.9.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

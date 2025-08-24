@@ -1,0 +1,41 @@
+{
+  "631771776": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-11-26 19:13:48",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年268天13小时37分",
+        "version": "6.0.70"
+      },
+      {
+        "sdate": "2019-11-06 08:26:31",
+        "edate": "2019-11-26 19:13:48",
+        "status": "online",
+        "duration": "20天10小时47分",
+        "version": "6.0.62~6.0.70"
+      },
+      {
+        "sdate": "2018-03-26 20:16:32",
+        "edate": "2019-11-06 08:26:31",
+        "status": "offline",
+        "duration": "1年224天12小时9分",
+        "version": "5.5.26~6.0.62"
+      },
+      {
+        "sdate": "2013-04-11 17:03:34",
+        "edate": "2018-03-26 20:16:32",
+        "status": "online",
+        "duration": "4年350天3小时12分",
+        "version": "1.0.1~5.5.26"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

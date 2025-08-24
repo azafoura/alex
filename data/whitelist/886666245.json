@@ -1,0 +1,41 @@
+{
+  "886666245": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-09-27 09:27:22",
+        "edate": null,
+        "status": "offline",
+        "duration": "328天19小时25分",
+        "version": "2.032"
+      },
+      {
+        "sdate": "2021-01-21 21:37:13",
+        "edate": "2024-09-27 09:27:22",
+        "status": "online",
+        "duration": "3年249天11小时50分",
+        "version": "2.032"
+      },
+      {
+        "sdate": "2019-01-30 11:12:47",
+        "edate": "2021-01-21 21:37:13",
+        "status": "offline",
+        "duration": "1年357天10小时24分",
+        "version": "2.032"
+      },
+      {
+        "sdate": "2014-09-04 00:00:00",
+        "edate": "2019-01-30 11:12:47",
+        "status": "online",
+        "duration": "4年149天11小时12分",
+        "version": "1.0~2.032"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

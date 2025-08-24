@@ -1,0 +1,41 @@
+{
+  "1360209695": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-12-18 09:41:34",
+        "edate": "",
+        "status": "online",
+        "duration": "246天1小时59分",
+        "version": "2.2.52~2.3.83"
+      },
+      {
+        "sdate": "2020-09-22 10:09:53",
+        "edate": "2024-12-18 09:41:34",
+        "status": "offline",
+        "duration": "4年87天23小时31分",
+        "version": "1.3.69~2.2.52"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-10-12 23:45:26",
+        "edate": "2019-10-13 02:00:00",
+        "duration": "2小时14分",
+        "version": "1.3.27"
+      },
+      {
+        "sdate": "2019-09-24 00:00:00",
+        "edate": "2020-09-22 10:09:53",
+        "status": "online",
+        "duration": "364天10小时9分",
+        "version": "1.3.27~1.3.69"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

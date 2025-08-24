@@ -1,0 +1,27 @@
+{
+  "650374866": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-08 19:58:29",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年43天12小时53分",
+        "version": "7.5.0"
+      },
+      {
+        "sdate": "2013-11-25 22:11:48",
+        "edate": "2020-07-08 19:58:29",
+        "status": "online",
+        "duration": "6年226天21小时46分",
+        "version": "2.6~7.5.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

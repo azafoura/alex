@@ -1,0 +1,41 @@
+{
+  "1559898494": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2025-01-17 21:55:28",
+        "edate": "",
+        "status": "online",
+        "duration": "216天13小时51分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2024-08-18 19:05:52",
+        "edate": "2025-01-17 21:55:28",
+        "status": "offline",
+        "duration": "152天2小时49分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2021-09-16 22:04:06",
+        "edate": "2024-08-18 19:05:52",
+        "status": "online",
+        "duration": "2年336天21小时1分",
+        "version": "1.0~1.0.1"
+      },
+      {
+        "sdate": "2021-03-25 19:27:11",
+        "edate": "2021-09-16 22:04:06",
+        "status": "preorder",
+        "duration": "175天2小时36分",
+        "version": "1.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

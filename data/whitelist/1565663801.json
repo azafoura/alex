@@ -1,0 +1,83 @@
+{
+  "1565663801": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-01-14 02:41:09",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年221天9小时17分",
+        "version": "1.73"
+      },
+      {
+        "sdate": "2022-11-21 17:44:37",
+        "edate": "2023-01-14 02:41:09",
+        "status": "online",
+        "duration": "53天8小时56分",
+        "version": "1.73"
+      },
+      {
+        "sdate": "2022-11-21 09:00:16",
+        "edate": "2022-11-21 17:44:37",
+        "status": "offline",
+        "duration": "8小时44分",
+        "version": "1.73"
+      },
+      {
+        "sdate": "2022-11-18 16:50:21",
+        "edate": "2022-11-21 09:00:16",
+        "status": "online",
+        "duration": "2天16小时9分",
+        "version": "1.73"
+      },
+      {
+        "sdate": "2022-11-18 08:20:30",
+        "edate": "2022-11-18 16:50:21",
+        "status": "offline",
+        "duration": "8小时29分",
+        "version": "1.73"
+      },
+      {
+        "sdate": "2022-11-17 17:25:30",
+        "edate": "2022-11-18 08:20:30",
+        "status": "online",
+        "duration": "14小时55分",
+        "version": "1.73"
+      },
+      {
+        "sdate": "2022-11-17 08:18:53",
+        "edate": "2022-11-17 17:25:30",
+        "status": "offline",
+        "duration": "9小时6分",
+        "version": "1.73"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-09-05 14:58:27",
+        "edate": "2021-09-05 16:55:58",
+        "duration": "1小时57分",
+        "version": "1.25"
+      },
+      {
+        "sdate": "2021-06-30 09:28:54",
+        "edate": "2022-11-17 08:18:53",
+        "status": "online",
+        "duration": "1年139天22小时49分",
+        "version": "1.06~1.73"
+      },
+      {
+        "sdate": "2021-05-15 18:11:05",
+        "edate": "2021-06-30 09:28:54",
+        "status": "preorder",
+        "duration": "45天15小时17分",
+        "version": "1.0~1.06"
+      }
+    ],
+    "total": 10,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

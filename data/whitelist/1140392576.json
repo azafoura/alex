@@ -1,0 +1,27 @@
+{
+  "1140392576": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:24:03",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天23分",
+        "version": "1.9.7"
+      },
+      {
+        "sdate": "2016-09-27 21:27:40",
+        "edate": "2020-12-31 04:24:03",
+        "status": "online",
+        "duration": "4年95天6小时56分",
+        "version": "1.0.2~1.9.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

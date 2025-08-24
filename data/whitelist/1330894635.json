@@ -1,0 +1,27 @@
+{
+  "1330894635": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-02-05 19:41:09",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年198天15小时44分",
+        "version": "1.2.0"
+      },
+      {
+        "sdate": "2018-01-05 16:09:28",
+        "edate": "2019-02-05 19:41:09",
+        "status": "online",
+        "duration": "1年31天3小时31分",
+        "version": "1.0.0~1.2.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

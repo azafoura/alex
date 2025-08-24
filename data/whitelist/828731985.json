@@ -1,0 +1,55 @@
+{
+  "828731985": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:14:41",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时52分",
+        "version": "1.6.0"
+      },
+      {
+        "sdate": "2019-09-16 18:53:42",
+        "edate": "2020-12-31 04:14:41",
+        "status": "online",
+        "duration": "1年106天9小时20分",
+        "version": "1.5.0~1.6.0"
+      },
+      {
+        "sdate": "2019-09-08 23:13:29",
+        "edate": "2019-09-16 18:53:42",
+        "status": "offline",
+        "duration": "7天19小时40分",
+        "version": "1.5.0"
+      },
+      {
+        "sdate": "2018-09-10 09:46:03",
+        "edate": "2019-09-08 23:13:29",
+        "status": "online",
+        "duration": "363天13小时27分",
+        "version": "1.5.0"
+      },
+      {
+        "sdate": "2018-09-03 01:35:19",
+        "edate": "2018-09-10 09:46:03",
+        "status": "offline",
+        "duration": "7天8小时10分",
+        "version": "1.5.0"
+      },
+      {
+        "sdate": "2014-10-08 11:06:03",
+        "edate": "2018-09-03 01:35:19",
+        "status": "online",
+        "duration": "3年330天14小时29分",
+        "version": "1.0.0~1.5.0"
+      }
+    ],
+    "total": 6,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "990950802": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:19:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天18小时27分",
+        "version": "2.01.33539"
+      },
+      {
+        "sdate": "2019-09-13 00:07:04",
+        "edate": "2020-12-31 04:19:13",
+        "status": "online",
+        "duration": "1年110天4小时12分",
+        "version": "2.0.32734~2.01.33539"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

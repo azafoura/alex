@@ -1,0 +1,27 @@
+{
+  "1115298280": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-08-12 23:37:27",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年8天4小时49分",
+        "version": "1.4"
+      },
+      {
+        "sdate": "2016-05-24 00:00:00",
+        "edate": "2024-08-12 23:37:27",
+        "status": "online",
+        "duration": "8年82天23小时37分",
+        "version": "1.0~1.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

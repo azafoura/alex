@@ -1,0 +1,27 @@
+{
+  "1078806722": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:24:19",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年235天30分",
+        "version": "2.1"
+      },
+      {
+        "sdate": "2016-09-25 00:00:00",
+        "edate": "2020-12-31 04:24:19",
+        "status": "online",
+        "duration": "4年98天4小时24分",
+        "version": "1.0~2.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

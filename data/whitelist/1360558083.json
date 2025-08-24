@@ -1,0 +1,34 @@
+{
+  "1360558083": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-08-09 09:37:18",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年14天2小时4分",
+        "version": "1.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2018-05-25 14:45:21",
+        "edate": "2018-06-05 00:00:00",
+        "duration": "10天9小时14分",
+        "version": "1.1"
+      },
+      {
+        "sdate": "2018-03-21 08:43:55",
+        "edate": "2018-08-09 09:37:18",
+        "status": "online",
+        "duration": "141天53分",
+        "version": "1.0~1.1"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

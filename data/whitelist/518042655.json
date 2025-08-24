@@ -1,0 +1,41 @@
+{
+  "518042655": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-03-25 22:14:54",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年148天10小时27分",
+        "version": "2.10.0"
+      },
+      {
+        "sdate": "2021-02-18 06:15:01",
+        "edate": "2022-03-25 22:14:54",
+        "status": "online",
+        "duration": "1年35天15小时59分",
+        "version": "2.10.0"
+      },
+      {
+        "sdate": "2020-12-31 04:11:21",
+        "edate": "2021-02-18 06:15:01",
+        "status": "offline",
+        "duration": "49天2小时3分",
+        "version": "2.10.0"
+      },
+      {
+        "sdate": "2014-04-25 22:58:06",
+        "edate": "2020-12-31 04:11:21",
+        "status": "online",
+        "duration": "6年251天5小时13分",
+        "version": "1.14.3~2.10.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

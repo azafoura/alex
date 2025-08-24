@@ -1,0 +1,41 @@
+{
+  "1502362341": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-10-21 17:52:45",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年305天11小时11分",
+        "version": "1.0.2"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-04-24 17:36:55",
+        "edate": "2020-04-24 19:31:03",
+        "duration": "1小时54分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2020-04-23 00:00:00",
+        "edate": "2021-10-21 17:52:45",
+        "status": "online",
+        "duration": "1年181天17小时52分",
+        "version": "1.0.0~1.0.2"
+      },
+      {
+        "sdate": "2020-04-03 14:01:09",
+        "edate": "2020-04-23 00:00:00",
+        "status": "preorder",
+        "duration": "19天9小时58分",
+        "version": "1.0.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1090706558": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-08-18 05:46:12",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年3天18小时6分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2016-03-09 02:49:59",
+        "edate": "2020-08-18 05:46:12",
+        "status": "online",
+        "duration": "4年163天2小时56分",
+        "version": "2.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

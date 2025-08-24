@@ -1,0 +1,27 @@
+{
+  "1546976142": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2025-05-28 22:16:07",
+        "edate": null,
+        "status": "offline",
+        "duration": "85天13小时8分",
+        "version": "1.9.8"
+      },
+      {
+        "sdate": "2021-01-06 00:00:00",
+        "edate": "2025-05-28 22:16:07",
+        "status": "online",
+        "duration": "4年143天22小时16分",
+        "version": "0.1~1.9.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

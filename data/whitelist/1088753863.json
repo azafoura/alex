@@ -1,0 +1,41 @@
+{
+  "1088753863": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2022-11-17 06:28:21",
+        "edate": "2022-11-17 08:04:24",
+        "duration": "1小时36分",
+        "version": "2.507.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2022-10-17 15:34:04",
+        "edate": "2022-10-17 16:49:53",
+        "duration": "1小时15分",
+        "version": "2.507.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2016-12-22 02:57:02",
+        "edate": "2016-12-23 00:00:00",
+        "duration": "21小时2分",
+        "version": "1.83.0"
+      },
+      {
+        "sdate": "2016-08-09 13:00:33",
+        "edate": "",
+        "status": "online",
+        "duration": "9年13天10小时51分",
+        "version": "1.38.1~2.998.1"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

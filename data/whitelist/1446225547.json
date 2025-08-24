@@ -1,0 +1,27 @@
+{
+  "1446225547": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:36:06",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天16小时51分",
+        "version": "2.5"
+      },
+      {
+        "sdate": "2019-12-14 00:00:00",
+        "edate": "2020-12-31 04:36:06",
+        "status": "online",
+        "duration": "1年18天4小时36分",
+        "version": "2.0~2.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

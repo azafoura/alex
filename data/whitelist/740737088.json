@@ -1,0 +1,41 @@
+{
+  "740737088": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-04 02:48:56",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年260天6小时11分",
+        "version": "1.48.1"
+      },
+      {
+        "sdate": "2019-12-12 05:11:25",
+        "edate": "2020-12-04 02:48:56",
+        "status": "online",
+        "duration": "357天21小时37分",
+        "version": "1.37.0~1.48.1"
+      },
+      {
+        "sdate": "2019-12-12 03:56:28",
+        "edate": "2019-12-12 05:11:25",
+        "status": "offline",
+        "duration": "1小时14分",
+        "version": "1.37.0"
+      },
+      {
+        "sdate": "2013-12-09 23:36:40",
+        "edate": "2019-12-12 03:56:28",
+        "status": "online",
+        "duration": "6年3天4小时19分",
+        "version": "1.0.0~1.37.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

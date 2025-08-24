@@ -1,0 +1,27 @@
+{
+  "941421328": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-12-15 10:41:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年250天11小时18分",
+        "version": "2.6.2"
+      },
+      {
+        "sdate": "2015-01-14 18:13:10",
+        "edate": "2018-12-15 10:41:13",
+        "status": "online",
+        "duration": "3年335天16小时28分",
+        "version": "1.0~2.6.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

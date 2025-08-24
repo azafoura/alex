@@ -1,0 +1,27 @@
+{
+  "1097025180": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-10-10 00:05:25",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年317天4小时12分",
+        "version": "1.0.97"
+      },
+      {
+        "sdate": "2016-05-14 00:37:09",
+        "edate": "2017-10-10 00:05:25",
+        "status": "online",
+        "duration": "1年148天23小时28分",
+        "version": "1.0.87~1.0.97"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

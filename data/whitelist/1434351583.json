@@ -1,0 +1,27 @@
+{
+  "1434351583": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-01 07:02:16",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年325天14小时15分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-09-12 13:47:24",
+        "edate": "2020-10-01 07:02:16",
+        "status": "online",
+        "duration": "2年19天17小时14分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

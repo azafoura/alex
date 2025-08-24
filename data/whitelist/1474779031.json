@@ -1,0 +1,27 @@
+{
+  "1474779031": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-04-06 19:46:29",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年138天4小时52分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2019-08-05 00:00:00",
+        "edate": "2021-04-06 19:46:29",
+        "status": "online",
+        "duration": "1年245天19小时46分",
+        "version": "1.0~2.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

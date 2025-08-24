@@ -1,0 +1,34 @@
+{
+  "791532221": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-08-11 13:24:40",
+        "edate": "",
+        "status": "online",
+        "duration": "4年9天19小时39分",
+        "version": "1.97~1.148.144"
+      },
+      {
+        "sdate": "2021-08-11 08:00:10",
+        "edate": "2021-08-11 13:24:40",
+        "status": "offline",
+        "duration": "5小时24分",
+        "version": "1.97"
+      },
+      {
+        "sdate": "2014-02-21 15:04:11",
+        "edate": "2021-08-11 08:00:10",
+        "status": "online",
+        "duration": "7年172天16小时55分",
+        "version": "1.0.0~1.97"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

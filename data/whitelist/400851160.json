@@ -1,0 +1,41 @@
+{
+  "400851160": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:05:24",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时30分",
+        "version": "3.0.0"
+      },
+      {
+        "sdate": "2019-12-12 05:09:34",
+        "edate": "2020-12-31 04:05:24",
+        "status": "online",
+        "duration": "1年19天22小时55分",
+        "version": "3.0.0"
+      },
+      {
+        "sdate": "2019-12-12 04:43:29",
+        "edate": "2019-12-12 05:09:34",
+        "status": "offline",
+        "duration": "26分",
+        "version": "3.0.0"
+      },
+      {
+        "sdate": "2011-01-24 00:00:00",
+        "edate": "2019-12-12 04:43:29",
+        "status": "online",
+        "duration": "8年324天4小时43分",
+        "version": "1.0.0~3.0.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

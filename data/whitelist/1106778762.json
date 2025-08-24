@@ -1,0 +1,27 @@
+{
+  "1106778762": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-01-24 19:12:35",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年209天9小时8分",
+        "version": "1.1.7"
+      },
+      {
+        "sdate": "2016-04-30 00:00:00",
+        "edate": "2022-01-24 19:12:35",
+        "status": "online",
+        "duration": "5年270天19小时12分",
+        "version": "1.0~1.1.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1462612737": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-08-27 17:21:41",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年361天7小时1分",
+        "version": "10.0.14"
+      },
+      {
+        "sdate": "2019-06-17 12:33:36",
+        "edate": "2019-08-27 17:21:41",
+        "status": "online",
+        "duration": "71天4小时48分",
+        "version": "1.0.04~10.0.14"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "924907196": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:16:58",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时40分",
+        "version": "1.51"
+      },
+      {
+        "sdate": "2014-10-27 08:29:45",
+        "edate": "2020-12-31 04:16:58",
+        "status": "online",
+        "duration": "6年66天19小时47分",
+        "version": "1.0.2~1.51"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

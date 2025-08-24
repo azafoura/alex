@@ -1,0 +1,41 @@
+{
+  "1212186578": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2025-07-10 12:57:13",
+        "edate": "",
+        "status": "online",
+        "duration": "41天18小时30分",
+        "version": "6.0.2~6.0.3"
+      },
+      {
+        "sdate": "2021-08-23 16:29:36",
+        "edate": "2025-07-10 12:57:13",
+        "status": "offline",
+        "duration": "3年321天20小时27分",
+        "version": "5.7~6.0.2"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-10-02 00:11:23",
+        "edate": "2019-10-02 02:00:00",
+        "duration": "1小时48分",
+        "version": "4.6"
+      },
+      {
+        "sdate": "2017-06-22 00:14:31",
+        "edate": "2021-08-23 16:29:36",
+        "status": "online",
+        "duration": "4年63天16小时15分",
+        "version": "1.8~5.7"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

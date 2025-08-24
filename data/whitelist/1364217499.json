@@ -1,0 +1,27 @@
+{
+  "1364217499": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-04-20 11:06:33",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年124天37分",
+        "version": "1.9.0"
+      },
+      {
+        "sdate": "2018-04-28 00:00:00",
+        "edate": "2023-04-20 11:06:33",
+        "status": "online",
+        "duration": "4年358天11小时6分",
+        "version": "1.8.0~1.9.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

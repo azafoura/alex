@@ -1,0 +1,27 @@
+{
+  "992710026": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-03-25 11:57:29",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年149天10小时49分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2015-05-14 00:00:00",
+        "edate": "2021-03-25 11:57:29",
+        "status": "online",
+        "duration": "5年317天11小时57分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

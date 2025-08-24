@@ -1,0 +1,27 @@
+{
+  "1144775027": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-09-12 16:10:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年344天12小时50分",
+        "version": "4.1"
+      },
+      {
+        "sdate": "2016-08-19 14:52:24",
+        "edate": "2018-09-12 16:10:13",
+        "status": "online",
+        "duration": "2年24天1小时17分",
+        "version": "1.0~4.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

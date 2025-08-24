@@ -1,0 +1,27 @@
+{
+  "1549785084": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-03-31 11:55:11",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年144天23小时34分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2021-01-23 13:35:27",
+        "edate": "2021-03-31 11:55:11",
+        "status": "online",
+        "duration": "66天22小时19分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

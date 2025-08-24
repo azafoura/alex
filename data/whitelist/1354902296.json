@@ -1,0 +1,41 @@
+{
+  "1354902296": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-16 20:29:58",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年309天15小时7分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2020-07-08 11:01:35",
+        "edate": "2020-10-16 20:29:58",
+        "status": "online",
+        "duration": "100天9小时28分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2020-07-01 16:18:18",
+        "edate": "2020-07-08 11:01:35",
+        "status": "offline",
+        "duration": "6天18小时43分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2018-04-26 00:00:00",
+        "edate": "2020-07-01 16:18:18",
+        "status": "online",
+        "duration": "2年67天16小时18分",
+        "version": "1.0~2.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

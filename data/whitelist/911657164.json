@@ -1,0 +1,27 @@
+{
+  "911657164": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:16:28",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时22分",
+        "version": "8.21"
+      },
+      {
+        "sdate": "2014-09-18 08:51:32",
+        "edate": "2020-12-31 04:16:28",
+        "status": "online",
+        "duration": "6年105天19小时24分",
+        "version": "5.7~8.21"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

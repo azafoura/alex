@@ -1,0 +1,20 @@
+{
+  "304093970": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2009-02-07 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "16年200天3小时31分",
+        "version": "1.0.0~1.7.7"
+      }
+    ],
+    "total": 1,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

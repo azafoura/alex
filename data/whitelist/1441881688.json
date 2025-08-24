@@ -1,0 +1,27 @@
+{
+  "1441881688": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-06-26 13:53:49",
+        "edate": "",
+        "status": "offline",
+        "duration": "6年58天7小时30分",
+        "version": "1.0.10~1.14"
+      },
+      {
+        "sdate": "2018-11-12 09:14:55",
+        "edate": "2019-06-26 13:53:49",
+        "status": "online",
+        "duration": "226天4小时38分",
+        "version": "1.0~1.0.10"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

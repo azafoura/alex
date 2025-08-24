@@ -1,0 +1,20 @@
+{
+  "1321803705": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-02-05 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "7年199天8小时14分",
+        "version": "0.2.1159~1.32.11"
+      }
+    ],
+    "total": 1,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

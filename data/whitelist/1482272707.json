@@ -1,0 +1,27 @@
+{
+  "1482272707": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:39:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天20小时11分",
+        "version": "1.14.1"
+      },
+      {
+        "sdate": "2019-10-05 18:37:29",
+        "edate": "2020-12-31 04:39:13",
+        "status": "online",
+        "duration": "1年87天10小时1分",
+        "version": "1.0~1.14.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

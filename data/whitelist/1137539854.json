@@ -1,0 +1,27 @@
+{
+  "1137539854": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-03-30 18:40:20",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年144天10小时4分",
+        "version": "1.2.20161206"
+      },
+      {
+        "sdate": "2016-09-09 01:47:31",
+        "edate": "2020-03-30 18:40:20",
+        "status": "online",
+        "duration": "3年203天16小时52分",
+        "version": "1.0.20160812~1.2.20161206"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

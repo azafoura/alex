@@ -1,0 +1,34 @@
+{
+  "1569602637": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-10-04 20:06:46",
+        "edate": "",
+        "status": "online",
+        "duration": "1年322天19小时39分",
+        "version": "3.28"
+      },
+      {
+        "sdate": "2022-11-11 21:15:25",
+        "edate": "2023-10-04 20:06:46",
+        "status": "offline",
+        "duration": "326天22小时51分",
+        "version": "3.27~3.28"
+      },
+      {
+        "sdate": "2021-06-30 00:00:00",
+        "edate": "2022-11-11 21:15:25",
+        "status": "online",
+        "duration": "1年134天21小时15分",
+        "version": "1.00~3.27"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

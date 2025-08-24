@@ -1,0 +1,27 @@
+{
+  "1253537199": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 05:11:28",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天2小时35分",
+        "version": "1.104"
+      },
+      {
+        "sdate": "2019-02-20 03:45:23",
+        "edate": "2020-12-31 05:11:28",
+        "status": "online",
+        "duration": "1年315天1小时26分",
+        "version": "1.0~1.104"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

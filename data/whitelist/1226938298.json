@@ -1,0 +1,27 @@
+{
+  "1226938298": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:26:32",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天3小时7分",
+        "version": "2.3"
+      },
+      {
+        "sdate": "2017-04-19 05:01:26",
+        "edate": "2020-12-31 04:26:32",
+        "status": "online",
+        "duration": "3年256天23小时25分",
+        "version": "1.0~2.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

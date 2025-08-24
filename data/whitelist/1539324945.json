@@ -1,0 +1,27 @@
+{
+  "1539324945": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-06-10 22:28:24",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年73天7小时43分",
+        "version": "2.5.0"
+      },
+      {
+        "sdate": "2020-11-09 00:00:00",
+        "edate": "2023-06-10 22:28:24",
+        "status": "online",
+        "duration": "2年213天22小时28分",
+        "version": "1.0~2.5.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

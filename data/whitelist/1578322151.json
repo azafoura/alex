@@ -1,0 +1,34 @@
+{
+  "1578322151": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-01-19 07:23:06",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年216天8小时28分",
+        "version": "1.1.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-09-02 19:23:01",
+        "edate": "2021-09-04 21:07:04",
+        "duration": "2天1小时44分",
+        "version": "1.1.0"
+      },
+      {
+        "sdate": "2021-08-07 00:00:00",
+        "edate": "2024-01-19 07:23:06",
+        "status": "online",
+        "duration": "2年165天7小时23分",
+        "version": "1.0.0~1.1.1"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

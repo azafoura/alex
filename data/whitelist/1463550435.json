@@ -1,0 +1,27 @@
+{
+  "1463550435": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-09-30 11:20:26",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年311天17小时24分",
+        "version": "0.1.1~0.1.3"
+      },
+      {
+        "sdate": "2019-08-24 00:00:09",
+        "edate": "2019-09-30 11:20:26",
+        "status": "preorder",
+        "duration": "37天11小时20分",
+        "version": "0.1.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1531326861": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-04-30 18:24:12",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年114天11小时37分",
+        "version": "1.0.3"
+      },
+      {
+        "sdate": "2020-09-12 00:00:00",
+        "edate": "2021-04-30 18:24:12",
+        "status": "online",
+        "duration": "230天18小时24分",
+        "version": "1.0~1.0.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

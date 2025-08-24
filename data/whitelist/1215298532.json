@@ -1,0 +1,27 @@
+{
+  "1215298532": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-03-20 10:18:32",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年155天21小时9分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2017-03-17 23:38:15",
+        "edate": "2019-03-20 10:18:32",
+        "status": "online",
+        "duration": "2年2天10小时40分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

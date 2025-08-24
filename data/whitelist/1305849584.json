@@ -1,0 +1,27 @@
+{
+  "1305849584": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-09-08 05:20:18",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年349天2小时47分",
+        "version": "1.6.2"
+      },
+      {
+        "sdate": "2018-04-26 08:07:59",
+        "edate": "2018-09-08 05:20:18",
+        "status": "online",
+        "duration": "134天21小时12分",
+        "version": "1.0~1.6.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

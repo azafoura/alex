@@ -1,0 +1,34 @@
+{
+  "1545306176": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-01-24 20:22:57",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年210天14小时57分",
+        "version": "0.5.2"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-01-20 21:06:29",
+        "edate": "2021-01-20 23:01:49",
+        "duration": "1小时55分",
+        "version": "0.4"
+      },
+      {
+        "sdate": "2020-12-29 06:42:17",
+        "edate": "2021-01-24 20:22:57",
+        "status": "online",
+        "duration": "26天13小时40分",
+        "version": "0.1~0.5.2"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

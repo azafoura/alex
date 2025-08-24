@@ -1,0 +1,27 @@
+{
+  "408188960": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:05:52",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时29分",
+        "version": "3.8.4"
+      },
+      {
+        "sdate": "2010-12-15 04:44:56",
+        "edate": "2020-12-31 04:05:52",
+        "status": "online",
+        "duration": "10年18天23小时20分",
+        "version": "1.0~3.8.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

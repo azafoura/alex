@@ -1,0 +1,41 @@
+{
+  "1588211048": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-12-18 09:04:04",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年248天6小时52分",
+        "version": "0.5"
+      },
+      {
+        "sdate": "2021-10-08 00:56:59",
+        "edate": "2021-12-18 09:04:04",
+        "status": "online",
+        "duration": "71天8小时7分",
+        "version": "0.3~0.5"
+      },
+      {
+        "sdate": "2021-10-07 10:14:14",
+        "edate": "2021-10-08 00:56:59",
+        "status": "offline",
+        "duration": "14小时42分",
+        "version": "0.3"
+      },
+      {
+        "sdate": "2021-10-01 00:00:00",
+        "edate": "2021-10-07 10:14:14",
+        "status": "online",
+        "duration": "6天10小时14分",
+        "version": "0.1~0.3"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

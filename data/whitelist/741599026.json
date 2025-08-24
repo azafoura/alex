@@ -1,0 +1,27 @@
+{
+  "741599026": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-05-11 05:38:49",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年101天3小时22分",
+        "version": "1.13"
+      },
+      {
+        "sdate": "2013-11-21 00:00:00",
+        "edate": "2024-05-11 05:38:49",
+        "status": "online",
+        "duration": "10年174天5小时38分",
+        "version": "v1.00~1.13"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

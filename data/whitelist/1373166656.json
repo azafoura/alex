@@ -1,0 +1,41 @@
+{
+  "1373166656": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-12-12 11:51:49",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年253天23小时58分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2018-08-27 11:55:33",
+        "edate": "2018-12-12 11:51:49",
+        "status": "online",
+        "duration": "106天23小时56分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2018-06-25 12:11:51",
+        "edate": "2018-08-27 11:55:33",
+        "status": "offline",
+        "duration": "62天23小时43分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2018-05-07 04:33:56",
+        "edate": "2018-06-25 12:11:51",
+        "status": "online",
+        "duration": "49天7小时37分",
+        "version": "1.0~1.0.2"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

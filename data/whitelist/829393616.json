@@ -1,0 +1,48 @@
+{
+  "829393616": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-12-20 17:00:17",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年243天16小时6分",
+        "version": "2.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-11-21 15:04:59",
+        "edate": "2021-11-21 16:59:06",
+        "duration": "1小时54分",
+        "version": "2.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-10-31 14:58:25",
+        "edate": "2021-10-31 17:51:58",
+        "duration": "2小时53分",
+        "version": "2.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-10-17 15:02:56",
+        "edate": "2021-10-17 18:06:02",
+        "duration": "3小时3分",
+        "version": "2.1"
+      },
+      {
+        "sdate": "2014-03-12 00:00:00",
+        "edate": "2022-12-20 17:00:17",
+        "status": "online",
+        "duration": "8年285天17小时0分",
+        "version": "1.0~2.1"
+      }
+    ],
+    "total": 5,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

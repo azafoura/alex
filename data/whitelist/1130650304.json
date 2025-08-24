@@ -1,0 +1,27 @@
+{
+  "1130650304": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:23:48",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天16分",
+        "version": "2.2.7"
+      },
+      {
+        "sdate": "2016-09-16 00:00:00",
+        "edate": "2020-12-31 04:23:48",
+        "status": "online",
+        "duration": "4年107天4小时23分",
+        "version": "2.0.0~2.2.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "1542436064": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-01-04 10:25:05",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年230天19小时51分",
+        "version": "1.1.38"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-03-22 17:59:13",
+        "edate": "2021-03-22 19:48:02",
+        "duration": "1小时48分",
+        "version": "1.1.7"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-12-12 11:58:33",
+        "edate": "2020-12-12 13:52:42",
+        "duration": "1小时54分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2020-12-02 00:00:00",
+        "edate": "2024-01-04 10:25:05",
+        "status": "online",
+        "duration": "3年33天10小时25分",
+        "version": "1.0.0~1.1.38"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

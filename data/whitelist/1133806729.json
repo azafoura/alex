@@ -1,0 +1,27 @@
+{
+  "1133806729": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-07-31 15:02:51",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年22天13小时40分",
+        "version": "1.99.03"
+      },
+      {
+        "sdate": "2016-09-23 08:33:35",
+        "edate": "2018-07-31 15:02:51",
+        "status": "online",
+        "duration": "1年311天6小时29分",
+        "version": "1.81.19~1.99.03"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

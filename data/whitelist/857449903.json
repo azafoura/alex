@@ -1,0 +1,27 @@
+{
+  "857449903": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 06:14:48",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年145天2小时54分",
+        "version": "1.44.0~1.46.0"
+      },
+      {
+        "sdate": "2014-10-08 20:49:12",
+        "edate": "2016-03-30 06:14:48",
+        "status": "online",
+        "duration": "1年173天9小时25分",
+        "version": "1.8.0~1.44.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

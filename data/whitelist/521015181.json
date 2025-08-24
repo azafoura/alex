@@ -1,0 +1,27 @@
+{
+  "521015181": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-02-21 20:48:21",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年181天11小时54分",
+        "version": "1.29"
+      },
+      {
+        "sdate": "2012-09-19 01:01:55",
+        "edate": "2019-02-21 20:48:21",
+        "status": "online",
+        "duration": "6年156天19小时46分",
+        "version": "1.0~1.29"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

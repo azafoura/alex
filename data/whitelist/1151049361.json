@@ -1,0 +1,27 @@
+{
+  "1151049361": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-03-02 08:18:24",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年173天20小时45分",
+        "version": ""
+      },
+      {
+        "sdate": "2017-01-18 09:29:10",
+        "edate": "2017-03-02 08:18:24",
+        "status": "online",
+        "duration": "42天22小时49分",
+        "version": ""
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

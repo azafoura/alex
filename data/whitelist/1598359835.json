@@ -1,0 +1,27 @@
+{
+  "1598359835": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-11-03 13:12:04",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年293天3小时9分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2021-12-07 00:00:00",
+        "edate": "2022-11-03 13:12:04",
+        "status": "online",
+        "duration": "331天13小时12分",
+        "version": "1.0.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

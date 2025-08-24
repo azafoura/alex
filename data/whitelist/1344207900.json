@@ -1,0 +1,27 @@
+{
+  "1344207900": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-05-14 11:08:49",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年100天23分",
+        "version": "6.0"
+      },
+      {
+        "sdate": "2018-03-30 00:00:00",
+        "edate": "2021-05-14 11:08:49",
+        "status": "online",
+        "duration": "3年46天11小时8分",
+        "version": "1.0~6.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

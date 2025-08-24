@@ -1,0 +1,27 @@
+{
+  "1392356991": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-04-26 02:00:21",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年119天9小时59分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2019-01-28 09:41:55",
+        "edate": "2019-04-26 02:00:21",
+        "status": "online",
+        "duration": "87天16小时18分",
+        "version": "1.0.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

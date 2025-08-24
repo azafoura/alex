@@ -1,0 +1,27 @@
+{
+  "670716638": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-12-22 00:56:11",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年243天7小时57分",
+        "version": "2.3"
+      },
+      {
+        "sdate": "2013-07-18 16:25:07",
+        "edate": "2018-12-22 00:56:11",
+        "status": "online",
+        "duration": "5年157天8小时31分",
+        "version": "1.0~2.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

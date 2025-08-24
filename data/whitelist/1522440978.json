@@ -1,0 +1,27 @@
+{
+  "1522440978": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-06-17 18:14:43",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年66天11小时27分",
+        "version": "1.2.2"
+      },
+      {
+        "sdate": "2021-02-01 00:00:00",
+        "edate": "2022-06-17 18:14:43",
+        "status": "online",
+        "duration": "1年136天18小时14分",
+        "version": "1.0.6~1.2.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

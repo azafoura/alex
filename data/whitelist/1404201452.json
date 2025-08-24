@@ -1,0 +1,27 @@
+{
+  "1404201452": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-07-22 05:10:02",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年32天16小时0分",
+        "version": "1.0.4"
+      },
+      {
+        "sdate": "2018-07-14 23:55:04",
+        "edate": "2019-07-22 05:10:02",
+        "status": "online",
+        "duration": "1年7天5小时14分",
+        "version": "1.0~1.0.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

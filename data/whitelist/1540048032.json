@@ -1,0 +1,27 @@
+{
+  "1540048032": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-09-09 19:05:44",
+        "edate": null,
+        "status": "offline",
+        "duration": "346天11小时6分",
+        "version": "1.6"
+      },
+      {
+        "sdate": "2020-11-17 00:00:00",
+        "edate": "2024-09-09 19:05:44",
+        "status": "online",
+        "duration": "3年297天19小时5分",
+        "version": "1.0~1.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "1434042291": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-02-02 06:44:14",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年202天14小时33分",
+        "version": "1.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2018-12-18 07:30:32",
+        "edate": "2019-02-02 06:44:14",
+        "duration": "45天23小时13分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-11-14 08:35:34",
+        "edate": "2019-02-02 06:44:14",
+        "status": "online",
+        "duration": "79天22小时8分",
+        "version": "1.0"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

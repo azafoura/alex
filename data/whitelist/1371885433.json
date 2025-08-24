@@ -1,0 +1,27 @@
+{
+  "1371885433": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:31:27",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天7小时17分",
+        "version": "7.4.5"
+      },
+      {
+        "sdate": "2019-06-17 14:10:18",
+        "edate": "2020-12-31 04:31:27",
+        "status": "online",
+        "duration": "1年197天14小时21分",
+        "version": "4.27~7.4.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

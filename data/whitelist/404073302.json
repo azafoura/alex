@@ -1,0 +1,27 @@
+{
+  "404073302": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-06-28 10:05:47",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年54天22小时29分",
+        "version": "4.0.4"
+      },
+      {
+        "sdate": "2011-04-06 00:15:46",
+        "edate": "2017-06-28 10:05:47",
+        "status": "online",
+        "duration": "6年85天9小时50分",
+        "version": "1.0.0~4.0.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

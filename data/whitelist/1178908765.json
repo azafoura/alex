@@ -1,0 +1,41 @@
+{
+  "1178908765": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-12-13 09:55:27",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年252天19小时18分",
+        "version": "3.9.3"
+      },
+      {
+        "sdate": "2018-09-26 18:57:07",
+        "edate": "2018-12-13 09:55:27",
+        "status": "online",
+        "duration": "77天14小时58分",
+        "version": "3.9.3"
+      },
+      {
+        "sdate": "2018-01-23 16:49:24",
+        "edate": "2018-09-26 18:57:07",
+        "status": "offline",
+        "duration": "246天2小时7分",
+        "version": "3.9.3"
+      },
+      {
+        "sdate": "2016-11-29 09:00:24",
+        "edate": "2018-01-23 16:49:24",
+        "status": "online",
+        "duration": "1年55天7小时49分",
+        "version": "3.9.3"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "497595276": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 09:16:45",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年144天23小时23分",
+        "version": "4.19.5~4.20.1"
+      },
+      {
+        "sdate": "2014-05-13 16:14:02",
+        "edate": "2016-03-30 09:16:45",
+        "status": "online",
+        "duration": "1年321天17小时2分",
+        "version": "4.8.1~4.19.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

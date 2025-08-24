@@ -1,0 +1,27 @@
+{
+  "1390992134": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:32:00",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天7小时27分",
+        "version": "1.14.0"
+      },
+      {
+        "sdate": "2018-06-01 00:00:00",
+        "edate": "2020-12-31 04:32:00",
+        "status": "online",
+        "duration": "2年214天4小时32分",
+        "version": "1.0~1.14.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

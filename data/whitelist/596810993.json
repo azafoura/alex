@@ -1,0 +1,27 @@
+{
+  "596810993": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-01-24 00:40:12",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年210天8小时9分",
+        "version": "1.0.4"
+      },
+      {
+        "sdate": "2013-02-02 00:31:59",
+        "edate": "2017-01-24 00:40:12",
+        "status": "online",
+        "duration": "3年357天8分",
+        "version": "1.0~1.0.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

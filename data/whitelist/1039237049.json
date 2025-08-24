@@ -1,0 +1,27 @@
+{
+  "1039237049": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-05-11 06:09:17",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年102天16小时53分",
+        "version": "12.98"
+      },
+      {
+        "sdate": "2015-09-13 00:00:00",
+        "edate": "2022-05-11 06:09:17",
+        "status": "online",
+        "duration": "6年242天6小时9分",
+        "version": "3.18~12.98"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

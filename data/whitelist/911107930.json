@@ -1,0 +1,41 @@
+{
+  "911107930": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-05-24 03:20:23",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年90天18小时18分",
+        "version": "2.6.4"
+      },
+      {
+        "sdate": "2019-03-20 10:06:51",
+        "edate": "2019-05-24 03:20:23",
+        "status": "online",
+        "duration": "64天17小时13分",
+        "version": "2.6.4"
+      },
+      {
+        "sdate": "2019-03-20 02:48:04",
+        "edate": "2019-03-20 10:06:51",
+        "status": "offline",
+        "duration": "7小时18分",
+        "version": "2.6.4"
+      },
+      {
+        "sdate": "2015-04-26 00:46:59",
+        "edate": "2019-03-20 02:48:04",
+        "status": "online",
+        "duration": "3年329天2小时1分",
+        "version": "0.27~2.6.4"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

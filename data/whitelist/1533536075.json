@@ -1,0 +1,27 @@
+{
+  "1533536075": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-01-05 03:18:53",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年230天2小时47分",
+        "version": "1.15"
+      },
+      {
+        "sdate": "2020-10-03 00:00:00",
+        "edate": "2022-01-05 03:18:53",
+        "status": "online",
+        "duration": "1年94天3小时18分",
+        "version": "1.5~1.15"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

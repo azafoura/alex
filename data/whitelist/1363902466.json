@@ -1,0 +1,34 @@
+{
+  "1363902466": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-01-27 08:21:00",
+        "edate": "",
+        "status": "online",
+        "duration": "4年207天3小时22分",
+        "version": "1.8.7~1.0.28"
+      },
+      {
+        "sdate": "2020-12-31 04:31:36",
+        "edate": "2021-01-27 08:21:00",
+        "status": "offline",
+        "duration": "27天3小时49分",
+        "version": "1.8.6~1.8.7"
+      },
+      {
+        "sdate": "2018-04-21 03:41:46",
+        "edate": "2020-12-31 04:31:36",
+        "status": "online",
+        "duration": "2年255天49分",
+        "version": "1.0~1.8.6"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

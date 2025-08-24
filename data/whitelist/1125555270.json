@@ -1,0 +1,27 @@
+{
+  "1125555270": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2024-07-17 15:20:53",
+        "edate": "2024-07-17 18:22:58",
+        "duration": "3小时2分",
+        "version": "1.55"
+      },
+      {
+        "sdate": "2016-06-24 15:41:14",
+        "edate": "",
+        "status": "online",
+        "duration": "9年59天12小时56分",
+        "version": "1.0~1.59"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

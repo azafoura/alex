@@ -1,0 +1,27 @@
+{
+  "1459973795": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-06-06 11:10:23",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年78天13小时9分",
+        "version": "1.0.3"
+      },
+      {
+        "sdate": "2019-04-25 18:51:16",
+        "edate": "2019-06-06 11:10:23",
+        "status": "online",
+        "duration": "41天16小时19分",
+        "version": "1.0.0~1.0.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "667824373": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 09:34:56",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年144天23小时18分",
+        "version": "1.2.6"
+      },
+      {
+        "sdate": "2013-09-09 20:27:01",
+        "edate": "2016-03-30 09:34:56",
+        "status": "online",
+        "duration": "2年202天13小时7分",
+        "version": "1.0~1.2.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

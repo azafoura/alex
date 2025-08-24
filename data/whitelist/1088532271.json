@@ -1,0 +1,27 @@
+{
+  "1088532271": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2020-02-13 17:39:40",
+        "edate": "2020-04-13 12:00:00",
+        "duration": "59天18小时20分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2016-03-04 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "9年171天23小时51分",
+        "version": "1.0~2.9"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

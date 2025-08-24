@@ -1,0 +1,34 @@
+{
+  "1479166284": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-07-09 02:04:12",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年44天22小时42分",
+        "version": "1.1.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-04-04 14:54:59",
+        "edate": "2020-04-04 16:42:51",
+        "duration": "1小时47分",
+        "version": "1.0.3"
+      },
+      {
+        "sdate": "2019-09-12 00:00:00",
+        "edate": "2022-07-09 02:04:12",
+        "status": "online",
+        "duration": "2年301天2小时4分",
+        "version": "1.0~1.1.0"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

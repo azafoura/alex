@@ -1,0 +1,27 @@
+{
+  "1221964973": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2025-03-08 02:32:28",
+        "edate": null,
+        "status": "offline",
+        "duration": "166天4小时59分",
+        "version": "3"
+      },
+      {
+        "sdate": "2017-04-03 00:00:00",
+        "edate": "2025-03-08 02:32:28",
+        "status": "online",
+        "duration": "7年341天2小时32分",
+        "version": "1.0~3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

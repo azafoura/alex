@@ -1,0 +1,27 @@
+{
+  "1477585682": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-02-01 18:06:09",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年202天6小时36分",
+        "version": "2.9.4"
+      },
+      {
+        "sdate": "2019-12-04 00:00:00",
+        "edate": "2023-02-01 18:06:09",
+        "status": "online",
+        "duration": "3年60天18小时6分",
+        "version": "2.7~2.9.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

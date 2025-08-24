@@ -1,0 +1,27 @@
+{
+  "1239325152": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:32:48",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天3小时8分",
+        "version": "1.4.4"
+      },
+      {
+        "sdate": "2017-07-03 07:55:10",
+        "edate": "2020-12-31 04:32:48",
+        "status": "online",
+        "duration": "3年181天20小时37分",
+        "version": "1.0.0~1.4.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1575325763": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-01-06 03:22:19",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年229天12小时27分",
+        "version": "2.4"
+      },
+      {
+        "sdate": "2021-07-11 00:00:00",
+        "edate": "2022-01-06 03:22:19",
+        "status": "online",
+        "duration": "179天3小时22分",
+        "version": "1.0~2.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

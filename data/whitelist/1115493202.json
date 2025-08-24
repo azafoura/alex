@@ -1,0 +1,34 @@
+{
+  "1115493202": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2025-06-26 01:20:22",
+        "edate": "",
+        "status": "online",
+        "duration": "56天3小时6分",
+        "version": "1.5"
+      },
+      {
+        "sdate": "2025-06-15 00:46:25",
+        "edate": "2025-06-26 01:20:22",
+        "status": "offline",
+        "duration": "11天33分",
+        "version": "1.5"
+      },
+      {
+        "sdate": "2016-05-20 00:00:00",
+        "edate": "2025-06-15 00:46:25",
+        "status": "online",
+        "duration": "9年28天46分",
+        "version": "1.0~1.5"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

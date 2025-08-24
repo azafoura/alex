@@ -1,0 +1,27 @@
+{
+  "1220413896": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-02-13 19:56:10",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年189天11小时34分",
+        "version": "2.81"
+      },
+      {
+        "sdate": "2017-03-30 00:00:00",
+        "edate": "2024-02-13 19:56:10",
+        "status": "online",
+        "duration": "6年321天19小时56分",
+        "version": "1.0~2.81"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

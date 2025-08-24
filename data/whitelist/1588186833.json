@@ -1,0 +1,27 @@
+{
+  "1588186833": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2021-11-06 12:42:05",
+        "edate": "2021-11-06 13:57:58",
+        "duration": "1小时15分",
+        "version": "1.0.9"
+      },
+      {
+        "sdate": "2021-10-14 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "3年313天15小时56分",
+        "version": "1.0.8~1.0.9"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

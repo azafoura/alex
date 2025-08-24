@@ -1,0 +1,27 @@
+{
+  "1448677603": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-05-15 08:21:43",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年100天15小时18分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2019-01-11 21:17:32",
+        "edate": "2019-05-15 08:21:43",
+        "status": "online",
+        "duration": "123天11小时4分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

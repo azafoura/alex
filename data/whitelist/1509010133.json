@@ -1,0 +1,27 @@
+{
+  "1509010133": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-12-22 15:13:25",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年243天13小时53分",
+        "version": "2.7.20"
+      },
+      {
+        "sdate": "2020-05-12 00:00:00",
+        "edate": "2023-12-22 15:13:25",
+        "status": "online",
+        "duration": "3年224天15小时13分",
+        "version": "1.0.7~2.7.20"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

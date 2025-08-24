@@ -1,0 +1,27 @@
+{
+  "1487755374": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-08 11:54:25",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年45天17小时2分",
+        "version": "1.8.2"
+      },
+      {
+        "sdate": "2020-01-08 05:41:18",
+        "edate": "2020-07-08 11:54:25",
+        "status": "online",
+        "duration": "182天6小时13分",
+        "version": "1.2~1.8.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

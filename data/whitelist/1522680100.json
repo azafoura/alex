@@ -1,0 +1,27 @@
+{
+  "1522680100": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-07-15 11:28:38",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年38天18小时13分",
+        "version": "1.1.4"
+      },
+      {
+        "sdate": "2020-07-14 00:00:00",
+        "edate": "2022-07-15 11:28:38",
+        "status": "online",
+        "duration": "2年1天11小时28分",
+        "version": "1.0.0~1.1.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

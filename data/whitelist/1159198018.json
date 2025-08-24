@@ -1,0 +1,27 @@
+{
+  "1159198018": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-07-12 02:33:46",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年42天2小时33分",
+        "version": "1.8.3"
+      },
+      {
+        "sdate": "2016-09-29 15:25:56",
+        "edate": "2019-07-12 02:33:46",
+        "status": "online",
+        "duration": "2年285天11小时7分",
+        "version": "1.0.1~1.8.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

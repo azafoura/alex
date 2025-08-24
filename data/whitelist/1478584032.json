@@ -1,0 +1,27 @@
+{
+  "1478584032": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-22 11:33:49",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年304天13小时11分",
+        "version": "1.7.0"
+      },
+      {
+        "sdate": "2019-12-18 00:58:17",
+        "edate": "2020-10-22 11:33:49",
+        "status": "online",
+        "duration": "309天10小时35分",
+        "version": "1.1.0~1.7.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

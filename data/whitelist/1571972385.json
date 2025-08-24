@@ -1,0 +1,27 @@
+{
+  "1571972385": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-01-19 19:35:36",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年215天20小时11分",
+        "version": "2.5.0"
+      },
+      {
+        "sdate": "2021-09-10 00:00:00",
+        "edate": "2022-01-19 19:35:36",
+        "status": "online",
+        "duration": "131天19小时35分",
+        "version": "1.1.1~2.5.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

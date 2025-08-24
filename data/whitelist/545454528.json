@@ -1,0 +1,27 @@
+{
+  "545454528": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-02-12 18:20:31",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年190天14小时23分",
+        "version": "1.76.1"
+      },
+      {
+        "sdate": "2015-06-18 20:34:46",
+        "edate": "2019-02-12 18:20:31",
+        "status": "online",
+        "duration": "3年239天21小时45分",
+        "version": "1.25.0~1.76.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

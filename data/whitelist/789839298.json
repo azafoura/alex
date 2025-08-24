@@ -1,0 +1,27 @@
+{
+  "789839298": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:14:08",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时49分",
+        "version": "6.1.1"
+      },
+      {
+        "sdate": "2014-05-09 00:00:00",
+        "edate": "2020-12-31 04:14:08",
+        "status": "online",
+        "duration": "6年238天4小时14分",
+        "version": "0.1.0~6.1.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

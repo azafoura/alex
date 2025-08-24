@@ -1,0 +1,20 @@
+{
+  "1207141525": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-05-24 05:54:22",
+        "edate": "",
+        "status": "online",
+        "duration": "8年90天23小时34分",
+        "version": "1.0~1.0.1046"
+      }
+    ],
+    "total": 1,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1407858010": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-08-05 12:53:06",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年18天8小时18分",
+        "version": "1.1"
+      },
+      {
+        "sdate": "2018-07-06 21:09:03",
+        "edate": "2018-08-05 12:53:06",
+        "status": "online",
+        "duration": "29天15小时44分",
+        "version": "1.0~1.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

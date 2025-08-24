@@ -1,0 +1,27 @@
+{
+  "1501721032": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-08-01 06:33:06",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年21天22小时30分",
+        "version": "1.2.0"
+      },
+      {
+        "sdate": "2020-04-15 08:50:27",
+        "edate": "2020-08-01 06:33:06",
+        "status": "online",
+        "duration": "107天21小时42分",
+        "version": "1.0.5~1.2.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

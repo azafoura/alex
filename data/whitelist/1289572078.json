@@ -1,0 +1,27 @@
+{
+  "1289572078": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-11-16 15:13:20",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年278天16小时47分",
+        "version": "2.8"
+      },
+      {
+        "sdate": "2017-09-29 00:00:00",
+        "edate": "2022-11-16 15:13:20",
+        "status": "online",
+        "duration": "5年49天15小时13分",
+        "version": "1.0~2.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

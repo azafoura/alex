@@ -1,0 +1,27 @@
+{
+  "655192558": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:12:11",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时40分",
+        "version": "3.32"
+      },
+      {
+        "sdate": "2014-06-19 00:00:00",
+        "edate": "2020-12-31 04:12:11",
+        "status": "online",
+        "duration": "6年197天4小时12分",
+        "version": "1.0~3.32"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

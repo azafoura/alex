@@ -1,0 +1,41 @@
+{
+  "1265739342": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-04-02 01:46:55",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年142天6小时4分",
+        "version": "2.8"
+      },
+      {
+        "sdate": "2018-05-24 12:25:33",
+        "edate": "2020-04-02 01:46:55",
+        "status": "online",
+        "duration": "1年313天13小时21分",
+        "version": "2.6~2.8"
+      },
+      {
+        "sdate": "2018-05-16 05:06:30",
+        "edate": "2018-05-24 12:25:33",
+        "status": "offline",
+        "duration": "8天7小时19分",
+        "version": "2.6"
+      },
+      {
+        "sdate": "2017-08-29 02:57:28",
+        "edate": "2018-05-16 05:06:30",
+        "status": "online",
+        "duration": "260天2小时9分",
+        "version": "1.0~2.6"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

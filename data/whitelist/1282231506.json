@@ -1,0 +1,41 @@
+{
+  "1282231506": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-11-09 01:55:45",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年287天6小时3分",
+        "version": "1.1.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2018-08-30 12:18:12",
+        "edate": "2018-10-31 00:00:00",
+        "duration": "61天11小时41分",
+        "version": "1.1.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2018-06-24 11:29:13",
+        "edate": "2018-08-24 00:00:00",
+        "duration": "60天12小时30分",
+        "version": "1.1.1"
+      },
+      {
+        "sdate": "2017-10-09 09:01:15",
+        "edate": "2018-11-09 01:55:45",
+        "status": "online",
+        "duration": "1年30天16小时54分",
+        "version": "1.0~1.1.1"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

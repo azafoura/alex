@@ -1,0 +1,27 @@
+{
+  "1071514391": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-07-06 01:49:04",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年46天21小时51分",
+        "version": "3.7"
+      },
+      {
+        "sdate": "2016-01-09 00:00:00",
+        "edate": "2022-07-06 01:49:04",
+        "status": "online",
+        "duration": "6年180天1小时49分",
+        "version": "1.0~3.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

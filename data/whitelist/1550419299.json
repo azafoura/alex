@@ -1,0 +1,34 @@
+{
+  "1550419299": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-04-01 15:33:53",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年143天19小时57分",
+        "version": "1.0.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-03-19 23:50:11",
+        "edate": "2021-03-20 01:46:05",
+        "duration": "1小时55分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2021-01-24 06:07:04",
+        "edate": "2021-04-01 15:33:53",
+        "status": "online",
+        "duration": "67天9小时26分",
+        "version": "1.0.0~1.0.1"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

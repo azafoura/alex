@@ -1,0 +1,27 @@
+{
+  "1031178686": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2020-01-25 23:47:16",
+        "edate": "2020-01-26 01:39:31",
+        "duration": "1小时52分",
+        "version": "3.21"
+      },
+      {
+        "sdate": "2015-10-27 07:41:50",
+        "edate": "",
+        "status": "online",
+        "duration": "9年300天15小时14分",
+        "version": "1.0~5.1.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

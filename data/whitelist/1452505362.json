@@ -1,0 +1,27 @@
+{
+  "1452505362": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-04-25 06:54:16",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年120天17小时14分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2019-02-13 23:30:56",
+        "edate": "2019-04-25 06:54:16",
+        "status": "online",
+        "duration": "70天7小时23分",
+        "version": "1.0~1.0.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

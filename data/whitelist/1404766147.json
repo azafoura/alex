@@ -1,0 +1,41 @@
+{
+  "1404766147": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-01-20 03:00:15",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年215天18小时10分",
+        "version": "1.1"
+      },
+      {
+        "sdate": "2018-08-03 16:32:34",
+        "edate": "2019-01-20 03:00:15",
+        "status": "online",
+        "duration": "169天10小时27分",
+        "version": "1.1"
+      },
+      {
+        "sdate": "2018-08-02 17:03:35",
+        "edate": "2018-08-03 16:32:34",
+        "status": "offline",
+        "duration": "23小时28分",
+        "version": "1.0.0~1.1"
+      },
+      {
+        "sdate": "2018-07-02 07:58:08",
+        "edate": "2018-08-02 17:03:35",
+        "status": "online",
+        "duration": "31天9小时5分",
+        "version": "1.0.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

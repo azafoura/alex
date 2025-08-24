@@ -1,0 +1,27 @@
+{
+  "1547578056": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-04-08 23:51:04",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年135天11小时34分",
+        "version": "1.4.22"
+      },
+      {
+        "sdate": "2021-01-13 00:00:00",
+        "edate": "2024-04-08 23:51:04",
+        "status": "online",
+        "duration": "3年86天23小时51分",
+        "version": "1.1.7~1.4.22"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

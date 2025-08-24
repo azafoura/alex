@@ -1,0 +1,34 @@
+{
+  "1355600656": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-08-01 20:12:52",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年20天15小时25分",
+        "version": "1.0.15"
+      },
+      {
+        "sdate": "2018-08-18 00:00:00",
+        "edate": "2020-08-01 20:12:52",
+        "status": "online",
+        "duration": "1年349天20小时12分",
+        "version": "1.0.9~1.0.15"
+      },
+      {
+        "sdate": "2018-08-10 14:10:30",
+        "edate": "2018-08-18 00:00:00",
+        "status": "preorder",
+        "duration": "7天9小时49分",
+        "version": "1.0.6~1.0.9"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

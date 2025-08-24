@@ -1,0 +1,20 @@
+{
+  "943471748": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2014-12-18 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "10年248天22小时0分",
+        "version": "1.0.1~3.0.0"
+      }
+    ],
+    "total": 1,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

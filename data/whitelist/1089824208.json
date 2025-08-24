@@ -1,0 +1,27 @@
+{
+  "1089824208": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-06-23 13:41:47",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年60天10小时11分",
+        "version": "3.0.0"
+      },
+      {
+        "sdate": "2016-06-16 03:19:56",
+        "edate": "2016-06-23 13:41:47",
+        "status": "online",
+        "duration": "7天10小时21分",
+        "version": "3.0.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "693305936": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:16:56",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时39分",
+        "version": "3.1"
+      },
+      {
+        "sdate": "2019-07-22 16:04:06",
+        "edate": "2020-12-31 04:16:56",
+        "status": "online",
+        "duration": "1年162天12小时12分",
+        "version": "3.1"
+      },
+      {
+        "sdate": "2019-07-03 19:05:57",
+        "edate": "2019-07-22 16:04:06",
+        "status": "offline",
+        "duration": "18天20小时58分",
+        "version": "3.1"
+      },
+      {
+        "sdate": "2013-09-10 00:00:00",
+        "edate": "2019-07-03 19:05:57",
+        "status": "online",
+        "duration": "5年297天19小时5分",
+        "version": "2~3.1"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

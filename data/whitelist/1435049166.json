@@ -1,0 +1,34 @@
+{
+  "1435049166": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-05-25 07:36:17",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年90天13小时42分",
+        "version": "1.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-01-04 21:53:50",
+        "edate": "2019-03-19 00:00:00",
+        "duration": "73天2小时6分",
+        "version": "1.1"
+      },
+      {
+        "sdate": "2018-10-22 06:12:34",
+        "edate": "2019-05-25 07:36:17",
+        "status": "online",
+        "duration": "215天1小时23分",
+        "version": "1.0~1.1"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

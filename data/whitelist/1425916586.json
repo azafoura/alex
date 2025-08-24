@@ -1,0 +1,41 @@
+{
+  "1425916586": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:33:30",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天16小时42分",
+        "version": "2.0.5"
+      },
+      {
+        "sdate": "2018-09-17 02:51:33",
+        "edate": "2020-12-31 04:33:30",
+        "status": "online",
+        "duration": "2年106天1小时41分",
+        "version": "1.1~2.0.5"
+      },
+      {
+        "sdate": "2018-09-03 23:58:29",
+        "edate": "2018-09-17 02:51:33",
+        "status": "offline",
+        "duration": "13天2小时53分",
+        "version": "1.1"
+      },
+      {
+        "sdate": "2018-08-21 23:28:48",
+        "edate": "2018-09-03 23:58:29",
+        "status": "online",
+        "duration": "13天29分",
+        "version": "1.0~1.1"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

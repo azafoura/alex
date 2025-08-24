@@ -1,0 +1,27 @@
+{
+  "643791032": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-06-27 20:44:01",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年55天12小时7分",
+        "version": "6.5.1~8.0.26"
+      },
+      {
+        "sdate": "2013-07-30 15:03:48",
+        "edate": "2017-06-27 20:44:01",
+        "status": "online",
+        "duration": "3年333天5小时40分",
+        "version": "3.0~6.5.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1139342866": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:24:00",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天22分",
+        "version": "2.24.24"
+      },
+      {
+        "sdate": "2017-04-25 04:37:05",
+        "edate": "2020-12-31 04:24:00",
+        "status": "online",
+        "duration": "3年250天23小时46分",
+        "version": "1.3.5~2.24.24"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

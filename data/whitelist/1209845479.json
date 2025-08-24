@@ -1,0 +1,27 @@
+{
+  "1209845479": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 02:03:56",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天5小时22分",
+        "version": "1.5.4"
+      },
+      {
+        "sdate": "2017-03-14 21:04:40",
+        "edate": "2020-12-31 02:03:56",
+        "status": "online",
+        "duration": "3年292天4小时59分",
+        "version": "1.0~1.5.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

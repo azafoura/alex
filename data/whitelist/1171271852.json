@@ -1,0 +1,27 @@
+{
+  "1171271852": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-05-01 04:56:04",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年114天15分",
+        "version": "1.7.7"
+      },
+      {
+        "sdate": "2017-02-21 20:05:58",
+        "edate": "2019-05-01 04:56:04",
+        "status": "online",
+        "duration": "2年68天8小时50分",
+        "version": "1.0~1.7.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

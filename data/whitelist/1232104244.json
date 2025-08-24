@@ -1,0 +1,27 @@
+{
+  "1232104244": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2019-12-07 23:56:27",
+        "edate": "2019-12-08 02:00:00",
+        "duration": "2小时3分",
+        "version": "1.6.72"
+      },
+      {
+        "sdate": "2017-06-26 08:45:42",
+        "edate": "",
+        "status": "online",
+        "duration": "8年57天22小时51分",
+        "version": "1.0.0~2.0.98"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

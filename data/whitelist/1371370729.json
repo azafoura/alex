@@ -1,0 +1,27 @@
+{
+  "1371370729": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-07-12 10:00:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年41天1小时48分",
+        "version": "8.0"
+      },
+      {
+        "sdate": "2018-04-21 06:07:46",
+        "edate": "2021-07-12 10:00:13",
+        "status": "online",
+        "duration": "3年83天3小时52分",
+        "version": "1.0~8.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

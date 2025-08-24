@@ -1,0 +1,27 @@
+{
+  "477469043": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 07:59:39",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年145天39分",
+        "version": "2.4"
+      },
+      {
+        "sdate": "2011-11-21 22:33:42",
+        "edate": "2016-03-30 07:59:39",
+        "status": "online",
+        "duration": "4年130天9小时25分",
+        "version": "1.0~2.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

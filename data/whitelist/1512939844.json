@@ -1,0 +1,41 @@
+{
+  "1512939844": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-04-30 11:57:33",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年114天17小时15分",
+        "version": "1.0.2"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-07-06 08:36:34",
+        "edate": "2020-07-06 10:32:04",
+        "duration": "1小时55分",
+        "version": "1.0.2"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-06-04 14:29:39",
+        "edate": "2020-06-04 16:27:50",
+        "duration": "1小时58分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2020-05-21 00:00:00",
+        "edate": "2021-04-30 11:57:33",
+        "status": "online",
+        "duration": "344天11小时57分",
+        "version": "1.0~1.0.2"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

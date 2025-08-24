@@ -1,0 +1,27 @@
+{
+  "1457688775": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-08-01 03:18:54",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年21天20小时58分",
+        "version": "3.4"
+      },
+      {
+        "sdate": "2019-10-31 23:48:30",
+        "edate": "2020-08-01 03:18:54",
+        "status": "online",
+        "duration": "274天3小时30分",
+        "version": "2.6~3.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "850251209": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 10:00:37",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年144天23小时8分",
+        "version": "5.2.2~5.2.3"
+      },
+      {
+        "sdate": "2014-05-23 19:44:21",
+        "edate": "2016-03-30 10:00:37",
+        "status": "online",
+        "duration": "1年311天14小时16分",
+        "version": "2.2.1~5.2.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

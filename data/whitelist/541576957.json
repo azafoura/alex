@@ -1,0 +1,41 @@
+{
+  "541576957": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:16:45",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时27分",
+        "version": "1.9.2"
+      },
+      {
+        "sdate": "2020-11-16 22:51:32",
+        "edate": "2020-12-31 04:16:45",
+        "status": "online",
+        "duration": "44天5小时25分",
+        "version": "1.9.2"
+      },
+      {
+        "sdate": "2020-11-13 20:12:31",
+        "edate": "2020-11-16 22:51:32",
+        "status": "offline",
+        "duration": "3天2小时39分",
+        "version": "1.9.2"
+      },
+      {
+        "sdate": "2013-01-06 00:00:00",
+        "edate": "2020-11-13 20:12:31",
+        "status": "online",
+        "duration": "7年313天20小时12分",
+        "version": "1.4.3~1.9.2"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

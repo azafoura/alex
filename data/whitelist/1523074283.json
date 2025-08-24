@@ -1,0 +1,27 @@
+{
+  "1523074283": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-10-13 23:27:23",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年313天6小时16分",
+        "version": "1.12.0"
+      },
+      {
+        "sdate": "2020-07-30 00:00:00",
+        "edate": "2022-10-13 23:27:23",
+        "status": "online",
+        "duration": "2年75天23小时27分",
+        "version": "1.9~1.12.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

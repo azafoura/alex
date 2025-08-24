@@ -1,0 +1,27 @@
+{
+  "1598537187": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-07-18 18:21:03",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年34天22小时2分",
+        "version": "1.10.11"
+      },
+      {
+        "sdate": "2021-12-05 00:00:00",
+        "edate": "2024-07-18 18:21:03",
+        "status": "online",
+        "duration": "2年226天18小时21分",
+        "version": "1.0.0~1.10.11"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

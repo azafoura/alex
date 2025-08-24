@@ -1,0 +1,27 @@
+{
+  "599877646": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 08:34:46",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年145天14分",
+        "version": "1.6.4~1.6.5"
+      },
+      {
+        "sdate": "2014-04-09 08:56:28",
+        "edate": "2016-03-30 08:34:46",
+        "status": "online",
+        "duration": "1年355天23小时38分",
+        "version": "1.3.4~1.6.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

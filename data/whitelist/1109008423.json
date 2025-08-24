@@ -1,0 +1,27 @@
+{
+  "1109008423": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-05-14 02:31:38",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年101天1小时50分",
+        "version": "1.3"
+      },
+      {
+        "sdate": "2017-05-09 20:43:18",
+        "edate": "2017-05-14 02:31:38",
+        "status": "online",
+        "duration": "4天5小时48分",
+        "version": "1.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

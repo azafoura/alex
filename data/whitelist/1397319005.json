@@ -1,0 +1,41 @@
+{
+  "1397319005": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2023-02-02 12:20:07",
+        "edate": "2023-02-02 13:38:55",
+        "duration": "1小时18分",
+        "version": "2.59.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-10-29 00:04:25",
+        "edate": "2021-10-29 01:59:02",
+        "duration": "1小时54分",
+        "version": "2.24.0"
+      },
+      {
+        "sdate": "2021-04-26 00:21:08",
+        "edate": "",
+        "status": "online",
+        "duration": "4年119天4小时33分",
+        "version": "2.5.5~3.26.0"
+      },
+      {
+        "sdate": "2021-03-31 12:29:10",
+        "edate": "2021-04-26 00:21:08",
+        "status": "preorder",
+        "duration": "25天11小时51分",
+        "version": "2.5.3~2.5.5"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

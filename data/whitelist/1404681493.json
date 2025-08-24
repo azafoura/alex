@@ -1,0 +1,27 @@
+{
+  "1404681493": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-11-27 10:07:30",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年269天11小时2分",
+        "version": "1.9.09213"
+      },
+      {
+        "sdate": "2018-07-12 06:42:42",
+        "edate": "2018-11-27 10:07:30",
+        "status": "online",
+        "duration": "138天3小时24分",
+        "version": "1.8.07182~1.9.09213"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

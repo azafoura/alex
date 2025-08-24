@@ -1,0 +1,48 @@
+{
+  "1380070149": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-05-11 05:56:41",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年103天5小时56分",
+        "version": "1.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-02-12 02:44:05",
+        "edate": "2020-02-12 04:42:07",
+        "duration": "1小时58分",
+        "version": "1.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-01-12 02:49:35",
+        "edate": "2020-01-12 04:47:25",
+        "duration": "1小时57分",
+        "version": "1.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-07-11 23:59:55",
+        "edate": "2019-07-12 02:00:00",
+        "duration": "2小时0分",
+        "version": "1.1"
+      },
+      {
+        "sdate": "2018-05-31 00:00:00",
+        "edate": "2022-05-11 05:56:41",
+        "status": "online",
+        "duration": "3年346天5小时56分",
+        "version": "1.0~1.1"
+      }
+    ],
+    "total": 5,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

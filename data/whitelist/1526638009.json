@@ -1,0 +1,41 @@
+{
+  "1526638009": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-08-04 21:00:06",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年18天8小时50分",
+        "version": "1.5.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-11-16 05:51:55",
+        "edate": "2020-11-16 07:48:35",
+        "duration": "1小时56分",
+        "version": "1.3.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-10-01 17:39:57",
+        "edate": "2020-10-01 19:38:53",
+        "duration": "1小时58分",
+        "version": "0.1.0"
+      },
+      {
+        "sdate": "2020-08-26 00:00:00",
+        "edate": "2021-08-04 21:00:06",
+        "status": "online",
+        "duration": "343天21小时0分",
+        "version": "0.0.2~1.5.1"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

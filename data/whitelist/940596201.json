@@ -1,0 +1,27 @@
+{
+  "940596201": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-29 21:41:53",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年146天17分",
+        "version": "3.2.1"
+      },
+      {
+        "sdate": "2014-12-17 03:05:57",
+        "edate": "2016-03-29 21:41:53",
+        "status": "online",
+        "duration": "1年103天18小时35分",
+        "version": "1.0.5~3.2.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

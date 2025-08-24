@@ -1,0 +1,41 @@
+{
+  "1170455562": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2020-05-30 11:34:12",
+        "edate": "2020-05-30 13:28:35",
+        "duration": "1小时54分",
+        "version": "0.43.6"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-12-19 21:09:20",
+        "edate": "2019-12-19 23:00:00",
+        "duration": "1小时50分",
+        "version": "0.40.5"
+      },
+      {
+        "status": "out",
+        "sdate": "2018-01-14 05:04:32",
+        "edate": "2018-01-15 00:00:00",
+        "duration": "18小时55分",
+        "version": "0.22.2"
+      },
+      {
+        "sdate": "2016-12-20 17:27:24",
+        "edate": "",
+        "status": "online",
+        "duration": "8年245天11小时43分",
+        "version": "0.12.1~1.48.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

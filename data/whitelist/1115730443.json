@@ -1,0 +1,27 @@
+{
+  "1115730443": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-08-31 00:14:49",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年357天4小时12分",
+        "version": "1.23"
+      },
+      {
+        "sdate": "2017-01-04 15:36:04",
+        "edate": "2017-08-31 00:14:49",
+        "status": "online",
+        "duration": "238天8小时38分",
+        "version": "1.6.0~1.23"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

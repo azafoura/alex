@@ -1,0 +1,27 @@
+{
+  "1525328733": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2024-07-13 09:20:30",
+        "edate": "2024-07-13 12:21:11",
+        "duration": "3小时0分",
+        "version": "1.0.64"
+      },
+      {
+        "sdate": "2020-08-14 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "5年9天5小时48分",
+        "version": "1.0.1~1.0.79"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1453466226": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-06-05 10:38:17",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年79天13小时31分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2019-03-01 03:19:51",
+        "edate": "2019-06-05 10:38:17",
+        "status": "online",
+        "duration": "96天7小时18分",
+        "version": "1.0.0~1.0.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

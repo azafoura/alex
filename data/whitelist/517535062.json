@@ -1,0 +1,27 @@
+{
+  "517535062": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-10-25 01:23:33",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年301天7小时18分",
+        "version": "4.0"
+      },
+      {
+        "sdate": "2012-04-16 15:21:12",
+        "edate": "2016-10-25 01:23:33",
+        "status": "online",
+        "duration": "4年192天10小时2分",
+        "version": "1.0~4.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

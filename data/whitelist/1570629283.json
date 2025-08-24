@@ -1,0 +1,41 @@
+{
+  "1570629283": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-04-24 03:53:43",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年121天11小时52分",
+        "version": "1.0.4"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-09-07 15:11:04",
+        "edate": "2021-09-07 16:52:18",
+        "duration": "1小时41分",
+        "version": "1.0.4"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-06-18 21:20:22",
+        "edate": "2021-06-18 23:04:26",
+        "duration": "1小时44分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2021-06-18 00:00:00",
+        "edate": "2022-04-24 03:53:43",
+        "status": "online",
+        "duration": "310天3小时53分",
+        "version": "1.0.0~1.0.4"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

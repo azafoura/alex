@@ -1,0 +1,27 @@
+{
+  "1237514483": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:27:43",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天3小时12分",
+        "version": "1.39.144"
+      },
+      {
+        "sdate": "2017-09-19 11:03:21",
+        "edate": "2020-12-31 04:27:43",
+        "status": "online",
+        "duration": "3年103天17小时24分",
+        "version": "0.1.16~1.39.144"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

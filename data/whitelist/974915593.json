@@ -1,0 +1,27 @@
+{
+  "974915593": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2015-12-22 11:47:03",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年244天10小时27分",
+        "version": "1.0.10"
+      },
+      {
+        "sdate": "2015-05-23 01:43:44",
+        "edate": "2015-12-22 11:47:03",
+        "status": "online",
+        "duration": "213天10小时3分",
+        "version": "0.0.41~1.0.10"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

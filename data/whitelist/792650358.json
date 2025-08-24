@@ -1,0 +1,27 @@
+{
+  "792650358": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-05-31 01:13:09",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年83天7小时50分",
+        "version": "4.0.0"
+      },
+      {
+        "sdate": "2014-02-20 17:29:25",
+        "edate": "2017-05-31 01:13:09",
+        "status": "online",
+        "duration": "3年100天7小时43分",
+        "version": "1.0~4.0.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

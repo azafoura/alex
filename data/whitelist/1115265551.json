@@ -1,0 +1,41 @@
+{
+  "1115265551": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-16 22:39:21",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年36天6小时19分",
+        "version": "3.32"
+      },
+      {
+        "sdate": "2018-05-31 13:28:05",
+        "edate": "2020-07-16 22:39:21",
+        "status": "online",
+        "duration": "2年47天9小时11分",
+        "version": "1.83~3.32"
+      },
+      {
+        "sdate": "2018-02-23 04:22:06",
+        "edate": "2018-05-31 13:28:05",
+        "status": "offline",
+        "duration": "97天9小时5分",
+        "version": "1.40~1.83"
+      },
+      {
+        "sdate": "2017-07-14 13:21:45",
+        "edate": "2018-02-23 04:22:06",
+        "status": "online",
+        "duration": "223天15小时0分",
+        "version": "1.10~1.40"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

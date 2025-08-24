@@ -1,0 +1,27 @@
+{
+  "1564146071": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-09-01 19:23:42",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年350天11小时56分",
+        "version": "0.2.7"
+      },
+      {
+        "sdate": "2021-05-19 02:34:06",
+        "edate": "2021-09-01 19:23:42",
+        "status": "preorder",
+        "duration": "105天16小时49分",
+        "version": "0.1.65~0.2.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

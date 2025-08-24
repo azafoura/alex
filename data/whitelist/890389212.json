@@ -1,0 +1,27 @@
+{
+  "890389212": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:19:58",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年235天32分",
+        "version": "4.3.4"
+      },
+      {
+        "sdate": "2014-07-12 00:32:58",
+        "edate": "2020-12-31 04:19:58",
+        "status": "online",
+        "duration": "6年174天3小时47分",
+        "version": "1.0~4.3.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

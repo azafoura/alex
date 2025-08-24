@@ -1,0 +1,27 @@
+{
+  "698716187": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-06-03 19:18:30",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年78天13小时38分",
+        "version": "1.35"
+      },
+      {
+        "sdate": "2014-02-11 22:32:06",
+        "edate": "2020-06-03 19:18:30",
+        "status": "online",
+        "duration": "6年113天20小时46分",
+        "version": "1.0~1.35"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

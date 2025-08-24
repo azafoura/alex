@@ -1,0 +1,27 @@
+{
+  "1232704192": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:26:35",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天3小时10分",
+        "version": "3.3"
+      },
+      {
+        "sdate": "2017-05-05 00:00:00",
+        "edate": "2020-12-31 04:26:35",
+        "status": "online",
+        "duration": "3年241天4小时26分",
+        "version": "1.0~3.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

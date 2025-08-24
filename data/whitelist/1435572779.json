@@ -1,0 +1,27 @@
+{
+  "1435572779": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-03-08 00:56:10",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年168天20小时22分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-09-23 04:19:24",
+        "edate": "2019-03-08 00:56:10",
+        "status": "online",
+        "duration": "165天20小时36分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

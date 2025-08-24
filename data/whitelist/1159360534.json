@@ -1,0 +1,27 @@
+{
+  "1159360534": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-12-31 01:01:57",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年235天4小时5分",
+        "version": "1.3"
+      },
+      {
+        "sdate": "2016-09-29 00:01:59",
+        "edate": "2016-12-31 01:01:57",
+        "status": "online",
+        "duration": "93天59分",
+        "version": "1.0~1.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

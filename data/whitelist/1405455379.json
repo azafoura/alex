@@ -1,0 +1,27 @@
+{
+  "1405455379": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-09-10 02:40:39",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年346天18小时29分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2018-07-03 00:00:00",
+        "edate": "2021-09-10 02:40:39",
+        "status": "online",
+        "duration": "3年70天2小时40分",
+        "version": "1.0~2.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

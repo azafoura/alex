@@ -1,0 +1,34 @@
+{
+  "1386112466": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2021-09-02 19:23:01",
+        "edate": "2021-09-03 18:14:52",
+        "duration": "22小时51分",
+        "version": "1.4.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-02-21 17:30:15",
+        "edate": "2020-02-21 19:26:24",
+        "duration": "1小时56分",
+        "version": "1.2.5"
+      },
+      {
+        "sdate": "2018-05-31 17:51:56",
+        "edate": "",
+        "status": "online",
+        "duration": "7年83天18小时4分",
+        "version": "1.0.0~12.0.0"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

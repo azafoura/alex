@@ -1,0 +1,34 @@
+{
+  "1522271044": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-04-12 19:20:18",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年132天10小时21分",
+        "version": "1.0.2"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-08-02 11:32:24",
+        "edate": "2020-08-02 13:32:14",
+        "duration": "1小时59分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2020-07-29 00:00:00",
+        "edate": "2022-04-12 19:20:18",
+        "status": "online",
+        "duration": "1年257天19小时20分",
+        "version": "1.0.0~1.0.2"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

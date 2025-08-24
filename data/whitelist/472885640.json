@@ -1,0 +1,41 @@
+{
+  "472885640": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2019-08-16 18:12:14",
+        "edate": "2019-08-16 20:00:00",
+        "duration": "1小时47分",
+        "version": "5.07.07"
+      },
+      {
+        "sdate": "2019-08-15 14:35:33",
+        "edate": "",
+        "status": "online",
+        "duration": "6年6天18小时3分",
+        "version": "5.07.07~6.01.01"
+      },
+      {
+        "sdate": "2019-05-24 08:33:13",
+        "edate": "2019-08-15 14:35:33",
+        "status": "offline",
+        "duration": "83天6小时2分",
+        "version": "5.5.7~5.07.07"
+      },
+      {
+        "sdate": "2012-02-29 19:23:16",
+        "edate": "2019-05-24 08:33:13",
+        "status": "online",
+        "duration": "7年85天13小时9分",
+        "version": "1.0.3~5.5.7"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

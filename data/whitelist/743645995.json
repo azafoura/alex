@@ -1,0 +1,27 @@
+{
+  "743645995": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-10-03 03:50:08",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年323天5小时10分",
+        "version": "10.0.0"
+      },
+      {
+        "sdate": "2013-12-04 22:29:22",
+        "edate": "2018-10-03 03:50:08",
+        "status": "online",
+        "duration": "4年303天5小时20分",
+        "version": "1.0.0~10.0.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

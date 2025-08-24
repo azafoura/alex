@@ -1,0 +1,41 @@
+{
+  "1144422536": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 05:06:57",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天23小时53分",
+        "version": "1.2.0"
+      },
+      {
+        "sdate": "2018-07-01 16:15:35",
+        "edate": "2020-12-31 05:06:57",
+        "status": "online",
+        "duration": "2年183天12小时51分",
+        "version": "1.2.0"
+      },
+      {
+        "sdate": "2018-06-26 12:40:12",
+        "edate": "2018-07-01 16:15:35",
+        "status": "offline",
+        "duration": "5天3小时35分",
+        "version": "1.2.0"
+      },
+      {
+        "sdate": "2016-10-12 00:00:00",
+        "edate": "2018-06-26 12:40:12",
+        "status": "online",
+        "duration": "1年257天12小时40分",
+        "version": "1.0~1.2.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "983173014": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2015-04-28 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "10年117天22小时44分",
+        "version": "1.0"
+      }
+    ],
+    "total": 1,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

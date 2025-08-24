@@ -1,0 +1,27 @@
+{
+  "1484313627": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:40:29",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天20小时14分",
+        "version": "5.3"
+      },
+      {
+        "sdate": "2019-11-12 04:07:52",
+        "edate": "2020-12-31 04:40:29",
+        "status": "online",
+        "duration": "1年50天32分",
+        "version": "1.0~5.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

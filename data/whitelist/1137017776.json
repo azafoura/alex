@@ -1,0 +1,27 @@
+{
+  "1137017776": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-09-20 18:57:32",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年335天9小时46分",
+        "version": "1.2.8"
+      },
+      {
+        "sdate": "2016-07-26 00:00:00",
+        "edate": "2023-09-20 18:57:32",
+        "status": "online",
+        "duration": "7年57天18小时57分",
+        "version": "1.0.1~1.2.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

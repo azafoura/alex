@@ -1,0 +1,27 @@
+{
+  "1587817234": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-04-11 15:49:30",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年133天6分",
+        "version": "1.6.6"
+      },
+      {
+        "sdate": "2021-10-10 00:00:00",
+        "edate": "2024-04-11 15:49:30",
+        "status": "online",
+        "duration": "2年184天15小时49分",
+        "version": "1.0.0~1.6.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

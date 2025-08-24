@@ -1,0 +1,41 @@
+{
+  "1175971805": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-01-23 09:42:44",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年210天19小时30分",
+        "version": "1.22.6"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-05-21 17:35:31",
+        "edate": "2020-05-21 19:27:17",
+        "duration": "1小时51分",
+        "version": "1.21.2"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-03-29 17:52:50",
+        "edate": "2020-03-29 19:39:32",
+        "duration": "1小时46分",
+        "version": "1.20.6"
+      },
+      {
+        "sdate": "2016-12-12 00:00:00",
+        "edate": "2021-01-23 09:42:44",
+        "status": "online",
+        "duration": "4年43天9小时42分",
+        "version": "1.0.0~1.22.6"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

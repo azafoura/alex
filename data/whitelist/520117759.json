@@ -1,0 +1,27 @@
+{
+  "520117759": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 07:48:05",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年145天54分",
+        "version": "2.0.22~2.1"
+      },
+      {
+        "sdate": "2014-04-03 17:56:23",
+        "edate": "2016-03-30 07:48:05",
+        "status": "online",
+        "duration": "1年361天13小时51分",
+        "version": "1.0~2.0.22"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

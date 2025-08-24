@@ -1,0 +1,20 @@
+{
+  "1585393433": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-09-10 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "3年347天15小时55分",
+        "version": "1.0~2.0"
+      }
+    ],
+    "total": 1,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

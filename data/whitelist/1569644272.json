@@ -1,0 +1,27 @@
+{
+  "1569644272": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-11-02 00:39:05",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年294天15小时6分",
+        "version": "15.0.08"
+      },
+      {
+        "sdate": "2021-07-12 00:00:00",
+        "edate": "2023-11-02 00:39:05",
+        "status": "online",
+        "duration": "2年113天39分",
+        "version": "8.5.11~15.0.08"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

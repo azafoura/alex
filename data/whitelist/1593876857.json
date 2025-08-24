@@ -1,0 +1,27 @@
+{
+  "1593876857": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-11-16 02:07:49",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年280天13小时50分",
+        "version": "1.7.2"
+      },
+      {
+        "sdate": "2021-11-11 00:00:00",
+        "edate": "2022-11-16 02:07:49",
+        "status": "online",
+        "duration": "1年5天2小时7分",
+        "version": "1.0~1.7.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

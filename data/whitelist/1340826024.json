@@ -1,0 +1,27 @@
+{
+  "1340826024": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-07-27 02:35:34",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年27天8小时54分",
+        "version": "3.2.1"
+      },
+      {
+        "sdate": "2018-02-27 07:18:59",
+        "edate": "2018-07-27 02:35:34",
+        "status": "online",
+        "duration": "149天19小时16分",
+        "version": "3.2.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1156447726": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:24:25",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天41分",
+        "version": "2.2.4"
+      },
+      {
+        "sdate": "2016-11-16 11:24:33",
+        "edate": "2020-12-31 04:24:25",
+        "status": "online",
+        "duration": "4年45天16小时59分",
+        "version": "1.0.0~2.2.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

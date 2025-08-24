@@ -1,0 +1,27 @@
+{
+  "722565423": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-06-10 07:48:26",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年73天1小时10分",
+        "version": "7.4.0"
+      },
+      {
+        "sdate": "2014-12-01 23:01:59",
+        "edate": "2017-06-10 07:48:26",
+        "status": "online",
+        "duration": "2年191天8小时46分",
+        "version": "1.13.1~7.4.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

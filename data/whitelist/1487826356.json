@@ -1,0 +1,27 @@
+{
+  "1487826356": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-04-28 01:19:54",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年117天3小时36分",
+        "version": "1.11"
+      },
+      {
+        "sdate": "2019-11-17 09:27:35",
+        "edate": "2021-04-28 01:19:54",
+        "status": "online",
+        "duration": "1年162天15小时52分",
+        "version": "1.0~1.11"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

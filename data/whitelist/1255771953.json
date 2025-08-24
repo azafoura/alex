@@ -1,0 +1,27 @@
+{
+  "1255771953": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:27:37",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天3小时20分",
+        "version": "1.2.6"
+      },
+      {
+        "sdate": "2017-08-07 00:49:25",
+        "edate": "2020-12-31 04:27:37",
+        "status": "online",
+        "duration": "3年147天3小时38分",
+        "version": "1.0.0~1.2.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

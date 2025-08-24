@@ -1,0 +1,34 @@
+{
+  "1281193344": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-06-10 10:08:53",
+        "edate": "",
+        "status": "online",
+        "duration": "4年72天21小时49分",
+        "version": "2.7.1~2.7.6"
+      },
+      {
+        "sdate": "2020-12-31 04:29:05",
+        "edate": "2021-06-10 10:08:53",
+        "status": "offline",
+        "duration": "161天5小时39分",
+        "version": "2.7~2.7.1"
+      },
+      {
+        "sdate": "2017-09-12 00:00:00",
+        "edate": "2020-12-31 04:29:05",
+        "status": "online",
+        "duration": "3年111天4小时29分",
+        "version": "1.0~2.7"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

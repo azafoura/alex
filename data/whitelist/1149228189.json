@@ -1,0 +1,41 @@
+{
+  "1149228189": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-06-27 18:56:55",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年55天10小时6分",
+        "version": "2.0.4"
+      },
+      {
+        "sdate": "2020-06-18 15:49:26",
+        "edate": "2020-06-27 18:56:55",
+        "status": "online",
+        "duration": "9天3小时7分",
+        "version": "2.0.4"
+      },
+      {
+        "sdate": "2020-06-04 18:39:10",
+        "edate": "2020-06-18 15:49:26",
+        "status": "offline",
+        "duration": "13天21小时10分",
+        "version": "2.0.4"
+      },
+      {
+        "sdate": "2016-10-07 00:00:00",
+        "edate": "2020-06-04 18:39:10",
+        "status": "online",
+        "duration": "3年241天18小时39分",
+        "version": "1.0~2.0.4"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

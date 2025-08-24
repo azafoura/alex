@@ -1,0 +1,41 @@
+{
+  "1453388696": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-03-02 14:39:26",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年173天9小时30分",
+        "version": "1.0.26"
+      },
+      {
+        "sdate": "2021-02-20 10:31:34",
+        "edate": "2021-03-02 14:39:26",
+        "status": "online",
+        "duration": "10天4小时7分",
+        "version": "1.0.26"
+      },
+      {
+        "sdate": "2021-02-19 16:33:47",
+        "edate": "2021-02-20 10:31:34",
+        "status": "offline",
+        "duration": "17小时57分",
+        "version": "1.0.25~1.0.26"
+      },
+      {
+        "sdate": "2019-02-21 07:58:59",
+        "edate": "2021-02-19 16:33:47",
+        "status": "online",
+        "duration": "1年364天8小时34分",
+        "version": "1.0.0~1.0.25"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1475221263": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-04-13 18:50:22",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年131天5小时48分",
+        "version": "1.1"
+      },
+      {
+        "sdate": "2019-08-16 00:00:00",
+        "edate": "2021-04-13 18:50:22",
+        "status": "online",
+        "duration": "1年241天18小时50分",
+        "version": "1.0~1.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

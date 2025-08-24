@@ -1,0 +1,27 @@
+{
+  "830425827": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-04-30 06:42:55",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年114天2小时24分",
+        "version": "1.0.6~1.1.0"
+      },
+      {
+        "sdate": "2014-10-07 17:42:37",
+        "edate": "2016-04-30 06:42:55",
+        "status": "online",
+        "duration": "1年205天13小时0分",
+        "version": "0.9.0~1.0.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

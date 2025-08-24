@@ -1,0 +1,41 @@
+{
+  "1536885682": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-11-16 21:02:21",
+        "edate": "",
+        "status": "offline",
+        "duration": "4年279天9小时7分",
+        "version": "1.0.1~1.0.2"
+      },
+      {
+        "sdate": "2020-10-29 15:42:01",
+        "edate": "2020-11-16 20:30:02",
+        "status": "offline",
+        "duration": "18天4小时48分",
+        "version": "1.0.0~1.0.1"
+      },
+      {
+        "sdate": "2020-10-23 20:26:02",
+        "edate": "2020-10-29 15:42:01",
+        "status": "preorder",
+        "duration": "5天19小时15分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2020-10-23 20:26:02",
+        "edate": "2020-11-16 21:02:21",
+        "status": "preorder",
+        "duration": "32分",
+        "version": "1.0.0~1.0.1"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "798526054": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-09 20:01:36",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年254天13小时2分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2020-10-09 14:51:56",
+        "edate": "2020-12-09 20:01:36",
+        "status": "online",
+        "duration": "61天5小时9分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2020-09-09 00:35:31",
+        "edate": "2020-10-09 14:51:56",
+        "status": "offline",
+        "duration": "30天14小时16分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2014-01-22 00:00:00",
+        "edate": "2020-09-09 00:35:31",
+        "status": "online",
+        "duration": "6年232天35分",
+        "version": "1.0.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

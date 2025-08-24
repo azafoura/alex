@@ -1,0 +1,34 @@
+{
+  "1138864282": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-11-13 05:40:42",
+        "edate": "",
+        "status": "online",
+        "duration": "280天23小时5分",
+        "version": "1.3~2.0.1"
+      },
+      {
+        "sdate": "2020-12-31 04:24:02",
+        "edate": "2024-11-13 05:40:42",
+        "status": "offline",
+        "duration": "3年318天1小时16分",
+        "version": "1.2~1.3"
+      },
+      {
+        "sdate": "2016-09-07 00:00:00",
+        "edate": "2020-12-31 04:24:02",
+        "status": "online",
+        "duration": "4年116天4小时24分",
+        "version": "1.0.1~1.2"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

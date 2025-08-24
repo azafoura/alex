@@ -1,0 +1,27 @@
+{
+  "1119047804": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-08-16 10:41:31",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年5天17小时49分",
+        "version": "2.2.7"
+      },
+      {
+        "sdate": "2016-06-07 00:00:00",
+        "edate": "2022-08-16 10:41:31",
+        "status": "online",
+        "duration": "6年71天10小时41分",
+        "version": "1.0~2.2.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

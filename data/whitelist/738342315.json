@@ -1,0 +1,27 @@
+{
+  "738342315": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-04-28 18:12:18",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年114天14小时48分",
+        "version": "1.1.2"
+      },
+      {
+        "sdate": "2013-11-23 00:00:00",
+        "edate": "2023-04-28 18:12:18",
+        "status": "online",
+        "duration": "9年158天18小时12分",
+        "version": "1.0~1.1.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

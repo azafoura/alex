@@ -1,0 +1,27 @@
+{
+  "1495926853": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-28 05:00:27",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年299天0分",
+        "version": "1.4"
+      },
+      {
+        "sdate": "2020-09-25 06:48:10",
+        "edate": "2020-10-28 05:00:27",
+        "status": "online",
+        "duration": "32天22小时12分",
+        "version": "0.8.2~1.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

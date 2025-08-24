@@ -1,0 +1,27 @@
+{
+  "1520210574": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-12-06 02:14:50",
+        "edate": null,
+        "status": "offline",
+        "duration": "259天3小时25分",
+        "version": "1.4.0"
+      },
+      {
+        "sdate": "2020-07-01 00:00:00",
+        "edate": "2024-12-06 02:14:50",
+        "status": "online",
+        "duration": "4年159天2小时14分",
+        "version": "1.0.0~1.4.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

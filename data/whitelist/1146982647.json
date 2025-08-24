@@ -1,0 +1,27 @@
+{
+  "1146982647": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-10-02 01:29:01",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年325天3小时33分",
+        "version": "2.08"
+      },
+      {
+        "sdate": "2017-03-03 01:10:48",
+        "edate": "2019-10-02 01:29:01",
+        "status": "online",
+        "duration": "2年213天18分",
+        "version": "1.0~2.08"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

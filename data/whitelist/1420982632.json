@@ -1,0 +1,41 @@
+{
+  "1420982632": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-09 11:50:36",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年317天9小时24分",
+        "version": "2.4.0"
+      },
+      {
+        "sdate": "2020-10-02 13:46:31",
+        "edate": "2020-10-09 11:50:36",
+        "status": "online",
+        "duration": "6天22小时4分",
+        "version": "2.4.0"
+      },
+      {
+        "sdate": "2020-07-01 21:13:08",
+        "edate": "2020-10-02 13:46:31",
+        "status": "offline",
+        "duration": "92天16小时33分",
+        "version": "2.3.1~2.4.0"
+      },
+      {
+        "sdate": "2018-08-30 03:54:56",
+        "edate": "2020-07-01 21:13:08",
+        "status": "online",
+        "duration": "1年306天17小时18分",
+        "version": "1.0~2.3.1"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

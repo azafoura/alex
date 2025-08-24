@@ -1,0 +1,34 @@
+{
+  "1330926273": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-04-15 11:24:30",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年130天1分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2018-03-01 08:00:00",
+        "edate": "2018-04-15 11:24:30",
+        "status": "online",
+        "duration": "45天3小时24分",
+        "version": "1.1~2.0"
+      },
+      {
+        "sdate": "2018-02-02 17:04:55",
+        "edate": "2018-03-01 08:00:00",
+        "status": "preorder",
+        "duration": "26天14小时55分",
+        "version": "1.0~1.4"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

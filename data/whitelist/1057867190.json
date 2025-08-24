@@ -1,0 +1,27 @@
+{
+  "1057867190": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-04-27 09:37:26",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年117天13小时34分",
+        "version": "1.6"
+      },
+      {
+        "sdate": "2015-11-19 05:46:46",
+        "edate": "2019-04-27 09:37:26",
+        "status": "online",
+        "duration": "3年160天3小时50分",
+        "version": "1.0~1.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

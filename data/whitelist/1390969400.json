@@ -1,0 +1,97 @@
+{
+  "1390969400": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-01-09 03:29:18",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年226天8小时30分",
+        "version": "2.0.0"
+      },
+      {
+        "sdate": "2018-11-02 14:45:36",
+        "edate": "2019-01-09 03:29:18",
+        "status": "online",
+        "duration": "67天12小时43分",
+        "version": "2.0.0"
+      },
+      {
+        "sdate": "2018-10-31 11:32:23",
+        "edate": "2018-11-02 14:45:36",
+        "status": "offline",
+        "duration": "2天3小时13分",
+        "version": "2.0.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2018-09-22 17:27:25",
+        "edate": "2018-11-23 00:00:00",
+        "duration": "61天6小时32分",
+        "version": "2.0.0"
+      },
+      {
+        "sdate": "2018-09-16 09:57:03",
+        "edate": "2018-10-31 11:32:23",
+        "status": "online",
+        "duration": "45天1小时35分",
+        "version": "2.0.0"
+      },
+      {
+        "sdate": "2018-09-13 19:35:48",
+        "edate": "2018-09-16 09:57:03",
+        "status": "offline",
+        "duration": "2天14小时21分",
+        "version": "2.0.0"
+      },
+      {
+        "sdate": "2018-08-25 07:34:03",
+        "edate": "2018-09-13 19:35:48",
+        "status": "online",
+        "duration": "19天12小时1分",
+        "version": "2.0.0"
+      },
+      {
+        "sdate": "2018-08-16 23:11:01",
+        "edate": "2018-08-25 07:34:03",
+        "status": "offline",
+        "duration": "8天8小时23分",
+        "version": "2.0.0"
+      },
+      {
+        "sdate": "2018-08-06 18:40:20",
+        "edate": "2018-08-16 23:11:01",
+        "status": "online",
+        "duration": "10天4小时30分",
+        "version": "2.0.0"
+      },
+      {
+        "sdate": "2018-07-31 15:43:25",
+        "edate": "2018-08-06 18:40:20",
+        "status": "offline",
+        "duration": "6天2小时56分",
+        "version": "2.0.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2018-07-02 10:21:10",
+        "edate": "2018-09-04 00:00:00",
+        "duration": "63天13小时38分",
+        "version": "2.0.0"
+      },
+      {
+        "sdate": "2018-07-01 21:07:28",
+        "edate": "2018-07-31 15:43:25",
+        "status": "online",
+        "duration": "29天18小时35分",
+        "version": "2.0.0"
+      }
+    ],
+    "total": 12,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

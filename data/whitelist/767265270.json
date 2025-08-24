@@ -1,0 +1,27 @@
+{
+  "767265270": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-07-10 19:18:30",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年42天13小时43分",
+        "version": "4.8.0"
+      },
+      {
+        "sdate": "2014-02-26 20:22:01",
+        "edate": "2017-07-10 19:18:30",
+        "status": "online",
+        "duration": "3年134天22小时56分",
+        "version": "1.0.0~4.8.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

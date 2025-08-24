@@ -1,0 +1,41 @@
+{
+  "307466242": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-11-26 08:57:15",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年269天18小时33分",
+        "version": "11.0.5"
+      },
+      {
+        "sdate": "2020-07-08 12:46:30",
+        "edate": "2020-11-26 08:57:15",
+        "status": "online",
+        "duration": "140天20小时10分",
+        "version": "10.2.4~11.0.5"
+      },
+      {
+        "sdate": "2020-07-02 23:52:16",
+        "edate": "2020-07-08 12:46:30",
+        "status": "offline",
+        "duration": "5天12小时54分",
+        "version": "10.2.4"
+      },
+      {
+        "sdate": "2009-03-20 22:27:08",
+        "edate": "2020-07-02 23:52:16",
+        "status": "online",
+        "duration": "11年107天1小时25分",
+        "version": "7.3~10.2.4"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

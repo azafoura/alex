@@ -1,0 +1,27 @@
+{
+  "1067644352": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-11-14 00:58:07",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年281天22小时18分",
+        "version": "1.1.31"
+      },
+      {
+        "sdate": "2016-01-21 14:21:19",
+        "edate": "2017-11-14 00:58:07",
+        "status": "online",
+        "duration": "1年297天10小时36分",
+        "version": "1.0~1.1.31"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

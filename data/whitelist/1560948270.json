@@ -1,0 +1,27 @@
+{
+  "1560948270": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-04-11 07:19:24",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年134天4小时30分",
+        "version": "1.18.11"
+      },
+      {
+        "sdate": "2021-04-01 21:33:45",
+        "edate": "2021-04-11 07:19:24",
+        "status": "online",
+        "duration": "9天9小时45分",
+        "version": "1.18.7~1.18.11"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

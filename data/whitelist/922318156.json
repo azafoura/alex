@@ -1,0 +1,27 @@
+{
+  "922318156": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-05-30 00:36:04",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年84天21小时20分",
+        "version": "7.0.2851"
+      },
+      {
+        "sdate": "2015-03-31 23:34:44",
+        "edate": "2017-05-30 00:36:04",
+        "status": "online",
+        "duration": "2年60天1小时1分",
+        "version": "1.0.832~7.0.2851"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

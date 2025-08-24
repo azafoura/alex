@@ -1,0 +1,27 @@
+{
+  "1436808830": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-03-20 09:38:41",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年156天11小时41分",
+        "version": "1.0.5"
+      },
+      {
+        "sdate": "2018-10-09 06:29:12",
+        "edate": "2019-03-20 09:38:41",
+        "status": "online",
+        "duration": "162天3小时9分",
+        "version": "1.0~1.0.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

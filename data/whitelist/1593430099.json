@@ -1,0 +1,27 @@
+{
+  "1593430099": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-04-05 19:27:51",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年139天20小时30分",
+        "version": "3.1.0"
+      },
+      {
+        "sdate": "2021-12-07 00:00:00",
+        "edate": "2022-04-05 19:27:51",
+        "status": "online",
+        "duration": "119天19小时27分",
+        "version": "3.0.0~3.1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

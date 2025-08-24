@@ -1,0 +1,27 @@
+{
+  "1088781872": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2020-11-02 17:47:36",
+        "edate": "2020-11-02 19:41:50",
+        "duration": "1小时54分",
+        "version": "2.2"
+      },
+      {
+        "sdate": "2016-03-24 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "9年151天23小时52分",
+        "version": "1.0~4.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

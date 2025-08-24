@@ -1,0 +1,27 @@
+{
+  "994884811": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-02-23 12:12:10",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年180天10小时35分",
+        "version": "1.0.5"
+      },
+      {
+        "sdate": "2015-12-07 18:34:47",
+        "edate": "2018-02-23 12:12:10",
+        "status": "online",
+        "duration": "2年78天17小时37分",
+        "version": "1.0.3~1.0.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

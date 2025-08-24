@@ -1,0 +1,48 @@
+{
+  "904737816": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:16:17",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时39分",
+        "version": "2.7"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-03-23 20:42:57",
+        "edate": "2020-03-23 22:38:17",
+        "duration": "1小时55分",
+        "version": "2.7"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-03-17 14:36:44",
+        "edate": "2020-03-17 16:30:30",
+        "duration": "1小时53分",
+        "version": "2.7"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-11-22 20:47:48",
+        "edate": "2019-11-22 23:00:00",
+        "duration": "2小时12分",
+        "version": "2.5.2"
+      },
+      {
+        "sdate": "2014-11-17 18:35:19",
+        "edate": "2020-12-31 04:16:17",
+        "status": "online",
+        "duration": "6年45天9小时40分",
+        "version": "1.0~2.7"
+      }
+    ],
+    "total": 5,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

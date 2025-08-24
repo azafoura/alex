@@ -1,0 +1,41 @@
+{
+  "1560304005": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-02-06 12:22:05",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年197天23小时26分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2021-11-01 19:13:17",
+        "edate": "2022-02-06 12:22:05",
+        "status": "online",
+        "duration": "96天17小时8分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2021-08-07 19:18:06",
+        "edate": "2021-11-01 19:13:17",
+        "status": "offline",
+        "duration": "85天23小时55分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2021-04-03 00:00:00",
+        "edate": "2021-08-07 19:18:06",
+        "status": "online",
+        "duration": "126天19小时18分",
+        "version": "1.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

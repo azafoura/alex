@@ -1,0 +1,27 @@
+{
+  "903418970": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-10-01 19:09:56",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年325天2小时24分",
+        "version": "1.8"
+      },
+      {
+        "sdate": "2014-09-02 23:41:39",
+        "edate": "2019-10-01 19:09:56",
+        "status": "online",
+        "duration": "5年29天19小时28分",
+        "version": "1.0~1.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

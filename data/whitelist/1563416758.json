@@ -1,0 +1,41 @@
+{
+  "1563416758": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-07-02 02:05:29",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年52天9小时49分",
+        "version": "1.4.0"
+      },
+      {
+        "sdate": "2021-07-02 01:47:48",
+        "edate": "2021-07-02 02:05:29",
+        "status": "online",
+        "duration": "17分",
+        "version": "1.4.0"
+      },
+      {
+        "sdate": "2021-07-02 01:47:26",
+        "edate": "2021-07-02 01:47:48",
+        "status": "offline",
+        "duration": "0分",
+        "version": "1.4.0"
+      },
+      {
+        "sdate": "2021-04-17 00:00:00",
+        "edate": "2021-07-02 01:47:26",
+        "status": "online",
+        "duration": "76天1小时47分",
+        "version": "1.0~1.4.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

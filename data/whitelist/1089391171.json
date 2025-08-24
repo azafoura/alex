@@ -1,0 +1,27 @@
+{
+  "1089391171": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-09-18 14:48:28",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年338天9小时4分",
+        "version": "4.24"
+      },
+      {
+        "sdate": "2016-03-28 01:48:01",
+        "edate": "2018-09-18 14:48:28",
+        "status": "online",
+        "duration": "2年174天13小时0分",
+        "version": "3.08~4.24"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

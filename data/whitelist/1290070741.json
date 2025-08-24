@@ -1,0 +1,90 @@
+{
+  "1290070741": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-12-01 04:06:52",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年264天3小时54分",
+        "version": "1.7.3"
+      },
+      {
+        "sdate": "2021-12-01 04:04:02",
+        "edate": "2021-12-01 04:06:52",
+        "status": "online",
+        "duration": "2分",
+        "version": "1.7.3"
+      },
+      {
+        "sdate": "2021-12-01 03:42:43",
+        "edate": "2021-12-01 04:04:02",
+        "status": "offline",
+        "duration": "21分",
+        "version": "1.7.3"
+      },
+      {
+        "sdate": "2021-02-04 18:33:04",
+        "edate": "2021-12-01 03:42:43",
+        "status": "online",
+        "duration": "299天9小时9分",
+        "version": "1.7.3"
+      },
+      {
+        "sdate": "2021-02-01 11:51:42",
+        "edate": "2021-02-04 18:33:04",
+        "status": "offline",
+        "duration": "3天6小时41分",
+        "version": "1.7.3"
+      },
+      {
+        "sdate": "2021-01-28 17:24:01",
+        "edate": "2021-02-01 11:51:42",
+        "status": "online",
+        "duration": "3天18小时27分",
+        "version": "1.7.0~1.7.3"
+      },
+      {
+        "sdate": "2021-01-22 17:03:20",
+        "edate": "2021-01-28 17:24:01",
+        "status": "offline",
+        "duration": "6天20分",
+        "version": "1.7.0"
+      },
+      {
+        "sdate": "2021-01-21 13:09:42",
+        "edate": "2021-01-22 17:03:20",
+        "status": "online",
+        "duration": "1天3小时53分",
+        "version": "1.7.0"
+      },
+      {
+        "sdate": "2019-12-31 12:35:01",
+        "edate": "2021-01-21 13:09:42",
+        "status": "offline",
+        "duration": "1年22天34分",
+        "version": "1.6.5~1.7.0"
+      },
+      {
+        "sdate": "2018-10-03 00:00:00",
+        "edate": "2019-12-31 12:35:01",
+        "status": "online",
+        "duration": "1年89天12小时35分",
+        "version": "1.2.6~1.6.5"
+      },
+      {
+        "sdate": "2018-08-17 00:00:00",
+        "edate": "2018-10-03 00:00:00",
+        "status": "preorder",
+        "duration": "47天0分",
+        "version": "1.2.4~1.2.7"
+      }
+    ],
+    "total": 11,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

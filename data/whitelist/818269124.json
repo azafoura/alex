@@ -1,0 +1,34 @@
+{
+  "818269124": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:22:25",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时43分",
+        "version": "26.6.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-04-07 08:36:06",
+        "edate": "2020-04-07 10:35:28",
+        "duration": "1小时59分",
+        "version": "25.15.1"
+      },
+      {
+        "sdate": "2014-03-01 20:37:07",
+        "edate": "2020-12-31 04:22:25",
+        "status": "online",
+        "duration": "6年306天7小时45分",
+        "version": "1.0~26.6.0"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

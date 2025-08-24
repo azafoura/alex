@@ -1,0 +1,41 @@
+{
+  "1330753970": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:30:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天6小时55分",
+        "version": "1.126"
+      },
+      {
+        "sdate": "2020-12-30 00:34:06",
+        "edate": "2020-12-31 04:30:13",
+        "status": "online",
+        "duration": "1天3小时56分",
+        "version": "1.126"
+      },
+      {
+        "sdate": "2020-12-29 20:03:37",
+        "edate": "2020-12-30 00:34:06",
+        "status": "offline",
+        "duration": "4小时30分",
+        "version": "1.126"
+      },
+      {
+        "sdate": "2018-04-13 00:00:00",
+        "edate": "2020-12-29 20:03:37",
+        "status": "online",
+        "duration": "2年261天20小时3分",
+        "version": "1.101~1.126"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

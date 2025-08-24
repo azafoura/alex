@@ -1,0 +1,27 @@
+{
+  "1184233905": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-01-28 14:59:33",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年205天14小时16分",
+        "version": "8.9.1401"
+      },
+      {
+        "sdate": "2017-05-25 00:00:00",
+        "edate": "2021-01-28 14:59:33",
+        "status": "online",
+        "duration": "3年249天14小时59分",
+        "version": "8.9.1401"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1458950730": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:37:07",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天19小时41分",
+        "version": "2.19"
+      },
+      {
+        "sdate": "2019-04-23 14:43:22",
+        "edate": "2020-12-31 04:37:07",
+        "status": "online",
+        "duration": "1年252天13小时53分",
+        "version": "1.2~2.19"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1239640945": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-06-25 18:49:52",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年58天12小时51分",
+        "version": "2.1.6"
+      },
+      {
+        "sdate": "2017-05-25 21:21:59",
+        "edate": "2019-06-25 18:49:52",
+        "status": "online",
+        "duration": "2年30天21小时27分",
+        "version": "1.0~2.1.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

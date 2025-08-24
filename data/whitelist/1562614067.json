@@ -1,0 +1,34 @@
+{
+  "1562614067": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-01-24 07:23:23",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年211天4小时29分",
+        "version": "12.302"
+      },
+      {
+        "sdate": "2021-04-28 22:08:34",
+        "edate": "2022-01-24 07:23:23",
+        "status": "online",
+        "duration": "270天9小时14分",
+        "version": "12.301~12.302"
+      },
+      {
+        "sdate": "2021-04-15 09:32:12",
+        "edate": "2021-04-28 22:08:34",
+        "status": "preorder",
+        "duration": "13天12小时36分",
+        "version": "12.300~12.301"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

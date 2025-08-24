@@ -1,0 +1,27 @@
+{
+  "1526410871": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-02-12 10:01:15",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年191天19小时48分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2020-08-16 00:00:00",
+        "edate": "2022-02-12 10:01:15",
+        "status": "online",
+        "duration": "1年180天10小时1分",
+        "version": "1.0.0~1.0.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

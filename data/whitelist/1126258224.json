@@ -1,0 +1,41 @@
+{
+  "1126258224": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-10-30 17:45:30",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年295天10小时52分",
+        "version": "5.0"
+      },
+      {
+        "sdate": "2023-10-30 15:26:17",
+        "edate": "2023-10-30 17:45:30",
+        "status": "online",
+        "duration": "2小时19分",
+        "version": "5.0"
+      },
+      {
+        "sdate": "2022-07-04 19:00:42",
+        "edate": "2023-10-30 15:26:17",
+        "status": "offline",
+        "duration": "1年117天20小时25分",
+        "version": "5.0"
+      },
+      {
+        "sdate": "2016-06-23 00:00:00",
+        "edate": "2022-07-04 19:00:42",
+        "status": "online",
+        "duration": "6年12天19小时0分",
+        "version": "1.0~5.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

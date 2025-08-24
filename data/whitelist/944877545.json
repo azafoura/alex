@@ -1,0 +1,27 @@
+{
+  "944877545": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:17:40",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时43分",
+        "version": "2.5.163"
+      },
+      {
+        "sdate": "2015-02-28 11:50:41",
+        "edate": "2020-12-31 04:17:40",
+        "status": "online",
+        "duration": "5年307天16小时26分",
+        "version": "1.0.8~2.5.163"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

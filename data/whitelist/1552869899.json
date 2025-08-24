@@ -1,0 +1,34 @@
+{
+  "1552869899": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-02-17 06:08:52",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年187天5小时28分",
+        "version": "0.2.27"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-09-02 19:23:01",
+        "edate": "2021-09-02 21:00:52",
+        "duration": "1小时37分",
+        "version": "0.1.3"
+      },
+      {
+        "sdate": "2021-02-15 00:00:00",
+        "edate": "2024-02-17 06:08:52",
+        "status": "online",
+        "duration": "3年2天6小时8分",
+        "version": "0.0.3~0.2.27"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

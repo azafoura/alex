@@ -1,0 +1,41 @@
+{
+  "1377599779": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-08-08 18:05:34",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年14天17小时46分",
+        "version": "1.2.0"
+      },
+      {
+        "sdate": "2018-05-09 09:10:54",
+        "edate": "2018-08-08 18:05:34",
+        "status": "online",
+        "duration": "91天8小时54分",
+        "version": "1.0.2~1.2.0"
+      },
+      {
+        "sdate": "2018-05-08 17:23:41",
+        "edate": "2018-05-09 09:10:54",
+        "status": "offline",
+        "duration": "15小时47分",
+        "version": "1.0~1.0.2"
+      },
+      {
+        "sdate": "2018-05-07 15:47:01",
+        "edate": "2018-05-08 17:23:41",
+        "status": "online",
+        "duration": "1天1小时36分",
+        "version": "1.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

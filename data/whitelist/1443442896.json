@@ -1,0 +1,27 @@
+{
+  "1443442896": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-12-26 17:45:51",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年240天3小时39分",
+        "version": "1.0.3"
+      },
+      {
+        "sdate": "2018-12-07 03:46:54",
+        "edate": "2018-12-26 17:45:51",
+        "status": "online",
+        "duration": "19天13小时58分",
+        "version": "1.0.1~1.0.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

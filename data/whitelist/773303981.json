@@ -1,0 +1,27 @@
+{
+  "773303981": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:13:53",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时48分",
+        "version": "7.3.1"
+      },
+      {
+        "sdate": "2013-12-17 19:52:57",
+        "edate": "2020-12-31 04:13:53",
+        "status": "online",
+        "duration": "7年15天8小时20分",
+        "version": "5.0.0~7.3.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

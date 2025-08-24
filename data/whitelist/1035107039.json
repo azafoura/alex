@@ -1,0 +1,41 @@
+{
+  "1035107039": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2021-11-23 21:12:21",
+        "edate": "2021-12-07 21:47:55",
+        "duration": "14天35分",
+        "version": "22.11"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-10-12 11:46:50",
+        "edate": "2019-10-12 14:00:00",
+        "duration": "2小时13分",
+        "version": "18.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2017-01-04 16:15:09",
+        "edate": "2017-03-20 00:00:00",
+        "duration": "74天7小时44分",
+        "version": "14.1"
+      },
+      {
+        "sdate": "2015-09-21 23:59:20",
+        "edate": "",
+        "status": "online",
+        "duration": "9年335天22小时59分",
+        "version": "8.9~23"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

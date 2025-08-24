@@ -1,0 +1,27 @@
+{
+  "525904070": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:08:56",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时34分",
+        "version": "1.5.10"
+      },
+      {
+        "sdate": "2012-05-17 00:00:00",
+        "edate": "2020-12-31 04:08:56",
+        "status": "online",
+        "duration": "8年230天4小时8分",
+        "version": "1.0~1.5.10"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

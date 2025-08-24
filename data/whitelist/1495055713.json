@@ -1,0 +1,27 @@
+{
+  "1495055713": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:40:48",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年235天19分",
+        "version": "1.8.1"
+      },
+      {
+        "sdate": "2020-02-05 12:27:03",
+        "edate": "2020-12-31 04:40:48",
+        "status": "online",
+        "duration": "329天16小时13分",
+        "version": "1.3.6~1.8.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

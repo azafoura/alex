@@ -1,0 +1,34 @@
+{
+  "1574294342": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-12-21 09:35:43",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年245天6小时13分",
+        "version": "1.20"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-08-24 14:56:11",
+        "edate": "2021-08-24 16:47:19",
+        "duration": "1小时51分",
+        "version": "1.7"
+      },
+      {
+        "sdate": "2021-07-01 00:00:00",
+        "edate": "2023-12-21 09:35:43",
+        "status": "online",
+        "duration": "2年173天9小时35分",
+        "version": "1.3~1.20"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

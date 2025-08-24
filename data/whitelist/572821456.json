@@ -1,0 +1,27 @@
+{
+  "572821456": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-03 16:54:25",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年260天15小时52分",
+        "version": "1.260.14"
+      },
+      {
+        "sdate": "2014-12-16 09:00:35",
+        "edate": "2020-12-03 16:54:25",
+        "status": "online",
+        "duration": "5年354天7小时53分",
+        "version": "1.33.1~1.260.14"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

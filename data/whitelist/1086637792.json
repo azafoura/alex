@@ -1,0 +1,27 @@
+{
+  "1086637792": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-02-15 01:48:31",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年188天22小时2分",
+        "version": ""
+      },
+      {
+        "sdate": "2016-05-24 14:58:07",
+        "edate": "2018-02-15 01:48:31",
+        "status": "online",
+        "duration": "1年266天10小时50分",
+        "version": ""
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

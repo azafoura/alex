@@ -1,0 +1,41 @@
+{
+  "1586035259": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-01-29 00:20:51",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年206天15小时34分",
+        "version": "1.10.10"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-12-16 03:50:30",
+        "edate": "2021-12-16 05:29:58",
+        "duration": "1小时39分",
+        "version": "1.10.10"
+      },
+      {
+        "sdate": "2021-10-31 22:57:30",
+        "edate": "2022-01-29 00:20:51",
+        "status": "online",
+        "duration": "89天1小时23分",
+        "version": "1.10.4~1.10.10"
+      },
+      {
+        "sdate": "2021-10-27 20:57:06",
+        "edate": "2021-10-31 22:57:30",
+        "status": "preorder",
+        "duration": "4天2小时0分",
+        "version": "1.10.4"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

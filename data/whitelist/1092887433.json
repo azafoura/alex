@@ -1,0 +1,27 @@
+{
+  "1092887433": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-01-23 05:03:30",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年211天23小时12分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2016-03-19 00:11:01",
+        "edate": "2020-01-23 05:03:30",
+        "status": "online",
+        "duration": "3年310天4小时52分",
+        "version": "2.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1315895039": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-01-18 20:08:03",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年216天12小时3分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2017-11-29 03:43:40",
+        "edate": "2018-01-18 20:08:03",
+        "status": "online",
+        "duration": "50天16小时24分",
+        "version": "1.0.0~1.0.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "1243374084": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-02-19 04:26:01",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年185天3小时16分",
+        "version": "2.2"
+      },
+      {
+        "sdate": "2019-01-28 10:36:49",
+        "edate": "2019-02-19 04:26:01",
+        "status": "online",
+        "duration": "21天17小时49分",
+        "version": "2.2"
+      },
+      {
+        "sdate": "2018-01-04 19:07:46",
+        "edate": "2019-01-28 10:36:49",
+        "status": "offline",
+        "duration": "1年23天15小时29分",
+        "version": "1.5~2.2"
+      },
+      {
+        "sdate": "2017-06-23 02:37:49",
+        "edate": "2018-01-04 19:07:46",
+        "status": "online",
+        "duration": "195天16小时29分",
+        "version": "1.0~1.5"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

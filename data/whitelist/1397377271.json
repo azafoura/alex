@@ -1,0 +1,27 @@
+{
+  "1397377271": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-12-14 10:22:52",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年252天18小时32分",
+        "version": "1.1.3"
+      },
+      {
+        "sdate": "2018-07-04 03:08:24",
+        "edate": "2018-12-14 10:22:52",
+        "status": "online",
+        "duration": "163天7小时14分",
+        "version": "1.0~1.1.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

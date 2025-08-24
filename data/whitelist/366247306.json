@@ -1,0 +1,27 @@
+{
+  "366247306": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-03-12 07:38:40",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年161天55分",
+        "version": "7.33"
+      },
+      {
+        "sdate": "2010-05-06 19:08:53",
+        "edate": "2024-03-12 07:38:40",
+        "status": "online",
+        "duration": "13年313天12小时29分",
+        "version": "1.0.0~7.33"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

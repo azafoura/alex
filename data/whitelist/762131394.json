@@ -1,0 +1,27 @@
+{
+  "762131394": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-12-06 22:11:45",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年258天10小时50分",
+        "version": "2.60.5"
+      },
+      {
+        "sdate": "2013-12-07 19:54:05",
+        "edate": "2019-12-06 22:11:45",
+        "status": "online",
+        "duration": "6年0天2小时17分",
+        "version": "0.0.1~2.60.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1536131077": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-04-02 22:59:25",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年142天7小时9分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2021-02-02 14:44:58",
+        "edate": "2021-04-02 22:59:25",
+        "status": "online",
+        "duration": "59天8小时14分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "1369823229": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-08-19 15:08:49",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年1天20小时37分",
+        "version": "2.5"
+      },
+      {
+        "sdate": "2020-10-21 20:59:22",
+        "edate": "2024-08-19 15:08:49",
+        "status": "online",
+        "duration": "3年302天18小时9分",
+        "version": "1.5~2.5"
+      },
+      {
+        "sdate": "2020-07-25 00:00:00",
+        "edate": "2020-10-21 20:59:22",
+        "status": "preorder",
+        "duration": "88天20小时59分",
+        "version": "1.0~1.5"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "1373075098": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-11-16 13:36:55",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年278天22小时12分",
+        "version": "2.2"
+      },
+      {
+        "sdate": "2021-01-07 11:47:30",
+        "edate": "2022-11-16 13:36:55",
+        "status": "online",
+        "duration": "1年313天1小时49分",
+        "version": "1.0~2.2"
+      },
+      {
+        "sdate": "2020-12-31 04:31:28",
+        "edate": "2021-01-07 11:47:30",
+        "status": "offline",
+        "duration": "7天7小时16分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-04-20 00:00:00",
+        "edate": "2020-12-31 04:31:28",
+        "status": "online",
+        "duration": "2年256天4小时31分",
+        "version": "1.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

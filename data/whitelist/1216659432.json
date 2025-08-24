@@ -1,0 +1,27 @@
+{
+  "1216659432": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-12-19 14:11:18",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年246天17小时18分",
+        "version": "2.0.0"
+      },
+      {
+        "sdate": "2017-03-20 15:48:06",
+        "edate": "2019-12-19 14:11:18",
+        "status": "online",
+        "duration": "2年273天22小时23分",
+        "version": "1.0~2.0.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

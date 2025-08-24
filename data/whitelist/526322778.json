@@ -1,0 +1,41 @@
+{
+  "526322778": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:14:17",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时29分",
+        "version": "1.1.2"
+      },
+      {
+        "sdate": "2019-07-05 21:12:32",
+        "edate": "2020-12-31 04:14:17",
+        "status": "online",
+        "duration": "1年179天7小时1分",
+        "version": "1.1.2"
+      },
+      {
+        "sdate": "2019-07-05 19:11:19",
+        "edate": "2019-07-05 21:12:32",
+        "status": "offline",
+        "duration": "2小时1分",
+        "version": "1.1.2"
+      },
+      {
+        "sdate": "2012-05-22 00:00:00",
+        "edate": "2019-07-05 19:11:19",
+        "status": "online",
+        "duration": "7年45天19小时11分",
+        "version": "1.0.0~1.1.2"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

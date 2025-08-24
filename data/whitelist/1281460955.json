@@ -1,0 +1,34 @@
+{
+  "1281460955": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-07-13 12:15:01",
+        "edate": "",
+        "status": "online",
+        "duration": "7年40天19小时43分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2018-06-26 16:53:59",
+        "edate": "2018-07-13 12:15:01",
+        "status": "offline",
+        "duration": "16天19小时21分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2017-09-29 02:29:40",
+        "edate": "2018-06-26 16:53:59",
+        "status": "online",
+        "duration": "270天14小时24分",
+        "version": "1.1.10~2.0"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "1560271138": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-03-15 06:55:46",
+        "edate": "",
+        "status": "online",
+        "duration": "2年161天4小时52分",
+        "version": "10.1.0~10.4.7"
+      },
+      {
+        "sdate": "2023-03-04 03:59:20",
+        "edate": "2023-03-15 06:55:46",
+        "status": "offline",
+        "duration": "11天2小时56分",
+        "version": "10.1.0"
+      },
+      {
+        "sdate": "2021-06-02 23:39:27",
+        "edate": "2023-03-04 03:59:20",
+        "status": "online",
+        "duration": "1年274天4小时19分",
+        "version": "3.0.2~10.1.0"
+      },
+      {
+        "sdate": "2021-04-06 09:53:11",
+        "edate": "2021-06-02 23:39:27",
+        "status": "preorder",
+        "duration": "57天13小时46分",
+        "version": "1.0~3.0.2"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

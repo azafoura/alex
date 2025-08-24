@@ -1,0 +1,34 @@
+{
+  "1559030764": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-04-21 02:20:07",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年124天9小时25分",
+        "version": "3.5"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-04-17 14:45:39",
+        "edate": "2021-04-17 16:46:37",
+        "duration": "2小时0分",
+        "version": "3.5"
+      },
+      {
+        "sdate": "2021-03-19 16:41:43",
+        "edate": "2021-04-21 02:20:07",
+        "status": "online",
+        "duration": "32天9小时38分",
+        "version": "2.4~3.5"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

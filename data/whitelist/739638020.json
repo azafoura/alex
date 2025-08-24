@@ -1,0 +1,27 @@
+{
+  "739638020": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-05-04 12:58:58",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年108天20小时1分",
+        "version": "2.8"
+      },
+      {
+        "sdate": "2013-11-14 00:00:00",
+        "edate": "2022-05-04 12:58:58",
+        "status": "online",
+        "duration": "8年173天12小时58分",
+        "version": "1.0~2.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

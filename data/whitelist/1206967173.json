@@ -1,0 +1,27 @@
+{
+  "1206967173": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-04-18 08:57:52",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年126天20小时31分",
+        "version": "6.3.0"
+      },
+      {
+        "sdate": "2017-06-05 22:05:25",
+        "edate": "2019-04-18 08:57:52",
+        "status": "online",
+        "duration": "1年316天10小时52分",
+        "version": "5.0.1~6.3.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

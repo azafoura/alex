@@ -1,0 +1,27 @@
+{
+  "1151103107": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-07-22 00:33:49",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年31天4小时30分",
+        "version": "11.0"
+      },
+      {
+        "sdate": "2017-10-10 00:00:00",
+        "edate": "2022-07-22 00:33:49",
+        "status": "online",
+        "duration": "4年286天33分",
+        "version": "1.0~11.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

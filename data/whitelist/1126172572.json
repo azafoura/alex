@@ -1,0 +1,27 @@
+{
+  "1126172572": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-07-18 03:04:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年36天1小时33分",
+        "version": "1.5.25"
+      },
+      {
+        "sdate": "2017-04-26 17:06:50",
+        "edate": "2019-07-18 03:04:13",
+        "status": "online",
+        "duration": "2年82天9小时57分",
+        "version": "1.0~1.5.25"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

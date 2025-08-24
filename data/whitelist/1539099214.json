@@ -1,0 +1,27 @@
+{
+  "1539099214": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-05-24 16:24:23",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年90天13小时46分",
+        "version": "1.13.1213"
+      },
+      {
+        "sdate": "2020-11-23 00:00:00",
+        "edate": "2022-05-24 16:24:23",
+        "status": "online",
+        "duration": "1年182天16小时24分",
+        "version": "1.0~1.13.1213"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

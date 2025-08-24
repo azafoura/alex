@@ -1,0 +1,27 @@
+{
+  "1044503337": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-02-22 17:04:46",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年181天6小时0分",
+        "version": ""
+      },
+      {
+        "sdate": "2016-07-19 03:56:30",
+        "edate": "2018-02-22 17:04:46",
+        "status": "online",
+        "duration": "1年218天13小时8分",
+        "version": ""
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

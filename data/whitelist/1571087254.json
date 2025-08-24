@@ -1,0 +1,27 @@
+{
+  "1571087254": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-10-01 23:03:49",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年325天16小时43分",
+        "version": "3.0"
+      },
+      {
+        "sdate": "2021-07-15 00:00:00",
+        "edate": "2021-10-01 23:03:49",
+        "status": "online",
+        "duration": "78天23小时3分",
+        "version": "1.0~3.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

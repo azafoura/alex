@@ -1,0 +1,27 @@
+{
+  "1435287007": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:33:38",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天16小时45分",
+        "version": "2.3"
+      },
+      {
+        "sdate": "2018-09-11 00:00:00",
+        "edate": "2020-12-31 04:33:38",
+        "status": "online",
+        "duration": "2年112天4小时33分",
+        "version": "1.0~2.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

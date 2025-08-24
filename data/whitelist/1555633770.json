@@ -1,0 +1,41 @@
+{
+  "1555633770": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-03-26 21:44:33",
+        "edate": "",
+        "status": "online",
+        "duration": "2年149天13小时56分",
+        "version": "4.0.28"
+      },
+      {
+        "sdate": "2023-03-26 19:28:15",
+        "edate": "2023-03-26 21:44:33",
+        "status": "offline",
+        "duration": "2小时16分",
+        "version": "4.0.28"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-09-13 23:58:53",
+        "edate": "2021-09-14 01:53:48",
+        "duration": "1小时54分",
+        "version": "4.0.12"
+      },
+      {
+        "sdate": "2021-02-27 00:00:00",
+        "edate": "2023-03-26 19:28:15",
+        "status": "online",
+        "duration": "2年27天19小时28分",
+        "version": "1.0.2~4.0.28"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

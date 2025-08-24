@@ -1,0 +1,27 @@
+{
+  "1589028908": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-06-06 08:29:09",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年78天7小时27分",
+        "version": "1.19.18"
+      },
+      {
+        "sdate": "2021-10-24 00:00:00",
+        "edate": "2023-06-06 08:29:09",
+        "status": "online",
+        "duration": "1年225天8小时29分",
+        "version": "1.2.2~1.19.18"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

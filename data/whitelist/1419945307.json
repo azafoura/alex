@@ -1,0 +1,27 @@
+{
+  "1419945307": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-10-20 10:55:24",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年307天10小时19分",
+        "version": "1.1.58"
+      },
+      {
+        "sdate": "2018-08-03 16:53:18",
+        "edate": "2018-10-20 10:55:24",
+        "status": "online",
+        "duration": "77天18小时2分",
+        "version": "1.1.58"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

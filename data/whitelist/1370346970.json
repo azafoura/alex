@@ -1,0 +1,27 @@
+{
+  "1370346970": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-21 11:05:37",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年32天41分",
+        "version": "1.1.23"
+      },
+      {
+        "sdate": "2018-07-20 15:23:42",
+        "edate": "2020-07-21 11:05:37",
+        "status": "online",
+        "duration": "2年1天19小时41分",
+        "version": "1.0.0~1.1.23"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

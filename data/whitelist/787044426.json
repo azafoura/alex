@@ -1,0 +1,27 @@
+{
+  "787044426": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-01-02 16:31:25",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年231天16小时31分",
+        "version": "1.3"
+      },
+      {
+        "sdate": "2014-01-10 23:23:29",
+        "edate": "2020-01-02 16:31:25",
+        "status": "online",
+        "duration": "5年357天17小时7分",
+        "version": "1.0~1.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

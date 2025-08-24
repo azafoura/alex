@@ -1,0 +1,27 @@
+{
+  "1572413700": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-10-26 13:25:10",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年301天2小时22分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2021-06-26 00:00:00",
+        "edate": "2022-10-26 13:25:10",
+        "status": "online",
+        "duration": "1年122天13小时25分",
+        "version": "1.0.0~1.0.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

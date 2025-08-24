@@ -1,0 +1,27 @@
+{
+  "1511971422": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:51:39",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年235天21分",
+        "version": "1.2.8"
+      },
+      {
+        "sdate": "2020-05-14 18:23:18",
+        "edate": "2020-12-31 04:51:39",
+        "status": "online",
+        "duration": "230天10小时28分",
+        "version": "1.1~1.2.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

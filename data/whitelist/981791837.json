@@ -1,0 +1,27 @@
+{
+  "981791837": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2023-11-29 03:10:11",
+        "edate": "2023-11-29 04:57:59",
+        "duration": "1小时47分",
+        "version": "1.8.110"
+      },
+      {
+        "sdate": "2015-08-05 01:52:19",
+        "edate": "",
+        "status": "online",
+        "duration": "10年18天20小时50分",
+        "version": "1.0.0~1.9.136"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

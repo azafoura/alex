@@ -1,0 +1,55 @@
+{
+  "963083092": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:22:04",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时46分",
+        "version": "2.4.4"
+      },
+      {
+        "sdate": "2019-10-19 15:33:37",
+        "edate": "2020-12-31 04:22:04",
+        "status": "online",
+        "duration": "1年73天12小时48分",
+        "version": "2.4.4"
+      },
+      {
+        "sdate": "2019-10-18 19:00:48",
+        "edate": "2019-10-19 15:33:37",
+        "status": "offline",
+        "duration": "20小时32分",
+        "version": "2.4.4"
+      },
+      {
+        "sdate": "2019-04-09 04:36:31",
+        "edate": "2019-10-18 19:00:48",
+        "status": "online",
+        "duration": "192天14小时24分",
+        "version": "2.4.4"
+      },
+      {
+        "sdate": "2019-01-15 09:10:22",
+        "edate": "2019-04-09 04:36:31",
+        "status": "offline",
+        "duration": "83天19小时26分",
+        "version": "2.4.3~2.4.4"
+      },
+      {
+        "sdate": "2015-02-17 03:08:16",
+        "edate": "2019-01-15 09:10:22",
+        "status": "online",
+        "duration": "3年333天6小时2分",
+        "version": "1.0~2.4.3"
+      }
+    ],
+    "total": 6,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

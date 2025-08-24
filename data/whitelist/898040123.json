@@ -1,0 +1,27 @@
+{
+  "898040123": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-04-18 08:05:39",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年126天10小时4分",
+        "version": "3.38.1"
+      },
+      {
+        "sdate": "2015-07-11 03:08:46",
+        "edate": "2019-04-18 08:05:39",
+        "status": "online",
+        "duration": "3年282天4小时56分",
+        "version": "3.0.0~3.38.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

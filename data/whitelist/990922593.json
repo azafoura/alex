@@ -1,0 +1,27 @@
+{
+  "990922593": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-28 19:33:30",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年297天3小时12分",
+        "version": "2.9.2"
+      },
+      {
+        "sdate": "2017-11-09 09:06:47",
+        "edate": "2020-10-28 19:33:30",
+        "status": "online",
+        "duration": "2年354天10小时26分",
+        "version": "1.8.1~2.9.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

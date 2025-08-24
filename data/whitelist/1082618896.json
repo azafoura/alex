@@ -1,0 +1,27 @@
+{
+  "1082618896": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-03-21 01:25:24",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年154天22小时24分",
+        "version": "1.98"
+      },
+      {
+        "sdate": "2016-04-10 11:11:55",
+        "edate": "2019-03-21 01:25:24",
+        "status": "online",
+        "duration": "2年344天14小时13分",
+        "version": "1.2~1.98"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

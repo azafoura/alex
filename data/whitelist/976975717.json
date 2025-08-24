@@ -1,0 +1,27 @@
+{
+  "976975717": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-09-03 22:43:09",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年351天23小时34分",
+        "version": "3.3.8"
+      },
+      {
+        "sdate": "2015-03-22 19:00:18",
+        "edate": "2021-09-03 22:43:09",
+        "status": "online",
+        "duration": "6年167天3小时42分",
+        "version": "1.0~3.3.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

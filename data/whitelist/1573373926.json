@@ -1,0 +1,27 @@
+{
+  "1573373926": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-01-20 20:37:21",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年214天19小时11分",
+        "version": "1.1"
+      },
+      {
+        "sdate": "2021-07-01 00:00:00",
+        "edate": "2024-01-20 20:37:21",
+        "status": "online",
+        "duration": "2年203天20小时37分",
+        "version": "1.0~1.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

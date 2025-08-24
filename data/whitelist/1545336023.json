@@ -1,0 +1,97 @@
+{
+  "1545336023": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-06-13 17:56:07",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年70天17小时24分",
+        "version": "3.0"
+      },
+      {
+        "sdate": "2021-08-19 10:10:41",
+        "edate": "2022-06-13 17:56:07",
+        "status": "online",
+        "duration": "298天7小时45分",
+        "version": "2.5~3.0"
+      },
+      {
+        "sdate": "2021-08-14 11:40:25",
+        "edate": "2021-08-19 10:10:41",
+        "status": "offline",
+        "duration": "4天22小时30分",
+        "version": "2.3~2.5"
+      },
+      {
+        "sdate": "2021-08-13 18:59:17",
+        "edate": "2021-08-14 11:40:25",
+        "status": "online",
+        "duration": "16小时41分",
+        "version": "2.3"
+      },
+      {
+        "sdate": "2021-08-09 12:51:12",
+        "edate": "2021-08-13 18:59:17",
+        "status": "offline",
+        "duration": "4天6小时8分",
+        "version": "2.3"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-04-11 17:41:43",
+        "edate": "2021-04-11 19:38:38",
+        "duration": "1小时56分",
+        "version": "2.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-03-12 15:00:15",
+        "edate": "2021-03-12 16:46:23",
+        "duration": "1小时46分",
+        "version": "1.9"
+      },
+      {
+        "sdate": "2021-03-09 11:10:25",
+        "edate": "2021-08-09 12:51:12",
+        "status": "online",
+        "duration": "153天1小时40分",
+        "version": "1.9~2.3"
+      },
+      {
+        "sdate": "2021-02-01 12:51:08",
+        "edate": "2021-03-09 11:10:25",
+        "status": "offline",
+        "duration": "35天22小时19分",
+        "version": "1.1.4~1.9"
+      },
+      {
+        "sdate": "2021-01-24 12:41:01",
+        "edate": "2021-02-01 12:51:08",
+        "status": "online",
+        "duration": "8天10分",
+        "version": "1.1.4"
+      },
+      {
+        "sdate": "2021-01-23 04:22:43",
+        "edate": "2021-01-24 12:41:01",
+        "status": "offline",
+        "duration": "1天8小时18分",
+        "version": "1.0~1.1.4"
+      },
+      {
+        "sdate": "2021-01-22 00:00:00",
+        "edate": "2021-01-23 04:22:43",
+        "status": "online",
+        "duration": "1天4小时22分",
+        "version": "1.0"
+      }
+    ],
+    "total": 12,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

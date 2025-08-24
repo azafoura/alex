@@ -1,0 +1,27 @@
+{
+  "1592148054": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-01-04 05:54:38",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年231天10小时3分",
+        "version": "0.3"
+      },
+      {
+        "sdate": "2021-10-29 00:00:00",
+        "edate": "2024-01-04 05:54:38",
+        "status": "online",
+        "duration": "2年67天5小时54分",
+        "version": "0.1~0.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

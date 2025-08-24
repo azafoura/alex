@@ -1,0 +1,41 @@
+{
+  "512939461": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-05-07 19:15:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年105天13小时26分",
+        "version": "1.118.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-03-19 11:38:47",
+        "edate": "2020-03-19 13:32:15",
+        "duration": "1小时53分",
+        "version": "1.116.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-09-28 18:01:29",
+        "edate": "2019-09-28 20:00:00",
+        "duration": "1小时58分",
+        "version": "1.109.0"
+      },
+      {
+        "sdate": "2014-07-10 11:11:58",
+        "edate": "2020-05-07 19:15:13",
+        "status": "online",
+        "duration": "5年303天8小时3分",
+        "version": "1.26.0~1.118.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

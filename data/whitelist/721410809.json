@@ -1,0 +1,34 @@
+{
+  "721410809": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-10-19 06:40:11",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年306天2小时18分",
+        "version": "2.8"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-04-24 17:48:39",
+        "edate": "2021-04-24 19:39:56",
+        "duration": "1小时51分",
+        "version": "2.8"
+      },
+      {
+        "sdate": "2013-11-06 00:00:00",
+        "edate": "2022-10-19 06:40:11",
+        "status": "online",
+        "duration": "8年349天6小时40分",
+        "version": "1.0~2.8"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

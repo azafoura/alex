@@ -1,0 +1,27 @@
+{
+  "1236678821": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-01-28 09:05:33",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年205天22小时33分",
+        "version": "15.0"
+      },
+      {
+        "sdate": "2017-05-17 00:00:00",
+        "edate": "2023-01-28 09:05:33",
+        "status": "online",
+        "duration": "5年257天9小时5分",
+        "version": "1.0~15.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "1551590979": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-02-05 10:47:06",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年199天47分",
+        "version": "1.2.7"
+      },
+      {
+        "status": "out",
+        "sdate": "2022-01-25 21:37:29",
+        "edate": "2022-01-25 23:28:17",
+        "duration": "1小时50分",
+        "version": "1.2.7"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-03-11 17:50:14",
+        "edate": "2021-03-11 19:45:40",
+        "duration": "1小时55分",
+        "version": "1.0.5"
+      },
+      {
+        "sdate": "2021-02-21 00:00:00",
+        "edate": "2022-02-05 10:47:06",
+        "status": "online",
+        "duration": "349天10小时47分",
+        "version": "1.0.0~1.2.7"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

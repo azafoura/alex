@@ -1,0 +1,27 @@
+{
+  "1175522428": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-02-15 03:09:52",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年188天2小时2分",
+        "version": "1.1"
+      },
+      {
+        "sdate": "2017-03-15 00:00:00",
+        "edate": "2023-02-15 03:09:52",
+        "status": "online",
+        "duration": "5年338天3小时9分",
+        "version": "1.01~1.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

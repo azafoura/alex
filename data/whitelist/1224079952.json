@@ -1,0 +1,27 @@
+{
+  "1224079952": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-06-19 17:17:24",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年64天14小时15分",
+        "version": "1.40.1"
+      },
+      {
+        "sdate": "2017-09-30 03:54:15",
+        "edate": "2019-06-19 17:17:24",
+        "status": "online",
+        "duration": "1年262天13小时23分",
+        "version": "1.17.0~1.40.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

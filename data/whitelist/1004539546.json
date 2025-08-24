@@ -1,0 +1,27 @@
+{
+  "1004539546": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:19:40",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天18小时29分",
+        "version": "6.1.8"
+      },
+      {
+        "sdate": "2015-09-14 12:54:04",
+        "edate": "2020-12-31 04:19:40",
+        "status": "online",
+        "duration": "5年109天15小时25分",
+        "version": "1.0~6.1.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

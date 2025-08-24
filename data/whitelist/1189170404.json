@@ -1,0 +1,27 @@
+{
+  "1189170404": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-24 01:50:43",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年241天3小时28分",
+        "version": "1.4.1"
+      },
+      {
+        "sdate": "2017-04-03 00:00:00",
+        "edate": "2020-12-24 01:50:43",
+        "status": "online",
+        "duration": "3年266天1小时50分",
+        "version": "1.0.0~1.4.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

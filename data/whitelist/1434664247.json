@@ -1,0 +1,27 @@
+{
+  "1434664247": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2021-10-31 14:58:25",
+        "edate": "2021-10-31 17:51:58",
+        "duration": "2小时53分",
+        "version": "1.4"
+      },
+      {
+        "sdate": "2018-09-13 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "6年344天21小时18分",
+        "version": "1.0~1.0.12"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

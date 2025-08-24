@@ -1,0 +1,27 @@
+{
+  "632827817": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-02-23 06:49:03",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年180天2小时1分",
+        "version": "3.4.1"
+      },
+      {
+        "sdate": "2013-04-19 22:47:05",
+        "edate": "2018-02-23 06:49:03",
+        "status": "online",
+        "duration": "4年310天8小时1分",
+        "version": "1.0.0~3.4.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

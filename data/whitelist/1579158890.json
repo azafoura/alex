@@ -1,0 +1,27 @@
+{
+  "1579158890": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-06-10 14:50:23",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年74天1小时1分",
+        "version": "1.1"
+      },
+      {
+        "sdate": "2021-08-01 00:00:00",
+        "edate": "2022-06-10 14:50:23",
+        "status": "online",
+        "duration": "313天14小时50分",
+        "version": "1.0~1.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

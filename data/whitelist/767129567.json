@@ -1,0 +1,27 @@
+{
+  "767129567": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:13:51",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时48分",
+        "version": "2.0.6"
+      },
+      {
+        "sdate": "2014-01-21 05:34:41",
+        "edate": "2020-12-31 04:13:51",
+        "status": "online",
+        "duration": "6年345天22小时39分",
+        "version": "1.0~2.0.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

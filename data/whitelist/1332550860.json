@@ -1,0 +1,27 @@
+{
+  "1332550860": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-09-29 16:19:00",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年327天19小时7分",
+        "version": "2.0.5"
+      },
+      {
+        "sdate": "2018-01-17 17:23:31",
+        "edate": "2018-09-29 16:19:00",
+        "status": "online",
+        "duration": "254天22小时55分",
+        "version": "1.9.2~2.0.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

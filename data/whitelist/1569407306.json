@@ -1,0 +1,27 @@
+{
+  "1569407306": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-09-21 07:00:46",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年336天8小时44分",
+        "version": "3.0"
+      },
+      {
+        "sdate": "2021-05-28 00:00:00",
+        "edate": "2021-09-21 07:00:46",
+        "status": "online",
+        "duration": "116天7小时0分",
+        "version": "1.0~3.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

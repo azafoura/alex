@@ -1,0 +1,27 @@
+{
+  "1424282170": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-02-07 05:37:45",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年197天15小时37分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-08-12 14:22:49",
+        "edate": "2019-02-07 05:37:45",
+        "status": "online",
+        "duration": "178天15小时14分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

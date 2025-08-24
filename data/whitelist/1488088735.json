@@ -1,0 +1,27 @@
+{
+  "1488088735": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 03:56:44",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年235天59分",
+        "version": "2.3"
+      },
+      {
+        "sdate": "2019-11-19 00:00:00",
+        "edate": "2020-12-31 03:56:44",
+        "status": "online",
+        "duration": "1年43天3小时56分",
+        "version": "1.0~2.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

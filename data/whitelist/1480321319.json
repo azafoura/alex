@@ -1,0 +1,27 @@
+{
+  "1480321319": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-02-01 18:05:33",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年202天6小时42分",
+        "version": "1.0.6"
+      },
+      {
+        "sdate": "2020-01-17 00:00:00",
+        "edate": "2023-02-01 18:05:33",
+        "status": "online",
+        "duration": "3年16天18小时5分",
+        "version": "1.0.0~1.0.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

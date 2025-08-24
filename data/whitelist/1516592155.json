@@ -1,0 +1,34 @@
+{
+  "1516592155": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-10-08 12:22:20",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年318天17小时12分",
+        "version": "1.0.19"
+      },
+      {
+        "sdate": "2020-09-10 01:32:13",
+        "edate": "2023-10-08 12:22:20",
+        "status": "online",
+        "duration": "3年28天10小时50分",
+        "version": "1.0.3~1.0.19"
+      },
+      {
+        "sdate": "2020-08-24 23:19:04",
+        "edate": "2020-09-10 01:32:13",
+        "status": "preorder",
+        "duration": "16天2小时13分",
+        "version": "1.0.1~1.0.3"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

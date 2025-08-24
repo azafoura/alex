@@ -1,0 +1,48 @@
+{
+  "1331318399": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-12-19 05:33:51",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年247天5小时52分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2018-07-07 19:44:05",
+        "edate": "2018-12-19 05:33:51",
+        "status": "online",
+        "duration": "164天9小时49分",
+        "version": "1.0~2.0"
+      },
+      {
+        "sdate": "2018-05-19 07:19:07",
+        "edate": "2018-07-07 19:44:05",
+        "status": "offline",
+        "duration": "49天12小时24分",
+        "version": "1.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2018-01-31 05:11:35",
+        "edate": "2018-05-16 00:00:00",
+        "duration": "104天18小时48分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-01-23 03:03:41",
+        "edate": "2018-05-19 07:19:07",
+        "status": "online",
+        "duration": "116天4小时15分",
+        "version": "1.0"
+      }
+    ],
+    "total": 5,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

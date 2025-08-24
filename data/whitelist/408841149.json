@@ -1,0 +1,27 @@
+{
+  "408841149": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:05:38",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时30分",
+        "version": "4.12.0"
+      },
+      {
+        "sdate": "2013-11-06 13:49:19",
+        "edate": "2020-12-31 04:05:38",
+        "status": "online",
+        "duration": "7年56天14小时16分",
+        "version": "3.0.0~4.12.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

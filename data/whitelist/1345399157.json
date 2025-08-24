@@ -1,0 +1,27 @@
+{
+  "1345399157": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-12-13 13:53:40",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年252天21小时39分",
+        "version": "0.23.0"
+      },
+      {
+        "sdate": "2018-02-11 15:58:39",
+        "edate": "2019-12-13 13:53:40",
+        "status": "online",
+        "duration": "1年304天21小时55分",
+        "version": "0.3.3~0.23.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

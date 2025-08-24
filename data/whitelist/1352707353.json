@@ -1,0 +1,34 @@
+{
+  "1352707353": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-04-09 16:23:21",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年134天19小时12分",
+        "version": "2.8"
+      },
+      {
+        "sdate": "2018-08-03 00:16:38",
+        "edate": "2020-04-09 16:23:21",
+        "status": "online",
+        "duration": "1年250天16小时6分",
+        "version": "1.3~2.8"
+      },
+      {
+        "sdate": "2018-06-06 10:58:39",
+        "edate": "2018-08-03 00:16:38",
+        "status": "preorder",
+        "duration": "57天13小时17分",
+        "version": "1.0~1.4"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

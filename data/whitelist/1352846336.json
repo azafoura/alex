@@ -1,0 +1,27 @@
+{
+  "1352846336": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-10-18 17:44:26",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年308天17小时51分",
+        "version": "1.0.7"
+      },
+      {
+        "sdate": "2018-07-10 09:13:33",
+        "edate": "2018-10-18 17:44:26",
+        "status": "online",
+        "duration": "100天8小时30分",
+        "version": "1.0.2~1.0.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

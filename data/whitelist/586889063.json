@@ -1,0 +1,34 @@
+{
+  "586889063": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-04-25 16:14:23",
+        "edate": "",
+        "status": "online",
+        "duration": "3年117天16小时33分",
+        "version": "1.0.9"
+      },
+      {
+        "sdate": "2022-04-24 18:53:55",
+        "edate": "2022-04-25 16:14:23",
+        "status": "offline",
+        "duration": "21小时20分",
+        "version": "1.0.9"
+      },
+      {
+        "sdate": "2013-03-26 00:00:00",
+        "edate": "2022-04-24 18:53:55",
+        "status": "online",
+        "duration": "9年31天18小时53分",
+        "version": "1.0.0~1.0.9"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

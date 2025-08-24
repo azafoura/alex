@@ -1,0 +1,27 @@
+{
+  "1472419762": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-08 23:23:25",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年318天1小时12分",
+        "version": "1.6.3"
+      },
+      {
+        "sdate": "2019-08-22 08:55:54",
+        "edate": "2020-10-08 23:23:25",
+        "status": "online",
+        "duration": "1年48天14小时27分",
+        "version": "1.0~1.6.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

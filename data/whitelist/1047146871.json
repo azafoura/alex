@@ -1,0 +1,27 @@
+{
+  "1047146871": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-02-28 19:45:32",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年175天3小时20分",
+        "version": "1.6.2"
+      },
+      {
+        "sdate": "2015-11-07 23:30:40",
+        "edate": "2018-02-28 19:45:32",
+        "status": "online",
+        "duration": "2年113天20小时14分",
+        "version": "1.1.8~1.6.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

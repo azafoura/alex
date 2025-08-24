@@ -1,0 +1,27 @@
+{
+  "1435888262": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-07-30 16:18:33",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年23天5小时0分",
+        "version": ""
+      },
+      {
+        "sdate": "2018-09-25 02:00:01",
+        "edate": "2021-07-30 16:18:33",
+        "status": "online",
+        "duration": "2年309天14小时18分",
+        "version": ""
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

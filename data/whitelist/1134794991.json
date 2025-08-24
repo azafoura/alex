@@ -1,0 +1,34 @@
+{
+  "1134794991": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2025-06-24 11:52:12",
+        "edate": "",
+        "status": "online",
+        "duration": "57天16小时51分",
+        "version": "1.5"
+      },
+      {
+        "sdate": "2025-06-17 12:17:18",
+        "edate": "2025-06-24 11:52:12",
+        "status": "offline",
+        "duration": "6天23小时34分",
+        "version": "1.5"
+      },
+      {
+        "sdate": "2016-07-19 00:00:00",
+        "edate": "2025-06-17 12:17:18",
+        "status": "online",
+        "duration": "8年335天12小时17分",
+        "version": "1.0~1.5"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

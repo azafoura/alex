@@ -1,0 +1,27 @@
+{
+  "1090290945": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-05-15 23:57:37",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年97天23小时55分",
+        "version": "3.0.9"
+      },
+      {
+        "sdate": "2016-03-22 23:21:53",
+        "edate": "2020-05-15 23:57:37",
+        "status": "online",
+        "duration": "4年55天35分",
+        "version": "1.0.2~3.0.9"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

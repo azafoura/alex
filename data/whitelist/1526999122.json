@@ -1,0 +1,27 @@
+{
+  "1526999122": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-07-03 16:39:04",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年50天13小时11分",
+        "version": "1.5.1"
+      },
+      {
+        "sdate": "2020-08-13 00:00:00",
+        "edate": "2023-07-03 16:39:04",
+        "status": "online",
+        "duration": "2年324天16小时39分",
+        "version": "1.0~1.5.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

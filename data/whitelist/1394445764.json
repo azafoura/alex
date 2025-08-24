@@ -1,0 +1,27 @@
+{
+  "1394445764": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-07-05 16:32:39",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年48天19小时29分",
+        "version": "2.01"
+      },
+      {
+        "sdate": "2018-09-25 10:02:58",
+        "edate": "2019-07-05 16:32:39",
+        "status": "online",
+        "duration": "283天6小时29分",
+        "version": "2.01"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

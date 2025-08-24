@@ -1,0 +1,27 @@
+{
+  "466966101": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-02-23 03:39:15",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年180天4小时59分",
+        "version": "5.21.0"
+      },
+      {
+        "sdate": "2013-04-25 03:54:49",
+        "edate": "2018-02-23 03:39:15",
+        "status": "online",
+        "duration": "4年304天23小时44分",
+        "version": "3.5.0~5.21.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

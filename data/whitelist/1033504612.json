@@ -1,0 +1,27 @@
+{
+  "1033504612": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-01-11 03:53:43",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年223天19小时4分",
+        "version": "1.2"
+      },
+      {
+        "sdate": "2015-09-05 10:24:38",
+        "edate": "2019-01-11 03:53:43",
+        "status": "online",
+        "duration": "3年128天17小时29分",
+        "version": "1.0~1.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

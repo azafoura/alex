@@ -1,0 +1,34 @@
+{
+  "882507985": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-12-12 05:11:52",
+        "edate": "",
+        "status": "online",
+        "duration": "5年253天12小时43分",
+        "version": "5.0.2~8.7.2"
+      },
+      {
+        "sdate": "2019-12-12 03:54:50",
+        "edate": "2019-12-12 05:11:52",
+        "status": "offline",
+        "duration": "1小时17分",
+        "version": "5.0.2"
+      },
+      {
+        "sdate": "2014-12-20 22:49:45",
+        "edate": "2019-12-12 03:54:50",
+        "status": "online",
+        "duration": "4年357天5小时5分",
+        "version": "1.0.1~5.0.2"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "1574888366": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2025-05-28 22:25:55",
+        "edate": null,
+        "status": "offline",
+        "duration": "85天17小时23分",
+        "version": "1.8.6"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-08-21 14:52:02",
+        "edate": "2021-08-21 16:50:41",
+        "duration": "1小时58分",
+        "version": "1.2.5"
+      },
+      {
+        "sdate": "2021-07-03 00:00:00",
+        "edate": "2025-05-28 22:25:55",
+        "status": "online",
+        "duration": "3年330天22小时25分",
+        "version": "1.0.3~1.8.6"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

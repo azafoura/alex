@@ -1,0 +1,27 @@
+{
+  "1094591345": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-12-17 12:54:08",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年248天15小时22分",
+        "version": ""
+      },
+      {
+        "sdate": "2016-07-05 22:21:34",
+        "edate": "2016-12-17 12:54:08",
+        "status": "online",
+        "duration": "164天14小时32分",
+        "version": ""
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "1164102837": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:24:42",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天44分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2019-04-15 16:13:38",
+        "edate": "2020-12-31 04:24:42",
+        "status": "online",
+        "duration": "1年260天12小时11分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2017-07-07 01:00:05",
+        "edate": "2019-04-15 16:13:38",
+        "status": "offline",
+        "duration": "1年282天15小时13分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2017-01-23 00:00:00",
+        "edate": "2017-07-07 01:00:05",
+        "status": "online",
+        "duration": "165天1小时0分",
+        "version": "0.2~2.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

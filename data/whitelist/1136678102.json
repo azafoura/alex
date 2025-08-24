@@ -1,0 +1,27 @@
+{
+  "1136678102": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-07-01 13:39:39",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年52天15小时4分",
+        "version": ""
+      },
+      {
+        "sdate": "2017-05-04 00:00:00",
+        "edate": "2017-07-01 13:39:39",
+        "status": "online",
+        "duration": "58天13小时39分",
+        "version": ""
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

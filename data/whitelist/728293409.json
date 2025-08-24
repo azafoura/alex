@@ -1,0 +1,27 @@
+{
+  "728293409": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-06-06 23:16:52",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年75天9小时42分",
+        "version": "2.10.2"
+      },
+      {
+        "sdate": "2014-03-12 16:43:25",
+        "edate": "2022-06-06 23:16:52",
+        "status": "online",
+        "duration": "8年88天6小时33分",
+        "version": "1.0~2.10.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

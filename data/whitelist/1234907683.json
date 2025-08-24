@@ -1,0 +1,41 @@
+{
+  "1234907683": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-09-09 05:04:57",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年347天2小时33分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-06-09 06:00:04",
+        "edate": "2020-09-09 05:04:57",
+        "status": "online",
+        "duration": "2年92天23小时4分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-05-16 13:45:18",
+        "edate": "2018-06-09 06:00:04",
+        "status": "offline",
+        "duration": "23天16小时14分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2017-05-26 15:29:03",
+        "edate": "2018-05-16 13:45:18",
+        "status": "online",
+        "duration": "354天22小时16分",
+        "version": "1.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

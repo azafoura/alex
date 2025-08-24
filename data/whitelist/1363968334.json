@@ -1,0 +1,41 @@
+{
+  "1363968334": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2021-10-17 12:49:02",
+        "edate": "2021-10-17 14:00:04",
+        "duration": "1小时11分",
+        "version": "2.3"
+      },
+      {
+        "sdate": "2021-01-10 18:28:31",
+        "edate": "",
+        "status": "online",
+        "duration": "4年223天17小时15分",
+        "version": "2.2~2.9"
+      },
+      {
+        "sdate": "2020-12-31 05:14:27",
+        "edate": "2021-01-10 18:28:31",
+        "status": "offline",
+        "duration": "10天13小时14分",
+        "version": "2.2"
+      },
+      {
+        "sdate": "2018-06-15 00:00:00",
+        "edate": "2020-12-31 05:14:27",
+        "status": "online",
+        "duration": "2年200天5小时14分",
+        "version": "1.0~2.2"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

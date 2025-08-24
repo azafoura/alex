@@ -1,0 +1,41 @@
+{
+  "343200656": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-28 16:37:08",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年236天1小时15分",
+        "version": "8.0.3"
+      },
+      {
+        "sdate": "2020-12-18 17:18:07",
+        "edate": "2020-12-28 16:37:08",
+        "status": "online",
+        "duration": "9天23小时19分",
+        "version": "8.0.3"
+      },
+      {
+        "sdate": "2019-07-11 17:29:59",
+        "edate": "2020-12-18 17:18:07",
+        "status": "offline",
+        "duration": "1年160天23小时48分",
+        "version": "8.0.3"
+      },
+      {
+        "sdate": "2011-06-17 21:44:31",
+        "edate": "2019-07-11 17:29:59",
+        "status": "online",
+        "duration": "8年25天19小时45分",
+        "version": "1.6.1~8.0.3"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

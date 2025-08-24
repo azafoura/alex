@@ -1,0 +1,27 @@
+{
+  "768114470": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-11-08 14:43:25",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年286天18小时19分",
+        "version": "5.5.0"
+      },
+      {
+        "sdate": "2014-01-06 02:36:39",
+        "edate": "2018-11-08 14:43:25",
+        "status": "online",
+        "duration": "4年307天12小时6分",
+        "version": "2.0.3~5.5.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

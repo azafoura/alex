@@ -1,0 +1,41 @@
+{
+  "664493896": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-09-01 03:12:11",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年354天5小时41分",
+        "version": "1.7"
+      },
+      {
+        "sdate": "2019-10-07 06:50:56",
+        "edate": "2020-09-01 03:12:11",
+        "status": "online",
+        "duration": "329天20小时21分",
+        "version": "1.7"
+      },
+      {
+        "sdate": "2019-09-29 09:17:38",
+        "edate": "2019-10-07 06:50:56",
+        "status": "offline",
+        "duration": "7天21小时33分",
+        "version": "1.7"
+      },
+      {
+        "sdate": "2013-06-28 20:47:47",
+        "edate": "2019-09-29 09:17:38",
+        "status": "online",
+        "duration": "6年93天12小时29分",
+        "version": "1.0~1.7"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

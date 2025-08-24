@@ -1,0 +1,41 @@
+{
+  "1487630560": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-11-29 11:40:37",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年266天17小时15分",
+        "version": "1.7"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-07-20 02:33:50",
+        "edate": "2020-07-20 04:29:52",
+        "duration": "1小时56分",
+        "version": "1.5"
+      },
+      {
+        "sdate": "2019-12-22 00:00:00",
+        "edate": "2021-11-29 11:40:37",
+        "status": "online",
+        "duration": "1年343天11小时40分",
+        "version": "1.0~1.7"
+      },
+      {
+        "sdate": "2019-12-18 00:59:04",
+        "edate": "2019-12-22 00:00:00",
+        "status": "preorder",
+        "duration": "3天23小时0分",
+        "version": "1.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

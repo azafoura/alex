@@ -1,0 +1,27 @@
+{
+  "370070561": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-05-24 12:47:07",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年89天19小时47分",
+        "version": "2.7.3"
+      },
+      {
+        "sdate": "2010-08-11 19:09:24",
+        "edate": "2018-05-24 12:47:07",
+        "status": "online",
+        "duration": "7年287天17小时37分",
+        "version": "1.00~2.7.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

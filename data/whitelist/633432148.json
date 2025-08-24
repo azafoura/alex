@@ -1,0 +1,27 @@
+{
+  "633432148": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-02-22 20:30:45",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年179天12小时20分",
+        "version": "2.3.1"
+      },
+      {
+        "sdate": "2013-04-09 00:00:00",
+        "edate": "2022-02-22 20:30:45",
+        "status": "online",
+        "duration": "8年321天20小时30分",
+        "version": "1.0~2.3.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

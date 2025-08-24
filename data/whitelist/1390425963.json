@@ -1,0 +1,27 @@
+{
+  "1390425963": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-01-17 01:21:27",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年218天10小时37分",
+        "version": "2.2.1"
+      },
+      {
+        "sdate": "2018-05-29 16:08:54",
+        "edate": "2020-01-17 01:21:27",
+        "status": "online",
+        "duration": "1年232天9小时12分",
+        "version": "1.0~2.2.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

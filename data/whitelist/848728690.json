@@ -1,0 +1,27 @@
+{
+  "848728690": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:14:57",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时54分",
+        "version": "5.7.01"
+      },
+      {
+        "sdate": "2014-08-15 21:13:51",
+        "edate": "2020-12-31 04:14:57",
+        "status": "online",
+        "duration": "6年139天7小时1分",
+        "version": "1.01~5.7.01"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

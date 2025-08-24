@@ -1,0 +1,27 @@
+{
+  "1284312937": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-01-29 06:20:39",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年205天1小时38分",
+        "version": "2.3.9"
+      },
+      {
+        "sdate": "2017-10-17 01:38:50",
+        "edate": "2022-01-29 06:20:39",
+        "status": "online",
+        "duration": "4年105天4小时41分",
+        "version": "1.0~2.3.9"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

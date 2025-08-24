@@ -1,0 +1,55 @@
+{
+  "1327743640": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-07-20 10:56:54",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年32天21小时19分",
+        "version": "1.47.6"
+      },
+      {
+        "sdate": "2022-04-27 09:17:52",
+        "edate": "2023-07-20 10:56:54",
+        "status": "online",
+        "duration": "1年84天1小时39分",
+        "version": "1.47.6"
+      },
+      {
+        "sdate": "2022-03-31 11:11:11",
+        "edate": "2022-04-27 09:17:52",
+        "status": "offline",
+        "duration": "26天22小时6分",
+        "version": "1.47.0~1.47.6"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-09-14 00:30:11",
+        "edate": "2019-09-14 03:00:00",
+        "duration": "2小时29分",
+        "version": "1.20.5"
+      },
+      {
+        "sdate": "2018-12-02 00:00:00",
+        "edate": "2022-03-31 11:11:11",
+        "status": "online",
+        "duration": "3年120天11小时11分",
+        "version": "1.0.13~1.47.0"
+      },
+      {
+        "sdate": "2018-10-24 00:00:00",
+        "edate": "2018-12-02 00:00:00",
+        "status": "preorder",
+        "duration": "39天0分",
+        "version": "1.0.6~1.0.13"
+      }
+    ],
+    "total": 6,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

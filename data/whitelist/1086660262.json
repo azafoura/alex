@@ -1,0 +1,27 @@
+{
+  "1086660262": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-07-20 11:56:48",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年33天11小时54分",
+        "version": "1.62.0"
+      },
+      {
+        "sdate": "2016-05-17 07:07:32",
+        "edate": "2016-07-20 11:56:48",
+        "status": "online",
+        "duration": "64天4小时49分",
+        "version": "1.60.0~1.62.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1579285349": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-09-08 06:22:18",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年349天9小时29分",
+        "version": "2.2"
+      },
+      {
+        "sdate": "2021-09-05 00:00:00",
+        "edate": "2021-09-08 06:22:18",
+        "status": "online",
+        "duration": "3天6小时22分",
+        "version": "2.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

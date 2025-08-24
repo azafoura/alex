@@ -1,0 +1,34 @@
+{
+  "1248033433": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:27:12",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天3小时17分",
+        "version": "1.9.5"
+      },
+      {
+        "sdate": "2018-11-22 00:00:00",
+        "edate": "2020-12-31 04:27:12",
+        "status": "online",
+        "duration": "2年40天4小时27分",
+        "version": "1.1~1.9.5"
+      },
+      {
+        "sdate": "2018-10-24 15:31:06",
+        "edate": "2018-11-22 00:00:00",
+        "status": "preorder",
+        "duration": "28天8小时28分",
+        "version": "0.0.1~1.1"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

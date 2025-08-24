@@ -1,0 +1,27 @@
+{
+  "1502447854": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:44:05",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年235天20分",
+        "version": "585"
+      },
+      {
+        "sdate": "2020-05-05 08:26:26",
+        "edate": "2020-12-31 04:44:05",
+        "status": "online",
+        "duration": "239天20小时17分",
+        "version": "4~585"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

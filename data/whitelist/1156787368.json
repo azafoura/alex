@@ -1,0 +1,27 @@
+{
+  "1156787368": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2018-01-14 05:04:32",
+        "edate": "2018-01-15 00:00:00",
+        "duration": "18小时55分",
+        "version": "0.2.11"
+      },
+      {
+        "sdate": "2017-09-09 02:32:45",
+        "edate": "",
+        "status": "online",
+        "duration": "7年348天2小时33分",
+        "version": "0.0.87~1.8.20"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

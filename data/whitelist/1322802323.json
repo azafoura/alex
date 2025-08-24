@@ -1,0 +1,41 @@
+{
+  "1322802323": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-08-26 19:56:59",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年361天12小时17分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2018-08-22 16:44:03",
+        "edate": "2018-08-26 19:56:59",
+        "status": "online",
+        "duration": "4天3小时12分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2018-08-13 20:22:07",
+        "edate": "2018-08-22 16:44:03",
+        "status": "offline",
+        "duration": "1天16小时44分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2018-08-08 19:37:13",
+        "edate": "2018-08-13 20:22:07",
+        "status": "preorder",
+        "duration": "7天3小时37分",
+        "version": "1.0.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

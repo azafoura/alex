@@ -1,0 +1,27 @@
+{
+  "1536911444": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2021-08-21 17:41:01",
+        "edate": "2021-08-21 19:39:06",
+        "duration": "1小时58分",
+        "version": "1.0.10"
+      },
+      {
+        "sdate": "2020-12-17 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "4年249天6小时9分",
+        "version": "1.0.0~1.9.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

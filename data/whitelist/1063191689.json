@@ -1,0 +1,27 @@
+{
+  "1063191689": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-03-05 11:19:43",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年170天11小时55分",
+        "version": "6.1"
+      },
+      {
+        "sdate": "2016-02-24 07:30:40",
+        "edate": "2018-03-05 11:19:43",
+        "status": "online",
+        "duration": "2年10天3小时49分",
+        "version": "1.0~6.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

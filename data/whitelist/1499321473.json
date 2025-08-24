@@ -1,0 +1,27 @@
+{
+  "1499321473": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-09-10 14:03:23",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年320天13小时13分",
+        "version": "0.12.9~0.12.10"
+      },
+      {
+        "sdate": "2020-08-04 13:28:24",
+        "edate": "2020-09-10 14:03:23",
+        "status": "preorder",
+        "duration": "37天34分",
+        "version": "0.12.9"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "561048152": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-01-16 22:57:59",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年217天9小时47分",
+        "version": "2.10.0"
+      },
+      {
+        "sdate": "2012-11-15 23:17:58",
+        "edate": "2019-01-16 22:57:59",
+        "status": "online",
+        "duration": "6年62天23小时40分",
+        "version": "1.0~2.10.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

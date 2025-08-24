@@ -1,0 +1,27 @@
+{
+  "1584739924": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-12-15 08:31:49",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年251天7小时23分",
+        "version": "1.0.6"
+      },
+      {
+        "sdate": "2021-09-25 00:00:00",
+        "edate": "2021-12-15 08:31:49",
+        "status": "online",
+        "duration": "81天8小时31分",
+        "version": "1.0.1~1.0.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "1517593894": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-10-12 12:53:20",
+        "edate": "",
+        "status": "online",
+        "duration": "313天16小时43分",
+        "version": "2.7.0"
+      },
+      {
+        "sdate": "2020-07-12 10:28:29",
+        "edate": "2024-10-12 12:53:20",
+        "status": "offline",
+        "duration": "4年93天2小时24分",
+        "version": "1.0.4~2.7.0"
+      },
+      {
+        "sdate": "2020-06-10 21:27:20",
+        "edate": "2020-07-12 10:28:29",
+        "status": "online",
+        "duration": "31天13小时1分",
+        "version": "1.0.0~1.0.4"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

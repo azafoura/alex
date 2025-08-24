@@ -1,0 +1,27 @@
+{
+  "1546051591": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2021-02-27 20:53:21",
+        "edate": "2021-02-27 22:45:20",
+        "duration": "1小时51分",
+        "version": "2.0.0"
+      },
+      {
+        "sdate": "2020-12-22 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "4年244天11小时22分",
+        "version": "0.0.1~2.5.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

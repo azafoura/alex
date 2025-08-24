@@ -1,0 +1,27 @@
+{
+  "1534471879": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-04-21 05:04:12",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年124天1小时3分",
+        "version": "1.5.31"
+      },
+      {
+        "sdate": "2020-11-12 01:29:43",
+        "edate": "2021-04-21 05:04:12",
+        "status": "online",
+        "duration": "160天3小时34分",
+        "version": "1.0~1.5.31"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

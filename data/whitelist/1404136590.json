@@ -1,0 +1,41 @@
+{
+  "1404136590": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-05-12 07:12:00",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年102天13小时58分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2019-07-17 11:36:21",
+        "edate": "2020-05-12 07:12:00",
+        "status": "online",
+        "duration": "299天19小时35分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2019-06-24 22:02:50",
+        "edate": "2019-07-17 11:36:21",
+        "status": "offline",
+        "duration": "22天13小时33分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-07-28 00:25:46",
+        "edate": "2019-06-24 22:02:50",
+        "status": "online",
+        "duration": "331天21小时37分",
+        "version": "1.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

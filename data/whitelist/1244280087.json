@@ -1,0 +1,27 @@
+{
+  "1244280087": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-07-03 04:31:26",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年51天3小时10分",
+        "version": "2.1.1"
+      },
+      {
+        "sdate": "2017-10-19 14:45:29",
+        "edate": "2019-07-03 04:31:26",
+        "status": "online",
+        "duration": "1年256天13小时45分",
+        "version": "0.1.6~2.1.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

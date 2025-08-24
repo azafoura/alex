@@ -1,0 +1,27 @@
+{
+  "961500818": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2021-10-18 21:44:28",
+        "edate": "2021-10-19 00:00:00",
+        "duration": "2小时15分",
+        "version": "1.3"
+      },
+      {
+        "sdate": "2015-02-05 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "10年199天22小时8分",
+        "version": "1.0~1.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

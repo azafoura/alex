@@ -1,0 +1,41 @@
+{
+  "889024288": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-07-14 19:04:07",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年40天9小时48分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2018-07-15 05:31:36",
+        "edate": "2019-07-14 19:04:07",
+        "status": "online",
+        "duration": "364天13小时32分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2018-06-27 12:22:43",
+        "edate": "2018-07-15 05:31:36",
+        "status": "offline",
+        "duration": "17天17小时8分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2014-06-19 21:11:24",
+        "edate": "2018-06-27 12:22:43",
+        "status": "online",
+        "duration": "4年8天15小时11分",
+        "version": "1.0.0~1.0.1"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "1384878300": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-11-06 09:57:04",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年290天1小时58分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-08-30 15:15:49",
+        "edate": "2018-11-06 09:57:04",
+        "status": "online",
+        "duration": "67天18小时41分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-07-16 01:20:53",
+        "edate": "2018-08-30 15:15:49",
+        "status": "offline",
+        "duration": "45天13小时54分",
+        "version": "1.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2018-07-08 04:05:14",
+        "edate": "2018-09-11 00:00:00",
+        "duration": "64天19小时54分",
+        "version": "1.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

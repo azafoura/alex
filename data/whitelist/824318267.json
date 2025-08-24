@@ -1,0 +1,41 @@
+{
+  "824318267": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-29 03:03:31",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年23天6小时3分",
+        "version": "15.6.5710"
+      },
+      {
+        "sdate": "2019-12-12 05:11:34",
+        "edate": "2020-07-29 03:03:31",
+        "status": "online",
+        "duration": "229天21小时51分",
+        "version": "14.1.4993~15.6.5710"
+      },
+      {
+        "sdate": "2019-12-12 03:42:57",
+        "edate": "2019-12-12 05:11:34",
+        "status": "offline",
+        "duration": "1小时28分",
+        "version": "14.1.4993"
+      },
+      {
+        "sdate": "2014-06-26 01:22:37",
+        "edate": "2019-12-12 03:42:57",
+        "status": "online",
+        "duration": "5年170天2小时20分",
+        "version": "1.8.95~14.1.4993"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

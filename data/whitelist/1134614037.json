@@ -1,0 +1,27 @@
+{
+  "1134614037": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:23:53",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天19分",
+        "version": "2.9.11"
+      },
+      {
+        "sdate": "2016-10-20 15:23:48",
+        "edate": "2020-12-31 04:23:53",
+        "status": "online",
+        "duration": "4年72天13小时0分",
+        "version": "1.0~2.9.11"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

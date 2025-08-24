@@ -1,0 +1,27 @@
+{
+  "321916506": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-30 16:47:26",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年23天10小时43分",
+        "version": "14.71.2"
+      },
+      {
+        "sdate": "2012-11-28 22:19:48",
+        "edate": "2020-07-30 16:47:26",
+        "status": "online",
+        "duration": "7年245天18小时27分",
+        "version": "5.41~14.71.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

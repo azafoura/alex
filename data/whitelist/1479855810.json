@@ -1,0 +1,27 @@
+{
+  "1479855810": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-06-28 21:53:50",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年55天2小时54分",
+        "version": "1.9.1"
+      },
+      {
+        "sdate": "2019-09-16 17:59:55",
+        "edate": "2020-06-28 21:53:50",
+        "status": "online",
+        "duration": "286天3小时53分",
+        "version": "1.3.6~1.9.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

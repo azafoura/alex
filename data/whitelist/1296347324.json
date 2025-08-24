@@ -1,0 +1,27 @@
+{
+  "1296347324": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 05:12:47",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天2小时50分",
+        "version": "1.30"
+      },
+      {
+        "sdate": "2017-11-03 00:00:00",
+        "edate": "2020-12-31 05:12:47",
+        "status": "online",
+        "duration": "3年59天5小时12分",
+        "version": "2.0~1.30"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

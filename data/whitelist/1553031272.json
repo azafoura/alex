@@ -1,0 +1,27 @@
+{
+  "1553031272": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-11-23 07:36:30",
+        "edate": "",
+        "status": "online",
+        "duration": "3年273天4小时1分",
+        "version": "1.0.2~2.0.2"
+      },
+      {
+        "sdate": "2021-09-15 10:52:10",
+        "edate": "2021-11-23 07:36:30",
+        "status": "preorder",
+        "duration": "68天20小时44分",
+        "version": "0~1.0.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

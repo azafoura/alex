@@ -1,0 +1,34 @@
+{
+  "1029355410": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-10-18 02:39:26",
+        "edate": null,
+        "status": "offline",
+        "duration": "306天20小时16分",
+        "version": "1.6"
+      },
+      {
+        "status": "out",
+        "sdate": "2024-07-28 21:56:07",
+        "edate": "2024-09-28 13:00:00",
+        "duration": "61天15小时3分",
+        "version": "1.6"
+      },
+      {
+        "sdate": "2015-08-19 00:00:00",
+        "edate": "2024-10-18 02:39:26",
+        "status": "online",
+        "duration": "9年63天2小时39分",
+        "version": "1.0~1.6"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

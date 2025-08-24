@@ -1,0 +1,27 @@
+{
+  "1061896024": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:21:28",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天18小时53分",
+        "version": "3.4.5"
+      },
+      {
+        "sdate": "2017-05-02 06:10:17",
+        "edate": "2020-12-31 04:21:28",
+        "status": "online",
+        "duration": "3年243天22小时11分",
+        "version": "1.7.2~3.4.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1546053076": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-03-03 11:42:12",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年172天23小时39分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2021-01-22 19:06:21",
+        "edate": "2021-03-03 11:42:12",
+        "status": "online",
+        "duration": "39天16小时35分",
+        "version": "1.0.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

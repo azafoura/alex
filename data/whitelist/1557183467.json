@@ -1,0 +1,27 @@
+{
+  "1557183467": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-10-05 08:12:38",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年322天3小时30分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2021-03-09 00:00:00",
+        "edate": "2021-10-05 08:12:38",
+        "status": "online",
+        "duration": "210天8小时12分",
+        "version": "1.0~1.0.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1241635802": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-02-16 08:10:23",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年187天23小时31分",
+        "version": "1.6.53"
+      },
+      {
+        "sdate": "2017-06-05 07:38:37",
+        "edate": "2019-02-16 08:10:23",
+        "status": "online",
+        "duration": "1年256天31分",
+        "version": "1.2.5~1.6.53"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

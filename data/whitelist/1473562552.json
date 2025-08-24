@@ -1,0 +1,27 @@
+{
+  "1473562552": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-02-11 22:28:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年192天2小时9分",
+        "version": "1.1"
+      },
+      {
+        "sdate": "2019-07-26 00:00:00",
+        "edate": "2021-02-11 22:28:13",
+        "status": "online",
+        "duration": "1年201天22小时28分",
+        "version": "1.0~1.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

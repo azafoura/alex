@@ -1,0 +1,48 @@
+{
+  "1424085563": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-04-26 03:48:36",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年119天17小时26分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2019-04-22 21:18:38",
+        "edate": "2019-04-26 03:48:36",
+        "status": "online",
+        "duration": "3天6小时29分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2019-02-03 20:00:17",
+        "edate": "2019-04-22 21:18:38",
+        "status": "offline",
+        "duration": "78天1小时18分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-08-28 22:19:47",
+        "edate": "2018-08-28 00:00:00",
+        "status": "preorder",
+        "duration": "-1339分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-08-28 00:00:00",
+        "edate": "2019-02-03 20:00:17",
+        "status": "online",
+        "duration": "159天20小时0分",
+        "version": "1.0"
+      }
+    ],
+    "total": 5,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

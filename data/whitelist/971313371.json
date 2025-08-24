@@ -1,0 +1,27 @@
+{
+  "971313371": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-01-27 05:10:53",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年207天17小时2分",
+        "version": "3.8"
+      },
+      {
+        "sdate": "2015-06-03 22:44:26",
+        "edate": "2020-01-27 05:10:53",
+        "status": "online",
+        "duration": "4年238天6小时26分",
+        "version": "1.0~3.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

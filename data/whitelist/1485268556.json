@@ -1,0 +1,27 @@
+{
+  "1485268556": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 05:25:06",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天23小时30分",
+        "version": "2.11"
+      },
+      {
+        "sdate": "2019-10-31 07:41:04",
+        "edate": "2020-12-31 05:25:06",
+        "status": "online",
+        "duration": "1年61天21小时44分",
+        "version": "1.0~2.11"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

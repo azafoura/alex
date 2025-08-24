@@ -1,0 +1,27 @@
+{
+  "1256281946": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-02 09:27:38",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年262天22小时20分",
+        "version": "1.8.13"
+      },
+      {
+        "sdate": "2017-08-04 02:40:41",
+        "edate": "2020-12-02 09:27:38",
+        "status": "online",
+        "duration": "3年121天6小时46分",
+        "version": "1.6.5~1.8.13"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

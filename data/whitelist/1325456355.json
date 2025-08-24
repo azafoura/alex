@@ -1,0 +1,41 @@
+{
+  "1325456355": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-02-06 14:53:04",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年196天17小时22分",
+        "version": "1.3"
+      },
+      {
+        "sdate": "2023-02-03 09:35:08",
+        "edate": "2024-02-06 14:53:04",
+        "status": "online",
+        "duration": "1年3天5小时17分",
+        "version": "1.3"
+      },
+      {
+        "sdate": "2023-01-29 04:55:56",
+        "edate": "2023-02-03 09:35:08",
+        "status": "offline",
+        "duration": "5天4小时39分",
+        "version": "1.3"
+      },
+      {
+        "sdate": "2017-12-15 00:00:00",
+        "edate": "2023-01-29 04:55:56",
+        "status": "online",
+        "duration": "5年46天4小时55分",
+        "version": "1.0~1.3"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

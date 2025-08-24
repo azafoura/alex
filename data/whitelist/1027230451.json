@@ -1,0 +1,20 @@
+{
+  "1027230451": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2015-10-20 10:52:25",
+        "edate": "",
+        "status": "online",
+        "duration": "9年307天12小时2分",
+        "version": "1.1.25~1.1.346"
+      }
+    ],
+    "total": 1,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

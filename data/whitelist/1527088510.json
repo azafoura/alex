@@ -1,0 +1,27 @@
+{
+  "1527088510": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-10-23 09:56:41",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年303天19小时54分",
+        "version": "2.15.0"
+      },
+      {
+        "sdate": "2020-08-19 00:00:00",
+        "edate": "2022-10-23 09:56:41",
+        "status": "online",
+        "duration": "2年65天9小时56分",
+        "version": "2.6.3~2.15.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

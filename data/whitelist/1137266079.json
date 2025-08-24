@@ -1,0 +1,27 @@
+{
+  "1137266079": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 05:03:40",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天23小时41分",
+        "version": "8.0.3"
+      },
+      {
+        "sdate": "2016-11-07 20:28:30",
+        "edate": "2020-12-31 05:03:40",
+        "status": "online",
+        "duration": "4年54天8小时35分",
+        "version": "5.0.0~8.0.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

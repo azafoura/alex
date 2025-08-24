@@ -1,0 +1,27 @@
+{
+  "1546021444": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-02-16 04:24:45",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年188天6小时56分",
+        "version": "1.1.6"
+      },
+      {
+        "sdate": "2021-01-05 00:00:00",
+        "edate": "2022-02-16 04:24:45",
+        "status": "online",
+        "duration": "1年42天4小时24分",
+        "version": "1.0.8~1.1.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

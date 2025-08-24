@@ -1,0 +1,27 @@
+{
+  "1173412177": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2020-07-27 11:33:38",
+        "edate": "2020-07-27 13:25:46",
+        "duration": "1小时52分",
+        "version": "6.0.132"
+      },
+      {
+        "sdate": "2016-11-08 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "8年288天5小时11分",
+        "version": "1.2.3~10.0.51"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

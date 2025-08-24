@@ -1,0 +1,27 @@
+{
+  "1234221455": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 05:10:21",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天2小时27分",
+        "version": "1.0.7"
+      },
+      {
+        "sdate": "2017-09-12 00:00:00",
+        "edate": "2020-12-31 05:10:21",
+        "status": "online",
+        "duration": "3年111天5小时10分",
+        "version": "1.0.0~1.0.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

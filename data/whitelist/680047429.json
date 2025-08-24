@@ -1,0 +1,41 @@
+{
+  "680047429": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-08-01 04:14:10",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年20天4小时40分",
+        "version": "1.5"
+      },
+      {
+        "sdate": "2019-07-31 13:51:55",
+        "edate": "2020-08-01 04:14:10",
+        "status": "online",
+        "duration": "1年1天14小时22分",
+        "version": "1.5"
+      },
+      {
+        "sdate": "2019-07-30 18:55:37",
+        "edate": "2019-07-31 13:51:55",
+        "status": "offline",
+        "duration": "18小时56分",
+        "version": "1.5"
+      },
+      {
+        "sdate": "2013-07-30 00:26:33",
+        "edate": "2019-07-30 18:55:37",
+        "status": "online",
+        "duration": "6年1天18小时29分",
+        "version": "1.0~1.5"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

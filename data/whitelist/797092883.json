@@ -1,0 +1,27 @@
+{
+  "797092883": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-01-16 02:40:56",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年218天6小时23分",
+        "version": "1.6.3"
+      },
+      {
+        "sdate": "2014-02-12 23:20:11",
+        "edate": "2019-01-16 02:40:56",
+        "status": "online",
+        "duration": "4年338天3小时20分",
+        "version": "1.0.0~1.6.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

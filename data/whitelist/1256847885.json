@@ -1,0 +1,27 @@
+{
+  "1256847885": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-09-05 19:52:34",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年350天11小时55分",
+        "version": "1.5.1"
+      },
+      {
+        "sdate": "2017-07-16 00:00:00",
+        "edate": "2023-09-05 19:52:34",
+        "status": "online",
+        "duration": "6年52天19小时52分",
+        "version": "1.0.1~1.5.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

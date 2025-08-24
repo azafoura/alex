@@ -1,0 +1,27 @@
+{
+  "963443573": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-02-08 07:45:48",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年195天14小时23分",
+        "version": "1.0.6"
+      },
+      {
+        "sdate": "2015-02-18 01:32:50",
+        "edate": "2020-02-08 07:45:48",
+        "status": "online",
+        "duration": "4年356天6小时12分",
+        "version": "1.0.2~1.0.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

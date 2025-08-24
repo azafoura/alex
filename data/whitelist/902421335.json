@@ -1,0 +1,27 @@
+{
+  "902421335": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:20:22",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时14分",
+        "version": "1.4.138"
+      },
+      {
+        "sdate": "2014-11-20 06:54:50",
+        "edate": "2020-12-31 04:20:22",
+        "status": "online",
+        "duration": "6年42天21小时25分",
+        "version": "0.0.88~1.4.138"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

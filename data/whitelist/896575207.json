@@ -1,0 +1,27 @@
+{
+  "896575207": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 04:56:30",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年146天23小时56分",
+        "version": "1.7.0"
+      },
+      {
+        "sdate": "2015-04-03 02:54:20",
+        "edate": "2016-03-30 04:56:30",
+        "status": "online",
+        "duration": "362天2小时2分",
+        "version": "1.0~1.7.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

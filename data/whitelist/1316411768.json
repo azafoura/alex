@@ -1,0 +1,27 @@
+{
+  "1316411768": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-07-03 12:05:00",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年50天20小时6分",
+        "version": "1.0.6"
+      },
+      {
+        "sdate": "2017-12-18 11:17:26",
+        "edate": "2018-07-03 12:05:00",
+        "status": "online",
+        "duration": "197天47分",
+        "version": "1.0.5~1.0.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

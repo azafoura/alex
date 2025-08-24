@@ -1,0 +1,27 @@
+{
+  "1379803911": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:32:16",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天7小时20分",
+        "version": "1.3"
+      },
+      {
+        "sdate": "2018-06-12 00:00:00",
+        "edate": "2020-12-31 04:32:16",
+        "status": "online",
+        "duration": "2年203天4小时32分",
+        "version": "1.0~1.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "1547958454": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-03-30 11:38:47",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年145天23小时47分",
+        "version": "1.0.4"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-03-03 11:46:50",
+        "edate": "2021-03-03 13:36:29",
+        "duration": "1小时49分",
+        "version": "1.0.3"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-01-31 14:40:32",
+        "edate": "2021-01-31 16:37:00",
+        "duration": "1小时56分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2021-01-18 02:10:56",
+        "edate": "2021-03-30 11:38:47",
+        "status": "online",
+        "duration": "71天9小时27分",
+        "version": "1.0.1~1.0.4"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

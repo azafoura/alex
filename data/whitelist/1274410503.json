@@ -1,0 +1,27 @@
+{
+  "1274410503": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-07-19 17:14:23",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年34天14小时40分",
+        "version": "1.6"
+      },
+      {
+        "sdate": "2017-09-08 18:35:52",
+        "edate": "2019-07-19 17:14:23",
+        "status": "online",
+        "duration": "1年313天22小时38分",
+        "version": "1.0~1.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

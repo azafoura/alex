@@ -1,0 +1,27 @@
+{
+  "1206273135": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-11-21 17:38:31",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年274天11小时50分",
+        "version": "1.4.3"
+      },
+      {
+        "sdate": "2017-04-27 01:21:58",
+        "edate": "2018-11-21 17:38:31",
+        "status": "online",
+        "duration": "1年208天16小时16分",
+        "version": "1.0.0~1.4.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

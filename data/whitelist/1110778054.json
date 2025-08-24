@@ -1,0 +1,41 @@
+{
+  "1110778054": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:23:03",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天0分",
+        "version": "1.5"
+      },
+      {
+        "sdate": "2019-03-05 18:41:08",
+        "edate": "2020-12-31 04:23:03",
+        "status": "online",
+        "duration": "1年301天9小时41分",
+        "version": "1.2~1.5"
+      },
+      {
+        "sdate": "2017-02-08 17:09:16",
+        "edate": "2019-03-05 18:41:08",
+        "status": "offline",
+        "duration": "2年25天1小时31分",
+        "version": "1.1~1.2"
+      },
+      {
+        "sdate": "2016-05-25 00:00:00",
+        "edate": "2017-02-08 17:09:16",
+        "status": "online",
+        "duration": "259天17小时9分",
+        "version": "1.0~1.1"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

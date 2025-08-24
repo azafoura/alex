@@ -1,0 +1,27 @@
+{
+  "632827808": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 09:00:30",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年144天23小时50分",
+        "version": "2.5.0"
+      },
+      {
+        "sdate": "2013-04-19 22:43:54",
+        "edate": "2016-03-30 09:00:30",
+        "status": "online",
+        "duration": "2年345天10小时16分",
+        "version": "1.0.0~2.5.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

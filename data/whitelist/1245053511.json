@@ -1,0 +1,41 @@
+{
+  "1245053511": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-12-04 12:32:55",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年261天19小时9分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2018-07-15 10:25:10",
+        "edate": "2019-12-04 12:32:55",
+        "status": "online",
+        "duration": "1年142天2小时7分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2018-07-01 19:34:36",
+        "edate": "2018-07-15 10:25:10",
+        "status": "offline",
+        "duration": "13天14小时50分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2017-06-09 07:25:43",
+        "edate": "2018-07-01 19:34:36",
+        "status": "online",
+        "duration": "1年22天12小时8分",
+        "version": "1.0.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

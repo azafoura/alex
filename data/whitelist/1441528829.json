@@ -1,0 +1,27 @@
+{
+  "1441528829": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-08-03 21:37:36",
+        "edate": "",
+        "status": "online",
+        "duration": "4年18天23小时46分",
+        "version": "1.9.1~1.9.173"
+      },
+      {
+        "sdate": "2021-07-14 18:20:08",
+        "edate": "2021-08-03 21:37:36",
+        "status": "preorder",
+        "duration": "20天3小时17分",
+        "version": "1.8.15~1.9.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

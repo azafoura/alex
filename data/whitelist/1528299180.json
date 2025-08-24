@@ -1,0 +1,41 @@
+{
+  "1528299180": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-02-28 06:50:27",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年175天23小时5分",
+        "version": "3.3.3"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-12-27 02:52:46",
+        "edate": "2020-12-27 04:49:00",
+        "duration": "1小时56分",
+        "version": "2.9.8"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-10-30 08:52:38",
+        "edate": "2020-10-30 10:51:47",
+        "duration": "1小时59分",
+        "version": "2.9.5"
+      },
+      {
+        "sdate": "2020-08-27 00:00:00",
+        "edate": "2024-02-28 06:50:27",
+        "status": "online",
+        "duration": "3年185天6小时50分",
+        "version": "2.9.2~3.3.3"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1066288014": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-11-14 17:26:36",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年280天5小时49分",
+        "version": "2.7.0"
+      },
+      {
+        "sdate": "2016-02-19 00:00:00",
+        "edate": "2022-11-14 17:26:36",
+        "status": "online",
+        "duration": "6年270天17小时26分",
+        "version": "1.40~2.7.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1435463818": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-11-16 15:14:14",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年279天6小时4分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-09-08 00:00:00",
+        "edate": "2022-11-16 15:14:14",
+        "status": "online",
+        "duration": "4年70天15小时14分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

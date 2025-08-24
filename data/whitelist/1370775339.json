@@ -1,0 +1,41 @@
+{
+  "1370775339": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-12-14 10:21:32",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年252天1小时25分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-08-08 00:26:05",
+        "edate": "2018-12-14 10:21:32",
+        "status": "online",
+        "duration": "128天9小时55分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-08-04 05:20:48",
+        "edate": "2018-08-08 00:26:05",
+        "status": "offline",
+        "duration": "3天19小时5分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-04-22 13:51:04",
+        "edate": "2018-08-04 05:20:48",
+        "status": "online",
+        "duration": "103天15小时29分",
+        "version": "1.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

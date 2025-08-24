@@ -1,0 +1,34 @@
+{
+  "1107529276": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-10-09 10:00:18",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年317天18小时21分",
+        "version": "3.5.00"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-09-06 14:57:34",
+        "edate": "2019-09-06 17:00:00",
+        "duration": "2小时2分",
+        "version": "3.5.00"
+      },
+      {
+        "sdate": "2017-11-30 01:00:53",
+        "edate": "2019-10-09 10:00:18",
+        "status": "online",
+        "duration": "1年313天8小时59分",
+        "version": "2.1~3.5.00"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "1567332979": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-11-17 10:37:26",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年279天1小时23分",
+        "version": "1.0.2"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-05-31 22:50:02",
+        "edate": "2021-06-03 23:17:44",
+        "duration": "3天27分",
+        "version": "1.0.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-05-29 15:05:26",
+        "edate": "2021-05-29 16:57:06",
+        "duration": "1小时51分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2021-05-14 00:00:00",
+        "edate": "2021-11-17 10:37:26",
+        "status": "online",
+        "duration": "187天10小时37分",
+        "version": "1.0~1.0.2"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

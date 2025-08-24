@@ -1,0 +1,41 @@
+{
+  "1374307839": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-04-26 07:16:44",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年119天4小时33分",
+        "version": "1.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-02-22 04:47:25",
+        "edate": "2019-04-22 01:00:00",
+        "duration": "58天20小时12分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-05-11 22:34:58",
+        "edate": "2019-04-26 07:16:44",
+        "status": "online",
+        "duration": "349天8小时41分",
+        "version": "1.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2018-05-09 10:52:24",
+        "edate": "2018-05-12 00:00:00",
+        "duration": "2天13小时7分",
+        "version": "1.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

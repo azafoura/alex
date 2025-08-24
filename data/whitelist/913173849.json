@@ -1,0 +1,41 @@
+{
+  "913173849": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:16:35",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时24分",
+        "version": "2.4.7"
+      },
+      {
+        "sdate": "2019-12-12 05:12:09",
+        "edate": "2020-12-31 04:16:35",
+        "status": "online",
+        "duration": "1年19天23小时4分",
+        "version": "2.0.0~2.4.7"
+      },
+      {
+        "sdate": "2019-12-12 04:12:29",
+        "edate": "2019-12-12 05:12:09",
+        "status": "offline",
+        "duration": "59分",
+        "version": "2.0.0"
+      },
+      {
+        "sdate": "2015-05-08 00:00:00",
+        "edate": "2019-12-12 04:12:29",
+        "status": "online",
+        "duration": "4年219天4小时12分",
+        "version": "1.0.0~2.0.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

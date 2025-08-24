@@ -1,0 +1,27 @@
+{
+  "730280486": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-09-04 17:39:04",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年350天15小时20分",
+        "version": "1.22"
+      },
+      {
+        "sdate": "2013-11-19 00:00:00",
+        "edate": "2023-09-04 17:39:04",
+        "status": "online",
+        "duration": "9年291天17小时39分",
+        "version": "1.00~1.22"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

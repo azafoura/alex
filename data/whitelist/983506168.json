@@ -1,0 +1,62 @@
+{
+  "983506168": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2025-02-01 01:32:03",
+        "edate": "2025-02-01 03:02:17",
+        "duration": "1小时30分",
+        "version": "7.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2024-04-22 18:18:50",
+        "edate": "2024-04-22 20:03:03",
+        "duration": "1小时44分",
+        "version": "6.5"
+      },
+      {
+        "status": "out",
+        "sdate": "2024-01-22 00:46:59",
+        "edate": "2024-01-22 02:23:51",
+        "duration": "1小时36分",
+        "version": "6.3"
+      },
+      {
+        "status": "out",
+        "sdate": "2022-07-17 17:56:05",
+        "edate": "2022-07-17 19:42:55",
+        "duration": "1小时46分",
+        "version": "4.7"
+      },
+      {
+        "status": "out",
+        "sdate": "2022-04-25 23:48:15",
+        "edate": "2022-04-26 01:42:55",
+        "duration": "1小时54分",
+        "version": "4.5"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-02-16 17:40:42",
+        "edate": "2020-02-16 19:40:43",
+        "duration": "2小时0分",
+        "version": "3.0"
+      },
+      {
+        "sdate": "2015-04-22 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "10年123天22小时44分",
+        "version": "1.20~7.8"
+      }
+    ],
+    "total": 7,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1124752613": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:24:57",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天11分",
+        "version": "5.2.1"
+      },
+      {
+        "sdate": "2017-10-11 01:10:41",
+        "edate": "2020-12-31 04:24:57",
+        "status": "online",
+        "duration": "3年82天3小时14分",
+        "version": "1.0.0~5.2.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

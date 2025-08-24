@@ -1,0 +1,41 @@
+{
+  "695948278": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:12:55",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时43分",
+        "version": "4.18"
+      },
+      {
+        "sdate": "2019-12-12 05:11:08",
+        "edate": "2020-12-31 04:12:55",
+        "status": "online",
+        "duration": "1年19天23小时1分",
+        "version": "3.20.1~4.18"
+      },
+      {
+        "sdate": "2019-12-12 04:07:45",
+        "edate": "2019-12-12 05:11:08",
+        "status": "offline",
+        "duration": "1小时3分",
+        "version": "3.20.1"
+      },
+      {
+        "sdate": "2017-06-30 20:58:09",
+        "edate": "2019-12-12 04:07:45",
+        "status": "online",
+        "duration": "2年164天7小时9分",
+        "version": "2.16.3~3.20.1"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

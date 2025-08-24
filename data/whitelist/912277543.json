@@ -1,0 +1,41 @@
+{
+  "912277543": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-02-11 19:57:53",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年192天1小时42分",
+        "version": "2.11.0"
+      },
+      {
+        "sdate": "2018-03-04 22:01:58",
+        "edate": "2019-02-11 19:57:53",
+        "status": "online",
+        "duration": "343天21小时55分",
+        "version": "2.8.1~2.11.0"
+      },
+      {
+        "sdate": "2018-03-03 20:38:38",
+        "edate": "2018-03-04 22:01:58",
+        "status": "offline",
+        "duration": "1天1小时23分",
+        "version": "2.5~2.8.1"
+      },
+      {
+        "sdate": "2018-03-03 07:54:41",
+        "edate": "2018-03-03 20:38:38",
+        "status": "online",
+        "duration": "12小时43分",
+        "version": "2.5"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

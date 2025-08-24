@@ -1,0 +1,27 @@
+{
+  "1127361846": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-31 08:32:26",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年294天20小时6分",
+        "version": "1.01"
+      },
+      {
+        "sdate": "2019-03-12 00:00:00",
+        "edate": "2020-10-31 08:32:26",
+        "status": "online",
+        "duration": "1年234天8小时32分",
+        "version": "1.0~1.01"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

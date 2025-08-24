@@ -1,0 +1,41 @@
+{
+  "1228564126": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-12-14 10:18:51",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年251天21小时15分",
+        "version": "1.8.1a"
+      },
+      {
+        "sdate": "2018-08-17 06:25:51",
+        "edate": "2018-12-14 10:18:51",
+        "status": "online",
+        "duration": "119天3小时53分",
+        "version": "1.8.1a"
+      },
+      {
+        "sdate": "2018-08-09 09:14:26",
+        "edate": "2018-08-17 06:25:51",
+        "status": "offline",
+        "duration": "7天21小时11分",
+        "version": "1.8.1~1.8.1a"
+      },
+      {
+        "sdate": "2017-04-28 21:56:27",
+        "edate": "2018-08-09 09:14:26",
+        "status": "online",
+        "duration": "1年102天11小时17分",
+        "version": "1.0.0~1.8.1"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

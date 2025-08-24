@@ -1,0 +1,27 @@
+{
+  "892041876": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:15:59",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年235天36分",
+        "version": "3.05"
+      },
+      {
+        "sdate": "2014-07-18 22:32:57",
+        "edate": "2020-12-31 04:15:59",
+        "status": "online",
+        "duration": "6年167天5小时43分",
+        "version": "1.0~3.05"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

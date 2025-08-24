@@ -1,0 +1,27 @@
+{
+  "789532119": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-01-10 15:42:50",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年223天17小时20分",
+        "version": "1.2"
+      },
+      {
+        "sdate": "2014-03-05 23:24:44",
+        "edate": "2017-01-10 15:42:50",
+        "status": "online",
+        "duration": "2年311天16小时18分",
+        "version": "1.0~1.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

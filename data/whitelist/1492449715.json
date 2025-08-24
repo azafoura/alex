@@ -1,0 +1,34 @@
+{
+  "1492449715": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-03-04 13:40:05",
+        "edate": "",
+        "status": "online",
+        "duration": "5年171天15小时19分",
+        "version": "1.1~3.0.2"
+      },
+      {
+        "sdate": "2019-12-24 11:25:41",
+        "edate": "2020-03-04 13:40:05",
+        "status": "offline",
+        "duration": "71天2小时14分",
+        "version": "0.1~1.1"
+      },
+      {
+        "sdate": "2019-12-24 00:00:00",
+        "edate": "2019-12-24 11:25:41",
+        "status": "online",
+        "duration": "11小时25分",
+        "version": "0.1"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

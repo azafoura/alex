@@ -1,0 +1,34 @@
+{
+  "1179926344": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-08-02 18:51:29",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年19天10小时22分",
+        "version": "1.0.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-08-17 02:01:24",
+        "edate": "2019-10-16 21:00:00",
+        "duration": "60天18小时58分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2016-12-08 07:10:48",
+        "edate": "2020-08-02 18:51:29",
+        "status": "online",
+        "duration": "3年238天11小时40分",
+        "version": "1.0.0"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

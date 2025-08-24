@@ -1,0 +1,27 @@
+{
+  "891264481": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2015-06-19 03:06:39",
+        "edate": null,
+        "status": "offline",
+        "duration": "10年65天14小时51分",
+        "version": "1.1.3~1.4.0"
+      },
+      {
+        "sdate": "2014-10-22 02:07:18",
+        "edate": "2015-06-19 03:06:39",
+        "status": "online",
+        "duration": "240天59分",
+        "version": "1.0.0~1.1.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

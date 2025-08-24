@@ -1,0 +1,27 @@
+{
+  "918332875": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:17:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时26分",
+        "version": "3.8.0"
+      },
+      {
+        "sdate": "2014-12-10 18:34:37",
+        "edate": "2020-12-31 04:17:13",
+        "status": "online",
+        "duration": "6年22天9小时42分",
+        "version": "1.0.0~3.8.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

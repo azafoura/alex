@@ -1,0 +1,27 @@
+{
+  "1522815993": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-05-06 10:08:10",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年108天19小时34分",
+        "version": "1.0.8"
+      },
+      {
+        "sdate": "2020-07-12 00:00:00",
+        "edate": "2022-05-06 10:08:10",
+        "status": "online",
+        "duration": "1年298天10小时8分",
+        "version": "1.0.0~1.0.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "871218551": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-08-01 05:38:39",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年20天12小时15分",
+        "version": "2.1"
+      },
+      {
+        "sdate": "2014-05-08 01:28:39",
+        "edate": "2020-08-01 05:38:39",
+        "status": "online",
+        "duration": "6年87天4小时10分",
+        "version": "1.0.0~2.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "535457234": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:09:02",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时34分",
+        "version": "1.7.1025"
+      },
+      {
+        "sdate": "2012-08-03 16:39:57",
+        "edate": "2020-12-31 04:09:02",
+        "status": "online",
+        "duration": "8年151天11小时29分",
+        "version": "1.0.803~1.7.1025"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

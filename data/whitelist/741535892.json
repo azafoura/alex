@@ -1,0 +1,48 @@
+{
+  "741535892": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-10-27 15:09:49",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年297天17小时51分",
+        "version": "2.0.13"
+      },
+      {
+        "sdate": "2021-01-01 05:10:19",
+        "edate": "2021-10-27 15:09:49",
+        "status": "online",
+        "duration": "299天9小时59分",
+        "version": "2.0.11~2.0.13"
+      },
+      {
+        "sdate": "2020-12-31 04:13:36",
+        "edate": "2021-01-01 05:10:19",
+        "status": "offline",
+        "duration": "1天56分",
+        "version": "2.0.8~2.0.11"
+      },
+      {
+        "status": "out",
+        "sdate": "2018-01-14 16:42:26",
+        "edate": "2018-04-07 00:00:00",
+        "duration": "82天7小时17分",
+        "version": "2.0.5"
+      },
+      {
+        "sdate": "2014-01-13 23:29:02",
+        "edate": "2020-12-31 04:13:36",
+        "status": "online",
+        "duration": "6年353天4小时44分",
+        "version": "1.0~2.0.8"
+      }
+    ],
+    "total": 5,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

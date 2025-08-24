@@ -1,0 +1,34 @@
+{
+  "1598079943": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-10-30 16:58:29",
+        "edate": null,
+        "status": "offline",
+        "duration": "295天23小时0分",
+        "version": "1.4"
+      },
+      {
+        "status": "out",
+        "sdate": "2022-04-21 21:04:09",
+        "edate": "2022-05-05 18:54:02",
+        "duration": "13天21小时49分",
+        "version": "1.3"
+      },
+      {
+        "sdate": "2021-12-24 00:00:00",
+        "edate": "2024-10-30 16:58:29",
+        "status": "online",
+        "duration": "2年311天16小时58分",
+        "version": "1.0.0~1.4"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

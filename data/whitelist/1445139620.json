@@ -1,0 +1,27 @@
+{
+  "1445139620": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-02-21 06:33:12",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年183天14小时53分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2018-12-07 03:48:19",
+        "edate": "2019-02-21 06:33:12",
+        "status": "online",
+        "duration": "76天2小时44分",
+        "version": "1.0~2.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

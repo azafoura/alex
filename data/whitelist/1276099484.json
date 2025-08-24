@@ -1,0 +1,27 @@
+{
+  "1276099484": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:28:19",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天3小时27分",
+        "version": "1.7.3"
+      },
+      {
+        "sdate": "2017-12-19 03:23:52",
+        "edate": "2020-12-31 04:28:19",
+        "status": "online",
+        "duration": "3年13天1小时4分",
+        "version": "1.0.1~1.7.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

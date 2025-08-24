@@ -1,0 +1,27 @@
+{
+  "1402524063": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-01-18 08:02:25",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年217天13小时6分",
+        "version": "1.50.7"
+      },
+      {
+        "sdate": "2018-08-07 03:28:12",
+        "edate": "2019-01-18 08:02:25",
+        "status": "online",
+        "duration": "164天4小时34分",
+        "version": "1.50.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

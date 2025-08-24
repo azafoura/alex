@@ -1,0 +1,27 @@
+{
+  "1058047178": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-06-14 07:25:06",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年68天15小时47分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2016-01-18 00:00:00",
+        "edate": "2023-06-14 07:25:06",
+        "status": "online",
+        "duration": "7年149天7小时25分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

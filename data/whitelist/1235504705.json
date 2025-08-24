@@ -1,0 +1,20 @@
+{
+  "1235504705": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-11-16 08:24:05",
+        "edate": "",
+        "status": "online",
+        "duration": "7年279天23小时14分",
+        "version": "0.50.0.3752~1.51.0.11020"
+      }
+    ],
+    "total": 1,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

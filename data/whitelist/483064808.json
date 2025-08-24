@@ -1,0 +1,27 @@
+{
+  "483064808": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 08:01:18",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年145天37分",
+        "version": "6.1"
+      },
+      {
+        "sdate": "2012-12-17 21:01:24",
+        "edate": "2016-03-30 08:01:18",
+        "status": "online",
+        "duration": "3年103天10小时59分",
+        "version": "2.11~6.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

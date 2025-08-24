@@ -1,0 +1,27 @@
+{
+  "1250825794": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-06-19 06:19:49",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年64天1小时26分",
+        "version": "V7.1 vc347"
+      },
+      {
+        "sdate": "2017-07-02 06:46:55",
+        "edate": "2020-06-19 06:19:49",
+        "status": "online",
+        "duration": "2年352天23小时32分",
+        "version": "1.2~V7.1 vc347"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

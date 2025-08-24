@@ -1,0 +1,27 @@
+{
+  "991750569": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:19:15",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天18小时27分",
+        "version": "2.11.3"
+      },
+      {
+        "sdate": "2015-05-28 00:00:00",
+        "edate": "2020-12-31 04:19:15",
+        "status": "online",
+        "duration": "5年219天4小时19分",
+        "version": "1.0.0~2.11.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

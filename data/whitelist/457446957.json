@@ -1,0 +1,41 @@
+{
+  "457446957": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-12 16:14:00",
+        "edate": "",
+        "status": "online",
+        "duration": "4年312天16小时23分",
+        "version": "1.32.2"
+      },
+      {
+        "sdate": "2020-10-12 07:52:12",
+        "edate": "2020-10-12 16:14:00",
+        "status": "offline",
+        "duration": "8小时21分",
+        "version": "1.32.2"
+      },
+      {
+        "status": "out",
+        "sdate": "2018-01-24 03:38:35",
+        "edate": "2018-01-25 00:00:00",
+        "duration": "20小时21分",
+        "version": "1.9.32"
+      },
+      {
+        "sdate": "2012-04-28 00:33:38",
+        "edate": "2020-10-12 07:52:12",
+        "status": "online",
+        "duration": "8年169天7小时18分",
+        "version": "1.3.1~1.32.2"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1410076723": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-08-24 23:24:51",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年363天21小时46分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-07-26 06:40:28",
+        "edate": "2018-08-24 23:24:51",
+        "status": "online",
+        "duration": "29天16小时44分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

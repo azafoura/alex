@@ -1,0 +1,27 @@
+{
+  "698108491": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-12-22 01:20:37",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年243天7小时36分",
+        "version": "1.5"
+      },
+      {
+        "sdate": "2013-09-27 23:38:34",
+        "edate": "2018-12-22 01:20:37",
+        "status": "online",
+        "duration": "5年86天1小时42分",
+        "version": "1.0~1.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

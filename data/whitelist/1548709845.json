@@ -1,0 +1,27 @@
+{
+  "1548709845": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-03-23 02:44:53",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年153天8小时43分",
+        "version": "2.0.36"
+      },
+      {
+        "sdate": "2021-01-18 11:52:06",
+        "edate": "2021-03-23 02:44:53",
+        "status": "online",
+        "duration": "63天14小时52分",
+        "version": "1.0~2.0.36"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

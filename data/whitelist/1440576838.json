@@ -1,0 +1,27 @@
+{
+  "1440576838": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-01-25 08:11:44",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年210天13小时11分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2018-11-01 02:08:19",
+        "edate": "2019-01-25 08:11:44",
+        "status": "online",
+        "duration": "85天6小时3分",
+        "version": "1.0~2.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

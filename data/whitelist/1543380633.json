@@ -1,0 +1,27 @@
+{
+  "1543380633": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-03-23 06:09:53",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年153天8分",
+        "version": "1.16.37"
+      },
+      {
+        "sdate": "2021-01-20 00:00:00",
+        "edate": "2022-03-23 06:09:53",
+        "status": "online",
+        "duration": "1年62天6小时9分",
+        "version": "1.16.18~1.16.37"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

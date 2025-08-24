@@ -1,0 +1,41 @@
+{
+  "1330920809": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-02-12 00:40:35",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年191天10小时45分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2020-06-18 21:08:08",
+        "edate": "2022-02-12 00:40:35",
+        "status": "online",
+        "duration": "1年238天3小时32分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2020-06-18 19:37:50",
+        "edate": "2020-06-18 21:08:08",
+        "status": "offline",
+        "duration": "1小时30分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-03-14 00:00:00",
+        "edate": "2020-06-18 19:37:50",
+        "status": "online",
+        "duration": "2年97天19小时37分",
+        "version": "1.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

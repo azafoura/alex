@@ -1,0 +1,34 @@
+{
+  "1523431736": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-01-15 10:03:17",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年219天19小时41分",
+        "version": "2.0.201"
+      },
+      {
+        "sdate": "2020-11-03 23:04:04",
+        "edate": "2022-01-15 10:03:17",
+        "status": "online",
+        "duration": "1年72天10小时59分",
+        "version": "1.8.101~2.0.201"
+      },
+      {
+        "sdate": "2020-08-17 21:54:08",
+        "edate": "2020-11-03 23:04:04",
+        "status": "preorder",
+        "duration": "78天1小时9分",
+        "version": "1.7.810~1.8.101"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

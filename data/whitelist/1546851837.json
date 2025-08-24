@@ -1,0 +1,27 @@
+{
+  "1546851837": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2021-02-28 14:43:14",
+        "edate": "2021-02-28 16:38:06",
+        "duration": "1小时54分",
+        "version": "1.3.2"
+      },
+      {
+        "sdate": "2021-01-15 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "4年220天11小时24分",
+        "version": "1.3~1.11"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

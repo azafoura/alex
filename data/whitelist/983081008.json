@@ -1,0 +1,55 @@
+{
+  "983081008": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-31 18:58:58",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年294天3小时44分",
+        "version": "2.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-12-10 22:43:01",
+        "edate": "2019-12-11 00:00:00",
+        "duration": "1小时16分",
+        "version": "2.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-02-22 17:51:19",
+        "edate": "2019-02-23 03:00:00",
+        "duration": "9小时8分",
+        "version": "2.1"
+      },
+      {
+        "sdate": "2019-01-04 01:46:34",
+        "edate": "2020-10-31 18:58:58",
+        "status": "online",
+        "duration": "1年301天17小时12分",
+        "version": "2.0~2.1"
+      },
+      {
+        "sdate": "2019-01-03 08:13:10",
+        "edate": "2019-01-04 01:46:34",
+        "status": "offline",
+        "duration": "17小时33分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2015-04-25 23:38:58",
+        "edate": "2019-01-03 08:13:10",
+        "status": "online",
+        "duration": "3年253天8小时34分",
+        "version": "1.1~2.0"
+      }
+    ],
+    "total": 6,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

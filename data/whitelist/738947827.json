@@ -1,0 +1,27 @@
+{
+  "738947827": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:17:32",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时42分",
+        "version": "1.9.2"
+      },
+      {
+        "sdate": "2013-11-14 22:09:50",
+        "edate": "2020-12-31 04:17:32",
+        "status": "online",
+        "duration": "7年48天6小时7分",
+        "version": "1.0~1.9.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

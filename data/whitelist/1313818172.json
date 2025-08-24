@@ -1,0 +1,27 @@
+{
+  "1313818172": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-06-15 19:28:43",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年67天12小时41分",
+        "version": "6.8"
+      },
+      {
+        "sdate": "2017-12-21 21:48:06",
+        "edate": "2020-06-15 19:28:43",
+        "status": "online",
+        "duration": "2年176天21小时40分",
+        "version": "1.0~6.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

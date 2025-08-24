@@ -1,0 +1,34 @@
+{
+  "1127855320": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-08-05 09:24:33",
+        "edate": "",
+        "status": "online",
+        "duration": "2年16天19小时14分",
+        "version": "4.0"
+      },
+      {
+        "sdate": "2023-08-04 19:00:48",
+        "edate": "2023-08-05 09:24:33",
+        "status": "offline",
+        "duration": "14小时23分",
+        "version": "4.0"
+      },
+      {
+        "sdate": "2016-06-26 00:00:00",
+        "edate": "2023-08-04 19:00:48",
+        "status": "online",
+        "duration": "7年40天19小时0分",
+        "version": "1.0~4.0"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

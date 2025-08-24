@@ -1,0 +1,27 @@
+{
+  "1361313065": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:30:58",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天7小时11分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2018-04-04 09:32:51",
+        "edate": "2020-12-31 04:30:58",
+        "status": "online",
+        "duration": "2年271天18小时58分",
+        "version": "1.0~2.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1165500738": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-01-07 19:41:04",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年227天9小时28分",
+        "version": "1.3.2"
+      },
+      {
+        "sdate": "2017-10-18 21:08:59",
+        "edate": "2020-01-07 19:41:04",
+        "status": "online",
+        "duration": "2年80天22小时32分",
+        "version": "0.2.0~1.3.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

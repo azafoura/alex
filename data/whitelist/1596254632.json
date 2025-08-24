@@ -1,0 +1,27 @@
+{
+  "1596254632": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-07-21 01:30:22",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年33天14小时28分",
+        "version": "1.8.0"
+      },
+      {
+        "sdate": "2021-11-24 00:00:00",
+        "edate": "2022-07-21 01:30:22",
+        "status": "online",
+        "duration": "239天1小时30分",
+        "version": "1.0~1.8.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

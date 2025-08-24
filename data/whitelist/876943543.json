@@ -1,0 +1,27 @@
+{
+  "876943543": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:15:30",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天13小时38分",
+        "version": "4.0"
+      },
+      {
+        "sdate": "2014-05-27 20:53:25",
+        "edate": "2020-12-31 04:15:30",
+        "status": "online",
+        "duration": "6年219天7小时22分",
+        "version": "2.0~4.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

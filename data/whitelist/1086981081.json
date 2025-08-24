@@ -1,0 +1,27 @@
+{
+  "1086981081": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2022-11-27 11:44:02",
+        "edate": "2022-11-27 13:40:04",
+        "duration": "1小时56分",
+        "version": "1.0.61"
+      },
+      {
+        "sdate": "2016-07-07 10:10:54",
+        "edate": "",
+        "status": "online",
+        "duration": "9年46天13小时40分",
+        "version": "1.0.0~1.0.89"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

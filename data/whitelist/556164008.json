@@ -1,0 +1,27 @@
+{
+  "556164008": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 08:50:28",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年144天23小时54分",
+        "version": "4.1.7~4.2.0"
+      },
+      {
+        "sdate": "2013-10-16 20:50:16",
+        "edate": "2016-03-30 08:50:28",
+        "status": "online",
+        "duration": "2年165天12小时0分",
+        "version": "1.4.0~4.1.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

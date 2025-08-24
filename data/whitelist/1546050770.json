@@ -1,0 +1,41 @@
+{
+  "1546050770": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-02-23 00:52:22",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年181天10小时29分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2020-12-29 07:48:06",
+        "edate": "2022-02-23 00:52:22",
+        "status": "online",
+        "duration": "1年55天17小时4分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2020-12-25 19:07:34",
+        "edate": "2020-12-29 07:48:06",
+        "status": "offline",
+        "duration": "3天12小时40分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2020-12-24 00:00:00",
+        "edate": "2020-12-25 19:07:34",
+        "status": "online",
+        "duration": "1天19小时7分",
+        "version": "1.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

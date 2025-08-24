@@ -1,0 +1,41 @@
+{
+  "1593367552": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-02-12 10:04:08",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年192天5小时54分",
+        "version": "1.0.40"
+      },
+      {
+        "status": "out",
+        "sdate": "2022-01-07 00:26:34",
+        "edate": "2022-01-07 02:06:00",
+        "duration": "1小时39分",
+        "version": "1.0.40"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-11-18 21:06:10",
+        "edate": "2021-11-18 23:05:10",
+        "duration": "1小时59分",
+        "version": "1.0.21"
+      },
+      {
+        "sdate": "2021-11-04 00:00:00",
+        "edate": "2022-02-12 10:04:08",
+        "status": "online",
+        "duration": "100天10小时4分",
+        "version": "1.0.0~1.0.40"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1105377360": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-03-19 02:57:00",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年157天1小时23分",
+        "version": "0.14.20.0"
+      },
+      {
+        "sdate": "2016-06-02 03:49:05",
+        "edate": "2019-03-19 02:57:00",
+        "status": "online",
+        "duration": "2年289天23小时7分",
+        "version": "0.11.5.0~0.14.20.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

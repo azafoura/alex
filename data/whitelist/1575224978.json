@@ -1,0 +1,34 @@
+{
+  "1575224978": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-11-02 00:36:26",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年294天15小时13分",
+        "version": "1.3.75"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-08-24 11:38:22",
+        "edate": "2021-08-24 13:40:24",
+        "duration": "2小时2分",
+        "version": "1.2.33"
+      },
+      {
+        "sdate": "2021-07-20 00:00:00",
+        "edate": "2023-11-02 00:36:26",
+        "status": "online",
+        "duration": "2年105天36分",
+        "version": "1.2.10~1.3.75"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "978759625": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:18:54",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天18小时0分",
+        "version": "5.7.0"
+      },
+      {
+        "sdate": "2015-11-19 10:29:14",
+        "edate": "2020-12-31 04:18:54",
+        "status": "online",
+        "duration": "5年43天17小时49分",
+        "version": "1.0.0~5.7.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

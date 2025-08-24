@@ -1,0 +1,27 @@
+{
+  "1597631964": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-02-23 03:49:58",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年181天12小时9分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2021-11-30 00:00:00",
+        "edate": "2022-02-23 03:49:58",
+        "status": "online",
+        "duration": "85天3小时49分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

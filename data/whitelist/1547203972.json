@@ -1,0 +1,27 @@
+{
+  "1547203972": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-03-15 17:58:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年160天17小时26分",
+        "version": "1.0.3"
+      },
+      {
+        "sdate": "2021-01-08 19:09:45",
+        "edate": "2021-03-15 17:58:13",
+        "status": "online",
+        "duration": "65天22小时48分",
+        "version": "1.0.0~1.0.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

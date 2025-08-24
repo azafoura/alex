@@ -1,0 +1,27 @@
+{
+  "1562867488": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-07-26 18:08:04",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年27天17小时46分",
+        "version": "1.4"
+      },
+      {
+        "sdate": "2021-05-05 00:00:00",
+        "edate": "2021-07-26 18:08:04",
+        "status": "online",
+        "duration": "82天18小时8分",
+        "version": "1.0~1.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

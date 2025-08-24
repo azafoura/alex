@@ -1,0 +1,27 @@
+{
+  "1096544824": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-02-07 06:02:48",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年196天22小时15分",
+        "version": "2.3.9"
+      },
+      {
+        "sdate": "2016-07-26 14:18:11",
+        "edate": "2019-02-07 06:02:48",
+        "status": "online",
+        "duration": "2年195天15小时44分",
+        "version": "1.0~2.3.9"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

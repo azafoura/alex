@@ -1,0 +1,34 @@
+{
+  "542568747": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-08 12:47:10",
+        "edate": "",
+        "status": "online",
+        "duration": "5年43天19小时56分",
+        "version": "4.3.0"
+      },
+      {
+        "sdate": "2020-07-03 21:49:52",
+        "edate": "2020-07-08 12:47:10",
+        "status": "offline",
+        "duration": "4天14小时57分",
+        "version": "4.3.0"
+      },
+      {
+        "sdate": "2014-05-19 01:38:49",
+        "edate": "2020-07-03 21:49:52",
+        "status": "online",
+        "duration": "6年47天20小时11分",
+        "version": "2.1.42~4.3.0"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

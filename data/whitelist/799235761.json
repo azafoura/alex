@@ -1,0 +1,34 @@
+{
+  "799235761": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:14:16",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时50分",
+        "version": "3.9.6"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-06-24 17:31:26",
+        "edate": "2020-06-24 19:29:52",
+        "duration": "1小时58分",
+        "version": "3.9.6"
+      },
+      {
+        "sdate": "2014-02-11 18:18:38",
+        "edate": "2020-12-31 04:14:16",
+        "status": "online",
+        "duration": "6年324天9小时55分",
+        "version": "1.8~3.9.6"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

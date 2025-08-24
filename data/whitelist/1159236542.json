@@ -1,0 +1,27 @@
+{
+  "1159236542": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-03-07 00:31:19",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年169天4小时35分",
+        "version": "1.4"
+      },
+      {
+        "sdate": "2016-12-22 08:33:32",
+        "edate": "2017-03-07 00:31:19",
+        "status": "online",
+        "duration": "74天15小时57分",
+        "version": "1.0~1.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

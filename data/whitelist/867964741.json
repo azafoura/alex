@@ -1,0 +1,27 @@
+{
+  "867964741": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2015-05-28 10:53:39",
+        "edate": null,
+        "status": "offline",
+        "duration": "10年87天6小时59分",
+        "version": "1.12.0~1.20.0"
+      },
+      {
+        "sdate": "2014-06-20 16:55:22",
+        "edate": "2015-05-28 10:53:39",
+        "status": "online",
+        "duration": "341天17小时58分",
+        "version": "1.0.0~1.12.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

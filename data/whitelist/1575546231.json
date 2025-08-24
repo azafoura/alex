@@ -1,0 +1,27 @@
+{
+  "1575546231": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-11-16 02:25:40",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年280天13小时24分",
+        "version": "1.4"
+      },
+      {
+        "sdate": "2021-09-06 00:00:00",
+        "edate": "2022-11-16 02:25:40",
+        "status": "online",
+        "duration": "1年71天2小时25分",
+        "version": "1.0~1.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

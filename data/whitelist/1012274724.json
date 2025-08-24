@@ -1,0 +1,27 @@
+{
+  "1012274724": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-12-11 18:47:20",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年254天4小时3分",
+        "version": "1.0.65"
+      },
+      {
+        "sdate": "2015-08-28 03:40:06",
+        "edate": "2019-12-11 18:47:20",
+        "status": "online",
+        "duration": "4年106天15小时7分",
+        "version": "1.0.2~1.0.65"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

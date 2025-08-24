@@ -1,0 +1,27 @@
+{
+  "1437697461": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-05-18 19:33:20",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年96天1小时47分",
+        "version": "5.2.4"
+      },
+      {
+        "sdate": "2018-11-09 11:04:28",
+        "edate": "2020-05-18 19:33:20",
+        "status": "online",
+        "duration": "1年191天8小时28分",
+        "version": "5.2.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

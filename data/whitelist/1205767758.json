@@ -1,0 +1,27 @@
+{
+  "1205767758": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-10-10 17:05:40",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年316天12小时23分",
+        "version": "1.2"
+      },
+      {
+        "sdate": "2017-02-27 19:54:24",
+        "edate": "2018-10-10 17:05:40",
+        "status": "online",
+        "duration": "1年224天21小时11分",
+        "version": "1.0~1.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1485200032": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2019-11-15 23:35:48",
+        "edate": "2019-11-16 02:00:00",
+        "duration": "2小时24分",
+        "version": "1.0.3"
+      },
+      {
+        "sdate": "2019-11-05 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "5年292天4小时55分",
+        "version": "1.0.1~1.5.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

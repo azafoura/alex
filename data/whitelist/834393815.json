@@ -1,0 +1,27 @@
+{
+  "834393815": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-15 02:28:16",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年249天6小时39分",
+        "version": "1.125.0.0"
+      },
+      {
+        "sdate": "2014-10-30 14:10:46",
+        "edate": "2020-12-15 02:28:16",
+        "status": "online",
+        "duration": "6年47天12小时17分",
+        "version": "1.11.4~1.125.0.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

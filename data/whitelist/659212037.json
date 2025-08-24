@@ -1,0 +1,27 @@
+{
+  "659212037": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-05-31 06:12:19",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年83天2小时40分",
+        "version": "1.7.89"
+      },
+      {
+        "sdate": "2013-10-15 17:21:34",
+        "edate": "2017-05-31 06:12:19",
+        "status": "online",
+        "duration": "3年228天12小时50分",
+        "version": "1.0.31~1.7.89"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

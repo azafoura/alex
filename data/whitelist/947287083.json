@@ -1,0 +1,41 @@
+{
+  "947287083": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-09-03 19:08:54",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年352天2小时52分",
+        "version": "1.0.7"
+      },
+      {
+        "sdate": "2021-09-03 19:05:54",
+        "edate": "2021-09-03 19:08:54",
+        "status": "online",
+        "duration": "3分",
+        "version": "1.0.7"
+      },
+      {
+        "sdate": "2021-09-03 18:53:20",
+        "edate": "2021-09-03 19:05:54",
+        "status": "offline",
+        "duration": "12分",
+        "version": "1.0.7"
+      },
+      {
+        "sdate": "2015-01-07 00:00:00",
+        "edate": "2021-09-03 18:53:20",
+        "status": "online",
+        "duration": "6年241天18小时53分",
+        "version": "1.0.2~1.0.7"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

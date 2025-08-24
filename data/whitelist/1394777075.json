@@ -1,0 +1,27 @@
+{
+  "1394777075": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-10-19 20:21:08",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年306天15小时40分",
+        "version": "1.4"
+      },
+      {
+        "sdate": "2018-06-15 00:00:00",
+        "edate": "2023-10-19 20:21:08",
+        "status": "online",
+        "duration": "5年127天20小时21分",
+        "version": "1.0~1.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

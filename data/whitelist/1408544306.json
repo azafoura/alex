@@ -1,0 +1,27 @@
+{
+  "1408544306": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-07-13 04:08:39",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年41天17小时2分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-07-08 02:21:26",
+        "edate": "2018-07-13 04:08:39",
+        "status": "online",
+        "duration": "5天1小时47分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

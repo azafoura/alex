@@ -1,0 +1,27 @@
+{
+  "1586783292": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-06-09 15:53:41",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年75天2分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2021-09-23 00:00:00",
+        "edate": "2022-06-09 15:53:41",
+        "status": "online",
+        "duration": "259天15小时53分",
+        "version": "1.0~1.0.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

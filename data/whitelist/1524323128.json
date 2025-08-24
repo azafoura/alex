@@ -1,0 +1,27 @@
+{
+  "1524323128": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-15 15:19:50",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年311天14小时26分",
+        "version": "0.5"
+      },
+      {
+        "sdate": "2020-07-23 21:30:02",
+        "edate": "2020-10-15 15:19:50",
+        "status": "online",
+        "duration": "83天17小时49分",
+        "version": "0.1~0.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1445111881": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-11-23 06:08:49",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年273天15小时17分",
+        "version": "5.3.2"
+      },
+      {
+        "sdate": "2018-12-18 11:14:03",
+        "edate": "2019-11-23 06:08:49",
+        "status": "online",
+        "duration": "339天18小时54分",
+        "version": "5.3.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

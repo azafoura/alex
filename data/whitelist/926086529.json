@@ -1,0 +1,41 @@
+{
+  "926086529": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:16:59",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时40分",
+        "version": "1.633"
+      },
+      {
+        "sdate": "2018-07-30 00:09:05",
+        "edate": "2020-12-31 04:16:59",
+        "status": "online",
+        "duration": "2年155天4小时7分",
+        "version": "1.633"
+      },
+      {
+        "sdate": "2018-07-27 09:51:11",
+        "edate": "2018-07-30 00:09:05",
+        "status": "offline",
+        "duration": "2天14小时17分",
+        "version": "1.633"
+      },
+      {
+        "sdate": "2014-10-16 00:00:00",
+        "edate": "2018-07-27 09:51:11",
+        "status": "online",
+        "duration": "3年285天9小时51分",
+        "version": "1.0~1.633"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

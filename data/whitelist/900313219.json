@@ -1,0 +1,27 @@
+{
+  "900313219": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:20:15",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年235天33分",
+        "version": "2.1.250"
+      },
+      {
+        "sdate": "2014-08-05 22:07:00",
+        "edate": "2020-12-31 04:20:15",
+        "status": "online",
+        "duration": "6年149天6小时13分",
+        "version": "1.0.1~2.1.250"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

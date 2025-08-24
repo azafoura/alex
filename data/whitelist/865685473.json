@@ -1,0 +1,34 @@
+{
+  "865685473": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-02 12:59:58",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年263天14小时31分",
+        "version": "2.4"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-01-23 17:53:13",
+        "edate": "2020-01-23 19:45:56",
+        "duration": "1小时52分",
+        "version": "1.8"
+      },
+      {
+        "sdate": "2014-11-07 00:27:18",
+        "edate": "2020-12-02 12:59:58",
+        "status": "online",
+        "duration": "6年27天12小时32分",
+        "version": "1.0~2.4"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

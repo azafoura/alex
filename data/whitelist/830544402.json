@@ -1,0 +1,34 @@
+{
+  "830544402": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:22:40",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时44分",
+        "version": "1.0.8"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-05-21 08:32:19",
+        "edate": "2020-05-21 10:28:56",
+        "duration": "1小时56分",
+        "version": "1.0.8"
+      },
+      {
+        "sdate": "2014-04-10 00:50:09",
+        "edate": "2020-12-31 04:22:40",
+        "status": "online",
+        "duration": "6年267天3小时32分",
+        "version": "1.0~1.0.8"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

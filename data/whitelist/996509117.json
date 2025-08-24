@@ -1,0 +1,27 @@
+{
+  "996509117": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2018-01-14 05:04:32",
+        "edate": "2018-01-15 00:00:00",
+        "duration": "18小时55分",
+        "version": "7.8.7"
+      },
+      {
+        "sdate": "2015-05-31 01:19:50",
+        "edate": "",
+        "status": "online",
+        "duration": "10年84天21小时27分",
+        "version": "1.0~19.4.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

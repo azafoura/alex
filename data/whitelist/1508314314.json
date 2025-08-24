@@ -1,0 +1,27 @@
+{
+  "1508314314": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-15 20:41:53",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年38天8小时24分",
+        "version": "0.4"
+      },
+      {
+        "sdate": "2020-04-18 07:29:11",
+        "edate": "2020-07-15 20:41:53",
+        "status": "online",
+        "duration": "88天13小时12分",
+        "version": "0.1~0.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

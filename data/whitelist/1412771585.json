@@ -1,0 +1,41 @@
+{
+  "1412771585": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 05:15:54",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天15小时56分",
+        "version": "1.30"
+      },
+      {
+        "sdate": "2019-02-21 21:59:11",
+        "edate": "2020-12-31 05:15:54",
+        "status": "online",
+        "duration": "1年313天7小时16分",
+        "version": "1.30"
+      },
+      {
+        "sdate": "2019-02-21 18:47:09",
+        "edate": "2019-02-21 21:59:11",
+        "status": "offline",
+        "duration": "3小时12分",
+        "version": "1.30"
+      },
+      {
+        "sdate": "2018-08-14 00:00:00",
+        "edate": "2019-02-21 18:47:09",
+        "status": "online",
+        "duration": "191天18小时47分",
+        "version": "1.0~1.30"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

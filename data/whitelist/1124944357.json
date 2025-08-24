@@ -1,0 +1,27 @@
+{
+  "1124944357": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-06-20 05:05:01",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年63天23小时31分",
+        "version": "7.1.254"
+      },
+      {
+        "sdate": "2016-07-28 13:18:17",
+        "edate": "2017-06-20 05:05:01",
+        "status": "online",
+        "duration": "326天15小时46分",
+        "version": "1.0.129~7.1.254"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1279200410": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-09-18 15:09:55",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年338天16小时47分",
+        "version": "1.6.9"
+      },
+      {
+        "sdate": "2017-11-16 01:03:32",
+        "edate": "2018-09-18 15:09:55",
+        "status": "online",
+        "duration": "306天14小时6分",
+        "version": "1.0.0~1.6.9"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

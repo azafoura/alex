@@ -1,0 +1,27 @@
+{
+  "958763157": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 05:37:43",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年145天16小时29分",
+        "version": "2.10.1~2.12"
+      },
+      {
+        "sdate": "2015-01-27 03:29:39",
+        "edate": "2016-03-30 05:37:43",
+        "status": "online",
+        "duration": "1年63天2小时8分",
+        "version": "1.0~2.10.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

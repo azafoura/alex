@@ -1,0 +1,27 @@
+{
+  "1316326901": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-11-03 10:56:22",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年291天21小时15分",
+        "version": "2.3"
+      },
+      {
+        "sdate": "2017-11-25 00:00:00",
+        "edate": "2022-11-03 10:56:22",
+        "status": "online",
+        "duration": "4年344天10小时56分",
+        "version": "1.0~2.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

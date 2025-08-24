@@ -1,0 +1,27 @@
+{
+  "1369681345": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-01-03 12:16:16",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年231天23小时30分",
+        "version": "1.0.5"
+      },
+      {
+        "sdate": "2019-12-29 22:05:53",
+        "edate": "2020-01-03 12:16:16",
+        "status": "online",
+        "duration": "4天14小时10分",
+        "version": "1.0.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

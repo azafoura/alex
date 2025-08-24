@@ -1,0 +1,27 @@
+{
+  "569841306": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2015-03-29 00:48:53",
+        "edate": null,
+        "status": "offline",
+        "duration": "10年147天7小时57分",
+        "version": ""
+      },
+      {
+        "sdate": "2012-11-02 16:04:21",
+        "edate": "2015-03-29 00:48:53",
+        "status": "online",
+        "duration": "2年146天8小时44分",
+        "version": ""
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

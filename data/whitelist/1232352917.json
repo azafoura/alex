@@ -1,0 +1,27 @@
+{
+  "1232352917": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-12-19 14:12:15",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年246天17小时24分",
+        "version": "1.3"
+      },
+      {
+        "sdate": "2017-11-24 00:00:51",
+        "edate": "2019-12-19 14:12:15",
+        "status": "online",
+        "duration": "2年25天14小时11分",
+        "version": "1.0~1.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

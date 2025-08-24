@@ -1,0 +1,27 @@
+{
+  "465884560": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-08 11:44:49",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年43天20小时53分",
+        "version": "8.0.2.1"
+      },
+      {
+        "sdate": "2012-09-25 05:46:59",
+        "edate": "2020-07-08 11:44:49",
+        "status": "online",
+        "duration": "7年288天5小时57分",
+        "version": "2.0.5~8.0.2.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1362630516": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-01-09 03:04:38",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年226天8小时38分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-08-14 08:03:23",
+        "edate": "2019-01-09 03:04:38",
+        "status": "online",
+        "duration": "147天19小时1分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

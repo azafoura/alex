@@ -1,0 +1,27 @@
+{
+  "1465351465": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-09-02 08:12:34",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年308天1小时20分",
+        "version": "1.0.200714~1.0.200731"
+      },
+      {
+        "sdate": "2020-07-14 23:33:09",
+        "edate": "2020-09-02 08:12:34",
+        "status": "preorder",
+        "duration": "49天8小时39分",
+        "version": "1.0.200714"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

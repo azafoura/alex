@@ -1,0 +1,34 @@
+{
+  "1457158634": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-11-04 15:34:17",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年291天8小时41分",
+        "version": "1.8.30"
+      },
+      {
+        "sdate": "2020-05-28 00:00:00",
+        "edate": "2022-11-04 15:34:17",
+        "status": "online",
+        "duration": "2年160天15小时34分",
+        "version": "1.8.4~1.8.30"
+      },
+      {
+        "sdate": "2020-04-27 04:01:04",
+        "edate": "2020-05-28 00:00:00",
+        "status": "preorder",
+        "duration": "30天19小时58分",
+        "version": "1.7~1.8.4"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

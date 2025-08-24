@@ -1,0 +1,27 @@
+{
+  "1139609950": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 05:03:01",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天23小时43分",
+        "version": "2.6.13"
+      },
+      {
+        "sdate": "2017-02-18 08:30:14",
+        "edate": "2020-12-31 05:03:01",
+        "status": "online",
+        "duration": "3年316天20小时32分",
+        "version": "1.0~2.6.13"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

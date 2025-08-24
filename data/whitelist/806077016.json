@@ -1,0 +1,41 @@
+{
+  "806077016": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:14:24",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时50分",
+        "version": "6.7.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-11-15 23:56:32",
+        "edate": "2020-11-16 01:52:59",
+        "duration": "1小时56分",
+        "version": "6.6.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-10-04 17:42:26",
+        "edate": "2020-10-04 19:39:23",
+        "duration": "1小时56分",
+        "version": "6.3.2"
+      },
+      {
+        "sdate": "2014-04-14 21:31:07",
+        "edate": "2020-12-31 04:14:24",
+        "status": "online",
+        "duration": "6年262天6小时43分",
+        "version": "0.1.0~6.7.1"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "524359189": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-02-23 03:52:59",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年180天4小时49分",
+        "version": "1.0.3"
+      },
+      {
+        "sdate": "2012-06-26 23:41:07",
+        "edate": "2018-02-23 03:52:59",
+        "status": "online",
+        "duration": "5年242天4小时11分",
+        "version": "1.0.0~1.0.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

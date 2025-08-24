@@ -1,0 +1,34 @@
+{
+  "1560630414": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-03-08 11:02:26",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年168天46分",
+        "version": "1.0.9"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-06-02 15:04:27",
+        "edate": "2021-06-02 16:59:49",
+        "duration": "1小时55分",
+        "version": "1.0.3"
+      },
+      {
+        "sdate": "2021-04-03 00:00:00",
+        "edate": "2022-03-08 11:02:26",
+        "status": "online",
+        "duration": "339天11小时2分",
+        "version": "1.0~1.0.9"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

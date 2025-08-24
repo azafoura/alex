@@ -1,0 +1,27 @@
+{
+  "1550080063": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-04-02 10:07:05",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年143天1小时23分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2021-02-07 00:00:00",
+        "edate": "2022-04-02 10:07:05",
+        "status": "online",
+        "duration": "1年54天10小时7分",
+        "version": "1.0.0~1.0.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

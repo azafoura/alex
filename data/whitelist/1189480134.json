@@ -1,0 +1,27 @@
+{
+  "1189480134": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-06-06 07:54:27",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年76天21小时24分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2017-01-09 00:00:00",
+        "edate": "2020-06-06 07:54:27",
+        "status": "online",
+        "duration": "3年149天7小时54分",
+        "version": "1.0~1.0.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

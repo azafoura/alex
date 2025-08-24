@@ -1,0 +1,27 @@
+{
+  "421167112": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:06:00",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时30分",
+        "version": "1.37.20"
+      },
+      {
+        "sdate": "2012-05-24 16:58:22",
+        "edate": "2020-12-31 04:06:00",
+        "status": "online",
+        "duration": "8年222天11小时7分",
+        "version": "1.7~1.37.20"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

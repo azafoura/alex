@@ -1,0 +1,34 @@
+{
+  "880017562": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:19:39",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天13小时34分",
+        "version": "2.31"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-04-22 20:55:04",
+        "edate": "2020-04-22 22:36:34",
+        "duration": "1小时41分",
+        "version": "2.31"
+      },
+      {
+        "sdate": "2014-06-25 01:08:03",
+        "edate": "2020-12-31 04:19:39",
+        "status": "online",
+        "duration": "6年191天3小时11分",
+        "version": "1.0.0~2.31"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

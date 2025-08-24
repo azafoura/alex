@@ -1,0 +1,27 @@
+{
+  "1458091391": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-17 17:36:48",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年248天6小时40分",
+        "version": "2.26.0"
+      },
+      {
+        "sdate": "2019-04-02 02:13:19",
+        "edate": "2020-12-17 17:36:48",
+        "status": "online",
+        "duration": "1年260天15小时23分",
+        "version": "2.0~2.26.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

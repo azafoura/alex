@@ -1,0 +1,41 @@
+{
+  "1469356572": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:45:41",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天19小时46分",
+        "version": "1.10.5"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-09-24 06:37:45",
+        "edate": "2019-09-24 08:00:00",
+        "duration": "1小时22分",
+        "version": "1.5.6"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-08-24 22:59:02",
+        "edate": "2019-08-25 00:00:00",
+        "duration": "1小时0分",
+        "version": "1.5.4"
+      },
+      {
+        "sdate": "2019-07-03 13:37:32",
+        "edate": "2020-12-31 04:45:41",
+        "status": "online",
+        "duration": "1年181天15小时8分",
+        "version": "0.1~1.10.5"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

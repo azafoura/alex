@@ -1,0 +1,27 @@
+{
+  "1575315111": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-01-28 11:47:29",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年207天4小时2分",
+        "version": "1.6.0"
+      },
+      {
+        "sdate": "2021-07-20 00:00:00",
+        "edate": "2022-01-28 11:47:29",
+        "status": "online",
+        "duration": "192天11小时47分",
+        "version": "1.0.0~1.6.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "420009108": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-11-02 05:21:22",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年293天3小时14分",
+        "version": "1.9.4"
+      },
+      {
+        "sdate": "2011-07-27 06:05:08",
+        "edate": "2018-11-02 05:21:22",
+        "status": "online",
+        "duration": "7年99天23小时16分",
+        "version": "1.0~1.9.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

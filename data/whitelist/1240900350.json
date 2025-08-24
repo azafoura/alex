@@ -1,0 +1,27 @@
+{
+  "1240900350": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-07-30 19:41:05",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年23天12小时0分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2017-06-03 06:28:33",
+        "edate": "2019-07-30 19:41:05",
+        "status": "online",
+        "duration": "2年57天13小时12分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "656176278": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:16:11",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时36分",
+        "version": "5.7.1"
+      },
+      {
+        "sdate": "2020-02-12 22:25:02",
+        "edate": "2020-12-31 04:16:11",
+        "status": "online",
+        "duration": "322天5小时51分",
+        "version": "5.3.4~5.7.1"
+      },
+      {
+        "sdate": "2020-01-07 19:16:58",
+        "edate": "2020-02-12 22:25:02",
+        "status": "offline",
+        "duration": "36天3小时8分",
+        "version": "5.3.2~5.3.4"
+      },
+      {
+        "sdate": "2014-07-15 20:38:26",
+        "edate": "2020-01-07 19:16:58",
+        "status": "online",
+        "duration": "5年176天22小时38分",
+        "version": "1.0.0~5.3.2"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

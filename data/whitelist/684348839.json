@@ -1,0 +1,27 @@
+{
+  "684348839": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:12:42",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时42分",
+        "version": "1.2.2"
+      },
+      {
+        "sdate": "2013-08-20 00:00:00",
+        "edate": "2020-12-31 04:12:42",
+        "status": "online",
+        "duration": "7年135天4小时12分",
+        "version": "1.0~1.2.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

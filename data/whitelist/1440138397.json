@@ -1,0 +1,27 @@
+{
+  "1440138397": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-02-14 11:23:38",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年190天9小时59分",
+        "version": "1.4.56"
+      },
+      {
+        "sdate": "2018-11-13 06:35:54",
+        "edate": "2019-02-14 11:23:38",
+        "status": "online",
+        "duration": "93天4小时47分",
+        "version": "1.4.45~1.4.56"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

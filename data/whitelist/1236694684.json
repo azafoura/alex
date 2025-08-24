@@ -1,0 +1,27 @@
+{
+  "1236694684": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-02-12 18:39:59",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年191天12小时59分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2017-05-25 00:25:58",
+        "edate": "2019-02-12 18:39:59",
+        "status": "online",
+        "duration": "1年263天18小时14分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

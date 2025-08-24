@@ -1,0 +1,41 @@
+{
+  "1387364214": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-07-19 05:58:20",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年35天5小时59分",
+        "version": "1.9.25"
+      },
+      {
+        "status": "out",
+        "sdate": "2018-07-14 12:35:26",
+        "edate": "2018-07-19 05:58:20",
+        "duration": "4天17小时22分",
+        "version": "1.9.25"
+      },
+      {
+        "status": "out",
+        "sdate": "2018-07-08 04:05:14",
+        "edate": "2018-07-11 00:00:00",
+        "duration": "2天19小时54分",
+        "version": "1.9.25"
+      },
+      {
+        "sdate": "2018-06-01 02:58:29",
+        "edate": "2018-07-19 05:58:20",
+        "status": "online",
+        "duration": "48天2小时59分",
+        "version": "1.9.25"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

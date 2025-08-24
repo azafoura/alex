@@ -1,0 +1,41 @@
+{
+  "1579830232": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-06-06 16:50:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年76天23小时2分",
+        "version": "2.8"
+      },
+      {
+        "status": "out",
+        "sdate": "2022-10-08 21:07:20",
+        "edate": "2022-10-08 22:53:03",
+        "duration": "1小时45分",
+        "version": "2.5"
+      },
+      {
+        "sdate": "2021-08-16 22:49:02",
+        "edate": "2024-06-06 16:50:13",
+        "status": "online",
+        "duration": "2年294天18小时1分",
+        "version": "1.1~2.8"
+      },
+      {
+        "sdate": "2021-08-06 13:24:12",
+        "edate": "2021-08-16 22:49:02",
+        "status": "preorder",
+        "duration": "10天9小时24分",
+        "version": "1.0~1.1"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "684332334": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-04-18 09:51:29",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年125天23小时3分",
+        "version": "29"
+      },
+      {
+        "sdate": "2013-11-13 08:58:47",
+        "edate": "2019-04-18 09:51:29",
+        "status": "online",
+        "duration": "5年157天52分",
+        "version": "1.28~29"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

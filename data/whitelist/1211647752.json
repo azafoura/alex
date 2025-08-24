@@ -1,0 +1,41 @@
+{
+  "1211647752": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-08-23 20:17:47",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年363天11小时9分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2019-07-25 00:41:54",
+        "edate": "2020-08-23 20:17:47",
+        "status": "online",
+        "duration": "1年30天19小时35分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2019-05-01 21:18:35",
+        "edate": "2019-07-25 00:41:54",
+        "status": "offline",
+        "duration": "84天3小时23分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2017-05-04 07:31:38",
+        "edate": "2019-05-01 21:18:35",
+        "status": "online",
+        "duration": "1年362天13小时46分",
+        "version": "1.0.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

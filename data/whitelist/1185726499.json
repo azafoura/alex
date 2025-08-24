@@ -1,0 +1,27 @@
+{
+  "1185726499": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-04-25 15:38:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年119天13小时38分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2016-12-14 02:33:27",
+        "edate": "2019-04-25 15:38:13",
+        "status": "online",
+        "duration": "2年132天13小时4分",
+        "version": "1.0.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

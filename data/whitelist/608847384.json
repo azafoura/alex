@@ -1,0 +1,20 @@
+{
+  "608847384": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2013-09-16 01:19:36",
+        "edate": "",
+        "status": "online",
+        "duration": "11年341天7小时30分",
+        "version": "2.2~5.9.1"
+      }
+    ],
+    "total": 1,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

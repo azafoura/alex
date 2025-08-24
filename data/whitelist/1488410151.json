@@ -1,0 +1,27 @@
+{
+  "1488410151": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-25 00:24:31",
+        "edate": "",
+        "status": "online",
+        "duration": "4年241天4小时32分",
+        "version": "1.9.17~1.9.52"
+      },
+      {
+        "sdate": "2020-11-13 05:25:41",
+        "edate": "2020-12-25 00:24:31",
+        "status": "preorder",
+        "duration": "41天18小时58分",
+        "version": "1.9.10~1.9.17"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

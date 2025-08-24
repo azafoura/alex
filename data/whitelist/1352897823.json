@@ -1,0 +1,34 @@
+{
+  "1352897823": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-03-06 17:21:21",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年169天18小时14分",
+        "version": "1.33.2"
+      },
+      {
+        "status": "out",
+        "sdate": "2018-07-15 03:25:09",
+        "edate": "2018-09-15 00:00:00",
+        "duration": "61天20小时34分",
+        "version": "1.33.2"
+      },
+      {
+        "sdate": "2018-04-27 20:44:44",
+        "edate": "2019-03-06 17:21:21",
+        "status": "online",
+        "duration": "312天20小时36分",
+        "version": "1.33.2"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

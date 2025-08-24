@@ -1,0 +1,27 @@
+{
+  "1347666572": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-06-24 13:42:23",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年58天21小时51分",
+        "version": "5.2.10"
+      },
+      {
+        "sdate": "2018-02-28 02:14:03",
+        "edate": "2020-06-24 13:42:23",
+        "status": "online",
+        "duration": "2年117天11小时28分",
+        "version": "1.0~5.2.10"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

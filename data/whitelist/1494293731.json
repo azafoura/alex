@@ -1,0 +1,27 @@
+{
+  "1494293731": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-21 14:31:01",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年305天14小时29分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2020-01-17 12:44:28",
+        "edate": "2020-10-21 14:31:01",
+        "status": "online",
+        "duration": "278天1小时46分",
+        "version": "1.0~2.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

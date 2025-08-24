@@ -1,0 +1,27 @@
+{
+  "969488951": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:18:29",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时54分",
+        "version": "2.0.11"
+      },
+      {
+        "sdate": "2015-07-24 07:21:26",
+        "edate": "2020-12-31 04:18:29",
+        "status": "online",
+        "duration": "5年161天20小时57分",
+        "version": "0.0.4~2.0.11"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

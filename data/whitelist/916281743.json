@@ -1,0 +1,27 @@
+{
+  "916281743": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:20:51",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时21分",
+        "version": "3.101.102"
+      },
+      {
+        "sdate": "2014-10-06 22:24:28",
+        "edate": "2020-12-31 04:20:51",
+        "status": "online",
+        "duration": "6年87天5小时56分",
+        "version": "1.0~3.101.102"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

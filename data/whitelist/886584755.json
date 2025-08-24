@@ -1,0 +1,41 @@
+{
+  "886584755": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-12-24 03:22:12",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年242天1小时30分",
+        "version": "3.4.2"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-09-02 19:23:01",
+        "edate": "2021-09-03 18:14:52",
+        "duration": "22小时51分",
+        "version": "3.4.2"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-12-10 22:37:19",
+        "edate": "2019-12-11 00:00:00",
+        "duration": "1小时22分",
+        "version": "3.1.8"
+      },
+      {
+        "sdate": "2014-06-23 00:00:00",
+        "edate": "2021-12-24 03:22:12",
+        "status": "online",
+        "duration": "7年186天3小时22分",
+        "version": "1.0~3.4.2"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

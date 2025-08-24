@@ -1,0 +1,34 @@
+{
+  "1279780896": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:29:05",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天3小时28分",
+        "version": "1.18.4"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-06-28 17:36:54",
+        "edate": "2020-06-28 19:29:45",
+        "duration": "1小时52分",
+        "version": "1.18.1"
+      },
+      {
+        "sdate": "2017-10-21 17:34:53",
+        "edate": "2020-12-31 04:29:05",
+        "status": "online",
+        "duration": "3年71天10小时54分",
+        "version": "0.0.21~1.18.4"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

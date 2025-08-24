@@ -1,0 +1,27 @@
+{
+  "1215252556": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-29 20:10:18",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年296天11小时18分",
+        "version": "2.2"
+      },
+      {
+        "sdate": "2017-03-31 00:00:00",
+        "edate": "2020-10-29 20:10:18",
+        "status": "online",
+        "duration": "3年213天20小时10分",
+        "version": "1.0~2.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

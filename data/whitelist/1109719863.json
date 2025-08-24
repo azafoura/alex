@@ -1,0 +1,27 @@
+{
+  "1109719863": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-05-25 02:46:57",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年90天1小时35分",
+        "version": "1.4.0"
+      },
+      {
+        "sdate": "2016-05-03 18:48:52",
+        "edate": "2017-05-25 02:46:57",
+        "status": "online",
+        "duration": "1年21天7小时58分",
+        "version": "1.0~1.4.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

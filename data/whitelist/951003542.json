@@ -1,0 +1,48 @@
+{
+  "951003542": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:17:58",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时44分",
+        "version": "2.0.0"
+      },
+      {
+        "sdate": "2018-12-11 13:43:34",
+        "edate": "2020-12-31 04:17:58",
+        "status": "online",
+        "duration": "2年20天14小时34分",
+        "version": "0.1.0~2.0.0"
+      },
+      {
+        "sdate": "2018-12-04 13:45:58",
+        "edate": "2018-12-11 13:43:34",
+        "status": "offline",
+        "duration": "6天23小时57分",
+        "version": "0.02~0.1.0"
+      },
+      {
+        "sdate": "2018-11-28 00:00:00",
+        "edate": "2018-12-04 13:45:58",
+        "status": "online",
+        "duration": "6天13小时45分",
+        "version": "0.02"
+      },
+      {
+        "sdate": "2018-10-06 06:21:39",
+        "edate": "2018-11-28 00:00:00",
+        "status": "preorder",
+        "duration": "52天17小时38分",
+        "version": "0.01~0.02"
+      }
+    ],
+    "total": 5,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

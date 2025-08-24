@@ -1,0 +1,41 @@
+{
+  "1537343373": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-11-24 16:20:20",
+        "edate": "",
+        "status": "offline",
+        "duration": "4年271天13小时49分",
+        "version": "1.0.1~1.0.3"
+      },
+      {
+        "sdate": "2020-10-28 10:52:42",
+        "edate": "2020-11-24 15:33:17",
+        "status": "offline",
+        "duration": "27天4小时40分",
+        "version": "1.0~1.0.1"
+      },
+      {
+        "sdate": "2020-10-27 21:26:08",
+        "edate": "2020-10-28 10:52:42",
+        "status": "preorder",
+        "duration": "13小时26分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2020-10-27 21:26:08",
+        "edate": "2020-11-24 16:20:20",
+        "status": "preorder",
+        "duration": "47分",
+        "version": "1.0~1.0.1"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

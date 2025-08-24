@@ -1,0 +1,27 @@
+{
+  "1585533217": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2024-07-17 00:20:23",
+        "edate": "2024-07-17 06:21:02",
+        "duration": "6小时0分",
+        "version": "2.3.0"
+      },
+      {
+        "sdate": "2021-09-28 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "3年329天15小时55分",
+        "version": "1.2.0~2.4.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

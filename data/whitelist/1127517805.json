@@ -1,0 +1,27 @@
+{
+  "1127517805": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-01-09 03:09:42",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年226天1小时28分",
+        "version": "3.2.1"
+      },
+      {
+        "sdate": "2017-01-25 19:42:52",
+        "edate": "2019-01-09 03:09:42",
+        "status": "online",
+        "duration": "1年348天7小时26分",
+        "version": "3.0~3.2.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

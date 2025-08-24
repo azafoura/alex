@@ -1,0 +1,27 @@
+{
+  "1470039281": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 05:21:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天19小时11分",
+        "version": "1.16.1"
+      },
+      {
+        "sdate": "2019-06-26 00:00:00",
+        "edate": "2020-12-31 05:21:13",
+        "status": "online",
+        "duration": "1年189天5小时21分",
+        "version": "1.0~1.16.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

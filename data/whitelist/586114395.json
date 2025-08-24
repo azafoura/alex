@@ -1,0 +1,41 @@
+{
+  "586114395": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-09-01 13:36:37",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年353天19小时11分",
+        "version": "8.1.1"
+      },
+      {
+        "sdate": "2021-03-31 13:52:55",
+        "edate": "2021-09-01 13:36:37",
+        "status": "online",
+        "duration": "153天23小时43分",
+        "version": "8.1.0~8.1.1"
+      },
+      {
+        "sdate": "2020-12-31 04:10:32",
+        "edate": "2021-03-31 13:52:55",
+        "status": "offline",
+        "duration": "90天9小时42分",
+        "version": "8.0.0~8.1.0"
+      },
+      {
+        "sdate": "2013-09-20 05:34:45",
+        "edate": "2020-12-31 04:10:32",
+        "status": "online",
+        "duration": "7年103天22小时35分",
+        "version": "1.8.1~8.0.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

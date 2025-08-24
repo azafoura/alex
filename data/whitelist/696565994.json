@@ -1,0 +1,27 @@
+{
+  "696565994": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:13:03",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时43分",
+        "version": "2.9.0"
+      },
+      {
+        "sdate": "2013-09-20 19:54:34",
+        "edate": "2020-12-31 04:13:03",
+        "status": "online",
+        "duration": "7年103天8小时18分",
+        "version": "1.0.0~2.9.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

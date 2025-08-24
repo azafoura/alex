@@ -1,0 +1,41 @@
+{
+  "1397666834": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-01-30 06:28:58",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年205天22小时26分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2019-01-15 10:44:33",
+        "edate": "2019-01-30 06:28:58",
+        "status": "online",
+        "duration": "14天19小时44分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-09-30 11:17:03",
+        "edate": "2019-01-15 10:44:33",
+        "status": "offline",
+        "duration": "106天23小时27分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-07-31 22:33:36",
+        "edate": "2018-09-30 11:17:03",
+        "status": "online",
+        "duration": "60天12小时43分",
+        "version": "1.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

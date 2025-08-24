@@ -1,0 +1,27 @@
+{
+  "1589127378": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-02-07 02:04:02",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年197天13小时52分",
+        "version": "12.3.21"
+      },
+      {
+        "sdate": "2021-10-13 00:00:00",
+        "edate": "2024-02-07 02:04:02",
+        "status": "online",
+        "duration": "2年117天2小时4分",
+        "version": "12.3.17~12.3.21"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

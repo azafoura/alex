@@ -1,0 +1,27 @@
+{
+  "1468076893": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:40:19",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天19小时49分",
+        "version": "2.1"
+      },
+      {
+        "sdate": "2019-06-17 09:21:39",
+        "edate": "2020-12-31 04:40:19",
+        "status": "online",
+        "duration": "1年197天19小时18分",
+        "version": "1.0~2.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

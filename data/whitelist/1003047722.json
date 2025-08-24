@@ -1,0 +1,27 @@
+{
+  "1003047722": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-08-01 04:06:05",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年20天18小时43分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2015-07-23 21:25:15",
+        "edate": "2020-08-01 04:06:05",
+        "status": "online",
+        "duration": "5年10天6小时40分",
+        "version": "1.0.0~1.0.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

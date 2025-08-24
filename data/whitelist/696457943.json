@@ -1,0 +1,27 @@
+{
+  "696457943": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-09-12 14:25:56",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年343天18小时30分",
+        "version": "1.4.2"
+      },
+      {
+        "sdate": "2013-09-14 01:12:58",
+        "edate": "2019-09-12 14:25:56",
+        "status": "online",
+        "duration": "5年364天13小时12分",
+        "version": "1.0~1.4.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

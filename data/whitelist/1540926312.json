@@ -1,0 +1,41 @@
+{
+  "1540926312": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-01-29 05:59:02",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年206天14分",
+        "version": "2.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-01-27 15:01:50",
+        "edate": "2021-01-27 16:58:58",
+        "duration": "1小时57分",
+        "version": "0.5"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-12-27 20:58:44",
+        "edate": "2020-12-27 22:54:47",
+        "duration": "1小时56分",
+        "version": "0.2"
+      },
+      {
+        "sdate": "2020-11-25 00:00:00",
+        "edate": "2022-01-29 05:59:02",
+        "status": "online",
+        "duration": "1年65天5小时59分",
+        "version": "0.1~2.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

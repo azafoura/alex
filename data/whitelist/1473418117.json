@@ -1,0 +1,27 @@
+{
+  "1473418117": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:39:23",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天19小时57分",
+        "version": "1.0.299"
+      },
+      {
+        "sdate": "2019-07-23 16:45:43",
+        "edate": "2020-12-31 04:39:23",
+        "status": "online",
+        "duration": "1年161天11小时53分",
+        "version": "0.0.32~1.0.299"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

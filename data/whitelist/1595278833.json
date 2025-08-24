@@ -1,0 +1,48 @@
+{
+  "1595278833": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-10-12 11:43:15",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年315天4小时15分",
+        "version": "1.1"
+      },
+      {
+        "sdate": "2022-05-18 11:19:29",
+        "edate": "2022-10-12 11:43:15",
+        "status": "online",
+        "duration": "147天23分",
+        "version": "1.1"
+      },
+      {
+        "sdate": "2022-04-29 19:03:41",
+        "edate": "2022-05-18 11:19:29",
+        "status": "offline",
+        "duration": "18天16小时15分",
+        "version": "1.1"
+      },
+      {
+        "sdate": "2021-12-09 00:25:31",
+        "edate": "2022-04-29 19:03:41",
+        "status": "online",
+        "duration": "141天18小时38分",
+        "version": "1.1"
+      },
+      {
+        "sdate": "2021-12-02 13:48:51",
+        "edate": "2021-12-09 00:25:31",
+        "status": "preorder",
+        "duration": "6天10小时36分",
+        "version": "1.0~1.1"
+      }
+    ],
+    "total": 5,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

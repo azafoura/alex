@@ -1,0 +1,27 @@
+{
+  "1559378640": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-04-30 01:56:44",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年115天9小时49分",
+        "version": ""
+      },
+      {
+        "sdate": "2021-03-20 07:00:00",
+        "edate": "2021-04-30 01:56:44",
+        "status": "online",
+        "duration": "40天18小时56分",
+        "version": ""
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

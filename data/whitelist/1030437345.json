@@ -1,0 +1,27 @@
+{
+  "1030437345": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:58:26",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时57分",
+        "version": "1.4104"
+      },
+      {
+        "sdate": "2019-04-03 17:26:36",
+        "edate": "2020-12-31 04:58:26",
+        "status": "online",
+        "duration": "1年272天11小时31分",
+        "version": "1.001~1.4104"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

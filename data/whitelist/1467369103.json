@@ -1,0 +1,27 @@
+{
+  "1467369103": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:37:44",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天19小时51分",
+        "version": "1.9"
+      },
+      {
+        "sdate": "2019-06-13 00:00:00",
+        "edate": "2020-12-31 04:37:44",
+        "status": "online",
+        "duration": "1年202天4小时37分",
+        "version": "1.0~1.9"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

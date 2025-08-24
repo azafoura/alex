@@ -1,0 +1,27 @@
+{
+  "916728593": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2015-05-28 11:00:53",
+        "edate": null,
+        "status": "offline",
+        "duration": "10年87天10小时41分",
+        "version": "1.69~1.76"
+      },
+      {
+        "sdate": "2014-11-17 11:52:18",
+        "edate": "2015-05-28 11:00:53",
+        "status": "online",
+        "duration": "191天23小时8分",
+        "version": "1.50~1.69"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

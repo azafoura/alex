@@ -1,0 +1,27 @@
+{
+  "1570450367": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-06-13 15:31:47",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年70天14分",
+        "version": "4.0"
+      },
+      {
+        "sdate": "2021-06-02 00:00:00",
+        "edate": "2024-06-13 15:31:47",
+        "status": "online",
+        "duration": "3年12天15小时31分",
+        "version": "1.0~4.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

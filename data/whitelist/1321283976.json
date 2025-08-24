@@ -1,0 +1,27 @@
+{
+  "1321283976": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-06 18:13:12",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年46天14小时0分",
+        "version": "2.0.2"
+      },
+      {
+        "sdate": "2018-03-26 00:59:22",
+        "edate": "2020-07-06 18:13:12",
+        "status": "online",
+        "duration": "2年103天17小时13分",
+        "version": "1.0.2~2.0.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

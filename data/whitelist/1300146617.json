@@ -1,0 +1,27 @@
+{
+  "1300146617": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-01-11 05:04:41",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年224天3小时1分",
+        "version": ""
+      },
+      {
+        "sdate": "2017-11-20 04:51:06",
+        "edate": "2018-01-11 05:04:41",
+        "status": "online",
+        "duration": "52天13分",
+        "version": ""
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

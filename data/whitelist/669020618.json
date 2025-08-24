@@ -1,0 +1,27 @@
+{
+  "669020618": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-05-01 16:19:01",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年111天16小时34分",
+        "version": "5.4.8"
+      },
+      {
+        "sdate": "2013-10-17 21:20:46",
+        "edate": "2020-05-01 16:19:01",
+        "status": "online",
+        "duration": "6年197天18小时58分",
+        "version": "1.0.0~5.4.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

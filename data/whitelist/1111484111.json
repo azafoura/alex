@@ -1,0 +1,27 @@
+{
+  "1111484111": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-06-25 22:43:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年58天5小时40分",
+        "version": "3.6.2.4"
+      },
+      {
+        "sdate": "2016-06-12 04:46:34",
+        "edate": "2019-06-25 22:43:13",
+        "status": "online",
+        "duration": "3年13天17小时56分",
+        "version": "1.0.0~3.6.2.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

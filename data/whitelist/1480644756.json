@@ -1,0 +1,27 @@
+{
+  "1480644756": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-02-29 14:36:14",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年94天48分",
+        "version": "0.15.0"
+      },
+      {
+        "sdate": "2020-02-21 14:59:03",
+        "edate": "2020-02-29 14:36:14",
+        "status": "preorder",
+        "duration": "81天9小时23分",
+        "version": "0.15.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

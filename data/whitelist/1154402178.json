@@ -1,0 +1,48 @@
+{
+  "1154402178": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:24:24",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天41分",
+        "version": "1.32.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-05-14 17:32:28",
+        "edate": "2020-05-14 19:27:28",
+        "duration": "1小时55分",
+        "version": "1.23.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-04-04 02:43:15",
+        "edate": "2020-04-04 04:41:50",
+        "duration": "1小时58分",
+        "version": "1.22.2"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-02-26 11:38:16",
+        "edate": "2020-02-26 13:37:27",
+        "duration": "1小时59分",
+        "version": "1.20.0"
+      },
+      {
+        "sdate": "2017-08-29 07:27:10",
+        "edate": "2020-12-31 04:24:24",
+        "status": "online",
+        "duration": "3年124天20小时57分",
+        "version": "0.9.11~1.32.1"
+      }
+    ],
+    "total": 5,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

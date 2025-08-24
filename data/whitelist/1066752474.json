@@ -1,0 +1,27 @@
+{
+  "1066752474": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-05-10 07:25:49",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年104天15小时50分",
+        "version": "1.0.129"
+      },
+      {
+        "sdate": "2015-12-16 20:09:58",
+        "edate": "2016-05-10 07:25:49",
+        "status": "online",
+        "duration": "145天11小时15分",
+        "version": "1.0.26~1.0.129"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

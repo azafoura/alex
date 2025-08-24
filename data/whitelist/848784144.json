@@ -1,0 +1,41 @@
+{
+  "848784144": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-10-28 06:34:09",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年297天2小时34分",
+        "version": "1.5.9"
+      },
+      {
+        "sdate": "2023-10-26 23:22:54",
+        "edate": "2023-10-28 06:34:09",
+        "status": "online",
+        "duration": "1天7小时11分",
+        "version": "1.5.9"
+      },
+      {
+        "sdate": "2020-12-31 04:15:06",
+        "edate": "2023-10-26 23:22:54",
+        "status": "offline",
+        "duration": "2年299天19小时7分",
+        "version": "1.5.9"
+      },
+      {
+        "sdate": "2015-05-28 00:00:00",
+        "edate": "2020-12-31 04:15:06",
+        "status": "online",
+        "duration": "5年219天4小时15分",
+        "version": "1.0~1.5.9"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "1345173357": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-03-07 11:10:15",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年169天22分",
+        "version": "2.0.2"
+      },
+      {
+        "sdate": "2019-01-04 16:10:05",
+        "edate": "2019-03-07 11:10:15",
+        "status": "online",
+        "duration": "61天19小时0分",
+        "version": "2.0.2"
+      },
+      {
+        "sdate": "2018-05-15 15:53:04",
+        "edate": "2019-01-04 16:10:05",
+        "status": "offline",
+        "duration": "234天17分",
+        "version": "2.0.2"
+      },
+      {
+        "sdate": "2018-02-26 07:13:47",
+        "edate": "2018-05-15 15:53:04",
+        "status": "online",
+        "duration": "78天8小时39分",
+        "version": "2.0.2"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

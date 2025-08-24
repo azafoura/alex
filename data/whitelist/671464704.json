@@ -1,0 +1,41 @@
+{
+  "671464704": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-09-12 15:17:45",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年342天17小时36分",
+        "version": "4.13.0"
+      },
+      {
+        "sdate": "2020-09-12 15:11:01",
+        "edate": "2020-09-12 15:17:45",
+        "status": "online",
+        "duration": "6分",
+        "version": "4.13.0"
+      },
+      {
+        "sdate": "2020-05-28 00:14:25",
+        "edate": "2020-09-12 15:11:01",
+        "status": "offline",
+        "duration": "107天14小时56分",
+        "version": "4.13.0"
+      },
+      {
+        "sdate": "2014-07-15 18:36:59",
+        "edate": "2020-05-28 00:14:25",
+        "status": "online",
+        "duration": "5年318天5小时37分",
+        "version": "1.0.12~4.13.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

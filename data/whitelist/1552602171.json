@@ -1,0 +1,27 @@
+{
+  "1552602171": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-02-16 19:52:12",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年187天15小时44分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2021-02-10 00:00:00",
+        "edate": "2022-02-16 19:52:12",
+        "status": "online",
+        "duration": "1年6天19小时52分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

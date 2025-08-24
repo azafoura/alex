@@ -1,0 +1,41 @@
+{
+  "823154430": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:14:38",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时51分",
+        "version": "1.6"
+      },
+      {
+        "sdate": "2019-10-07 06:51:30",
+        "edate": "2020-12-31 04:14:38",
+        "status": "online",
+        "duration": "1年85天21小时23分",
+        "version": "1.6"
+      },
+      {
+        "sdate": "2019-09-29 18:30:01",
+        "edate": "2019-10-07 06:51:30",
+        "status": "offline",
+        "duration": "7天12小时21分",
+        "version": "1.6"
+      },
+      {
+        "sdate": "2014-02-26 00:00:00",
+        "edate": "2019-09-29 18:30:01",
+        "status": "online",
+        "duration": "5年216天18小时30分",
+        "version": "1.0~1.6"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

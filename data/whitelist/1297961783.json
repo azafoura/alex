@@ -1,0 +1,41 @@
+{
+  "1297961783": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-08-31 02:08:19",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年356天5小时56分",
+        "version": "4.3"
+      },
+      {
+        "sdate": "2022-03-21 22:43:14",
+        "edate": "2022-08-31 02:08:19",
+        "status": "online",
+        "duration": "162天3小时25分",
+        "version": "4.0~4.3"
+      },
+      {
+        "sdate": "2021-10-26 12:44:57",
+        "edate": "2022-03-21 22:43:14",
+        "status": "offline",
+        "duration": "146天9小时58分",
+        "version": "3.9~4.0"
+      },
+      {
+        "sdate": "2020-01-22 00:00:00",
+        "edate": "2021-10-26 12:44:57",
+        "status": "online",
+        "duration": "1年278天12小时44分",
+        "version": "1.1~3.9"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

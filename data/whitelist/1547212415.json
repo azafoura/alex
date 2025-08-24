@@ -1,0 +1,125 @@
+{
+  "1547212415": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-12-24 10:33:01",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年242天51分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2021-12-10 12:09:03",
+        "edate": "2021-12-24 10:33:01",
+        "status": "online",
+        "duration": "13天22小时23分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2021-12-10 11:47:58",
+        "edate": "2021-12-10 12:09:03",
+        "status": "offline",
+        "duration": "21分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2021-12-10 11:46:18",
+        "edate": "2021-12-10 11:47:58",
+        "status": "online",
+        "duration": "1分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2021-12-10 11:45:20",
+        "edate": "2021-12-10 11:46:18",
+        "status": "offline",
+        "duration": "0分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2021-12-10 11:45:16",
+        "edate": "2021-12-10 11:45:20",
+        "status": "online",
+        "duration": "0分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2021-12-10 11:44:17",
+        "edate": "2021-12-10 11:45:16",
+        "status": "offline",
+        "duration": "0分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2021-12-10 11:41:07",
+        "edate": "2021-12-10 11:44:17",
+        "status": "online",
+        "duration": "3分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2021-10-20 19:46:50",
+        "edate": "2021-12-10 11:41:07",
+        "status": "offline",
+        "duration": "50天15小时54分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2021-08-26 17:55:27",
+        "edate": "2021-10-20 19:46:50",
+        "status": "online",
+        "duration": "55天1小时51分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2021-08-25 20:31:37",
+        "edate": "2021-08-26 17:55:27",
+        "status": "offline",
+        "duration": "21小时23分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2021-08-24 12:17:22",
+        "edate": "2021-08-25 20:31:37",
+        "status": "online",
+        "duration": "1天8小时14分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2021-08-19 16:15:55",
+        "edate": "2021-08-24 12:17:22",
+        "status": "offline",
+        "duration": "4天20小时1分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2021-08-19 14:15:41",
+        "edate": "2021-08-19 16:15:55",
+        "status": "online",
+        "duration": "2小时0分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2021-06-03 23:55:00",
+        "edate": "2021-08-19 14:15:41",
+        "status": "offline",
+        "duration": "76天14小时20分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2021-01-06 00:00:00",
+        "edate": "2021-06-03 23:55:00",
+        "status": "online",
+        "duration": "148天23小时55分",
+        "version": "1.0"
+      }
+    ],
+    "total": 16,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

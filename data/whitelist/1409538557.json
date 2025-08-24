@@ -1,0 +1,34 @@
+{
+  "1409538557": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-01-31 08:29:47",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年204天12小时41分",
+        "version": "1.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2018-09-12 11:43:08",
+        "edate": "2018-11-13 00:00:00",
+        "duration": "61天12小时16分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-07-31 10:35:48",
+        "edate": "2019-01-31 08:29:47",
+        "status": "online",
+        "duration": "183天21小时53分",
+        "version": "1.0"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "975504897": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:18:57",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时55分",
+        "version": "102"
+      },
+      {
+        "sdate": "2018-07-18 06:58:45",
+        "edate": "2020-12-31 04:18:57",
+        "status": "online",
+        "duration": "2年166天21小时20分",
+        "version": "21~102"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

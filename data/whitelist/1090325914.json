@@ -1,0 +1,27 @@
+{
+  "1090325914": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-04-21 04:12:00",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年123天19小时40分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2016-03-24 16:39:10",
+        "edate": "2019-04-21 04:12:00",
+        "status": "online",
+        "duration": "3年27天11小时32分",
+        "version": "1.0~2.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

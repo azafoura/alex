@@ -1,0 +1,41 @@
+{
+  "1358586421": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-09-08 07:31:53",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年348天4小时8分",
+        "version": "1.32.1"
+      },
+      {
+        "sdate": "2021-09-08 07:18:06",
+        "edate": "2021-09-08 07:31:53",
+        "status": "online",
+        "duration": "13分",
+        "version": "1.32.1"
+      },
+      {
+        "sdate": "2021-09-08 07:04:03",
+        "edate": "2021-09-08 07:18:06",
+        "status": "offline",
+        "duration": "14分",
+        "version": "1.32.1"
+      },
+      {
+        "sdate": "2018-04-19 00:00:00",
+        "edate": "2021-09-08 07:04:03",
+        "status": "online",
+        "duration": "3年143天7小时4分",
+        "version": "1.14.1~1.32.1"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

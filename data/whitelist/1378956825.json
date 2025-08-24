@@ -1,0 +1,27 @@
+{
+  "1378956825": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-08-17 03:31:08",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年6天8小时21分",
+        "version": "1.50.1"
+      },
+      {
+        "sdate": "2018-06-11 02:31:38",
+        "edate": "2019-08-17 03:31:08",
+        "status": "online",
+        "duration": "1年67天59分",
+        "version": "1.50.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

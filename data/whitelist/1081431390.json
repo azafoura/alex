@@ -1,0 +1,27 @@
+{
+  "1081431390": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-12-06 22:16:51",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年259天1小时32分",
+        "version": "2.0.5"
+      },
+      {
+        "sdate": "2016-06-30 11:11:54",
+        "edate": "2019-12-06 22:16:51",
+        "status": "online",
+        "duration": "3年159天11小时4分",
+        "version": "1.0.1~2.0.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

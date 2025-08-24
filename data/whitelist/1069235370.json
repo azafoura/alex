@@ -1,0 +1,27 @@
+{
+  "1069235370": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-02-14 19:29:29",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年189天3小时47分",
+        "version": ""
+      },
+      {
+        "sdate": "2016-04-29 03:45:26",
+        "edate": "2018-02-14 19:29:29",
+        "status": "online",
+        "duration": "1年291天15小时44分",
+        "version": ""
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

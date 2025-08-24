@@ -1,0 +1,41 @@
+{
+  "1374777142": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-09-11 16:05:06",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年345天19小时45分",
+        "version": "1.0.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2018-09-03 12:23:18",
+        "edate": "2018-09-11 16:05:06",
+        "duration": "8天3小时41分",
+        "version": "1.0.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2018-06-01 05:58:10",
+        "edate": "2018-08-18 00:00:00",
+        "duration": "77天18小时1分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2018-05-15 04:36:10",
+        "edate": "2018-09-11 16:05:06",
+        "status": "online",
+        "duration": "119天11小时28分",
+        "version": "1.0.0~1.0.1"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

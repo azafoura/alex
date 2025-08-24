@@ -1,0 +1,41 @@
+{
+  "1286379159": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:29:12",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天3小时30分",
+        "version": "1.92"
+      },
+      {
+        "sdate": "2020-08-29 01:51:30",
+        "edate": "2020-12-31 04:29:12",
+        "status": "online",
+        "duration": "124天2小时37分",
+        "version": "1.92"
+      },
+      {
+        "sdate": "2020-08-15 00:37:39",
+        "edate": "2020-08-29 01:51:30",
+        "status": "offline",
+        "duration": "14天1小时13分",
+        "version": "1.92"
+      },
+      {
+        "sdate": "2017-09-18 23:55:31",
+        "edate": "2020-08-15 00:37:39",
+        "status": "online",
+        "duration": "2年331天42分",
+        "version": "1.0~1.92"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

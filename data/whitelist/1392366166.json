@@ -1,0 +1,41 @@
+{
+  "1392366166": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-10-28 16:28:27",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年297天19小时31分",
+        "version": "1.2.7"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-11-10 14:57:06",
+        "edate": "2019-11-10 17:00:00",
+        "duration": "2小时2分",
+        "version": "1.2.2"
+      },
+      {
+        "sdate": "2019-01-14 00:00:00",
+        "edate": "2021-10-28 16:28:27",
+        "status": "online",
+        "duration": "2年288天16小时28分",
+        "version": "1.1.0~1.2.7"
+      },
+      {
+        "sdate": "2018-11-09 00:00:00",
+        "edate": "2019-01-14 00:00:00",
+        "status": "preorder",
+        "duration": "66天0分",
+        "version": "1.0.0~1.1.3"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

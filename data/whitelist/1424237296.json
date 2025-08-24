@@ -1,0 +1,41 @@
+{
+  "1424237296": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-12-04 09:52:23",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年262天11小时23分",
+        "version": "1.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2018-11-21 11:37:18",
+        "edate": "2018-12-04 09:52:23",
+        "duration": "12天22小时15分",
+        "version": "1.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2018-09-10 11:04:19",
+        "edate": "2018-09-11 00:00:00",
+        "duration": "12小时55分",
+        "version": "1.1"
+      },
+      {
+        "sdate": "2018-08-29 05:24:55",
+        "edate": "2018-12-04 09:52:23",
+        "status": "online",
+        "duration": "97天4小时27分",
+        "version": "1.0~1.1"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "1108365394": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2025-06-23 19:15:05",
+        "edate": "",
+        "status": "online",
+        "duration": "58天9小时7分",
+        "version": "1.9"
+      },
+      {
+        "sdate": "2025-06-13 23:40:55",
+        "edate": "2025-06-23 19:15:05",
+        "status": "offline",
+        "duration": "9天19小时34分",
+        "version": "1.9"
+      },
+      {
+        "sdate": "2016-05-02 00:00:00",
+        "edate": "2025-06-13 23:40:55",
+        "status": "online",
+        "duration": "9年44天23小时40分",
+        "version": "1.0~1.9"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

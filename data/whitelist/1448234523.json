@@ -1,0 +1,27 @@
+{
+  "1448234523": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-07-03 16:53:57",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年50天6小时42分",
+        "version": "1.4.0"
+      },
+      {
+        "sdate": "2019-03-14 00:00:00",
+        "edate": "2023-07-03 16:53:57",
+        "status": "online",
+        "duration": "4年112天16小时53分",
+        "version": "0.0.1~1.4.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

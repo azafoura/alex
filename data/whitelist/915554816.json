@@ -1,0 +1,41 @@
+{
+  "915554816": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:16:46",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时25分",
+        "version": "2.4.5"
+      },
+      {
+        "sdate": "2018-07-06 08:47:34",
+        "edate": "2020-12-31 04:16:46",
+        "status": "online",
+        "duration": "2年178天19小时29分",
+        "version": "2.4.1~2.4.5"
+      },
+      {
+        "sdate": "2018-07-01 08:19:52",
+        "edate": "2018-07-06 08:47:34",
+        "status": "offline",
+        "duration": "5天27分",
+        "version": "2.4.1"
+      },
+      {
+        "sdate": "2014-11-05 00:00:00",
+        "edate": "2018-07-01 08:19:52",
+        "status": "online",
+        "duration": "3年239天8小时19分",
+        "version": "1.0.0~2.4.1"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

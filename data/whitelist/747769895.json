@@ -1,0 +1,41 @@
+{
+  "747769895": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-07-14 16:27:45",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年38天16小时33分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2018-07-15 10:54:23",
+        "edate": "2019-07-14 16:27:45",
+        "status": "online",
+        "duration": "364天5小时33分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2018-07-01 18:35:18",
+        "edate": "2018-07-15 10:54:23",
+        "status": "offline",
+        "duration": "13天16小时19分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2013-11-20 01:54:21",
+        "edate": "2018-07-01 18:35:18",
+        "status": "online",
+        "duration": "4年224天16小时40分",
+        "version": "1.0.0~1.0.1"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

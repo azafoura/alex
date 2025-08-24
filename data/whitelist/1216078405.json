@@ -1,0 +1,20 @@
+{
+  "1216078405": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2018-01-09 18:04:14",
+        "edate": "2018-03-27 00:00:00",
+        "duration": "76天5小时55分",
+        "version": "5.3.5"
+      }
+    ],
+    "total": 1,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

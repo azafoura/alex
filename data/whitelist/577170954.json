@@ -1,0 +1,27 @@
+{
+  "577170954": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:13:36",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时33分",
+        "version": "2.1.15"
+      },
+      {
+        "sdate": "2013-01-16 03:24:34",
+        "edate": "2020-12-31 04:13:36",
+        "status": "online",
+        "duration": "7年351天49分",
+        "version": "1.2.0~2.1.15"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

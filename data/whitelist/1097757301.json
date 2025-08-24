@@ -1,0 +1,20 @@
+{
+  "1097757301": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-06-06 02:51:39",
+        "edate": "",
+        "status": "online",
+        "duration": "9年78天1小时27分",
+        "version": "1.7.4~2.9.46"
+      }
+    ],
+    "total": 1,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

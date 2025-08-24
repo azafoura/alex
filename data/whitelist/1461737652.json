@@ -1,0 +1,34 @@
+{
+  "1461737652": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2019-07-01 00:50:02",
+        "edate": "2019-07-01 03:00:00",
+        "duration": "2小时9分",
+        "version": "1.0.3"
+      },
+      {
+        "sdate": "2019-05-23 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "6年93天22分",
+        "version": "1.0.2~1.0.8"
+      },
+      {
+        "sdate": "2019-05-13 00:00:00",
+        "edate": "2019-05-23 00:00:00",
+        "status": "preorder",
+        "duration": "10天0分",
+        "version": "1.0.0~1.0.2"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1044549633": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-11-28 15:32:58",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年267天7小时32分",
+        "version": "1.38"
+      },
+      {
+        "sdate": "2015-11-24 16:59:25",
+        "edate": "2018-11-28 15:32:58",
+        "status": "online",
+        "duration": "3年4天22小时33分",
+        "version": "1.31~1.38"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

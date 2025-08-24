@@ -1,0 +1,41 @@
+{
+  "1525829296": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-05-07 04:15:41",
+        "edate": "",
+        "status": "online",
+        "duration": "4年108天1小时33分",
+        "version": "1.5.11~1.5.15"
+      },
+      {
+        "sdate": "2021-04-24 02:34:00",
+        "edate": "2021-05-07 04:15:41",
+        "status": "offline",
+        "duration": "13天1小时41分",
+        "version": "1.5.7~1.5.11"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-09-06 20:38:33",
+        "edate": "2020-09-06 22:35:48",
+        "duration": "1小时57分",
+        "version": "1.3.0"
+      },
+      {
+        "sdate": "2020-08-11 00:00:00",
+        "edate": "2021-04-24 02:34:00",
+        "status": "online",
+        "duration": "256天2小时34分",
+        "version": "1.0.1~1.5.7"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "570510529": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:13:12",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时32分",
+        "version": "2.9.1"
+      },
+      {
+        "sdate": "2012-11-29 01:54:59",
+        "edate": "2020-12-31 04:13:12",
+        "status": "online",
+        "duration": "8年34天2小时18分",
+        "version": "1.0~2.9.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "1464235676": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-07-09 05:15:59",
+        "edate": "",
+        "status": "online",
+        "duration": "4年44天19小时9分",
+        "version": "1.2.0~2.7.4"
+      },
+      {
+        "sdate": "2021-07-09 05:11:56",
+        "edate": "2021-07-09 05:15:59",
+        "status": "offline",
+        "duration": "4分",
+        "version": "1.2.0"
+      },
+      {
+        "sdate": "2019-10-05 00:00:00",
+        "edate": "2021-07-09 05:11:56",
+        "status": "online",
+        "duration": "1年278天5小时11分",
+        "version": "1.0~1.2.0"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

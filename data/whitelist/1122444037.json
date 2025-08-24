@@ -1,0 +1,27 @@
+{
+  "1122444037": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-12-26 05:50:29",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年239天22小时43分",
+        "version": ""
+      },
+      {
+        "sdate": "2016-12-21 15:08:59",
+        "edate": "2016-12-26 05:50:29",
+        "status": "online",
+        "duration": "4天14小时41分",
+        "version": ""
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

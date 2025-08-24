@@ -1,0 +1,41 @@
+{
+  "1274940978": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-23 23:11:18",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年29天8小时43分",
+        "version": "1.46.2101"
+      },
+      {
+        "sdate": "2019-08-27 18:01:31",
+        "edate": "2020-07-23 23:11:18",
+        "status": "online",
+        "duration": "331天5小时9分",
+        "version": "1.46.2101"
+      },
+      {
+        "sdate": "2019-08-26 18:37:36",
+        "edate": "2019-08-27 18:01:31",
+        "status": "offline",
+        "duration": "23小时23分",
+        "version": "1.46.2101"
+      },
+      {
+        "sdate": "2017-11-03 11:45:17",
+        "edate": "2019-08-26 18:37:36",
+        "status": "online",
+        "duration": "1年296天6小时52分",
+        "version": "1.0~1.46.2101"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

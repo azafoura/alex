@@ -1,0 +1,34 @@
+{
+  "1575680500": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-05-04 15:41:51",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年111天8分",
+        "version": "1.2.2"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-09-02 19:23:01",
+        "edate": "2021-09-08 23:22:35",
+        "duration": "6天3小时59分",
+        "version": "1.1.1"
+      },
+      {
+        "sdate": "2021-07-10 00:00:00",
+        "edate": "2023-05-04 15:41:51",
+        "status": "online",
+        "duration": "1年298天15小时41分",
+        "version": "1.0.0~1.2.2"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

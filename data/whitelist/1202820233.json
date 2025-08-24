@@ -1,0 +1,27 @@
+{
+  "1202820233": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:25:39",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天1小时1分",
+        "version": "4.1"
+      },
+      {
+        "sdate": "2017-04-21 12:11:09",
+        "edate": "2020-12-31 04:25:39",
+        "status": "online",
+        "duration": "3年254天16小时14分",
+        "version": "1.0~4.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

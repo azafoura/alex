@@ -1,0 +1,41 @@
+{
+  "539958397": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:09:09",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时34分",
+        "version": "2.3.9"
+      },
+      {
+        "sdate": "2018-10-12 20:52:11",
+        "edate": "2020-12-31 04:09:09",
+        "status": "online",
+        "duration": "2年80天7小时16分",
+        "version": "2.3.1~2.3.9"
+      },
+      {
+        "sdate": "2016-03-30 08:33:45",
+        "edate": "2018-10-12 20:52:11",
+        "status": "offline",
+        "duration": "2年196天12小时18分",
+        "version": "1.9.0~2.3.1"
+      },
+      {
+        "sdate": "2013-07-20 00:41:32",
+        "edate": "2016-03-30 08:33:45",
+        "status": "online",
+        "duration": "2年254天7小时52分",
+        "version": "1.0~1.9.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

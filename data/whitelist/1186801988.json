@@ -1,0 +1,27 @@
+{
+  "1186801988": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-23 21:22:35",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年302天7小时55分",
+        "version": "3.0.7"
+      },
+      {
+        "sdate": "2017-04-14 11:17:42",
+        "edate": "2020-10-23 21:22:35",
+        "status": "online",
+        "duration": "3年193天10小时4分",
+        "version": "1.0~3.0.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1436603305": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:35:06",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天16小时44分",
+        "version": "2.1"
+      },
+      {
+        "sdate": "2018-09-27 06:28:53",
+        "edate": "2020-12-31 04:35:06",
+        "status": "online",
+        "duration": "2年95天22小时6分",
+        "version": "1.0~2.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

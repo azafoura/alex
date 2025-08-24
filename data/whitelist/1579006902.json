@@ -1,0 +1,27 @@
+{
+  "1579006902": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-01-11 13:15:46",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年224天2小时36分",
+        "version": "1.0.3"
+      },
+      {
+        "sdate": "2021-07-31 00:00:00",
+        "edate": "2022-01-11 13:15:46",
+        "status": "online",
+        "duration": "164天13小时15分",
+        "version": "1.0.0~1.0.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

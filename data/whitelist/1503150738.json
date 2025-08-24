@@ -1,0 +1,27 @@
+{
+  "1503150738": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-03-11 19:42:16",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年164天9小时22分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2020-03-18 00:00:00",
+        "edate": "2021-03-11 19:42:16",
+        "status": "online",
+        "duration": "358天19小时42分",
+        "version": "1.0~1.0.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

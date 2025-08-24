@@ -1,0 +1,41 @@
+{
+  "1549139533": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-04-20 16:07:42",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年124天19小时21分",
+        "version": "1.7.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-05-14 17:49:03",
+        "edate": "2021-05-14 19:49:05",
+        "duration": "2小时0分",
+        "version": "1.2.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-01-27 21:12:47",
+        "edate": "2021-01-27 23:02:08",
+        "duration": "1小时49分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2021-01-25 00:00:00",
+        "edate": "2023-04-20 16:07:42",
+        "status": "online",
+        "duration": "2年85天16小时7分",
+        "version": "1.0.0~1.7.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

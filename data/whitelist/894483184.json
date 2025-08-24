@@ -1,0 +1,41 @@
+{
+  "894483184": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-05 00:07:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年49天4小时45分",
+        "version": "1.0.7"
+      },
+      {
+        "sdate": "2020-02-27 13:08:50",
+        "edate": "2020-07-05 00:07:13",
+        "status": "online",
+        "duration": "128天10小时58分",
+        "version": "1.0.7"
+      },
+      {
+        "sdate": "2020-02-16 19:39:29",
+        "edate": "2020-02-27 13:08:50",
+        "status": "offline",
+        "duration": "10天17小时29分",
+        "version": "1.0.7"
+      },
+      {
+        "sdate": "2014-10-09 16:53:37",
+        "edate": "2020-02-16 19:39:29",
+        "status": "online",
+        "duration": "5年131天2小时45分",
+        "version": "1.0~1.0.7"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "1580688383": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-11-20 10:43:38",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年276天5小时9分",
+        "version": "1.0.3"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-08-22 14:44:02",
+        "edate": "2021-08-22 16:47:26",
+        "duration": "2小时3分",
+        "version": "1.0.3"
+      },
+      {
+        "sdate": "2021-08-11 00:00:00",
+        "edate": "2021-11-20 10:43:38",
+        "status": "online",
+        "duration": "101天10小时43分",
+        "version": "1.0~1.0.3"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

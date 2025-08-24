@@ -1,0 +1,27 @@
+{
+  "1291750173": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:28:47",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天3小时33分",
+        "version": "10"
+      },
+      {
+        "sdate": "2017-11-23 00:00:00",
+        "edate": "2020-12-31 04:28:47",
+        "status": "online",
+        "duration": "3年39天4小时28分",
+        "version": "1.0~10"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

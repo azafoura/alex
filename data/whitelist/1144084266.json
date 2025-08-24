@@ -1,0 +1,27 @@
+{
+  "1144084266": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-12-07 19:38:56",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年258天9小时21分",
+        "version": ""
+      },
+      {
+        "sdate": "2016-12-05 15:49:59",
+        "edate": "2016-12-07 19:38:56",
+        "status": "online",
+        "duration": "2天3小时48分",
+        "version": ""
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

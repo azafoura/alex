@@ -1,0 +1,34 @@
+{
+  "1493199883": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:43:25",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年235天16分",
+        "version": "1.39.03"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-11-20 15:12:16",
+        "edate": "2020-11-20 16:52:18",
+        "duration": "1小时40分",
+        "version": "1.33.14"
+      },
+      {
+        "sdate": "2020-01-02 14:21:17",
+        "edate": "2020-12-31 04:43:25",
+        "status": "online",
+        "duration": "363天14小时22分",
+        "version": "1.0~1.39.03"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

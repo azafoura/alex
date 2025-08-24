@@ -1,0 +1,27 @@
+{
+  "1148841640": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-14 17:27:22",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年250天11小时35分",
+        "version": "2.15.4"
+      },
+      {
+        "sdate": "2016-10-21 00:00:00",
+        "edate": "2020-12-14 17:27:22",
+        "status": "online",
+        "duration": "4年55天17小时27分",
+        "version": "1.1.1~2.15.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

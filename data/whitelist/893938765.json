@@ -1,0 +1,27 @@
+{
+  "893938765": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-12-21 23:08:01",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年245天5小时45分",
+        "version": "1.7"
+      },
+      {
+        "sdate": "2014-08-07 21:01:58",
+        "edate": "2018-12-21 23:08:01",
+        "status": "online",
+        "duration": "4年137天2小时6分",
+        "version": "1.0~1.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

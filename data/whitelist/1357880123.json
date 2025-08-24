@@ -1,0 +1,27 @@
+{
+  "1357880123": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-12-31 14:39:04",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年234天21小时0分",
+        "version": "2.3.6"
+      },
+      {
+        "sdate": "2018-09-26 02:40:22",
+        "edate": "2019-12-31 14:39:04",
+        "status": "online",
+        "duration": "1年96天11小时58分",
+        "version": "2.1.0~2.3.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

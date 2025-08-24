@@ -1,0 +1,27 @@
+{
+  "1355466300": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2020-09-20 02:44:26",
+        "edate": "2020-09-20 04:40:48",
+        "duration": "1小时56分",
+        "version": "3.0.2"
+      },
+      {
+        "sdate": "2018-04-21 04:24:02",
+        "edate": "",
+        "status": "online",
+        "duration": "7年124天7小时14分",
+        "version": "1.1.2~4.6.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

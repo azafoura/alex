@@ -1,0 +1,27 @@
+{
+  "1556833469": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-05-25 18:21:54",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年89天17小时20分",
+        "version": ""
+      },
+      {
+        "sdate": "2021-05-21 07:00:00",
+        "edate": "2021-05-25 18:21:54",
+        "status": "online",
+        "duration": "4天11小时21分",
+        "version": ""
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

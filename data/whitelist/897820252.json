@@ -1,0 +1,27 @@
+{
+  "897820252": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-07-14 19:04:04",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年38天23小时5分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2014-07-17 22:01:56",
+        "edate": "2019-07-14 19:04:04",
+        "status": "online",
+        "duration": "4年362天21小时2分",
+        "version": "1.0.0~1.0.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

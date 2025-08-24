@@ -1,0 +1,41 @@
+{
+  "1513352842": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-09-01 16:58:44",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年355天12小时14分",
+        "version": "2711"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-04-07 07:39:47",
+        "edate": "2021-06-06 13:00:00",
+        "duration": "60天5小时20分",
+        "version": "2701~2711"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-04-02 11:48:02",
+        "edate": "2021-04-02 13:48:48",
+        "duration": "2小时0分",
+        "version": "2701"
+      },
+      {
+        "sdate": "2021-02-11 03:45:19",
+        "edate": "2021-09-01 16:58:44",
+        "status": "online",
+        "duration": "202天13小时13分",
+        "version": "1190~2711"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

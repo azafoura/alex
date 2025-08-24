@@ -1,0 +1,27 @@
+{
+  "1573348505": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-08-26 16:53:34",
+        "edate": "",
+        "status": "online",
+        "duration": "3年361天22小时54分",
+        "version": "1.0.4~3.1.6"
+      },
+      {
+        "sdate": "2021-07-13 09:29:07",
+        "edate": "2021-08-26 16:53:34",
+        "status": "preorder",
+        "duration": "44天7小时24分",
+        "version": "1.0.0~1.0.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

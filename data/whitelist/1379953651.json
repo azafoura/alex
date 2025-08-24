@@ -1,0 +1,27 @@
+{
+  "1379953651": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-03-06 10:18:50",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年169天1小时33分",
+        "version": "3.6.6"
+      },
+      {
+        "sdate": "2018-05-15 01:27:56",
+        "edate": "2021-03-06 10:18:50",
+        "status": "online",
+        "duration": "2年296天8小时50分",
+        "version": "1.0.1~3.6.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

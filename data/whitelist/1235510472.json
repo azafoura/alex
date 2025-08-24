@@ -1,0 +1,27 @@
+{
+  "1235510472": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 05:12:52",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天2小时26分",
+        "version": "4.2"
+      },
+      {
+        "sdate": "2017-05-18 16:57:16",
+        "edate": "2020-12-31 05:12:52",
+        "status": "online",
+        "duration": "3年227天12小时15分",
+        "version": "1.0~4.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

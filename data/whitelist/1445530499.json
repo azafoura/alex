@@ -1,0 +1,34 @@
+{
+  "1445530499": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-01-10 07:13:31",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年225天14小时13分",
+        "version": "1.0.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2018-12-27 12:41:26",
+        "edate": "2019-01-10 07:13:31",
+        "duration": "13天18小时32分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2018-12-21 21:53:49",
+        "edate": "2019-01-10 07:13:31",
+        "status": "online",
+        "duration": "19天9小时19分",
+        "version": "1.0.0"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

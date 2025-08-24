@@ -1,0 +1,27 @@
+{
+  "911793120": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-30 07:59:23",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年22天13小时57分",
+        "version": "68.9.0"
+      },
+      {
+        "sdate": "2014-09-25 06:16:37",
+        "edate": "2020-07-30 07:59:23",
+        "status": "online",
+        "duration": "5年310天1小时42分",
+        "version": "1~68.9.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

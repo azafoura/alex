@@ -1,0 +1,41 @@
+{
+  "1522823291": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2021-02-27 15:04:11",
+        "edate": "2021-02-27 16:47:04",
+        "duration": "1小时42分",
+        "version": "1.2.6"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-09-03 14:38:47",
+        "edate": "2020-09-03 16:33:51",
+        "duration": "1小时55分",
+        "version": "1.2.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-07-30 11:29:28",
+        "edate": "2020-07-30 13:27:14",
+        "duration": "1小时57分",
+        "version": "1.1.8"
+      },
+      {
+        "sdate": "2020-07-21 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "5年33天5小时43分",
+        "version": "1.1.8~1.4.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "1081816616": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-05-02 19:01:15",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年111天4小时48分",
+        "version": "2.2.5"
+      },
+      {
+        "sdate": "2022-07-23 00:32:52",
+        "edate": "2023-05-02 19:01:15",
+        "status": "online",
+        "duration": "283天18小时28分",
+        "version": "2.2.5"
+      },
+      {
+        "sdate": "2020-12-31 04:22:01",
+        "edate": "2022-07-23 00:32:52",
+        "status": "offline",
+        "duration": "1年203天20小时10分",
+        "version": "2.2.5"
+      },
+      {
+        "sdate": "2016-02-18 17:00:31",
+        "edate": "2020-12-31 04:22:01",
+        "status": "online",
+        "duration": "4年317天11小时21分",
+        "version": "1.0~2.2.5"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

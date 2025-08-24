@@ -1,0 +1,41 @@
+{
+  "1146945768": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:24:10",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天37分",
+        "version": "1.58.002"
+      },
+      {
+        "sdate": "2018-05-11 10:27:08",
+        "edate": "2020-12-31 04:24:10",
+        "status": "online",
+        "duration": "2年234天17小时57分",
+        "version": "1.21.007~1.58.002"
+      },
+      {
+        "sdate": "2018-05-11 03:46:17",
+        "edate": "2018-05-11 10:27:08",
+        "status": "offline",
+        "duration": "6小时40分",
+        "version": "1.21.007"
+      },
+      {
+        "sdate": "2017-02-02 14:17:35",
+        "edate": "2018-05-11 03:46:17",
+        "status": "online",
+        "duration": "1年97天13小时28分",
+        "version": "1.0.9~1.21.007"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

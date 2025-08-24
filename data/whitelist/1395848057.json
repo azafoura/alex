@@ -1,0 +1,27 @@
+{
+  "1395848057": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-10-25 12:31:31",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年301天23小时31分",
+        "version": "1.2.1"
+      },
+      {
+        "sdate": "2018-07-05 06:30:47",
+        "edate": "2018-10-25 12:31:31",
+        "status": "online",
+        "duration": "112天6小时0分",
+        "version": "1.0~1.2.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

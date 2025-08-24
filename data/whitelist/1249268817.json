@@ -1,0 +1,41 @@
+{
+  "1249268817": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2019-11-21 13:39:50",
+        "edate": "2020-01-22 00:00:00",
+        "duration": "61天10小时20分",
+        "version": "9.0.2"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-07-15 17:41:44",
+        "edate": "2019-09-15 21:00:00",
+        "duration": "62天3小时18分",
+        "version": "8.9.9~9.0.0"
+      },
+      {
+        "sdate": "2018-04-20 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "7年125天7小时45分",
+        "version": "8.6.0~9.0.27"
+      },
+      {
+        "sdate": "2018-04-02 00:00:00",
+        "edate": "2018-04-20 00:00:00",
+        "status": "preorder",
+        "duration": "18天0分",
+        "version": "8.5.0~8.6.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

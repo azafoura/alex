@@ -1,0 +1,27 @@
+{
+  "1541135753": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-23 10:10:17",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年242天20小时4分",
+        "version": "1.4"
+      },
+      {
+        "sdate": "2020-11-21 18:40:13",
+        "edate": "2020-12-23 10:10:17",
+        "status": "online",
+        "duration": "31天15小时30分",
+        "version": "1.0~1.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

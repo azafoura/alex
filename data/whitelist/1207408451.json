@@ -1,0 +1,41 @@
+{
+  "1207408451": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-05-22 01:45:19",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年93天3小时44分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2019-01-10 11:42:23",
+        "edate": "2019-05-22 01:45:19",
+        "status": "online",
+        "duration": "131天14小时2分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-11-02 15:51:05",
+        "edate": "2019-01-10 11:42:23",
+        "status": "offline",
+        "duration": "68天19小时51分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2017-02-21 05:40:07",
+        "edate": "2018-11-02 15:51:05",
+        "status": "online",
+        "duration": "1年254天10小时10分",
+        "version": "1.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

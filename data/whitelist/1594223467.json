@@ -1,0 +1,27 @@
+{
+  "1594223467": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-02-26 01:21:55",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年178天14小时36分",
+        "version": "1.9.1"
+      },
+      {
+        "sdate": "2021-11-14 00:00:00",
+        "edate": "2022-02-26 01:21:55",
+        "status": "online",
+        "duration": "104天1小时21分",
+        "version": "1.7.0~1.9.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

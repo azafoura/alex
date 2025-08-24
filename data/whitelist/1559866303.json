@@ -1,0 +1,27 @@
+{
+  "1559866303": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-10-07 10:08:24",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年320天1小时38分",
+        "version": "0.8"
+      },
+      {
+        "sdate": "2021-03-30 00:00:00",
+        "edate": "2021-10-07 10:08:24",
+        "status": "online",
+        "duration": "191天10小时8分",
+        "version": "0.2~0.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

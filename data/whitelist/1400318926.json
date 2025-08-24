@@ -1,0 +1,27 @@
+{
+  "1400318926": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-02-01 05:36:36",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年203天15小时31分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-07-08 19:55:34",
+        "edate": "2019-02-01 05:36:36",
+        "status": "online",
+        "duration": "207天9小时41分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}
