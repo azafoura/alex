@@ -1,0 +1,27 @@
+{
+  "575570111": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-03-09 16:54:21",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年164天15小时52分",
+        "version": "2.4"
+      },
+      {
+        "sdate": "2013-01-03 02:05:54",
+        "edate": "2020-03-09 16:54:21",
+        "status": "online",
+        "duration": "7年67天14小时48分",
+        "version": "1.0~2.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "837860959": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:14:43",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时53分",
+        "version": "1.45"
+      },
+      {
+        "sdate": "2014-09-13 20:10:51",
+        "edate": "2020-12-31 04:14:43",
+        "status": "online",
+        "duration": "6年110天8小时3分",
+        "version": "1.0~1.45"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "525694914": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-12-12 08:50:26",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年252天23小时52分",
+        "version": "1.3.1"
+      },
+      {
+        "sdate": "2012-06-23 01:51:11",
+        "edate": "2017-12-12 08:50:26",
+        "status": "online",
+        "duration": "5年173天6小时59分",
+        "version": "1.0.2~1.3.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

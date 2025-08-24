@@ -1,0 +1,34 @@
+{
+  "1175368579": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2025-06-25 21:20:06",
+        "edate": null,
+        "status": "offline",
+        "duration": "56天7小时52分",
+        "version": "1.0.28"
+      },
+      {
+        "sdate": "2020-08-25 22:00:06",
+        "edate": "2025-06-25 21:20:06",
+        "status": "online",
+        "duration": "4年304天23小时20分",
+        "version": "1.0.2~1.0.28"
+      },
+      {
+        "sdate": "2020-07-31 07:39:03",
+        "edate": "2020-08-25 22:00:06",
+        "status": "preorder",
+        "duration": "25天14小时21分",
+        "version": "0.1.36~1.0.2"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

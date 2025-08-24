@@ -1,0 +1,27 @@
+{
+  "905455244": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:20:24",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时16分",
+        "version": "1.2.1"
+      },
+      {
+        "sdate": "2014-08-14 00:00:00",
+        "edate": "2020-12-31 04:20:24",
+        "status": "online",
+        "duration": "6年141天4小时20分",
+        "version": "1.0~1.2.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

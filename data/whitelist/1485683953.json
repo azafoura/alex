@@ -1,0 +1,27 @@
+{
+  "1485683953": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:42:00",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年235天13分",
+        "version": "0.952"
+      },
+      {
+        "sdate": "2019-11-17 00:42:46",
+        "edate": "2020-12-31 04:42:00",
+        "status": "online",
+        "duration": "1年45天3小时59分",
+        "version": "0.9022~0.952"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

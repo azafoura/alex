@@ -1,0 +1,34 @@
+{
+  "1466332776": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 05:20:40",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天19小时6分",
+        "version": "1.9.9"
+      },
+      {
+        "sdate": "2019-06-20 00:00:00",
+        "edate": "2020-12-31 05:20:40",
+        "status": "online",
+        "duration": "1年195天5小时20分",
+        "version": "1.0.6~1.9.9"
+      },
+      {
+        "sdate": "2019-06-02 04:00:59",
+        "edate": "2019-06-20 00:00:00",
+        "status": "preorder",
+        "duration": "17天19小时59分",
+        "version": "1.0~1.0.6"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

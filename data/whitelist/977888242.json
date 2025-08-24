@@ -1,0 +1,27 @@
+{
+  "977888242": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2015-07-13 16:16:46",
+        "edate": null,
+        "status": "offline",
+        "duration": "10年42天12小时37分",
+        "version": ""
+      },
+      {
+        "sdate": "2015-07-09 10:40:18",
+        "edate": "2015-07-13 16:16:46",
+        "status": "online",
+        "duration": "4天5小时36分",
+        "version": ""
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

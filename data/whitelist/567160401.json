@@ -1,0 +1,27 @@
+{
+  "567160401": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-02-07 15:17:23",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年195天17小时28分",
+        "version": "5.6.2"
+      },
+      {
+        "sdate": "2014-04-08 22:27:58",
+        "edate": "2017-02-07 15:17:23",
+        "status": "online",
+        "duration": "2年305天16小时49分",
+        "version": "3.2.3~5.6.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

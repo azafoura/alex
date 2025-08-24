@@ -1,0 +1,27 @@
+{
+  "1218617419": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-03-19 05:32:26",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年157天1小时57分",
+        "version": "2.4"
+      },
+      {
+        "sdate": "2017-04-03 17:20:40",
+        "edate": "2019-03-19 05:32:26",
+        "status": "online",
+        "duration": "1年349天12小时11分",
+        "version": "1.0~2.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

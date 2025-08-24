@@ -1,0 +1,41 @@
+{
+  "1563148041": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-12-24 02:46:59",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年242天9小时7分",
+        "version": "0.3.3"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-07-15 15:01:02",
+        "edate": "2021-07-15 16:58:04",
+        "duration": "1小时57分",
+        "version": "0.2.9"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-05-12 20:49:01",
+        "edate": "2021-05-12 22:45:26",
+        "duration": "1小时56分",
+        "version": "0.1.3"
+      },
+      {
+        "sdate": "2021-04-17 00:00:00",
+        "edate": "2021-12-24 02:46:59",
+        "status": "online",
+        "duration": "251天2小时46分",
+        "version": "0.1.1~0.3.3"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

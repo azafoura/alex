@@ -1,0 +1,34 @@
+{
+  "1551773204": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-02-12 09:46:01",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年192天1小时49分",
+        "version": "1.0.3"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-05-12 23:48:02",
+        "edate": "2021-05-13 01:45:15",
+        "duration": "1小时57分",
+        "version": "1.0.3"
+      },
+      {
+        "sdate": "2021-02-06 00:00:00",
+        "edate": "2022-02-12 09:46:01",
+        "status": "online",
+        "duration": "1年6天9小时46分",
+        "version": "1.0.0~1.0.3"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "364234221": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-28 16:33:05",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年235天16小时1分",
+        "version": "7.9.1"
+      },
+      {
+        "sdate": "2020-12-18 18:09:30",
+        "edate": "2020-12-28 16:33:05",
+        "status": "online",
+        "duration": "9天22小时23分",
+        "version": "7.9.1"
+      },
+      {
+        "sdate": "2019-07-11 17:32:12",
+        "edate": "2020-12-18 18:09:30",
+        "status": "offline",
+        "duration": "1年161天37分",
+        "version": "7.9.1"
+      },
+      {
+        "sdate": "2010-04-01 23:59:59",
+        "edate": "2019-07-11 17:32:12",
+        "status": "online",
+        "duration": "9年102天17小时32分",
+        "version": "8.0.3~7.9.1"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

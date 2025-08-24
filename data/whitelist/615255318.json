@@ -1,0 +1,27 @@
+{
+  "615255318": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-07-17 22:00:26",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年35天10小时50分",
+        "version": "1.8.2"
+      },
+      {
+        "sdate": "2013-03-18 22:46:58",
+        "edate": "2019-07-17 22:00:26",
+        "status": "online",
+        "duration": "6年121天23小时13分",
+        "version": "1.0.0~1.8.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

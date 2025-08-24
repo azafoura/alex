@@ -1,0 +1,27 @@
+{
+  "1397474818": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-09-03 11:14:05",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年353天17小时40分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2018-12-10 17:44:08",
+        "edate": "2020-09-03 11:14:05",
+        "status": "online",
+        "duration": "1年267天17小时29分",
+        "version": "1.0~2.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

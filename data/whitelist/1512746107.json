@@ -1,0 +1,27 @@
+{
+  "1512746107": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-11-29 21:47:50",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年266天7小时25分",
+        "version": "1.6"
+      },
+      {
+        "sdate": "2020-05-13 00:00:00",
+        "edate": "2022-11-29 21:47:50",
+        "status": "online",
+        "duration": "2年200天21小时47分",
+        "version": "1.0~1.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

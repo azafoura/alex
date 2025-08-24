@@ -1,0 +1,27 @@
+{
+  "1228655110": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-10-02 16:15:15",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年324天15小时19分",
+        "version": "1.1.10"
+      },
+      {
+        "sdate": "2017-05-22 08:11:25",
+        "edate": "2017-10-02 16:15:15",
+        "status": "online",
+        "duration": "133天8小时3分",
+        "version": "1.0~1.1.10"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

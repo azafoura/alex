@@ -1,0 +1,27 @@
+{
+  "421136193": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-01 07:04:20",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年324天1小时31分",
+        "version": "2020.2"
+      },
+      {
+        "sdate": "2011-02-25 02:32:01",
+        "edate": "2020-10-01 07:04:20",
+        "status": "online",
+        "duration": "9年221天4小时32分",
+        "version": "1.0.1~2020.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

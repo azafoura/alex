@@ -1,0 +1,27 @@
+{
+  "1297059370": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:29:11",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天3小时34分",
+        "version": "18.8"
+      },
+      {
+        "sdate": "2018-01-20 01:48:04",
+        "edate": "2020-12-31 04:29:11",
+        "status": "online",
+        "duration": "2年346天2小时41分",
+        "version": "1.0~18.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

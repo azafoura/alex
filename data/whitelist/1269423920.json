@@ -1,0 +1,41 @@
+{
+  "1269423920": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:28:05",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天3小时24分",
+        "version": "1.2.8"
+      },
+      {
+        "sdate": "2020-04-03 09:33:13",
+        "edate": "2020-12-31 04:28:05",
+        "status": "online",
+        "duration": "271天18小时54分",
+        "version": "1.2.2~1.2.8"
+      },
+      {
+        "sdate": "2020-04-02 19:58:28",
+        "edate": "2020-04-03 09:33:13",
+        "status": "offline",
+        "duration": "13小时34分",
+        "version": "1.2.0~1.2.2"
+      },
+      {
+        "sdate": "2017-09-14 15:00:36",
+        "edate": "2020-04-02 19:58:28",
+        "status": "online",
+        "duration": "2年201天4小时57分",
+        "version": "1.0~1.2.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

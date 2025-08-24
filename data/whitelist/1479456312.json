@@ -1,0 +1,27 @@
+{
+  "1479456312": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-11-24 11:23:17",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年271天13小时24分",
+        "version": "1.5.2"
+      },
+      {
+        "sdate": "2019-10-14 05:53:08",
+        "edate": "2020-11-24 11:23:17",
+        "status": "online",
+        "duration": "1年42天5小时30分",
+        "version": "1.0~1.5.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

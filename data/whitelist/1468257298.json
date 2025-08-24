@@ -1,0 +1,27 @@
+{
+  "1468257298": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:37:56",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天19小时52分",
+        "version": "2.2"
+      },
+      {
+        "sdate": "2019-07-18 00:00:00",
+        "edate": "2020-12-31 04:37:56",
+        "status": "online",
+        "duration": "1年167天4小时37分",
+        "version": "1.0~2.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

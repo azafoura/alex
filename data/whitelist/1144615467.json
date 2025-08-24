@@ -1,0 +1,27 @@
+{
+  "1144615467": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:24:08",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天36分",
+        "version": "1.70"
+      },
+      {
+        "sdate": "2016-08-30 00:00:00",
+        "edate": "2020-12-31 04:24:08",
+        "status": "online",
+        "duration": "4年124天4小时24分",
+        "version": "1.0~1.70"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

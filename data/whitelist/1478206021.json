@@ -1,0 +1,27 @@
+{
+  "1478206021": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-04-23 15:09:54",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年121天9小时34分",
+        "version": "3.2"
+      },
+      {
+        "sdate": "2019-09-04 00:00:00",
+        "edate": "2021-04-23 15:09:54",
+        "status": "online",
+        "duration": "1年232天15小时9分",
+        "version": "1.0~3.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

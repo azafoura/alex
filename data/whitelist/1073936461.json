@@ -1,0 +1,27 @@
+{
+  "1073936461": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-09-25 05:47:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年330天17小时54分",
+        "version": "4.7.1"
+      },
+      {
+        "sdate": "2016-02-02 21:25:08",
+        "edate": "2020-09-25 05:47:13",
+        "status": "online",
+        "duration": "4年236天8小时22分",
+        "version": "1.7.6~4.7.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

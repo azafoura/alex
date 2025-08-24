@@ -1,0 +1,41 @@
+{
+  "657682031": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:12:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时40分",
+        "version": "4.6"
+      },
+      {
+        "sdate": "2019-08-31 22:51:33",
+        "edate": "2020-12-31 04:12:13",
+        "status": "online",
+        "duration": "1年122天5小时20分",
+        "version": "4.6"
+      },
+      {
+        "sdate": "2019-08-25 18:38:42",
+        "edate": "2019-08-31 22:51:33",
+        "status": "offline",
+        "duration": "6天4小时12分",
+        "version": "4.6"
+      },
+      {
+        "sdate": "2013-08-31 17:19:45",
+        "edate": "2019-08-25 18:38:42",
+        "status": "online",
+        "duration": "5年360天1小时18分",
+        "version": "1.3~4.6"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

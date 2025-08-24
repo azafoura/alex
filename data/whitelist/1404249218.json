@@ -1,0 +1,41 @@
+{
+  "1404249218": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:32:32",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天16小时37分",
+        "version": "1.6"
+      },
+      {
+        "sdate": "2020-10-03 00:15:01",
+        "edate": "2020-12-31 04:32:32",
+        "status": "online",
+        "duration": "89天4小时17分",
+        "version": "1.6"
+      },
+      {
+        "sdate": "2020-10-01 15:50:35",
+        "edate": "2020-10-03 00:15:01",
+        "status": "offline",
+        "duration": "1天8小时24分",
+        "version": "1.5~1.6"
+      },
+      {
+        "sdate": "2018-07-18 00:00:00",
+        "edate": "2020-10-01 15:50:35",
+        "status": "online",
+        "duration": "2年76天15小时50分",
+        "version": "1.0~1.5"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

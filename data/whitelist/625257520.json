@@ -1,0 +1,27 @@
+{
+  "625257520": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 06:00:01",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年145天2小时50分",
+        "version": "4.2.11767~5.0.12574"
+      },
+      {
+        "sdate": "2014-03-28 23:30:56",
+        "edate": "2016-03-30 06:00:01",
+        "status": "online",
+        "duration": "2年2天6小时29分",
+        "version": "1.0.0~4.2.11767"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

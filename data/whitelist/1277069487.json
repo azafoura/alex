@@ -1,0 +1,27 @@
+{
+  "1277069487": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-06-20 23:53:18",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年63天8小时2分",
+        "version": "1.0.13"
+      },
+      {
+        "sdate": "2017-09-08 01:51:17",
+        "edate": "2018-06-20 23:53:18",
+        "status": "online",
+        "duration": "285天22小时2分",
+        "version": "1.0.4~1.0.13"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

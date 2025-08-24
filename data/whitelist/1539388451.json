@@ -1,0 +1,27 @@
+{
+  "1539388451": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-03-07 07:36:01",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年168天22小时35分",
+        "version": "2.0432"
+      },
+      {
+        "sdate": "2020-11-10 11:21:07",
+        "edate": "2021-03-07 07:36:01",
+        "status": "online",
+        "duration": "116天20小时14分",
+        "version": "1.0~2.0432"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1123855778": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-03-23 02:56:17",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年152天1小时38分",
+        "version": "2.5"
+      },
+      {
+        "sdate": "2016-06-18 00:00:00",
+        "edate": "2022-03-23 02:56:17",
+        "status": "online",
+        "duration": "5年279天2小时56分",
+        "version": "1.0~2.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

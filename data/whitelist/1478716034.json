@@ -1,0 +1,55 @@
+{
+  "1478716034": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-04-25 11:31:42",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年118天13小时14分",
+        "version": "1.7.000"
+      },
+      {
+        "status": "out",
+        "sdate": "2024-03-17 12:17:11",
+        "edate": "2024-03-17 14:54:33",
+        "duration": "2小时37分",
+        "version": "1.7.000"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-02-26 21:12:13",
+        "edate": "2021-02-26 22:54:05",
+        "duration": "1小时41分",
+        "version": "1.7.000"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-01-15 18:04:26",
+        "edate": "2021-01-15 20:04:27",
+        "duration": "2小时0分",
+        "version": "1.7.000"
+      },
+      {
+        "sdate": "2020-11-26 00:24:53",
+        "edate": "2024-04-25 11:31:42",
+        "status": "online",
+        "duration": "3年151天11小时6分",
+        "version": "1.7.000"
+      },
+      {
+        "sdate": "2020-11-10 10:35:02",
+        "edate": "2020-11-26 00:24:53",
+        "status": "preorder",
+        "duration": "15天13小时49分",
+        "version": "1.0.7~1.7.000"
+      }
+    ],
+    "total": 6,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

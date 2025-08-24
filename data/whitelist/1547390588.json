@@ -1,0 +1,27 @@
+{
+  "1547390588": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-07-28 23:06:11",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年25天12小时19分",
+        "version": "3.7.60"
+      },
+      {
+        "sdate": "2021-01-06 00:00:00",
+        "edate": "2021-07-28 23:06:11",
+        "status": "online",
+        "duration": "203天23小时6分",
+        "version": "3.6.28~3.7.60"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

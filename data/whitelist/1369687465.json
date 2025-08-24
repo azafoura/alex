@@ -1,0 +1,27 @@
+{
+  "1369687465": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-10-25 07:20:31",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年302天4小时26分",
+        "version": "3.0"
+      },
+      {
+        "sdate": "2018-06-05 03:57:57",
+        "edate": "2018-10-25 07:20:31",
+        "status": "online",
+        "duration": "142天3小时22分",
+        "version": "1.0~3.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

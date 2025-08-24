@@ -1,0 +1,20 @@
+{
+  "1523072566": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-31 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "5年23天5小时43分",
+        "version": "1.20~1.46"
+      }
+    ],
+    "total": 1,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

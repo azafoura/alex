@@ -1,0 +1,34 @@
+{
+  "797988308": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-02-05 11:20:24",
+        "edate": "",
+        "status": "online",
+        "duration": "3年196天21小时43分",
+        "version": "1.7.6"
+      },
+      {
+        "sdate": "2020-12-31 04:14:17",
+        "edate": "2022-02-05 11:20:24",
+        "status": "offline",
+        "duration": "1年36天7小时6分",
+        "version": "1.7.6"
+      },
+      {
+        "sdate": "2014-02-24 00:00:00",
+        "edate": "2020-12-31 04:14:17",
+        "status": "online",
+        "duration": "6年312天4小时14分",
+        "version": "1.0.0~1.7.6"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

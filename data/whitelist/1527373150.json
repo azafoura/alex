@@ -1,0 +1,27 @@
+{
+  "1527373150": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-09-28 20:01:56",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年328天9小时49分",
+        "version": "1.0.4"
+      },
+      {
+        "sdate": "2020-09-11 00:00:00",
+        "edate": "2021-09-28 20:01:56",
+        "status": "online",
+        "duration": "1年17天20小时1分",
+        "version": "1.0.2~1.0.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "1400125595": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-12-31 01:08:45",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年235天19小时59分",
+        "version": "2.7"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-07-03 15:27:54",
+        "edate": "2019-07-03 18:00:00",
+        "duration": "2小时32分",
+        "version": "2.3"
+      },
+      {
+        "sdate": "2019-04-24 02:13:50",
+        "edate": "2019-12-31 01:08:45",
+        "status": "online",
+        "duration": "250天22小时54分",
+        "version": "2.0~2.7"
+      },
+      {
+        "sdate": "2018-12-20 04:16:48",
+        "edate": "2019-04-24 02:13:50",
+        "status": "preorder",
+        "duration": "124天21小时57分",
+        "version": "1.3~2.2"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

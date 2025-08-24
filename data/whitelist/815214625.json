@@ -1,0 +1,27 @@
+{
+  "815214625": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 00:44:10",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年145天8小时21分",
+        "version": "7.7.0"
+      },
+      {
+        "sdate": "2014-05-12 16:41:09",
+        "edate": "2016-03-30 00:44:10",
+        "status": "online",
+        "duration": "1年322天8小时3分",
+        "version": "2.01~7.7.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

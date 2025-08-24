@@ -1,0 +1,27 @@
+{
+  "902173725": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:16:15",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时39分",
+        "version": "2.37.0"
+      },
+      {
+        "sdate": "2015-03-28 16:50:25",
+        "edate": "2020-12-31 04:16:15",
+        "status": "online",
+        "duration": "5年279天11小时25分",
+        "version": "1.0.1~2.37.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

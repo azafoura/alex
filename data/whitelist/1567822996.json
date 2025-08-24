@@ -1,0 +1,27 @@
+{
+  "1567822996": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-07-12 08:31:31",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年42天3小时30分",
+        "version": "28"
+      },
+      {
+        "sdate": "2021-05-18 00:00:00",
+        "edate": "2021-07-12 08:31:31",
+        "status": "online",
+        "duration": "55天8小时31分",
+        "version": "20~28"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

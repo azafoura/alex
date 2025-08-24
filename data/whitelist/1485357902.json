@@ -1,0 +1,27 @@
+{
+  "1485357902": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-06-08 10:17:18",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年75天18小时38分",
+        "version": "3.7.1"
+      },
+      {
+        "sdate": "2020-01-06 09:30:46",
+        "edate": "2022-06-08 10:17:18",
+        "status": "online",
+        "duration": "2年154天46分",
+        "version": "1.0.0~3.7.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

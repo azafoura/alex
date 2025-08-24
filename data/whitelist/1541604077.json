@@ -1,0 +1,27 @@
+{
+  "1541604077": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2021-02-20 20:57:43",
+        "edate": "2021-02-20 22:50:49",
+        "duration": "1小时53分",
+        "version": "1.18"
+      },
+      {
+        "sdate": "2020-12-19 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "4年247天6小时14分",
+        "version": "1.12~1.89.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

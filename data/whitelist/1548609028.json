@@ -1,0 +1,41 @@
+{
+  "1548609028": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-12-04 10:31:02",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年262天56分",
+        "version": "1.0.3"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-09-27 09:26:01",
+        "edate": "2021-09-27 11:06:01",
+        "duration": "1小时40分",
+        "version": "1.0.3"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-01-23 21:12:52",
+        "edate": "2021-01-23 23:11:48",
+        "duration": "1小时58分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2021-01-18 00:00:00",
+        "edate": "2021-12-04 10:31:02",
+        "status": "online",
+        "duration": "320天10小时31分",
+        "version": "1.0.0~1.0.3"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

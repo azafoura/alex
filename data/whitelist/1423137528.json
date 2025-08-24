@@ -1,0 +1,34 @@
+{
+  "1423137528": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-30 17:43:29",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年296天3小时31分",
+        "version": "1.9.1"
+      },
+      {
+        "sdate": "2018-10-13 00:00:00",
+        "edate": "2020-10-30 17:43:29",
+        "status": "online",
+        "duration": "2年18天17小时43分",
+        "version": "1.7.0~1.9.1"
+      },
+      {
+        "sdate": "2018-09-29 02:16:22",
+        "edate": "2018-10-13 00:00:00",
+        "status": "preorder",
+        "duration": "13天21小时43分",
+        "version": "1.6.4~1.7.0"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

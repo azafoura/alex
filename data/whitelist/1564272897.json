@@ -1,0 +1,41 @@
+{
+  "1564272897": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-08-26 10:37:53",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年362天1小时18分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2021-07-23 10:32:11",
+        "edate": "2021-08-26 10:37:53",
+        "status": "online",
+        "duration": "34天5分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2021-07-22 18:43:23",
+        "edate": "2021-07-23 10:32:11",
+        "status": "offline",
+        "duration": "15小时48分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2021-04-23 00:00:00",
+        "edate": "2021-07-22 18:43:23",
+        "status": "online",
+        "duration": "90天18小时43分",
+        "version": "1.0.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

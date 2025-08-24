@@ -1,0 +1,41 @@
+{
+  "1227734600": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 05:09:04",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天2小时25分",
+        "version": "1.18.11"
+      },
+      {
+        "sdate": "2019-02-21 01:41:57",
+        "edate": "2020-12-31 05:09:04",
+        "status": "online",
+        "duration": "1年314天3小时27分",
+        "version": "1.7.7~1.18.11"
+      },
+      {
+        "sdate": "2019-01-16 09:46:10",
+        "edate": "2019-02-21 01:41:57",
+        "status": "offline",
+        "duration": "35天15小时55分",
+        "version": "1.7.5~1.7.7"
+      },
+      {
+        "sdate": "2017-09-13 07:42:46",
+        "edate": "2019-01-16 09:46:10",
+        "status": "online",
+        "duration": "1年125天2小时3分",
+        "version": "1.0~1.7.5"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

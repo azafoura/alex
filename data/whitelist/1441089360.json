@@ -1,0 +1,27 @@
+{
+  "1441089360": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-01-13 10:31:15",
+        "edate": "",
+        "status": "online",
+        "duration": "4年221天10小时52分",
+        "version": "1.230.1145~1.242.1709"
+      },
+      {
+        "sdate": "2020-12-15 15:12:18",
+        "edate": "2021-01-13 10:31:15",
+        "status": "preorder",
+        "duration": "28天19小时18分",
+        "version": "1.24.45~1.230.1145"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

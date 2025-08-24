@@ -1,0 +1,27 @@
+{
+  "885504739": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-06-21 09:41:59",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年63天19小时10分",
+        "version": "1.0.6"
+      },
+      {
+        "sdate": "2014-06-12 14:48:32",
+        "edate": "2019-06-21 09:41:59",
+        "status": "online",
+        "duration": "5年9天18小时53分",
+        "version": "1.0.1~1.0.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1484048659": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-04-06 12:59:45",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年138天11小时54分",
+        "version": "1.6.1"
+      },
+      {
+        "sdate": "2019-10-21 00:00:00",
+        "edate": "2022-04-06 12:59:45",
+        "status": "online",
+        "duration": "2年168天12小时59分",
+        "version": "1.0~1.6.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

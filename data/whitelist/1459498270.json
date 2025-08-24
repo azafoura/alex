@@ -1,0 +1,20 @@
+{
+  "1459498270": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-04-23 01:47:59",
+        "edate": "",
+        "status": "online",
+        "duration": "6年122天22小时31分",
+        "version": "1.0~1.8.7"
+      }
+    ],
+    "total": 1,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

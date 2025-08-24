@@ -1,0 +1,27 @@
+{
+  "1317789037": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-05-04 10:54:01",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年110天21小时18分",
+        "version": "1.02"
+      },
+      {
+        "sdate": "2018-04-18 10:22:48",
+        "edate": "2018-05-04 10:54:01",
+        "status": "online",
+        "duration": "16天31分",
+        "version": "1.0~1.02"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

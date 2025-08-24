@@ -1,0 +1,27 @@
+{
+  "1533929995": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-11-12 14:21:07",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年283天15小时45分",
+        "version": "1.2.5"
+      },
+      {
+        "sdate": "2020-10-16 00:00:00",
+        "edate": "2021-11-12 14:21:07",
+        "status": "online",
+        "duration": "1年27天14小时21分",
+        "version": "1.0.2~1.2.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

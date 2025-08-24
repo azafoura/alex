@@ -1,0 +1,27 @@
+{
+  "1592298170": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-01-24 17:32:17",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年210天22小时25分",
+        "version": "1.08"
+      },
+      {
+        "sdate": "2021-11-27 00:00:00",
+        "edate": "2022-01-24 17:32:17",
+        "status": "online",
+        "duration": "58天17小时32分",
+        "version": "1.0~1.08"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "897954560": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-12-30 03:25:39",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年235天14小时43分",
+        "version": "2.2.007"
+      },
+      {
+        "sdate": "2014-10-29 02:08:16",
+        "edate": "2016-12-30 03:25:39",
+        "status": "online",
+        "duration": "2年63天1小时17分",
+        "version": "1.0.1~2.2.007"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

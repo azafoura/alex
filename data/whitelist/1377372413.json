@@ -1,0 +1,27 @@
+{
+  "1377372413": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:31:36",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天7小时20分",
+        "version": "3.0"
+      },
+      {
+        "sdate": "2018-04-29 00:00:00",
+        "edate": "2020-12-31 04:31:36",
+        "status": "online",
+        "duration": "2年247天4小时31分",
+        "version": "1.0~3.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

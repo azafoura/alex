@@ -1,0 +1,27 @@
+{
+  "1434259841": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-07-22 05:08:28",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年32天16小时9分",
+        "version": "1.0.3"
+      },
+      {
+        "sdate": "2018-10-25 01:52:41",
+        "edate": "2019-07-22 05:08:28",
+        "status": "online",
+        "duration": "270天3小时15分",
+        "version": "1.0~1.0.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

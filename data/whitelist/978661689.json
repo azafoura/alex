@@ -1,0 +1,27 @@
+{
+  "978661689": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-11-20 20:42:27",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年275天1小时36分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2015-04-09 16:45:45",
+        "edate": "2019-11-20 20:42:27",
+        "status": "online",
+        "duration": "4年226天3小时56分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

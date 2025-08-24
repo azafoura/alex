@@ -1,0 +1,27 @@
+{
+  "891194610": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:23:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年235天29分",
+        "version": "1.4.17"
+      },
+      {
+        "sdate": "2014-11-10 00:00:00",
+        "edate": "2020-12-31 04:23:13",
+        "status": "online",
+        "duration": "6年53天4小时23分",
+        "version": "1.0.1~1.4.17"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1535613058": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-07-21 19:59:10",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年32天10小时9分",
+        "version": "2.1.4"
+      },
+      {
+        "sdate": "2020-10-20 04:40:37",
+        "edate": "2021-07-21 19:59:10",
+        "status": "online",
+        "duration": "274天15小时18分",
+        "version": "0.0.1~2.1.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

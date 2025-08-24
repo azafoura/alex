@@ -1,0 +1,27 @@
+{
+  "1373150289": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-10-13 09:59:32",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年314天1小时50分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-04-27 16:19:09",
+        "edate": "2018-10-13 09:59:32",
+        "status": "online",
+        "duration": "168天17小时40分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

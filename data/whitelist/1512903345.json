@@ -1,0 +1,27 @@
+{
+  "1512903345": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-18 08:58:52",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年35天20小时14分",
+        "version": "0.0.15"
+      },
+      {
+        "sdate": "2020-05-24 05:22:57",
+        "edate": "2020-07-18 08:58:52",
+        "status": "online",
+        "duration": "55天3小时35分",
+        "version": "0.0.13~0.0.15"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

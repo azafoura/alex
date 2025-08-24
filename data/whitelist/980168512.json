@@ -1,0 +1,27 @@
+{
+  "980168512": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-02-08 20:06:00",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年194天3小时31分",
+        "version": "3.5"
+      },
+      {
+        "sdate": "2015-05-07 19:01:24",
+        "edate": "2021-02-08 20:06:00",
+        "status": "online",
+        "duration": "5年279天1小时4分",
+        "version": "1.5~3.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "642821482": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-07-11 17:30:03",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年41天15小时21分",
+        "version": "2.8.3"
+      },
+      {
+        "sdate": "2013-11-26 00:21:04",
+        "edate": "2019-07-11 17:30:03",
+        "status": "online",
+        "duration": "5年228天17小时8分",
+        "version": "1.0.0~2.8.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

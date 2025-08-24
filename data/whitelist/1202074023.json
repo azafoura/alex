@@ -1,0 +1,27 @@
+{
+  "1202074023": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2021-11-21 03:19:13",
+        "edate": "2021-11-21 06:02:02",
+        "duration": "2小时42分",
+        "version": "2.7"
+      },
+      {
+        "sdate": "2017-02-07 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "8年197天5小时26分",
+        "version": "1.0~2.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

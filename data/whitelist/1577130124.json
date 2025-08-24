@@ -1,0 +1,27 @@
+{
+  "1577130124": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-09-05 22:40:49",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年351天17小时10分",
+        "version": "1.5"
+      },
+      {
+        "sdate": "2021-07-20 00:00:00",
+        "edate": "2021-09-05 22:40:49",
+        "status": "online",
+        "duration": "47天22小时40分",
+        "version": "1.0~1.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

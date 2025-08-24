@@ -1,0 +1,41 @@
+{
+  "1546690423": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-08-27 02:17:36",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年361天9小时5分",
+        "version": "2.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-10-21 12:02:46",
+        "edate": "2021-10-21 14:00:03",
+        "duration": "1小时57分",
+        "version": "2.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-08-15 05:56:03",
+        "edate": "2021-08-15 07:54:53",
+        "duration": "1小时58分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2020-12-30 00:00:00",
+        "edate": "2022-08-27 02:17:36",
+        "status": "online",
+        "duration": "1年240天2小时17分",
+        "version": "1.0~2.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

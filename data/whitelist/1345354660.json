@@ -1,0 +1,27 @@
+{
+  "1345354660": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-05-13 13:13:59",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年100天22小时18分",
+        "version": "3"
+      },
+      {
+        "sdate": "2018-03-09 00:00:00",
+        "edate": "2021-05-13 13:13:59",
+        "status": "online",
+        "duration": "3年66天13小时13分",
+        "version": "1.0~3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

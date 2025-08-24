@@ -1,0 +1,27 @@
+{
+  "1564468425": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-05-23 17:35:19",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年91天18小时21分",
+        "version": "1.1.4"
+      },
+      {
+        "sdate": "2021-04-24 00:00:00",
+        "edate": "2021-05-23 17:35:19",
+        "status": "online",
+        "duration": "29天17小时35分",
+        "version": "1.0~1.1.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

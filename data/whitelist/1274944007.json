@@ -1,0 +1,27 @@
+{
+  "1274944007": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-01-23 20:51:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年211天11小时3分",
+        "version": "1.2.26"
+      },
+      {
+        "sdate": "2017-10-10 10:29:21",
+        "edate": "2019-01-23 20:51:13",
+        "status": "online",
+        "duration": "1年105天10小时21分",
+        "version": "1.0.1~1.2.26"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

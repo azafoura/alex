@@ -1,0 +1,41 @@
+{
+  "1536553163": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-12-25 13:27:04",
+        "edate": null,
+        "status": "offline",
+        "duration": "239天16小时42分",
+        "version": "3.8"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-02-28 23:52:39",
+        "edate": "2021-03-01 01:35:51",
+        "duration": "1小时43分",
+        "version": "1.4"
+      },
+      {
+        "sdate": "2021-02-03 12:11:11",
+        "edate": "2024-12-25 13:27:04",
+        "status": "online",
+        "duration": "3年326天1小时15分",
+        "version": "1.2~3.8"
+      },
+      {
+        "sdate": "2020-12-01 08:59:26",
+        "edate": "2021-02-03 12:11:11",
+        "status": "preorder",
+        "duration": "64天3小时11分",
+        "version": "1.0~1.2"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

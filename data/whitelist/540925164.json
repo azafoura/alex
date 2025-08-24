@@ -1,0 +1,27 @@
+{
+  "540925164": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 05:22:11",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年145天3小时21分",
+        "version": "1.0.43"
+      },
+      {
+        "sdate": "2012-10-18 23:03:28",
+        "edate": "2016-03-30 05:22:11",
+        "status": "online",
+        "duration": "3年163天6小时18分",
+        "version": "1.0.0~1.0.43"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

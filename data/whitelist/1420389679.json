@@ -1,0 +1,27 @@
+{
+  "1420389679": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-10-31 17:52:36",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年296天3小时21分",
+        "version": "1.1.0"
+      },
+      {
+        "sdate": "2018-08-24 04:03:10",
+        "edate": "2018-10-31 17:52:36",
+        "status": "online",
+        "duration": "68天13小时49分",
+        "version": "1.0.0~1.1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

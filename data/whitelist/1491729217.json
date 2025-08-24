@@ -1,0 +1,27 @@
+{
+  "1491729217": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-29 19:55:29",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年297天9小时3分",
+        "version": "2.0.7"
+      },
+      {
+        "sdate": "2019-12-18 23:58:21",
+        "edate": "2020-10-29 19:55:29",
+        "status": "online",
+        "duration": "315天19小时57分",
+        "version": "1.0~2.0.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

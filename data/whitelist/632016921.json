@@ -1,0 +1,27 @@
+{
+  "632016921": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-05-29 21:38:56",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年84天11小时12分",
+        "version": "3.7"
+      },
+      {
+        "sdate": "2013-05-01 19:25:11",
+        "edate": "2017-05-29 21:38:56",
+        "status": "online",
+        "duration": "4年29天2小时13分",
+        "version": "0.9~3.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

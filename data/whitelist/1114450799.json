@@ -1,0 +1,27 @@
+{
+  "1114450799": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:23:09",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天2分",
+        "version": "3.0.9"
+      },
+      {
+        "sdate": "2016-11-03 00:00:00",
+        "edate": "2020-12-31 04:23:09",
+        "status": "online",
+        "duration": "4年59天4小时23分",
+        "version": "1.7~3.0.9"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

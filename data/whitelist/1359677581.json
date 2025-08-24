@@ -1,0 +1,41 @@
+{
+  "1359677581": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-07-12 17:24:56",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年41天18小时16分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-04-26 19:28:50",
+        "edate": "2018-07-12 17:24:56",
+        "status": "online",
+        "duration": "76天21小时56分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-04-26 11:26:28",
+        "edate": "2018-04-26 19:28:50",
+        "status": "offline",
+        "duration": "8小时2分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-04-22 07:54:21",
+        "edate": "2018-04-26 11:26:28",
+        "status": "online",
+        "duration": "4天3小时32分",
+        "version": "1.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

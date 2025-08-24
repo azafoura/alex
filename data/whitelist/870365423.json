@@ -1,0 +1,27 @@
+{
+  "870365423": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2015-03-29 04:13:39",
+        "edate": null,
+        "status": "offline",
+        "duration": "10年147天13小时40分",
+        "version": ""
+      },
+      {
+        "sdate": "2014-10-07 21:39:09",
+        "edate": "2015-03-29 04:13:39",
+        "status": "online",
+        "duration": "172天6小时34分",
+        "version": ""
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

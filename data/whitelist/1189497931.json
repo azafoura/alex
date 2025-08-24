@@ -1,0 +1,27 @@
+{
+  "1189497931": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-08-01 03:53:02",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年22天1小时26分",
+        "version": "1.4.0"
+      },
+      {
+        "sdate": "2017-02-14 00:03:39",
+        "edate": "2018-08-01 03:53:02",
+        "status": "online",
+        "duration": "1年168天3小时49分",
+        "version": "1.0.0~1.4.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "1219891343": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2025-04-12 22:20:25",
+        "edate": "2025-06-12 14:00:00",
+        "duration": "60天15小时39分",
+        "version": "24.0.0~26.0.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-01-24 17:48:33",
+        "edate": "2020-01-24 19:43:58",
+        "duration": "1小时55分",
+        "version": "1.5.2"
+      },
+      {
+        "sdate": "2017-04-13 22:29:35",
+        "edate": "",
+        "status": "online",
+        "duration": "8年131天9小时0分",
+        "version": "1.0.0~28.0.0"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

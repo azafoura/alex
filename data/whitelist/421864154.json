@@ -1,0 +1,27 @@
+{
+  "421864154": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-16 02:33:53",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年248天6小时2分",
+        "version": "8.13.0"
+      },
+      {
+        "sdate": "2014-03-31 11:17:27",
+        "edate": "2020-12-16 02:33:53",
+        "status": "online",
+        "duration": "6年261天15小时16分",
+        "version": "3.3.0~8.13.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

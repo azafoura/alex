@@ -1,0 +1,27 @@
+{
+  "1535773002": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-04-27 13:10:36",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年117天16小时57分",
+        "version": "5.7"
+      },
+      {
+        "sdate": "2020-10-16 00:00:00",
+        "edate": "2022-04-27 13:10:36",
+        "status": "online",
+        "duration": "1年193天13小时10分",
+        "version": "1.0~5.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

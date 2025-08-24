@@ -1,0 +1,41 @@
+{
+  "1251328459": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-07-29 15:37:30",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年23天16小时8分",
+        "version": "1.02"
+      },
+      {
+        "sdate": "2021-01-21 21:18:30",
+        "edate": "2021-07-29 15:37:30",
+        "status": "online",
+        "duration": "188天18小时19分",
+        "version": "1.02"
+      },
+      {
+        "sdate": "2020-12-31 04:30:05",
+        "edate": "2021-01-21 21:18:30",
+        "status": "offline",
+        "duration": "21天16小时48分",
+        "version": "1.02"
+      },
+      {
+        "sdate": "2017-06-29 00:00:00",
+        "edate": "2020-12-31 04:30:05",
+        "status": "online",
+        "duration": "3年186天4小时30分",
+        "version": "1.0~1.02"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

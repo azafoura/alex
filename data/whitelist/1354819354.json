@@ -1,0 +1,27 @@
+{
+  "1354819354": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-09-19 03:36:11",
+        "edate": "",
+        "status": "offline",
+        "duration": "6年338天8小时1分",
+        "version": "0.1.6~1.6.6"
+      },
+      {
+        "sdate": "2018-05-23 18:05:31",
+        "edate": "2018-09-19 03:36:11",
+        "status": "online",
+        "duration": "118天9小时30分",
+        "version": "0.1.1~0.1.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

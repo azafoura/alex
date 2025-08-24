@@ -1,0 +1,34 @@
+{
+  "1573539928": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-09-25 05:59:34",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年332天9小时49分",
+        "version": "1.0.6"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-09-09 06:18:03",
+        "edate": "2021-09-09 08:03:02",
+        "duration": "1小时44分",
+        "version": "1.0.6"
+      },
+      {
+        "sdate": "2021-07-02 00:00:00",
+        "edate": "2021-09-25 05:59:34",
+        "status": "online",
+        "duration": "85天5小时59分",
+        "version": "1.0.6"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

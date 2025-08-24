@@ -1,0 +1,48 @@
+{
+  "1216019307": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-05-07 07:21:44",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年107天7分",
+        "version": "1.0.5"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-04-11 02:44:04",
+        "edate": "2020-04-11 04:37:43",
+        "duration": "1小时53分",
+        "version": "1.0.3"
+      },
+      {
+        "sdate": "2020-04-07 19:40:24",
+        "edate": "2020-05-07 07:21:44",
+        "status": "online",
+        "duration": "29天11小时41分",
+        "version": "1.0.2~1.0.5"
+      },
+      {
+        "sdate": "2019-08-31 10:39:59",
+        "edate": "2020-04-07 19:40:24",
+        "status": "offline",
+        "duration": "220天9小时0分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2017-03-23 15:27:03",
+        "edate": "2019-08-31 10:39:59",
+        "status": "online",
+        "duration": "2年160天19小时12分",
+        "version": "1.0.2"
+      }
+    ],
+    "total": 5,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

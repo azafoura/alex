@@ -1,0 +1,27 @@
+{
+  "794528098": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:14:17",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时49分",
+        "version": "1.1.3"
+      },
+      {
+        "sdate": "2014-09-25 00:00:00",
+        "edate": "2020-12-31 04:14:17",
+        "status": "online",
+        "duration": "6年99天4小时14分",
+        "version": "0.1.0~1.1.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "850066074": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-06-01 07:19:16",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年82天1小时50分",
+        "version": "7.2"
+      },
+      {
+        "sdate": "2014-04-04 17:02:53",
+        "edate": "2019-06-01 07:19:16",
+        "status": "online",
+        "duration": "5年58天14小时16分",
+        "version": "1.0~7.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

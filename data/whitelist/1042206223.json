@@ -1,0 +1,27 @@
+{
+  "1042206223": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-02-28 17:13:20",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年175天5小时51分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2016-11-02 19:30:44",
+        "edate": "2019-02-28 17:13:20",
+        "status": "online",
+        "duration": "2年117天21小时42分",
+        "version": "2.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

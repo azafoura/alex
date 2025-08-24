@@ -1,0 +1,27 @@
+{
+  "1295580906": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-02-15 17:13:18",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年188天14小时49分",
+        "version": "1.2.2"
+      },
+      {
+        "sdate": "2017-12-11 22:05:09",
+        "edate": "2019-02-15 17:13:18",
+        "status": "online",
+        "duration": "1年65天19小时8分",
+        "version": "1.0~1.2.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

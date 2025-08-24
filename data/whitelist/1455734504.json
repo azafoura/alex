@@ -1,0 +1,27 @@
+{
+  "1455734504": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2025-07-23 18:18:18",
+        "edate": null,
+        "status": "offline",
+        "duration": "29天5小时55分",
+        "version": "2.4"
+      },
+      {
+        "sdate": "2019-04-05 00:00:00",
+        "edate": "2025-07-23 18:18:18",
+        "status": "online",
+        "duration": "6年111天18小时18分",
+        "version": "1.0~2.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

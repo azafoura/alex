@@ -1,0 +1,27 @@
+{
+  "1573201362": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-07-21 20:55:56",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年32天18小时52分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2021-06-23 00:00:00",
+        "edate": "2021-07-21 20:55:56",
+        "status": "online",
+        "duration": "28天20小时55分",
+        "version": "0.0.4~1.0.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1494294554": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2020-06-13 14:36:55",
+        "edate": "2020-06-13 16:33:55",
+        "duration": "1小时57分",
+        "version": "1.6.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-02-25 14:37:02",
+        "edate": "2020-02-25 16:34:51",
+        "duration": "1小时57分",
+        "version": "1.2.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

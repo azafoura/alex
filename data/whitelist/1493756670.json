@@ -1,0 +1,27 @@
+{
+  "1493756670": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-05-27 18:46:29",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年87天10小时13分",
+        "version": "1.4"
+      },
+      {
+        "sdate": "2020-01-08 15:43:50",
+        "edate": "2020-05-27 18:46:29",
+        "status": "online",
+        "duration": "140天3小时2分",
+        "version": "1.0~1.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

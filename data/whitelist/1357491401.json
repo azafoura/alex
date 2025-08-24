@@ -1,0 +1,27 @@
+{
+  "1357491401": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-11-21 16:58:07",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年274天18小时41分",
+        "version": "0.08.00"
+      },
+      {
+        "sdate": "2018-07-10 06:06:01",
+        "edate": "2018-11-21 16:58:07",
+        "status": "online",
+        "duration": "134天10小时52分",
+        "version": "0.04.00~0.08.00"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

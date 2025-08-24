@@ -1,0 +1,41 @@
+{
+  "1444573007": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-12-12 19:37:51",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年254天1小时48分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2019-05-05 11:59:10",
+        "edate": "2019-12-12 19:37:51",
+        "status": "online",
+        "duration": "221天7小时38分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2019-01-18 16:17:47",
+        "edate": "2019-05-05 11:59:10",
+        "status": "offline",
+        "duration": "106天19小时41分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2018-11-29 07:04:45",
+        "edate": "2019-01-18 16:17:47",
+        "status": "online",
+        "duration": "50天9小时13分",
+        "version": "1.0~2.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

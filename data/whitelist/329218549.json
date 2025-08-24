@@ -1,0 +1,34 @@
+{
+  "329218549": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 02:34:12",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年235天57分",
+        "version": "3.9.14 (2)"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-11-04 14:49:57",
+        "edate": "2020-11-04 16:47:02",
+        "duration": "1小时57分",
+        "version": "3.9.9 (6)"
+      },
+      {
+        "sdate": "2013-01-15 18:13:01",
+        "edate": "2020-12-31 02:34:12",
+        "status": "online",
+        "duration": "7年351天8小时21分",
+        "version": "2.7.19~3.9.14 (2)"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

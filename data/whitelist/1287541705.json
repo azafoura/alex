@@ -1,0 +1,27 @@
+{
+  "1287541705": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:28:35",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天3小时31分",
+        "version": "5.2.4"
+      },
+      {
+        "sdate": "2017-10-22 08:10:54",
+        "edate": "2020-12-31 04:28:35",
+        "status": "online",
+        "duration": "3年70天20小时17分",
+        "version": "1.0~5.2.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

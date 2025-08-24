@@ -1,0 +1,27 @@
+{
+  "1182214882": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-08-30 17:00:43",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年357天12小时14分",
+        "version": ""
+      },
+      {
+        "sdate": "2017-04-24 05:36:30",
+        "edate": "2017-08-30 17:00:43",
+        "status": "online",
+        "duration": "128天11小时24分",
+        "version": ""
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

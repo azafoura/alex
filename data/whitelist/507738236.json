@@ -1,0 +1,27 @@
+{
+  "507738236": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-14 23:55:19",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年37天8小时45分",
+        "version": "7.5.2"
+      },
+      {
+        "sdate": "2012-03-13 18:05:37",
+        "edate": "2020-07-14 23:55:19",
+        "status": "online",
+        "duration": "8年125天5小时49分",
+        "version": "2.0~7.5.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

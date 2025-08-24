@@ -1,0 +1,27 @@
+{
+  "1186197017": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-11-01 21:07:26",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年294天8小时9分",
+        "version": "1.1"
+      },
+      {
+        "sdate": "2016-12-17 15:13:16",
+        "edate": "2018-11-01 21:07:26",
+        "status": "online",
+        "duration": "1年319天5小时54分",
+        "version": "1.0~1.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

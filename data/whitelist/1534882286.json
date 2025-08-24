@@ -1,0 +1,27 @@
+{
+  "1534882286": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-11-02 15:54:14",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年293天14小时13分",
+        "version": "1.4.2"
+      },
+      {
+        "sdate": "2020-10-24 00:00:00",
+        "edate": "2021-11-02 15:54:14",
+        "status": "online",
+        "duration": "1年9天15小时54分",
+        "version": "1.0.0~1.4.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

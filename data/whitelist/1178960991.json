@@ -1,0 +1,41 @@
+{
+  "1178960991": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:25:40",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天48分",
+        "version": "3.0.0"
+      },
+      {
+        "sdate": "2019-07-19 07:33:54",
+        "edate": "2020-12-31 04:25:40",
+        "status": "online",
+        "duration": "1年165天20小时51分",
+        "version": "3.0.0"
+      },
+      {
+        "sdate": "2019-06-14 04:40:23",
+        "edate": "2019-07-19 07:33:54",
+        "status": "offline",
+        "duration": "35天2小时53分",
+        "version": "1.8.0~3.0.0"
+      },
+      {
+        "sdate": "2017-01-18 00:00:00",
+        "edate": "2019-06-14 04:40:23",
+        "status": "online",
+        "duration": "2年147天4小时40分",
+        "version": "1.0~1.8.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

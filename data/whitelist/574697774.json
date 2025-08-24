@@ -1,0 +1,27 @@
+{
+  "574697774": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-02-20 23:59:42",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年182天8小时47分",
+        "version": "3.2"
+      },
+      {
+        "sdate": "2013-03-22 17:05:41",
+        "edate": "2019-02-20 23:59:42",
+        "status": "online",
+        "duration": "5年336天6小时54分",
+        "version": "1.0~3.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

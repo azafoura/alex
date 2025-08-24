@@ -1,0 +1,27 @@
+{
+  "1575188201": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-04-06 21:09:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年138天18小时40分",
+        "version": "0.1.17"
+      },
+      {
+        "sdate": "2021-07-30 00:00:00",
+        "edate": "2023-04-06 21:09:13",
+        "status": "online",
+        "duration": "1年250天21小时9分",
+        "version": "0.1.2~0.1.17"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

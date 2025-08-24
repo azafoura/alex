@@ -1,0 +1,34 @@
+{
+  "1490371187": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-02-25 09:49:35",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年179天19小时8分",
+        "version": "1.2.5001"
+      },
+      {
+        "sdate": "2020-02-01 08:00:00",
+        "edate": "2020-02-01 08:00:00",
+        "status": "preorder",
+        "duration": "",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2020-02-01 08:00:00",
+        "edate": "2020-02-25 09:49:35",
+        "status": "online",
+        "duration": "24天1小时49分",
+        "version": "1.0~1.2.5001"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

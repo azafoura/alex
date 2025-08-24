@@ -1,0 +1,48 @@
+{
+  "1482395931": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-02 14:02:51",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年263天10小时48分",
+        "version": "3.5"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-03-18 11:40:37",
+        "edate": "2020-03-18 13:35:25",
+        "duration": "1小时54分",
+        "version": "2.1"
+      },
+      {
+        "sdate": "2020-01-09 03:06:16",
+        "edate": "2020-12-02 14:02:51",
+        "status": "online",
+        "duration": "328天10小时56分",
+        "version": "1.0~3.5"
+      },
+      {
+        "sdate": "2020-01-01 13:52:13",
+        "edate": "2020-01-09 03:06:16",
+        "status": "offline",
+        "duration": "7天13小时14分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2019-12-21 21:43:04",
+        "edate": "2020-01-01 13:52:13",
+        "status": "online",
+        "duration": "10天16小时9分",
+        "version": "1.0"
+      }
+    ],
+    "total": 5,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

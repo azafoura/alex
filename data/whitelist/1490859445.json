@@ -1,0 +1,27 @@
+{
+  "1490859445": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-06-30 14:47:54",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年53天14小时10分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2019-12-12 00:00:00",
+        "edate": "2021-06-30 14:47:54",
+        "status": "online",
+        "duration": "1年201天14小时47分",
+        "version": "1.0~2.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

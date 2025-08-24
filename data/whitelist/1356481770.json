@@ -1,0 +1,27 @@
+{
+  "1356481770": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:36:37",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天7小时2分",
+        "version": "1.2"
+      },
+      {
+        "sdate": "2018-04-06 00:00:00",
+        "edate": "2020-12-31 04:36:37",
+        "status": "online",
+        "duration": "2年270天4小时36分",
+        "version": "1.0~1.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

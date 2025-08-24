@@ -1,0 +1,27 @@
+{
+  "1367875858": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-07-18 16:43:53",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年35天19小时2分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2018-04-19 07:15:28",
+        "edate": "2018-07-18 16:43:53",
+        "status": "online",
+        "duration": "90天9小时28分",
+        "version": "1.0~2.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

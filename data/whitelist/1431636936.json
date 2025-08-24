@@ -1,0 +1,27 @@
+{
+  "1431636936": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:33:48",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天16小时42分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2018-08-24 00:00:00",
+        "edate": "2020-12-31 04:33:48",
+        "status": "online",
+        "duration": "2年130天4小时33分",
+        "version": "1.0~1.0.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

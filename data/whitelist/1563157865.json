@@ -1,0 +1,34 @@
+{
+  "1563157865": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-03-26 18:55:50",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年149天16小时58分",
+        "version": "1.0.20"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-07-20 11:59:02",
+        "edate": "2021-07-20 13:55:32",
+        "duration": "1小时56分",
+        "version": "2.1"
+      },
+      {
+        "sdate": "2021-04-25 00:00:00",
+        "edate": "2022-03-26 18:55:50",
+        "status": "online",
+        "duration": "335天18小时55分",
+        "version": "1.0~1.0.20"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

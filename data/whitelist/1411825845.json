@@ -1,0 +1,27 @@
+{
+  "1411825845": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-09-27 07:44:19",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年330天13小时27分",
+        "version": "1.1.59"
+      },
+      {
+        "sdate": "2018-07-21 02:27:08",
+        "edate": "2018-09-27 07:44:19",
+        "status": "online",
+        "duration": "68天5小时17分",
+        "version": "1.1.58~1.1.59"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

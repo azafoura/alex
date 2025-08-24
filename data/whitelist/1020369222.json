@@ -1,0 +1,27 @@
+{
+  "1020369222": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2025-05-20 02:41:55",
+        "edate": null,
+        "status": "offline",
+        "duration": "92天20小时11分",
+        "version": "1.0.6"
+      },
+      {
+        "sdate": "2015-07-31 00:00:00",
+        "edate": "2025-05-20 02:41:55",
+        "status": "online",
+        "duration": "9年296天2小时41分",
+        "version": "1.0.0~1.0.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

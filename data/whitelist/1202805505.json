@@ -1,0 +1,48 @@
+{
+  "1202805505": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2024-12-04 18:54:11",
+        "edate": "2024-12-06 18:35:09",
+        "duration": "1天23小时40分",
+        "version": "1.01"
+      },
+      {
+        "status": "out",
+        "sdate": "2024-12-04 08:18:49",
+        "edate": "2024-12-04 10:23:54",
+        "duration": "2小时5分",
+        "version": "1.01"
+      },
+      {
+        "status": "out",
+        "sdate": "2024-11-29 13:56:07",
+        "edate": "2024-11-29 19:21:59",
+        "duration": "5小时25分",
+        "version": "1.01"
+      },
+      {
+        "status": "out",
+        "sdate": "2024-11-27 05:22:10",
+        "edate": "2024-11-27 10:24:15",
+        "duration": "5小时2分",
+        "version": "1.01"
+      },
+      {
+        "sdate": "2017-02-12 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "8年192天5小时27分",
+        "version": "1.0~1.01"
+      }
+    ],
+    "total": 5,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

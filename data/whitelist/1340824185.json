@@ -1,0 +1,34 @@
+{
+  "1340824185": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-07-27 07:54:21",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年27天3小时35分",
+        "version": "4.7.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2018-07-15 03:25:09",
+        "edate": "2018-07-27 07:54:21",
+        "duration": "12天4小时29分",
+        "version": "4.7.0"
+      },
+      {
+        "sdate": "2018-03-27 09:21:26",
+        "edate": "2018-07-27 07:54:21",
+        "status": "online",
+        "duration": "121天22小时32分",
+        "version": "4.7.0"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

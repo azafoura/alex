@@ -1,0 +1,41 @@
+{
+  "1440480754": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:40:05",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天16小时43分",
+        "version": "1.9.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-04-11 23:48:46",
+        "edate": "2020-04-12 01:31:23",
+        "duration": "1小时42分",
+        "version": "1.0.5"
+      },
+      {
+        "sdate": "2020-04-10 00:00:00",
+        "edate": "2020-12-31 04:40:05",
+        "status": "online",
+        "duration": "265天4小时40分",
+        "version": "1.0.4~1.9.0"
+      },
+      {
+        "sdate": "2020-01-16 00:49:57",
+        "edate": "2020-04-10 00:00:00",
+        "status": "preorder",
+        "duration": "84天23小时10分",
+        "version": "0.21.0~1.0.4"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

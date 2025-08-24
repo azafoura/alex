@@ -1,0 +1,34 @@
+{
+  "1588037303": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-03-28 16:08:11",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年146天23小时48分",
+        "version": "1.0.3"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-12-06 03:28:10",
+        "edate": "2021-12-06 05:26:06",
+        "duration": "1小时57分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2021-10-25 00:00:00",
+        "edate": "2024-03-28 16:08:11",
+        "status": "online",
+        "duration": "2年155天16小时8分",
+        "version": "1.0.0~1.0.3"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1565499910": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-08-01 09:09:32",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年22天2小时49分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2021-06-02 00:00:00",
+        "edate": "2023-08-01 09:09:32",
+        "status": "online",
+        "duration": "2年60天9小时9分",
+        "version": "1.0~1.0.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

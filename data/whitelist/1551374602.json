@@ -1,0 +1,27 @@
+{
+  "1551374602": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2021-02-27 21:00:18",
+        "edate": "2021-02-27 22:45:46",
+        "duration": "1小时45分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2021-02-02 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "4年202天11小时34分",
+        "version": "1.0~1.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

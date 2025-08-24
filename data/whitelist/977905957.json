@@ -1,0 +1,27 @@
+{
+  "977905957": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-11-14 03:28:50",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年281天18小时49分",
+        "version": "1.26.1"
+      },
+      {
+        "sdate": "2015-05-12 17:04:47",
+        "edate": "2018-11-14 03:28:50",
+        "status": "online",
+        "duration": "3年186天10小时24分",
+        "version": "1.7~1.26.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1290139139": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-06-11 15:09:20",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年72天16小时51分",
+        "version": "1.1"
+      },
+      {
+        "sdate": "2018-08-21 16:48:51",
+        "edate": "2019-06-11 15:09:20",
+        "status": "online",
+        "duration": "293天22小时20分",
+        "version": "1.0~1.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

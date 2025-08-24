@@ -1,0 +1,27 @@
+{
+  "1022301472": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-03-03 02:49:26",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年172天20小时4分",
+        "version": "1.2.2"
+      },
+      {
+        "sdate": "2016-09-28 06:09:30",
+        "edate": "2018-03-03 02:49:26",
+        "status": "online",
+        "duration": "1年155天20小时39分",
+        "version": "1.0.3~1.2.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

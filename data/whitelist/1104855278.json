@@ -1,0 +1,48 @@
+{
+  "1104855278": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2021-07-15 17:49:02",
+        "edate": "2021-07-15 19:48:12",
+        "duration": "1小时59分",
+        "version": "5.6.80"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-06-10 18:50:37",
+        "edate": "2020-06-10 20:39:24",
+        "duration": "1小时48分",
+        "version": "4.8.15"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-02-16 14:41:37",
+        "edate": "2020-02-16 16:41:07",
+        "duration": "1小时59分",
+        "version": "4.5.10"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-11-13 20:42:52",
+        "edate": "2019-11-13 23:00:00",
+        "duration": "2小时17分",
+        "version": "4.2.58"
+      },
+      {
+        "sdate": "2016-06-24 03:29:28",
+        "edate": "",
+        "status": "online",
+        "duration": "9年60天51分",
+        "version": "1.0.2~8.6.57"
+      }
+    ],
+    "total": 5,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

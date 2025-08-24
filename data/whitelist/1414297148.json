@@ -1,0 +1,27 @@
+{
+  "1414297148": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-06-02 05:28:32",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年81天15小时44分",
+        "version": "1.9"
+      },
+      {
+        "sdate": "2018-07-21 00:00:00",
+        "edate": "2022-06-02 05:28:32",
+        "status": "online",
+        "duration": "3年317天5小时28分",
+        "version": "1.0~1.9"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

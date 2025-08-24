@@ -1,0 +1,34 @@
+{
+  "1107980756": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2025-06-26 01:20:01",
+        "edate": "",
+        "status": "online",
+        "duration": "56天3小时1分",
+        "version": "1.2"
+      },
+      {
+        "sdate": "2025-06-18 19:28:33",
+        "edate": "2025-06-26 01:20:01",
+        "status": "offline",
+        "duration": "7天5小时51分",
+        "version": "1.2"
+      },
+      {
+        "sdate": "2016-04-30 00:00:00",
+        "edate": "2025-06-18 19:28:33",
+        "status": "online",
+        "duration": "9年51天19小时28分",
+        "version": "1.0~1.2"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

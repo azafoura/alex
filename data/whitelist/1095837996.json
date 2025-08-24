@@ -1,0 +1,34 @@
+{
+  "1095837996": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 05:02:43",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天23小时15分",
+        "version": "2.1.3"
+      },
+      {
+        "sdate": "2019-06-20 00:00:00",
+        "edate": "2020-12-31 05:02:43",
+        "status": "online",
+        "duration": "1年195天5小时2分",
+        "version": "1.0.0~2.1.3"
+      },
+      {
+        "sdate": "2019-05-11 02:41:39",
+        "edate": "2019-06-20 00:00:00",
+        "status": "preorder",
+        "duration": "39天21小时18分",
+        "version": "0.9.1.1~1.0.0"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

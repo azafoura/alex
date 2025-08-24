@@ -1,0 +1,41 @@
+{
+  "484542811": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-05 20:26:02",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年258天12小时13分",
+        "version": "2.22"
+      },
+      {
+        "sdate": "2019-11-12 15:59:41",
+        "edate": "2020-12-05 20:26:02",
+        "status": "online",
+        "duration": "1年24天4小时26分",
+        "version": "2.22"
+      },
+      {
+        "sdate": "2019-11-01 21:25:47",
+        "edate": "2019-11-12 15:59:41",
+        "status": "offline",
+        "duration": "10天18小时33分",
+        "version": "2.22"
+      },
+      {
+        "sdate": "2011-12-13 00:00:00",
+        "edate": "2019-11-01 21:25:47",
+        "status": "online",
+        "duration": "7年325天21小时25分",
+        "version": "1.0~2.22"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

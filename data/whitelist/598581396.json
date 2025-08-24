@@ -1,0 +1,41 @@
+{
+  "598581396": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2024-09-09 12:20:06",
+        "edate": "2024-09-09 17:20:06",
+        "duration": "5小时0分",
+        "version": "6.1.25"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-03-23 20:42:57",
+        "edate": "2020-03-23 22:38:17",
+        "duration": "1小时55分",
+        "version": "2.8"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-03-17 14:36:44",
+        "edate": "2020-03-17 16:30:30",
+        "duration": "1小时53分",
+        "version": "2.8"
+      },
+      {
+        "sdate": "2013-06-03 23:38:21",
+        "edate": "",
+        "status": "online",
+        "duration": "12年80天9小时10分",
+        "version": "1.0~6.1.25"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

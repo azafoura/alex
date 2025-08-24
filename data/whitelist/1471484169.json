@@ -1,0 +1,27 @@
+{
+  "1471484169": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2022-12-06 20:56:05",
+        "edate": "2022-12-06 23:04:05",
+        "duration": "2小时8分",
+        "version": "5.0"
+      },
+      {
+        "sdate": "2019-07-13 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "6年42天34分",
+        "version": "1.0~5.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

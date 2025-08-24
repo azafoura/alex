@@ -1,0 +1,27 @@
+{
+  "1565087215": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-10-01 10:08:49",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年326天1小时49分",
+        "version": "2.8"
+      },
+      {
+        "sdate": "2021-04-30 00:00:00",
+        "edate": "2022-10-01 10:08:49",
+        "status": "online",
+        "duration": "1年154天10小时8分",
+        "version": "1.0~2.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

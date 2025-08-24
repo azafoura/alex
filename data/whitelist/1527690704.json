@@ -1,0 +1,34 @@
+{
+  "1527690704": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2022-07-28 03:06:06",
+        "edate": "2022-07-28 04:42:52",
+        "duration": "1小时36分",
+        "version": "1.0.24"
+      },
+      {
+        "sdate": "2021-12-23 23:12:19",
+        "edate": "",
+        "status": "online",
+        "duration": "3年242天6小时42分",
+        "version": "1.0.13~1.0.40"
+      },
+      {
+        "sdate": "2021-12-01 00:21:09",
+        "edate": "2021-12-23 23:12:19",
+        "status": "preorder",
+        "duration": "22天22小时51分",
+        "version": "1.0.10~1.0.13"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

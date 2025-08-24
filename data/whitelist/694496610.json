@@ -1,0 +1,27 @@
+{
+  "694496610": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2025-06-27 18:36:00",
+        "edate": null,
+        "status": "offline",
+        "duration": "53天14小时20分",
+        "version": "2.0.3"
+      },
+      {
+        "sdate": "2013-09-10 00:00:00",
+        "edate": "2025-06-27 18:36:00",
+        "status": "online",
+        "duration": "11年293天18小时36分",
+        "version": "1.0~2.0.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

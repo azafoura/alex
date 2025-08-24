@@ -1,0 +1,27 @@
+{
+  "885812391": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-05-14 05:01:15",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年100天23小时51分",
+        "version": "2.2"
+      },
+      {
+        "sdate": "2014-06-10 00:00:00",
+        "edate": "2021-05-14 05:01:15",
+        "status": "online",
+        "duration": "6年340天5小时1分",
+        "version": "1.0.0~2.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

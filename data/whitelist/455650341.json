@@ -1,0 +1,41 @@
+{
+  "455650341": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:07:07",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时30分",
+        "version": "1.84.39"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-09-21 11:40:22",
+        "edate": "2020-09-21 13:36:52",
+        "duration": "1小时56分",
+        "version": "1.84.21"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-08-11 02:32:11",
+        "edate": "2020-08-11 04:31:15",
+        "duration": "1小时59分",
+        "version": "1.84.21"
+      },
+      {
+        "sdate": "2013-04-04 04:52:48",
+        "edate": "2020-12-31 04:07:07",
+        "status": "online",
+        "duration": "7年272天23小时14分",
+        "version": "1.7.0~1.84.39"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

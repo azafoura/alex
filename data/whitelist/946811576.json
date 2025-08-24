@@ -1,0 +1,27 @@
+{
+  "946811576": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 01:57:47",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年145天20小时3分",
+        "version": "1.15~1.16"
+      },
+      {
+        "sdate": "2015-08-19 09:51:59",
+        "edate": "2016-03-30 01:57:47",
+        "status": "online",
+        "duration": "223天16小时5分",
+        "version": "1.0~1.15"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "973482525": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-15 02:31:36",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年249天19小时42分",
+        "version": "100.4.0.1"
+      },
+      {
+        "sdate": "2015-09-01 12:34:09",
+        "edate": "2020-12-15 02:31:36",
+        "status": "online",
+        "duration": "5年106天13小时57分",
+        "version": "0.3.1~100.4.0.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

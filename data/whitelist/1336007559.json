@@ -1,0 +1,27 @@
+{
+  "1336007559": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-23 00:24:56",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年303天11小时3分",
+        "version": "1.4"
+      },
+      {
+        "sdate": "2018-05-10 00:00:00",
+        "edate": "2020-10-23 00:24:56",
+        "status": "online",
+        "duration": "2年167天24分",
+        "version": "1.0~1.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

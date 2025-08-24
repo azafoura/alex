@@ -1,0 +1,41 @@
+{
+  "1557793556": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-10-21 22:52:47",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年305天12小时50分",
+        "version": "1.1.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-06-02 00:02:23",
+        "edate": "2021-08-02 09:00:00",
+        "duration": "61天8小时57分",
+        "version": "1.0.4~1.0.5"
+      },
+      {
+        "sdate": "2021-03-18 22:16:16",
+        "edate": "2021-10-21 22:52:47",
+        "status": "online",
+        "duration": "217天36分",
+        "version": "1.0.0~1.1.0"
+      },
+      {
+        "sdate": "2021-03-17 07:19:11",
+        "edate": "2021-03-18 22:16:16",
+        "status": "preorder",
+        "duration": "1天14小时57分",
+        "version": "1.0.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

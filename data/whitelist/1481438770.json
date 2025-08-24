@@ -1,0 +1,27 @@
+{
+  "1481438770": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:39:24",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天20小时10分",
+        "version": "0.12"
+      },
+      {
+        "sdate": "2019-12-02 00:00:00",
+        "edate": "2020-12-31 04:39:24",
+        "status": "online",
+        "duration": "1年30天4小时39分",
+        "version": "0.1~0.12"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

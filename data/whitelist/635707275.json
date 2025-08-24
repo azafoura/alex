@@ -1,0 +1,27 @@
+{
+  "635707275": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-02-13 13:53:37",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年189天18小时57分",
+        "version": "6.50"
+      },
+      {
+        "sdate": "2014-03-07 16:38:16",
+        "edate": "2018-02-13 13:53:37",
+        "status": "online",
+        "duration": "3年343天21小时15分",
+        "version": "2.21~6.50"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

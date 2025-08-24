@@ -1,0 +1,27 @@
+{
+  "572537866": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 08:31:09",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年145天15分",
+        "version": "1.38.0~1.39.0"
+      },
+      {
+        "sdate": "2014-10-09 22:36:13",
+        "edate": "2016-03-30 08:31:09",
+        "status": "online",
+        "duration": "1年172天9小时54分",
+        "version": "1.7.0~1.38.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

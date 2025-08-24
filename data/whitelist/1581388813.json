@@ -1,0 +1,27 @@
+{
+  "1581388813": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-05-20 05:50:28",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年95天10小时2分",
+        "version": "1.8"
+      },
+      {
+        "sdate": "2021-09-23 00:00:00",
+        "edate": "2023-05-20 05:50:28",
+        "status": "online",
+        "duration": "1年239天5小时50分",
+        "version": "1.0~1.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

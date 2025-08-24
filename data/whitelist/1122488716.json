@@ -1,0 +1,27 @@
+{
+  "1122488716": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-02-20 16:27:50",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年184天12小时26分",
+        "version": "2.0.6"
+      },
+      {
+        "sdate": "2016-09-02 07:21:34",
+        "edate": "2019-02-20 16:27:50",
+        "status": "online",
+        "duration": "2年171天9小时6分",
+        "version": "1.0.3~2.0.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

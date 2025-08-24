@@ -1,0 +1,27 @@
+{
+  "1069370674": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-03-02 06:48:31",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年173天16小时28分",
+        "version": ""
+      },
+      {
+        "sdate": "2017-02-24 14:27:41",
+        "edate": "2017-03-02 06:48:31",
+        "status": "online",
+        "duration": "5天16小时20分",
+        "version": ""
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

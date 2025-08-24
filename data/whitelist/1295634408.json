@@ -1,0 +1,27 @@
+{
+  "1295634408": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:29:23",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天3小时33分",
+        "version": "1.2.3"
+      },
+      {
+        "sdate": "2017-12-12 00:00:00",
+        "edate": "2020-12-31 04:29:23",
+        "status": "online",
+        "duration": "3年20天4小时29分",
+        "version": "1.0.0~1.2.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

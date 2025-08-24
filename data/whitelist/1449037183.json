@@ -1,0 +1,27 @@
+{
+  "1449037183": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-05-18 09:44:23",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年95天13小时56分",
+        "version": "2.4"
+      },
+      {
+        "sdate": "2019-01-12 00:00:00",
+        "edate": "2024-05-18 09:44:23",
+        "status": "online",
+        "duration": "5年128天9小时44分",
+        "version": "1.0~2.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

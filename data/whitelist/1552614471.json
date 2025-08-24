@@ -1,0 +1,27 @@
+{
+  "1552614471": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-03-09 19:37:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年166天15小时59分",
+        "version": "1.0.4"
+      },
+      {
+        "sdate": "2021-02-09 00:00:00",
+        "edate": "2022-03-09 19:37:13",
+        "status": "online",
+        "duration": "1年28天19小时37分",
+        "version": "0.1~1.0.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

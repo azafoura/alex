@@ -1,0 +1,34 @@
+{
+  "1521978870": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-03-03 16:11:24",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年172天13小时30分",
+        "version": "2.1.3"
+      },
+      {
+        "sdate": "2021-01-14 00:22:09",
+        "edate": "2023-03-03 16:11:24",
+        "status": "online",
+        "duration": "2年48天15小时49分",
+        "version": "1.3.7~2.1.3"
+      },
+      {
+        "sdate": "2020-09-18 21:42:06",
+        "edate": "2021-01-14 00:22:09",
+        "status": "preorder",
+        "duration": "117天2小时40分",
+        "version": "1.0.5~1.3.7"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

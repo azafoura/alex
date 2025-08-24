@@ -1,0 +1,55 @@
+{
+  "1168127772": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:27:04",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天43分",
+        "version": "1.0.174"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-08-23 02:36:39",
+        "edate": "2020-08-23 04:29:42",
+        "duration": "1小时53分",
+        "version": "1.0.163"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-03-13 11:28:26",
+        "edate": "2020-03-13 13:27:12",
+        "duration": "1小时58分",
+        "version": "1.0.141"
+      },
+      {
+        "sdate": "2019-12-12 05:29:25",
+        "edate": "2020-12-31 04:27:04",
+        "status": "online",
+        "duration": "1年19天22小时57分",
+        "version": "1.0.132~1.0.174"
+      },
+      {
+        "sdate": "2019-12-12 03:45:57",
+        "edate": "2019-12-12 05:29:25",
+        "status": "offline",
+        "duration": "1小时43分",
+        "version": "1.0.132"
+      },
+      {
+        "sdate": "2017-05-06 04:10:20",
+        "edate": "2019-12-12 03:45:57",
+        "status": "online",
+        "duration": "2年219天23小时35分",
+        "version": "1.0~1.0.132"
+      }
+    ],
+    "total": 6,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

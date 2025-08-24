@@ -1,0 +1,41 @@
+{
+  "1483067575": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-10-12 02:11:12",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年314天22小时41分",
+        "version": "1.6.8"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-07-02 21:06:01",
+        "edate": "2021-07-02 23:03:50",
+        "duration": "1小时57分",
+        "version": "1.5.9"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-05-31 17:46:00",
+        "edate": "2021-05-31 19:45:22",
+        "duration": "1小时59分",
+        "version": "1.5.3"
+      },
+      {
+        "sdate": "2019-10-11 00:00:00",
+        "edate": "2022-10-12 02:11:12",
+        "status": "online",
+        "duration": "3年2天2小时11分",
+        "version": "1.0~1.6.8"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

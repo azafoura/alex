@@ -1,0 +1,27 @@
+{
+  "1413079660": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-03-23 11:58:22",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年153天9小时14分",
+        "version": "1.1"
+      },
+      {
+        "sdate": "2018-07-26 06:27:07",
+        "edate": "2019-03-23 11:58:22",
+        "status": "online",
+        "duration": "240天5小时31分",
+        "version": "1.0~1.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

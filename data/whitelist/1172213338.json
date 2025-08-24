@@ -1,0 +1,27 @@
+{
+  "1172213338": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:25:34",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天46分",
+        "version": "2.4.0"
+      },
+      {
+        "sdate": "2017-06-08 10:00:02",
+        "edate": "2020-12-31 04:25:34",
+        "status": "online",
+        "duration": "3年206天18小时25分",
+        "version": "0.3.14~2.4.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

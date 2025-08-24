@@ -1,0 +1,27 @@
+{
+  "1549516823": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-07-12 15:08:37",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年41天20小时20分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2021-01-30 11:54:01",
+        "edate": "2021-07-12 15:08:37",
+        "status": "online",
+        "duration": "163天3小时14分",
+        "version": "1.0.1~1.0.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "1385421494": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 05:15:42",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天6小时40分",
+        "version": "4.4.0"
+      },
+      {
+        "sdate": "2018-09-14 21:07:33",
+        "edate": "2020-12-31 05:15:42",
+        "status": "online",
+        "duration": "2年108天8小时8分",
+        "version": "1.20~4.4.0"
+      },
+      {
+        "sdate": "2018-08-07 14:12:38",
+        "edate": "2018-09-14 21:07:33",
+        "status": "offline",
+        "duration": "38天6小时54分",
+        "version": "1.18~1.20"
+      },
+      {
+        "sdate": "2018-05-21 15:31:48",
+        "edate": "2018-08-07 14:12:38",
+        "status": "online",
+        "duration": "77天22小时40分",
+        "version": "1.3~1.18"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

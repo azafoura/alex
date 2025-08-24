@@ -1,0 +1,27 @@
+{
+  "1322914367": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2018-02-13 18:03:19",
+        "edate": "2018-02-14 00:00:00",
+        "duration": "5小时56分",
+        "version": "1.1"
+      },
+      {
+        "sdate": "2018-02-09 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "7年195天8小时14分",
+        "version": "1.1~2.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

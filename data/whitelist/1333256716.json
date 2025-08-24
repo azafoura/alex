@@ -1,0 +1,27 @@
+{
+  "1333256716": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-04-16 06:56:30",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年129天4小时30分",
+        "version": ""
+      },
+      {
+        "sdate": "2018-04-05 13:04:01",
+        "edate": "2018-04-16 06:56:30",
+        "status": "online",
+        "duration": "10天17小时52分",
+        "version": ""
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

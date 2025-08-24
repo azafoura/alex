@@ -1,0 +1,27 @@
+{
+  "1466197248": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:37:30",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天19小时50分",
+        "version": "2.12.2"
+      },
+      {
+        "sdate": "2019-06-01 08:08:57",
+        "edate": "2020-12-31 04:37:30",
+        "status": "online",
+        "duration": "1年213天20小时28分",
+        "version": "1.0~2.12.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

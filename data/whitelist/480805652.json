@@ -1,0 +1,27 @@
+{
+  "480805652": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-03-31 02:07:44",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年144天6小时31分",
+        "version": "2.2.12"
+      },
+      {
+        "sdate": "2011-12-01 00:57:24",
+        "edate": "2017-03-31 02:07:44",
+        "status": "online",
+        "duration": "5年122天1小时10分",
+        "version": "1.0.0~2.2.12"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

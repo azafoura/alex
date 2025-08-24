@@ -1,0 +1,27 @@
+{
+  "1313343774": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-15 02:49:01",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年250天5小时20分",
+        "version": "1.37.0.1"
+      },
+      {
+        "sdate": "2018-05-16 09:11:54",
+        "edate": "2020-12-15 02:49:01",
+        "status": "online",
+        "duration": "2年213天17小时37分",
+        "version": "0.14.1~1.37.0.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

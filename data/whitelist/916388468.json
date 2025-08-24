@@ -1,0 +1,41 @@
+{
+  "916388468": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-31 08:42:30",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年294天12小时59分",
+        "version": "2.0.6"
+      },
+      {
+        "sdate": "2018-09-04 10:48:44",
+        "edate": "2020-10-31 08:42:30",
+        "status": "online",
+        "duration": "2年57天21小时53分",
+        "version": "2.0.5~2.0.6"
+      },
+      {
+        "sdate": "2018-09-03 18:33:49",
+        "edate": "2018-09-04 10:48:44",
+        "status": "offline",
+        "duration": "16小时14分",
+        "version": "2.0.5"
+      },
+      {
+        "sdate": "2014-10-06 15:03:53",
+        "edate": "2018-09-03 18:33:49",
+        "status": "online",
+        "duration": "3年333天3小时29分",
+        "version": "1.3~2.0.5"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

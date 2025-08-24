@@ -1,0 +1,34 @@
+{
+  "1487762287": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-02-08 19:34:06",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年195天9小时22分",
+        "version": "1.5"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-02-15 14:39:49",
+        "edate": "2020-02-15 16:34:14",
+        "duration": "1小时54分",
+        "version": "1.5"
+      },
+      {
+        "sdate": "2019-11-15 17:59:38",
+        "edate": "2021-02-08 19:34:06",
+        "status": "online",
+        "duration": "1年86天1小时34分",
+        "version": "1.0~1.5"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

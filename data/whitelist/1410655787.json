@@ -1,0 +1,34 @@
+{
+  "1410655787": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-05-05 15:44:46",
+        "edate": "",
+        "status": "online",
+        "duration": "1年108天5小时27分",
+        "version": "8.3~10.0"
+      },
+      {
+        "sdate": "2020-10-01 07:01:39",
+        "edate": "2024-05-05 15:44:46",
+        "status": "offline",
+        "duration": "3年217天8小时43分",
+        "version": "3.0~8.3"
+      },
+      {
+        "sdate": "2019-06-05 00:00:00",
+        "edate": "2020-10-01 07:01:39",
+        "status": "online",
+        "duration": "1年119天7小时1分",
+        "version": "1.0~3.0"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

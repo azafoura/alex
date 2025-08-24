@@ -1,0 +1,27 @@
+{
+  "469027061": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2024-09-09 12:18:25",
+        "edate": "2024-09-09 15:13:11",
+        "duration": "2小时54分",
+        "version": "12.1.1"
+      },
+      {
+        "sdate": "2013-03-20 19:43:56",
+        "edate": "",
+        "status": "online",
+        "duration": "12年155天12小时54分",
+        "version": "3.0.2~12.5.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "797439157": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-11-20 11:02:15",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年273天22小时1分",
+        "version": "2.3"
+      },
+      {
+        "sdate": "2014-02-03 00:00:00",
+        "edate": "2020-11-20 11:02:15",
+        "status": "online",
+        "duration": "6年292天11小时2分",
+        "version": "2.0~2.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

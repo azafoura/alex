@@ -1,0 +1,27 @@
+{
+  "1394529136": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-11-23 19:37:30",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年272天16小时24分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2018-07-24 21:58:59",
+        "edate": "2019-11-23 19:37:30",
+        "status": "online",
+        "duration": "1年121天21小时38分",
+        "version": "1.0.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

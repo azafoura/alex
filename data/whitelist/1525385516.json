@@ -1,0 +1,27 @@
+{
+  "1525385516": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-11-02 01:01:16",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年294天4小时47分",
+        "version": "1.8.21"
+      },
+      {
+        "sdate": "2020-08-21 00:00:00",
+        "edate": "2023-11-02 01:01:16",
+        "status": "online",
+        "duration": "3年73天1小时1分",
+        "version": "1.2.1~1.8.21"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

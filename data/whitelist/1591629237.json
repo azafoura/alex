@@ -1,0 +1,27 @@
+{
+  "1591629237": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2025-01-26 11:17:17",
+        "edate": null,
+        "status": "offline",
+        "duration": "208天4小时40分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2021-10-24 00:00:00",
+        "edate": "2025-01-26 11:17:17",
+        "status": "online",
+        "duration": "3年95天11小时17分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

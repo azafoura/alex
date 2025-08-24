@@ -1,0 +1,27 @@
+{
+  "1039841501": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-06-19 23:19:17",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年62天23小时44分",
+        "version": "5.8"
+      },
+      {
+        "sdate": "2016-07-06 21:15:44",
+        "edate": "2020-06-19 23:19:17",
+        "status": "online",
+        "duration": "3年349天2小时3分",
+        "version": "1.0~5.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

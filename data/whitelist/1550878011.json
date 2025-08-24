@@ -1,0 +1,27 @@
+{
+  "1550878011": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2023-11-07 00:27:45",
+        "edate": "2023-11-07 03:15:54",
+        "duration": "2小时48分",
+        "version": "1.0.6"
+      },
+      {
+        "sdate": "2021-02-05 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "4年199天11小时33分",
+        "version": "1.0~1.0.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1470657249": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-04-24 04:20:43",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年119天20小时12分",
+        "version": "1.1.6"
+      },
+      {
+        "sdate": "2019-07-17 00:00:00",
+        "edate": "2024-04-24 04:20:43",
+        "status": "online",
+        "duration": "4年283天4小时20分",
+        "version": "1.0.5~1.1.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

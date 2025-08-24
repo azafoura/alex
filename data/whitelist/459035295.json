@@ -1,0 +1,27 @@
+{
+  "459035295": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-09-14 23:55:00",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年340天8小时42分",
+        "version": "10.7"
+      },
+      {
+        "sdate": "2014-04-10 08:23:12",
+        "edate": "2020-09-14 23:55:00",
+        "status": "online",
+        "duration": "6年159天15小时31分",
+        "version": "2.22~10.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

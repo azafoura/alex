@@ -1,0 +1,27 @@
+{
+  "1567191301": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-07-07 03:00:16",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年47天9小时0分",
+        "version": "1.2.4"
+      },
+      {
+        "sdate": "2021-06-16 00:00:00",
+        "edate": "2023-07-07 03:00:16",
+        "status": "online",
+        "duration": "2年21天3小时0分",
+        "version": "1.0.0~1.2.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

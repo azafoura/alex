@@ -1,0 +1,27 @@
+{
+  "843039984": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:14:48",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时53分",
+        "version": "3.0.13"
+      },
+      {
+        "sdate": "2014-04-09 21:29:57",
+        "edate": "2020-12-31 04:14:48",
+        "status": "online",
+        "duration": "6年267天6小时44分",
+        "version": "1.0.0~3.0.13"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

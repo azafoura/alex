@@ -1,0 +1,41 @@
+{
+  "1485243870": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-04-19 11:04:22",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年125天17小时51分",
+        "version": "1.6.2.4"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-12-28 21:09:40",
+        "edate": "2020-12-28 22:50:54",
+        "duration": "1小时41分",
+        "version": "1.6.2.4"
+      },
+      {
+        "sdate": "2020-04-16 00:00:00",
+        "edate": "2021-04-19 11:04:22",
+        "status": "online",
+        "duration": "1年3天11小时4分",
+        "version": "1.6.0~1.6.2.4"
+      },
+      {
+        "sdate": "2020-03-18 22:01:04",
+        "edate": "2020-04-16 00:00:00",
+        "status": "preorder",
+        "duration": "28天1小时58分",
+        "version": "1.0~1.6.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

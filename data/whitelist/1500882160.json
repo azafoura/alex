@@ -1,0 +1,27 @@
+{
+  "1500882160": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-03-10 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "5年166天5小时3分",
+        "version": "1.0~3.1"
+      },
+      {
+        "sdate": "2020-02-29 23:03:27",
+        "edate": "2020-03-10 00:00:00",
+        "status": "preorder",
+        "duration": "9天56分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

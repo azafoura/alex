@@ -1,0 +1,27 @@
+{
+  "1492656293": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:40:52",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年235天18分",
+        "version": "1.0.25"
+      },
+      {
+        "sdate": "2020-01-04 09:53:37",
+        "edate": "2020-12-31 04:40:52",
+        "status": "online",
+        "duration": "361天18小时47分",
+        "version": "1.0.12~1.0.25"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

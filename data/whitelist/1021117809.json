@@ -1,0 +1,27 @@
+{
+  "1021117809": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:20:11",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天18小时33分",
+        "version": "1.23"
+      },
+      {
+        "sdate": "2015-09-11 00:00:00",
+        "edate": "2020-12-31 04:20:11",
+        "status": "online",
+        "duration": "5年113天4小时20分",
+        "version": "1.01~1.23"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "911800950": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-12-12 11:51:15",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年253天10小时5分",
+        "version": "1.6.13"
+      },
+      {
+        "sdate": "2015-03-11 17:46:08",
+        "edate": "2016-12-12 11:51:15",
+        "status": "online",
+        "duration": "1年276天18小时5分",
+        "version": "1.0.6~1.6.13"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

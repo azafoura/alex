@@ -1,0 +1,41 @@
+{
+  "687174287": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-08-01 04:14:32",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年20天4小时40分",
+        "version": "2.3"
+      },
+      {
+        "sdate": "2018-03-20 20:34:34",
+        "edate": "2020-08-01 04:14:32",
+        "status": "online",
+        "duration": "2年134天7小时39分",
+        "version": "2.3"
+      },
+      {
+        "sdate": "2017-11-04 21:09:22",
+        "edate": "2018-03-20 20:34:34",
+        "status": "offline",
+        "duration": "135天23小时25分",
+        "version": "2.3"
+      },
+      {
+        "sdate": "2013-09-05 00:00:00",
+        "edate": "2017-11-04 21:09:22",
+        "status": "online",
+        "duration": "4年61天21小时9分",
+        "version": "1.0~2.3"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

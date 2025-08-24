@@ -1,0 +1,27 @@
+{
+  "1068149060": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 04:44:22",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年145天18小时32分",
+        "version": "1.1.7~2.3.18"
+      },
+      {
+        "sdate": "2016-03-04 06:16:56",
+        "edate": "2016-03-30 04:44:22",
+        "status": "online",
+        "duration": "25天22小时27分",
+        "version": "1.0.4~1.1.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

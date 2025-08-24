@@ -1,0 +1,41 @@
+{
+  "1528154124": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-12-31 19:42:53",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年234天10小时12分",
+        "version": "1.6"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-12-07 15:00:44",
+        "edate": "2020-12-07 16:57:42",
+        "duration": "1小时56分",
+        "version": "1.6"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-10-12 20:52:44",
+        "edate": "2020-10-12 22:50:33",
+        "duration": "1小时57分",
+        "version": "1.5"
+      },
+      {
+        "sdate": "2020-09-16 00:00:00",
+        "edate": "2021-12-31 19:42:53",
+        "status": "online",
+        "duration": "1年106天19小时42分",
+        "version": "1.0~1.6"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

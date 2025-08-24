@@ -1,0 +1,27 @@
+{
+  "1564457531": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-06-18 01:13:48",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年66天10小时43分",
+        "version": "1.4"
+      },
+      {
+        "sdate": "2021-04-24 00:00:00",
+        "edate": "2021-06-18 01:13:48",
+        "status": "online",
+        "duration": "55天1小时13分",
+        "version": "1.0~1.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

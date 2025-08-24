@@ -1,0 +1,27 @@
+{
+  "1467190251": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-09-25 14:50:27",
+        "edate": "",
+        "status": "online",
+        "duration": "4年331天9小时38分",
+        "version": "1.0.1~5.8.0"
+      },
+      {
+        "sdate": "2020-08-18 11:48:06",
+        "edate": "2020-09-25 14:50:27",
+        "status": "preorder",
+        "duration": "38天3小时2分",
+        "version": "0.9.11~1.0.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

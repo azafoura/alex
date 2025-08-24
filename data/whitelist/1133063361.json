@@ -1,0 +1,27 @@
+{
+  "1133063361": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-11-25 11:24:51",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年270天17小时18分",
+        "version": "2.02"
+      },
+      {
+        "sdate": "2016-07-13 01:19:48",
+        "edate": "2018-11-25 11:24:51",
+        "status": "online",
+        "duration": "2年135天10小时5分",
+        "version": "1.0~2.02"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1573223229": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-03-23 04:07:44",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年153天11小时40分",
+        "version": "1.21"
+      },
+      {
+        "sdate": "2021-06-24 00:00:00",
+        "edate": "2022-03-23 04:07:44",
+        "status": "online",
+        "duration": "272天4小时7分",
+        "version": "1.0~1.21"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

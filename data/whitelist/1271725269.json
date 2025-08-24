@@ -1,0 +1,27 @@
+{
+  "1271725269": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:28:35",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天3小时24分",
+        "version": "11.2.12140"
+      },
+      {
+        "sdate": "2018-01-22 11:35:41",
+        "edate": "2020-12-31 04:28:35",
+        "status": "online",
+        "duration": "2年343天16小时52分",
+        "version": "0.2.7595~11.2.12140"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

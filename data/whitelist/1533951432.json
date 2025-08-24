@@ -1,0 +1,27 @@
+{
+  "1533951432": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-04-27 16:25:20",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年117天13小时41分",
+        "version": "1.1.5"
+      },
+      {
+        "sdate": "2020-10-19 20:22:51",
+        "edate": "2021-04-27 16:25:20",
+        "status": "online",
+        "duration": "189天20小时2分",
+        "version": "1.0~1.1.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

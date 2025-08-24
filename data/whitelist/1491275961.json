@@ -1,0 +1,41 @@
+{
+  "1491275961": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-04-17 04:54:11",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年128天4分",
+        "version": "2.1"
+      },
+      {
+        "sdate": "2020-08-01 13:01:30",
+        "edate": "2021-04-17 04:54:11",
+        "status": "online",
+        "duration": "258天15小时52分",
+        "version": "2.1"
+      },
+      {
+        "sdate": "2020-06-30 15:07:59",
+        "edate": "2020-08-01 13:01:30",
+        "status": "offline",
+        "duration": "31天21小时53分",
+        "version": "2.1"
+      },
+      {
+        "sdate": "2020-02-07 07:25:00",
+        "edate": "2020-06-30 15:07:59",
+        "status": "online",
+        "duration": "144天7小时42分",
+        "version": "1.0~2.1"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

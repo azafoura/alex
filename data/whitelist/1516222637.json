@@ -1,0 +1,27 @@
+{
+  "1516222637": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-02-07 02:02:06",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年197天3小时32分",
+        "version": "2.1"
+      },
+      {
+        "sdate": "2020-06-02 00:00:00",
+        "edate": "2024-02-07 02:02:06",
+        "status": "online",
+        "duration": "3年250天2小时2分",
+        "version": "1.0~2.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

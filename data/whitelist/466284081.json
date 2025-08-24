@@ -1,0 +1,41 @@
+{
+  "466284081": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:07:08",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时31分",
+        "version": "2.6"
+      },
+      {
+        "sdate": "2020-10-02 14:37:00",
+        "edate": "2020-12-31 04:07:08",
+        "status": "online",
+        "duration": "89天13小时30分",
+        "version": "2.6"
+      },
+      {
+        "sdate": "2020-09-09 18:31:56",
+        "edate": "2020-10-02 14:37:00",
+        "status": "offline",
+        "duration": "22天20小时5分",
+        "version": "2.6"
+      },
+      {
+        "sdate": "2011-12-17 00:00:00",
+        "edate": "2020-09-09 18:31:56",
+        "status": "online",
+        "duration": "8年269天18小时31分",
+        "version": "1.0~2.6"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

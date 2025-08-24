@@ -1,0 +1,27 @@
+{
+  "638996176": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-05-31 03:46:43",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年83天5小时4分",
+        "version": "5.0.0"
+      },
+      {
+        "sdate": "2013-10-16 20:02:50",
+        "edate": "2017-05-31 03:46:43",
+        "status": "online",
+        "duration": "3年227天7小时43分",
+        "version": "1.0~5.0.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1595120643": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-12-16 20:40:29",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年249天19小时18分",
+        "version": "1.0.4"
+      },
+      {
+        "sdate": "2021-11-13 00:00:00",
+        "edate": "2021-12-16 20:40:29",
+        "status": "online",
+        "duration": "33天20小时40分",
+        "version": "1.0~1.0.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

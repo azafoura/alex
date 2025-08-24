@@ -1,0 +1,27 @@
+{
+  "720159341": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-02-23 06:58:46",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年180天1小时59分",
+        "version": ""
+      },
+      {
+        "sdate": "2014-03-22 00:00:00",
+        "edate": "2018-02-23 06:58:46",
+        "status": "online",
+        "duration": "3年339天6小时58分",
+        "version": ""
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1179712182": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:24:57",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天49分",
+        "version": "2.0.0"
+      },
+      {
+        "sdate": "2017-03-22 00:00:00",
+        "edate": "2020-12-31 04:24:57",
+        "status": "online",
+        "duration": "3年285天4小时24分",
+        "version": "1.5~2.0.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

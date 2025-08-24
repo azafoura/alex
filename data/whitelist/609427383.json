@@ -1,0 +1,27 @@
+{
+  "609427383": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-07-11 03:44:20",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年42天5小时6分",
+        "version": "5.0.0"
+      },
+      {
+        "sdate": "2013-12-12 02:21:34",
+        "edate": "2017-07-11 03:44:20",
+        "status": "online",
+        "duration": "3年212天1小时22分",
+        "version": "2.0.3~5.0.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

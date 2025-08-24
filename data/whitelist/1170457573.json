@@ -1,0 +1,34 @@
+{
+  "1170457573": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2025-03-09 13:10:36",
+        "edate": "2025-03-09 14:48:48",
+        "duration": "1小时38分",
+        "version": "8.2.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2024-05-22 15:18:30",
+        "edate": "2024-05-22 17:06:59",
+        "duration": "1小时48分",
+        "version": "8.1.10"
+      },
+      {
+        "sdate": "2017-05-24 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "8年91天5小时11分",
+        "version": "1.2.0~9.5.11"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

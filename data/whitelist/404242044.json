@@ -1,0 +1,27 @@
+{
+  "404242044": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-04-27 20:55:27",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年116天11小时40分",
+        "version": "6.7"
+      },
+      {
+        "sdate": "2011-04-07 00:05:10",
+        "edate": "2017-04-27 20:55:27",
+        "status": "online",
+        "duration": "6年22天20小时50分",
+        "version": "1.2~6.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

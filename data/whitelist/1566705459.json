@@ -1,0 +1,27 @@
+{
+  "1566705459": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2021-05-13 14:50:17",
+        "edate": "2021-05-13 16:47:58",
+        "duration": "1小时57分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2021-05-11 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "4年104天11小时59分",
+        "version": "1.0.0~1.0.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

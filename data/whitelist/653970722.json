@@ -1,0 +1,27 @@
+{
+  "653970722": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-04-05 16:26:23",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年138天16小时26分",
+        "version": "1.02"
+      },
+      {
+        "sdate": "2013-06-01 17:33:58",
+        "edate": "2019-04-05 16:26:23",
+        "status": "online",
+        "duration": "5年308天22小时52分",
+        "version": "1.0~1.02"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

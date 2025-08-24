@@ -1,0 +1,27 @@
+{
+  "1557595494": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-10-05 08:42:05",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年322天3小时1分",
+        "version": "1.0.7"
+      },
+      {
+        "sdate": "2021-03-18 00:00:00",
+        "edate": "2021-10-05 08:42:05",
+        "status": "online",
+        "duration": "201天8小时42分",
+        "version": "1.0.3~1.0.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

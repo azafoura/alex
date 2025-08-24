@@ -1,0 +1,55 @@
+{
+  "859856162": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2025-03-09 05:26:23",
+        "edate": null,
+        "status": "offline",
+        "duration": "164天3小时43分",
+        "version": "1.5.1"
+      },
+      {
+        "sdate": "2024-02-06 19:55:45",
+        "edate": "2025-03-09 05:26:23",
+        "status": "online",
+        "duration": "1年31天9小时30分",
+        "version": "1.5.1"
+      },
+      {
+        "sdate": "2024-02-05 19:55:56",
+        "edate": "2024-02-06 19:55:45",
+        "status": "offline",
+        "duration": "23小时59分",
+        "version": "1.5.1"
+      },
+      {
+        "sdate": "2023-01-06 10:29:25",
+        "edate": "2024-02-05 19:55:56",
+        "status": "online",
+        "duration": "1年30天9小时26分",
+        "version": "1.5.1"
+      },
+      {
+        "sdate": "2023-01-05 21:28:39",
+        "edate": "2023-01-06 10:29:25",
+        "status": "offline",
+        "duration": "13小时0分",
+        "version": "1.5.1"
+      },
+      {
+        "sdate": "2014-04-18 00:00:00",
+        "edate": "2023-01-05 21:28:39",
+        "status": "online",
+        "duration": "8年264天21小时28分",
+        "version": "1.0~1.5.1"
+      }
+    ],
+    "total": 6,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

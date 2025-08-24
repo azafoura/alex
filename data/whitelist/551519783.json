@@ -1,0 +1,27 @@
+{
+  "551519783": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-12-17 12:10:09",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年247天20小时34分",
+        "version": "1.5.8"
+      },
+      {
+        "sdate": "2012-11-11 19:53:15",
+        "edate": "2018-12-17 12:10:09",
+        "status": "online",
+        "duration": "6年36天16小时16分",
+        "version": "1.0.2~1.5.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

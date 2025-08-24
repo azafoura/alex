@@ -1,0 +1,27 @@
+{
+  "1177418991": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-10-27 12:22:20",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年299天16小时50分",
+        "version": ""
+      },
+      {
+        "sdate": "2017-06-14 10:09:38",
+        "edate": "2017-10-27 12:22:20",
+        "status": "online",
+        "duration": "135天2小时12分",
+        "version": ""
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

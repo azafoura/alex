@@ -1,0 +1,27 @@
+{
+  "1114861974": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:23:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天3分",
+        "version": "2.4"
+      },
+      {
+        "sdate": "2016-05-19 20:10:27",
+        "edate": "2020-12-31 04:23:13",
+        "status": "online",
+        "duration": "4年226天8小时12分",
+        "version": "1.0~2.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

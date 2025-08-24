@@ -1,0 +1,27 @@
+{
+  "1159292704": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-05-11 09:59:02",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年102天19小时8分",
+        "version": "2.74.5"
+      },
+      {
+        "sdate": "2016-11-09 22:31:51",
+        "edate": "2022-05-11 09:59:02",
+        "status": "online",
+        "duration": "5年183天11小时27分",
+        "version": "1.84~2.74.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

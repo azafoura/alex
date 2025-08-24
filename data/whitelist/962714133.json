@@ -1,0 +1,27 @@
+{
+  "962714133": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-29 20:45:18",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年296天1小时23分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2015-02-16 00:00:00",
+        "edate": "2020-10-29 20:45:18",
+        "status": "online",
+        "duration": "5年257天20小时45分",
+        "version": "1.0~2.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

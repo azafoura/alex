@@ -1,0 +1,27 @@
+{
+  "1568058543": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-09-02 02:30:31",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年355天9小时31分",
+        "version": "1.5"
+      },
+      {
+        "sdate": "2021-05-21 00:00:00",
+        "edate": "2021-09-02 02:30:31",
+        "status": "online",
+        "duration": "104天2小时30分",
+        "version": "1.0~1.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

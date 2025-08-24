@@ -1,0 +1,27 @@
+{
+  "668300448": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 09:56:31",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年144天22小时57分",
+        "version": "2.1.2~2.2.0"
+      },
+      {
+        "sdate": "2013-12-07 19:52:43",
+        "edate": "2016-03-30 09:56:31",
+        "status": "online",
+        "duration": "2年113天14小时3分",
+        "version": "1.1.8~2.1.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

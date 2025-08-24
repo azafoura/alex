@@ -1,0 +1,27 @@
+{
+  "1480819640": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:40:40",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天20小时8分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2019-09-27 00:00:00",
+        "edate": "2020-12-31 04:40:40",
+        "status": "online",
+        "duration": "1年96天4小时40分",
+        "version": "1.0~1.0.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

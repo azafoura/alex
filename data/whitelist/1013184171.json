@@ -1,0 +1,27 @@
+{
+  "1013184171": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 03:44:24",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年145天19小时6分",
+        "version": "1.40"
+      },
+      {
+        "sdate": "2015-08-07 00:17:59",
+        "edate": "2016-03-30 03:44:24",
+        "status": "online",
+        "duration": "236天3小时26分",
+        "version": "1.02~1.40"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

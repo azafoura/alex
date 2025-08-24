@@ -1,0 +1,27 @@
+{
+  "1186994231": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-12 04:14:15",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年253天1小时3分",
+        "version": "6.1.6.199"
+      },
+      {
+        "sdate": "2017-03-31 07:32:02",
+        "edate": "2020-12-12 04:14:15",
+        "status": "online",
+        "duration": "3年256天20小时42分",
+        "version": "3.22.51~6.1.6.199"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

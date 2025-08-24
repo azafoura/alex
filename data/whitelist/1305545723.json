@@ -1,0 +1,27 @@
+{
+  "1305545723": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-08-29 03:54:57",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年358天4小时12分",
+        "version": "1.4"
+      },
+      {
+        "sdate": "2017-11-03 20:35:43",
+        "edate": "2020-08-29 03:54:57",
+        "status": "online",
+        "duration": "2年299天7小时19分",
+        "version": "1.0~1.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "989544970": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:19:11",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天18小时26分",
+        "version": "1.07"
+      },
+      {
+        "sdate": "2019-03-13 05:39:34",
+        "edate": "2020-12-31 04:19:11",
+        "status": "online",
+        "duration": "1年293天22小时39分",
+        "version": "1.06~1.07"
+      },
+      {
+        "sdate": "2018-10-20 09:08:38",
+        "edate": "2019-03-13 05:39:34",
+        "status": "offline",
+        "duration": "143天20小时30分",
+        "version": "1.05~1.06"
+      },
+      {
+        "sdate": "2015-06-26 00:00:00",
+        "edate": "2018-10-20 09:08:38",
+        "status": "online",
+        "duration": "3年117天9小时8分",
+        "version": "1.0~1.05"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

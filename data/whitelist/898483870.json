@@ -1,0 +1,27 @@
+{
+  "898483870": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2024-07-17 15:20:53",
+        "edate": "2024-07-17 18:22:58",
+        "duration": "3小时2分",
+        "version": "1.2204.1"
+      },
+      {
+        "sdate": "2015-02-13 00:43:54",
+        "edate": "",
+        "status": "online",
+        "duration": "10年191天17小时26分",
+        "version": "1.0~1.2204.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

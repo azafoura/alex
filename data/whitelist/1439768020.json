@@ -1,0 +1,27 @@
+{
+  "1439768020": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-09-27 12:43:15",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年330天8小时39分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2019-01-02 11:49:29",
+        "edate": "2019-09-27 12:43:15",
+        "status": "online",
+        "duration": "268天53分",
+        "version": "2.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

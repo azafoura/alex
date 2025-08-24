@@ -1,0 +1,41 @@
+{
+  "1311856863": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-12-06 05:55:16",
+        "edate": null,
+        "status": "offline",
+        "duration": "258天2小时13分",
+        "version": "1.4.21"
+      },
+      {
+        "sdate": "2022-07-18 00:52:20",
+        "edate": "2024-12-06 05:55:16",
+        "status": "online",
+        "duration": "2年142天5小时2分",
+        "version": "1.4.4~1.4.21"
+      },
+      {
+        "sdate": "2022-07-16 19:10:50",
+        "edate": "2022-07-18 00:52:20",
+        "status": "offline",
+        "duration": "1天5小时41分",
+        "version": "1.4.4"
+      },
+      {
+        "sdate": "2017-12-21 00:00:00",
+        "edate": "2022-07-16 19:10:50",
+        "status": "online",
+        "duration": "4年208天19小时10分",
+        "version": "1.0~1.4.4"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

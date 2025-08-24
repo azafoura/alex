@@ -1,0 +1,27 @@
+{
+  "1387511877": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-31 08:49:24",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年295天3小时8分",
+        "version": "1.2"
+      },
+      {
+        "sdate": "2018-05-30 00:00:00",
+        "edate": "2020-10-31 08:49:24",
+        "status": "online",
+        "duration": "2年155天8小时49分",
+        "version": "1.0~1.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

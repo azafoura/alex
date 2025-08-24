@@ -1,0 +1,41 @@
+{
+  "665795575": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:12:23",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时41分",
+        "version": "2.2"
+      },
+      {
+        "sdate": "2018-04-08 04:46:15",
+        "edate": "2020-12-31 04:12:23",
+        "status": "online",
+        "duration": "2年267天23小时26分",
+        "version": "2.2"
+      },
+      {
+        "sdate": "2018-03-07 17:56:44",
+        "edate": "2018-04-08 04:46:15",
+        "status": "offline",
+        "duration": "31天10小时49分",
+        "version": "2.1~2.2"
+      },
+      {
+        "sdate": "2013-07-19 00:00:00",
+        "edate": "2018-03-07 17:56:44",
+        "status": "online",
+        "duration": "4年232天17小时56分",
+        "version": "1.0~2.1"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

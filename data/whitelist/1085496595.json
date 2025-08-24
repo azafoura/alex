@@ -1,0 +1,41 @@
+{
+  "1085496595": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2025-06-12 16:02:05",
+        "edate": "2025-08-12 14:00:00",
+        "duration": "60天21小时57分",
+        "version": "2.6"
+      },
+      {
+        "status": "out",
+        "sdate": "2025-06-12 13:18:34",
+        "edate": "2025-06-12 15:52:00",
+        "duration": "2小时33分",
+        "version": "2.6"
+      },
+      {
+        "status": "out",
+        "sdate": "2025-04-04 16:22:05",
+        "edate": "2025-06-04 12:00:00",
+        "duration": "60天19小时37分",
+        "version": "2.6"
+      },
+      {
+        "sdate": "2016-02-29 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "9年175天23小时51分",
+        "version": "1.0~2.6"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

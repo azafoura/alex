@@ -1,0 +1,34 @@
+{
+  "1561536133": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2025-01-16 00:15:04",
+        "edate": "",
+        "status": "online",
+        "duration": "218天11小时35分",
+        "version": "1.1"
+      },
+      {
+        "sdate": "2025-01-03 23:27:50",
+        "edate": "2025-01-16 00:15:04",
+        "status": "offline",
+        "duration": "12天47分",
+        "version": "1.1"
+      },
+      {
+        "sdate": "2021-04-04 00:00:00",
+        "edate": "2025-01-03 23:27:50",
+        "status": "online",
+        "duration": "3年275天23小时27分",
+        "version": "1.0~1.1"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

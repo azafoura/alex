@@ -1,0 +1,27 @@
+{
+  "897169624": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:15:59",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天13小时47分",
+        "version": "1.0.39"
+      },
+      {
+        "sdate": "2014-11-08 00:00:00",
+        "edate": "2020-12-31 04:15:59",
+        "status": "online",
+        "duration": "6年55天4小时15分",
+        "version": "1.0.0~1.0.39"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

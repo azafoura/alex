@@ -1,0 +1,27 @@
+{
+  "1484328785": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-12-06 22:08:49",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年149天19小时29分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2019-11-29 13:04:04",
+        "edate": "2019-12-06 22:08:49",
+        "status": "preorder",
+        "duration": "110天7小时16分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

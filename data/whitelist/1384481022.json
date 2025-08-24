@@ -1,0 +1,27 @@
+{
+  "1384481022": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-09-04 17:33:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年352天18小时22分",
+        "version": "2.0.0"
+      },
+      {
+        "sdate": "2018-06-13 03:47:09",
+        "edate": "2018-09-04 17:33:13",
+        "status": "online",
+        "duration": "83天13小时46分",
+        "version": "2.0.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

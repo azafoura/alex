@@ -1,0 +1,41 @@
+{
+  "477958927": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2024-07-16 15:20:35",
+        "edate": "2024-07-16 18:21:12",
+        "duration": "3小时0分",
+        "version": "4.12"
+      },
+      {
+        "sdate": "2020-07-08 12:47:00",
+        "edate": "",
+        "status": "online",
+        "duration": "5年43天19小时51分",
+        "version": "4.12"
+      },
+      {
+        "sdate": "2020-07-04 17:38:01",
+        "edate": "2020-07-08 12:47:00",
+        "status": "offline",
+        "duration": "3天19小时8分",
+        "version": "4.12"
+      },
+      {
+        "sdate": "2011-11-16 21:12:55",
+        "edate": "2020-07-04 17:38:01",
+        "status": "online",
+        "duration": "8年232天20小时25分",
+        "version": "1.0~4.12"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

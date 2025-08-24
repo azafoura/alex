@@ -1,0 +1,27 @@
+{
+  "1522645988": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2020-09-28 17:40:33",
+        "edate": "2020-09-28 19:40:02",
+        "duration": "1小时59分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2020-07-22 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "5年32天5小时42分",
+        "version": "1.0~2.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

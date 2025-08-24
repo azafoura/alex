@@ -1,0 +1,27 @@
+{
+  "991847114": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-03 06:47:15",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年261天15小时59分",
+        "version": "1.7.1"
+      },
+      {
+        "sdate": "2015-07-22 16:55:08",
+        "edate": "2020-12-03 06:47:15",
+        "status": "online",
+        "duration": "5年135天13小时52分",
+        "version": "1.0~1.7.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

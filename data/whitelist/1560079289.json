@@ -1,0 +1,27 @@
+{
+  "1560079289": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-06-02 22:41:02",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年81天13小时6分",
+        "version": "1.0.5"
+      },
+      {
+        "sdate": "2021-04-14 00:00:00",
+        "edate": "2021-06-02 22:41:02",
+        "status": "online",
+        "duration": "49天22小时41分",
+        "version": "1.0.4~1.0.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

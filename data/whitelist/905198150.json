@@ -1,0 +1,27 @@
+{
+  "905198150": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-12-03 14:14:44",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年262天7小时21分",
+        "version": "1.8.8"
+      },
+      {
+        "sdate": "2014-10-02 05:24:23",
+        "edate": "2018-12-03 14:14:44",
+        "status": "online",
+        "duration": "4年63天8小时50分",
+        "version": "1.0.1~1.8.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

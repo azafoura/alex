@@ -1,0 +1,27 @@
+{
+  "1263740846": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-05-21 07:04:04",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年94天47分",
+        "version": "1.3.1"
+      },
+      {
+        "sdate": "2017-10-17 19:25:58",
+        "edate": "2019-05-21 07:04:04",
+        "status": "online",
+        "duration": "1年215天11小时38分",
+        "version": "1.0.0~1.3.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

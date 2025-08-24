@@ -1,0 +1,27 @@
+{
+  "970016305": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2015-10-22 23:55:17",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年304天22小时17分",
+        "version": "1.1.0~1.5.1"
+      },
+      {
+        "sdate": "2015-05-08 14:08:23",
+        "edate": "2015-10-22 23:55:17",
+        "status": "online",
+        "duration": "167天9小时46分",
+        "version": "1.0.0~1.1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

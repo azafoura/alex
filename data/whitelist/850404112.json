@@ -1,0 +1,48 @@
+{
+  "850404112": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-07-14 18:49:05",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年36天14小时20分",
+        "version": "2.9.9"
+      },
+      {
+        "status": "out",
+        "sdate": "2023-12-08 03:16:24",
+        "edate": "2023-12-08 05:00:05",
+        "duration": "1小时43分",
+        "version": "2.9.9"
+      },
+      {
+        "sdate": "2018-04-20 03:50:47",
+        "edate": "2024-07-14 18:49:05",
+        "status": "online",
+        "duration": "6年87天14小时58分",
+        "version": "1.9.2~2.9.9"
+      },
+      {
+        "sdate": "2018-04-19 20:22:02",
+        "edate": "2018-04-20 03:50:47",
+        "status": "offline",
+        "duration": "7小时28分",
+        "version": "1.9.2"
+      },
+      {
+        "sdate": "2014-04-09 00:00:00",
+        "edate": "2018-04-19 20:22:02",
+        "status": "online",
+        "duration": "4年11天20小时22分",
+        "version": "1.0~1.9.2"
+      }
+    ],
+    "total": 5,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

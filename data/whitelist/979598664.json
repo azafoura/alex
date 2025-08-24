@@ -1,0 +1,41 @@
+{
+  "979598664": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:18:49",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天18小时1分",
+        "version": "8.5"
+      },
+      {
+        "sdate": "2019-09-18 08:57:50",
+        "edate": "2020-12-31 04:18:49",
+        "status": "online",
+        "duration": "1年104天19小时20分",
+        "version": "6.6~8.5"
+      },
+      {
+        "sdate": "2019-09-18 07:59:41",
+        "edate": "2019-09-18 08:57:50",
+        "status": "offline",
+        "duration": "58分",
+        "version": "6.6"
+      },
+      {
+        "sdate": "2015-08-07 18:11:08",
+        "edate": "2019-09-18 07:59:41",
+        "status": "online",
+        "duration": "4年42天13小时48分",
+        "version": "0.1~6.6"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

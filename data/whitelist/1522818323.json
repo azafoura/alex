@@ -1,0 +1,27 @@
+{
+  "1522818323": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2020-08-19 08:37:40",
+        "edate": "2020-08-19 10:35:42",
+        "duration": "1小时58分",
+        "version": "1.0.6"
+      },
+      {
+        "sdate": "2020-08-10 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "5年13天5小时42分",
+        "version": "1.0.6~1.2.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

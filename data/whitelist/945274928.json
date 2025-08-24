@@ -1,0 +1,27 @@
+{
+  "945274928": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2024-09-09 12:18:29",
+        "edate": "2024-09-09 15:14:03",
+        "duration": "2小时55分",
+        "version": "10.00.0"
+      },
+      {
+        "sdate": "2014-12-22 02:57:17",
+        "edate": "",
+        "status": "online",
+        "duration": "10年244天19小时3分",
+        "version": "1.0.70~11.00.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "610391947": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:51:43",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天3小时58分",
+        "version": "5.5.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-05-08 08:41:04",
+        "edate": "2020-05-08 10:37:38",
+        "duration": "1小时56分",
+        "version": "4.9.1"
+      },
+      {
+        "sdate": "2013-08-14 00:42:26",
+        "edate": "2020-12-31 04:51:43",
+        "status": "online",
+        "duration": "7年141天4小时9分",
+        "version": "1.0.0~5.5.0"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

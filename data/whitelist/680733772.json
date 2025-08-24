@@ -1,0 +1,27 @@
+{
+  "680733772": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-01-07 20:09:24",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年226天12小时45分",
+        "version": "1.9.3"
+      },
+      {
+        "sdate": "2015-12-16 14:03:01",
+        "edate": "2020-01-07 20:09:24",
+        "status": "online",
+        "duration": "4年23天6小时6分",
+        "version": "1.0.1~1.9.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1279665390": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-02-11 11:15:47",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年192天20小时41分",
+        "version": "2.0.8"
+      },
+      {
+        "sdate": "2017-12-18 03:26:52",
+        "edate": "2019-02-11 11:15:47",
+        "status": "online",
+        "duration": "1年55天7小时48分",
+        "version": "1.0.0~2.0.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

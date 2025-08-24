@@ -1,0 +1,48 @@
+{
+  "1442439452": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-06-06 23:26:16",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年76天21小时58分",
+        "version": "2.1.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-05-09 11:56:18",
+        "edate": "2021-05-09 13:42:20",
+        "duration": "1小时46分",
+        "version": "2.1.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-03-13 21:08:10",
+        "edate": "2021-03-13 22:43:03",
+        "duration": "1小时34分",
+        "version": "2.1.0"
+      },
+      {
+        "sdate": "2019-03-07 00:00:00",
+        "edate": "2022-06-06 23:26:16",
+        "status": "online",
+        "duration": "3年92天23小时26分",
+        "version": "1.0.1~2.1.0"
+      },
+      {
+        "sdate": "2019-02-19 00:00:00",
+        "edate": "2019-03-07 00:00:00",
+        "status": "preorder",
+        "duration": "16天0分",
+        "version": "1.0.0~1.0.1"
+      }
+    ],
+    "total": 5,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

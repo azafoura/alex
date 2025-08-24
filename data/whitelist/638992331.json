@@ -1,0 +1,27 @@
+{
+  "638992331": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 09:10:55",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年144天23小时40分",
+        "version": "4.3.0~4.4.0"
+      },
+      {
+        "sdate": "2013-10-15 21:03:10",
+        "edate": "2016-03-30 09:10:55",
+        "status": "online",
+        "duration": "2年166天12小时7分",
+        "version": "1.0~4.3.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

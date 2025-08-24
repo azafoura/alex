@@ -1,0 +1,27 @@
+{
+  "1495359905": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 01:43:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年235天3小时17分",
+        "version": "1.1.6"
+      },
+      {
+        "sdate": "2020-01-18 15:33:07",
+        "edate": "2020-12-31 01:43:13",
+        "status": "online",
+        "duration": "347天10小时10分",
+        "version": "1.0~1.1.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

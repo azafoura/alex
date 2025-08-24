@@ -1,0 +1,27 @@
+{
+  "1472337264": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-12-08 00:26:16",
+        "edate": "",
+        "status": "online",
+        "duration": "3年258天9分",
+        "version": "7.3.21~8.3.18"
+      },
+      {
+        "sdate": "2021-11-17 20:07:08",
+        "edate": "2021-12-08 00:26:16",
+        "status": "preorder",
+        "duration": "20天4小时19分",
+        "version": "7.3.12~7.3.21"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

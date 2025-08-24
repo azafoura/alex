@@ -1,0 +1,27 @@
+{
+  "1559196358": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-09-10 12:18:39",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年346天23小时27分",
+        "version": "1.0.7"
+      },
+      {
+        "sdate": "2021-06-01 00:00:00",
+        "edate": "2022-09-10 12:18:39",
+        "status": "online",
+        "duration": "1年101天12小时18分",
+        "version": "1.0.0~1.0.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

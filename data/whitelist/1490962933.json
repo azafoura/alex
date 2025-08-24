@@ -1,0 +1,34 @@
+{
+  "1490962933": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-12-13 20:00:20",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年252天8小时58分",
+        "version": "1.75"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-04-20 20:39:27",
+        "edate": "2020-04-20 22:37:16",
+        "duration": "1小时57分",
+        "version": "1.15"
+      },
+      {
+        "sdate": "2019-12-16 04:43:33",
+        "edate": "2021-12-13 20:00:20",
+        "status": "online",
+        "duration": "1年363天15小时16分",
+        "version": "1.0~1.75"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

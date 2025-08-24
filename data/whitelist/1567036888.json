@@ -1,0 +1,27 @@
+{
+  "1567036888": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-11-02 13:23:35",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年284天12小时0分",
+        "version": "1.01"
+      },
+      {
+        "sdate": "2021-10-10 19:49:06",
+        "edate": "2021-11-02 13:23:35",
+        "status": "preorder",
+        "duration": "22天17小时34分",
+        "version": "1.0~1.01"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

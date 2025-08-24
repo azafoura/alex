@@ -1,0 +1,20 @@
+{
+  "793077082": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2014-02-21 23:57:57",
+        "edate": "",
+        "status": "online",
+        "duration": "11年182天9小时6分",
+        "version": "1.6~6.1.710065"
+      }
+    ],
+    "total": 1,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

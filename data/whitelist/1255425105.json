@@ -1,0 +1,27 @@
+{
+  "1255425105": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-10-11 10:31:28",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年315天21小时16分",
+        "version": "2.2.0"
+      },
+      {
+        "sdate": "2017-07-08 02:48:31",
+        "edate": "2019-10-11 10:31:28",
+        "status": "online",
+        "duration": "2年95天7小时42分",
+        "version": "2.0.4~2.2.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

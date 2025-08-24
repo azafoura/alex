@@ -1,0 +1,27 @@
+{
+  "691038835": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-01-10 15:45:06",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年223天17小时10分",
+        "version": "1.5"
+      },
+      {
+        "sdate": "2013-10-09 22:56:10",
+        "edate": "2017-01-10 15:45:06",
+        "status": "online",
+        "duration": "3年93天16小时48分",
+        "version": "1.0~1.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

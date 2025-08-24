@@ -1,0 +1,41 @@
+{
+  "1370848040": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-01-28 14:18:09",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年205天21小时29分",
+        "version": "5.0.910"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-08-06 11:36:50",
+        "edate": "2020-08-06 13:26:43",
+        "duration": "1小时49分",
+        "version": "1.3.200"
+      },
+      {
+        "sdate": "2020-06-24 00:00:00",
+        "edate": "2022-01-28 14:18:09",
+        "status": "online",
+        "duration": "1年218天14小时18分",
+        "version": "1.3.200~5.0.910"
+      },
+      {
+        "sdate": "2020-06-01 12:02:08",
+        "edate": "2020-06-24 00:00:00",
+        "status": "preorder",
+        "duration": "22天11小时57分",
+        "version": "1.2.99~1.3.200"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

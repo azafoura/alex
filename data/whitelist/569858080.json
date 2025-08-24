@@ -1,0 +1,27 @@
+{
+  "569858080": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-01 16:27:42",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年323天16小时18分",
+        "version": "1.1.0"
+      },
+      {
+        "sdate": "2012-10-31 20:30:27",
+        "edate": "2020-10-01 16:27:42",
+        "status": "online",
+        "duration": "7年336天19小时57分",
+        "version": "1.0.0~1.1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

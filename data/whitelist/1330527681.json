@@ -1,0 +1,27 @@
+{
+  "1330527681": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:37:00",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天6小时48分",
+        "version": "1.2.7"
+      },
+      {
+        "sdate": "2018-05-02 15:01:01",
+        "edate": "2020-12-31 04:37:00",
+        "status": "online",
+        "duration": "2年243天13小时35分",
+        "version": "1.0.0~1.2.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

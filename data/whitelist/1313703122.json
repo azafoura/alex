@@ -1,0 +1,27 @@
+{
+  "1313703122": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-01-11 10:54:29",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年223天21小时15分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2018-03-08 07:06:39",
+        "edate": "2019-01-11 10:54:29",
+        "status": "online",
+        "duration": "309天3小时47分",
+        "version": "1.0.1~1.0.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

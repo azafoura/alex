@@ -1,0 +1,41 @@
+{
+  "1493240403": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-10-13 19:34:31",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年313天9小时25分",
+        "version": "4.4.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-09-25 23:42:40",
+        "edate": "2020-09-26 01:37:32",
+        "duration": "1小时54分",
+        "version": "3.4.1"
+      },
+      {
+        "sdate": "2020-06-28 00:00:00",
+        "edate": "2021-10-13 19:34:31",
+        "status": "online",
+        "duration": "1年107天19小时34分",
+        "version": "3.3.0~4.4.1"
+      },
+      {
+        "sdate": "2020-06-19 01:57:03",
+        "edate": "2020-06-28 00:00:00",
+        "status": "preorder",
+        "duration": "8天22小时2分",
+        "version": "3.3.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

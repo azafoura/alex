@@ -1,0 +1,27 @@
+{
+  "1448338582": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-05-23 19:38:57",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年92天3小时57分",
+        "version": "1.4"
+      },
+      {
+        "sdate": "2019-01-21 18:01:08",
+        "edate": "2019-05-23 19:38:57",
+        "status": "online",
+        "duration": "122天1小时37分",
+        "version": "1.0~1.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

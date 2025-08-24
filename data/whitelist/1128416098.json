@@ -1,0 +1,27 @@
+{
+  "1128416098": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 05:06:21",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天23小时32分",
+        "version": "6.1"
+      },
+      {
+        "sdate": "2017-01-27 10:11:29",
+        "edate": "2020-12-31 05:06:21",
+        "status": "online",
+        "duration": "3年338天18小时54分",
+        "version": "1.5~6.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

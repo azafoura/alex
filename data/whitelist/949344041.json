@@ -1,0 +1,27 @@
+{
+  "949344041": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 02:34:29",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年145天19小时27分",
+        "version": "1.1.0~1.1.2"
+      },
+      {
+        "sdate": "2015-12-10 05:27:11",
+        "edate": "2016-03-30 02:34:29",
+        "status": "online",
+        "duration": "110天21小时7分",
+        "version": "1.0.0~1.1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

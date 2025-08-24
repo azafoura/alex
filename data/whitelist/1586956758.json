@@ -1,0 +1,27 @@
+{
+  "1586956758": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2021-11-14 12:34:04",
+        "edate": "2021-11-14 13:52:56",
+        "duration": "1小时18分",
+        "version": "0.51"
+      },
+      {
+        "sdate": "2021-10-15 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "3年312天15小时56分",
+        "version": "0.45~1.0.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

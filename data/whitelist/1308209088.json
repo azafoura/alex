@@ -1,0 +1,27 @@
+{
+  "1308209088": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:30:34",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天3小时37分",
+        "version": "2.91"
+      },
+      {
+        "sdate": "2017-11-08 00:00:00",
+        "edate": "2020-12-31 04:30:34",
+        "status": "online",
+        "duration": "3年54天4小时30分",
+        "version": "1.2~2.91"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

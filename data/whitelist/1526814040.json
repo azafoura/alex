@@ -1,0 +1,27 @@
+{
+  "1526814040": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 01:43:56",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年235天4小时6分",
+        "version": "1.09"
+      },
+      {
+        "sdate": "2020-08-15 20:14:32",
+        "edate": "2020-12-31 01:43:56",
+        "status": "online",
+        "duration": "137天5小时29分",
+        "version": "1.0~1.09"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

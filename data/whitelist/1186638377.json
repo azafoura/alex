@@ -1,0 +1,27 @@
+{
+  "1186638377": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-07-10 11:35:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年43天17小时42分",
+        "version": "3.4.1"
+      },
+      {
+        "sdate": "2017-02-09 01:40:30",
+        "edate": "2019-07-10 11:35:13",
+        "status": "online",
+        "duration": "2年151天9小时54分",
+        "version": "1.0~3.4.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1565306195": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-10-15 00:31:36",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年312天11小时26分",
+        "version": "2.7.2"
+      },
+      {
+        "sdate": "2021-05-10 00:00:00",
+        "edate": "2022-10-15 00:31:36",
+        "status": "online",
+        "duration": "1年158天31分",
+        "version": "2.4.0~2.7.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

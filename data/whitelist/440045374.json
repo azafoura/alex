@@ -1,0 +1,27 @@
+{
+  "440045374": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-11-26 20:11:43",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年267天12小时25分",
+        "version": "4.20.3"
+      },
+      {
+        "sdate": "2014-01-22 23:07:38",
+        "edate": "2020-11-26 20:11:43",
+        "status": "online",
+        "duration": "6年309天21小时4分",
+        "version": "2.2.0~4.20.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

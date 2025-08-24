@@ -1,0 +1,48 @@
+{
+  "936393978": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-09-21 04:05:01",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年334天17小时54分",
+        "version": "1.36"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-09-02 19:23:01",
+        "edate": "2021-09-08 23:22:35",
+        "duration": "6天3小时59分",
+        "version": "1.36"
+      },
+      {
+        "sdate": "2021-02-24 22:59:00",
+        "edate": "2022-09-21 04:05:01",
+        "status": "online",
+        "duration": "1年208天5小时6分",
+        "version": "1.36"
+      },
+      {
+        "sdate": "2020-12-31 04:24:06",
+        "edate": "2021-02-24 22:59:00",
+        "status": "offline",
+        "duration": "55天18小时34分",
+        "version": "1.36"
+      },
+      {
+        "sdate": "2015-05-08 00:00:00",
+        "edate": "2020-12-31 04:24:06",
+        "status": "online",
+        "duration": "5年239天4小时24分",
+        "version": "1.0~1.36"
+      }
+    ],
+    "total": 5,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

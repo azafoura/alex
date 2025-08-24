@@ -1,0 +1,27 @@
+{
+  "1335080517": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:30:32",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天6小时57分",
+        "version": "2.1"
+      },
+      {
+        "sdate": "2018-01-17 08:04:29",
+        "edate": "2020-12-31 04:30:32",
+        "status": "online",
+        "duration": "2年348天20小时26分",
+        "version": "1.0~2.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

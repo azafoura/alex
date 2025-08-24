@@ -1,0 +1,27 @@
+{
+  "1534421471": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-03-17 08:51:11",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年158天21小时16分",
+        "version": "0.5.3"
+      },
+      {
+        "sdate": "2020-10-08 16:42:12",
+        "edate": "2021-03-17 08:51:11",
+        "status": "online",
+        "duration": "159天16小时8分",
+        "version": "0.1~0.5.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

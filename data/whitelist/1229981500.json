@@ -1,0 +1,27 @@
+{
+  "1229981500": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:26:25",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天3小时9分",
+        "version": "2.1"
+      },
+      {
+        "sdate": "2017-05-23 22:01:29",
+        "edate": "2020-12-31 04:26:25",
+        "status": "online",
+        "duration": "3年222天6小时24分",
+        "version": "2.0~2.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

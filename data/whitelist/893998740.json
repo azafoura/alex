@@ -1,0 +1,41 @@
+{
+  "893998740": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2024-07-10 21:26:07",
+        "edate": "2024-07-11 00:23:38",
+        "duration": "2小时57分",
+        "version": "1.0.5"
+      },
+      {
+        "status": "out",
+        "sdate": "2024-06-30 15:56:25",
+        "edate": "2024-06-30 21:21:11",
+        "duration": "5小时24分",
+        "version": "1.0.5"
+      },
+      {
+        "status": "out",
+        "sdate": "2024-06-19 18:26:22",
+        "edate": "2024-06-19 21:21:25",
+        "duration": "2小时55分",
+        "version": "1.0.5"
+      },
+      {
+        "sdate": "2014-07-03 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "11年53天4小时53分",
+        "version": "1.0.0~1.0.5"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

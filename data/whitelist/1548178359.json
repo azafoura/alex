@@ -1,0 +1,27 @@
+{
+  "1548178359": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-11-03 13:00:05",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年292天22小时26分",
+        "version": "1.2.5"
+      },
+      {
+        "sdate": "2021-01-11 00:00:00",
+        "edate": "2022-11-03 13:00:05",
+        "status": "online",
+        "duration": "1年296天13小时0分",
+        "version": "1.0.0~1.2.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "1518832623": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-17 19:28:52",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年36天10小时9分",
+        "version": "0.0.2"
+      },
+      {
+        "sdate": "2020-07-17 19:22:00",
+        "edate": "2020-07-17 19:28:52",
+        "status": "online",
+        "duration": "6分",
+        "version": "0.0.2"
+      },
+      {
+        "sdate": "2020-06-19 19:48:04",
+        "edate": "2020-07-17 19:22:00",
+        "status": "offline",
+        "duration": "27天23小时33分",
+        "version": "0.0.2"
+      },
+      {
+        "sdate": "2020-06-17 00:00:00",
+        "edate": "2020-06-19 19:48:04",
+        "status": "online",
+        "duration": "2天19小时48分",
+        "version": "0.0.1~0.0.2"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

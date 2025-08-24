@@ -1,0 +1,27 @@
+{
+  "932381063": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:17:10",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时41分",
+        "version": "3.11.0"
+      },
+      {
+        "sdate": "2014-11-25 02:23:47",
+        "edate": "2020-12-31 04:17:10",
+        "status": "online",
+        "duration": "6年38天1小时53分",
+        "version": "1.0.0~3.11.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

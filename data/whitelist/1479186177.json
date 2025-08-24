@@ -1,0 +1,27 @@
+{
+  "1479186177": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-09-03 17:31:59",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年353天7小时14分",
+        "version": "1.4.8"
+      },
+      {
+        "sdate": "2019-09-26 09:13:34",
+        "edate": "2021-09-03 17:31:59",
+        "status": "online",
+        "duration": "1年343天8小时18分",
+        "version": "1.0~1.4.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

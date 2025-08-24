@@ -1,0 +1,27 @@
+{
+  "734171486": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:13:26",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时46分",
+        "version": "7.0.2"
+      },
+      {
+        "sdate": "2014-08-12 17:42:35",
+        "edate": "2020-12-31 04:13:26",
+        "status": "online",
+        "duration": "6年142天10小时30分",
+        "version": "1.7~7.0.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1015114550": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-02-26 02:41:45",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年177天20小时9分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2015-07-25 17:53:31",
+        "edate": "2017-02-26 02:41:45",
+        "status": "online",
+        "duration": "1年216天8小时48分",
+        "version": "1.0~2.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

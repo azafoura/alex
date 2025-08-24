@@ -1,0 +1,27 @@
+{
+  "645949180": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-12-06 20:43:53",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年258天12小时7分",
+        "version": "3.40.0"
+      },
+      {
+        "sdate": "2014-09-02 09:56:09",
+        "edate": "2018-12-06 20:43:53",
+        "status": "online",
+        "duration": "4年96天10小时47分",
+        "version": "1.18.0~3.40.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1532589192": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-08-16 10:32:38",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年6天19小时31分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2020-09-22 00:00:00",
+        "edate": "2022-08-16 10:32:38",
+        "status": "online",
+        "duration": "1年328天10小时32分",
+        "version": "1.0~2.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1490693078": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:47:41",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年235天10分",
+        "version": "1.7.35"
+      },
+      {
+        "sdate": "2020-02-14 23:54:20",
+        "edate": "2020-12-31 04:47:41",
+        "status": "online",
+        "duration": "320天4小时53分",
+        "version": "1.0.6~1.7.35"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

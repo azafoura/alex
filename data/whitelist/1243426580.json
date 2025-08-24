@@ -1,0 +1,34 @@
+{
+  "1243426580": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-06-24 13:40:57",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年58天18小时1分",
+        "version": "5.04"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-01-24 20:48:08",
+        "edate": "2020-01-24 22:45:53",
+        "duration": "1小时57分",
+        "version": "4.96"
+      },
+      {
+        "sdate": "2017-07-29 00:24:13",
+        "edate": "2020-06-24 13:40:57",
+        "status": "online",
+        "duration": "2年331天13小时16分",
+        "version": "1.0~5.04"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

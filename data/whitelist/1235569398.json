@@ -1,0 +1,27 @@
+{
+  "1235569398": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-08-08 14:11:15",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年14天17小时27分",
+        "version": "0.6.19"
+      },
+      {
+        "sdate": "2017-05-16 07:57:52",
+        "edate": "2017-08-08 14:11:15",
+        "status": "online",
+        "duration": "84天6小时13分",
+        "version": "1.0~0.6.19"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

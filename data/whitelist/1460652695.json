@@ -1,0 +1,27 @@
+{
+  "1460652695": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 05:19:47",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天19小时1分",
+        "version": "2.25"
+      },
+      {
+        "sdate": "2019-05-16 02:06:42",
+        "edate": "2020-12-31 05:19:47",
+        "status": "online",
+        "duration": "1年230天3小时13分",
+        "version": "2.20~2.25"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

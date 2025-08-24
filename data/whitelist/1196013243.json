@@ -1,0 +1,27 @@
+{
+  "1196013243": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-03 02:29:35",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年50天2小时54分",
+        "version": "1.0.5"
+      },
+      {
+        "sdate": "2018-10-10 00:00:00",
+        "edate": "2020-07-03 02:29:35",
+        "status": "online",
+        "duration": "1年267天2小时29分",
+        "version": "1.0~1.0.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

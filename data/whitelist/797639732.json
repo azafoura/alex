@@ -1,0 +1,41 @@
+{
+  "797639732": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:19:11",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时45分",
+        "version": "1.13.5"
+      },
+      {
+        "sdate": "2018-12-14 01:45:13",
+        "edate": "2020-12-31 04:19:11",
+        "status": "online",
+        "duration": "2年18天2小时33分",
+        "version": "1.13.5"
+      },
+      {
+        "sdate": "2018-10-25 06:17:51",
+        "edate": "2018-12-14 01:45:13",
+        "status": "offline",
+        "duration": "49天19小时27分",
+        "version": "1.13.5"
+      },
+      {
+        "sdate": "2014-04-09 18:58:09",
+        "edate": "2018-10-25 06:17:51",
+        "status": "online",
+        "duration": "4年199天11小时19分",
+        "version": "1.0.0~1.13.5"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

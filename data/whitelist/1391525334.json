@@ -1,0 +1,27 @@
+{
+  "1391525334": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-09-18 15:39:43",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年338天20小时20分",
+        "version": "1.1"
+      },
+      {
+        "sdate": "2018-06-07 02:02:41",
+        "edate": "2018-09-18 15:39:43",
+        "status": "online",
+        "duration": "103天13小时37分",
+        "version": "1.0~1.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

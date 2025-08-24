@@ -1,0 +1,27 @@
+{
+  "1247895794": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-01-11 16:07:43",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年223天15小时36分",
+        "version": "3.0.3"
+      },
+      {
+        "sdate": "2017-07-09 17:29:50",
+        "edate": "2020-01-11 16:07:43",
+        "status": "online",
+        "duration": "2年185天22小时37分",
+        "version": "1.0~3.0.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "418044512": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-08-12 19:39:03",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年8天12小时56分",
+        "version": "2.3.40"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-12-04 18:11:04",
+        "edate": "2020-12-04 19:53:32",
+        "duration": "1小时42分",
+        "version": "2.3.37"
+      },
+      {
+        "sdate": "2011-02-11 04:01:13",
+        "edate": "2021-08-12 19:39:03",
+        "status": "online",
+        "duration": "10年185天15小时37分",
+        "version": "1.1~2.3.40"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

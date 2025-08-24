@@ -1,0 +1,27 @@
+{
+  "1404932655": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-08-28 12:35:27",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年360天8小时34分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-08-27 01:39:00",
+        "edate": "2018-08-28 12:35:27",
+        "status": "online",
+        "duration": "1天10小时56分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

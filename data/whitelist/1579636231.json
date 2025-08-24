@@ -1,0 +1,34 @@
+{
+  "1579636231": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-12-23 23:26:20",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年242天16小时25分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2021-10-29 00:03:57",
+        "edate": "2021-12-23 23:26:20",
+        "status": "online",
+        "duration": "55天23小时22分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2021-10-21 22:09:56",
+        "edate": "2021-10-29 00:03:57",
+        "status": "preorder",
+        "duration": "7天1小时54分",
+        "version": "1.0~2.0"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

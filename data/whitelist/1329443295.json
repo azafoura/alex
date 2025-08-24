@@ -1,0 +1,27 @@
+{
+  "1329443295": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-03-03 16:47:15",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年171天18小时37分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-06-18 02:09:26",
+        "edate": "2020-03-03 16:47:15",
+        "status": "online",
+        "duration": "1年259天14小时37分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

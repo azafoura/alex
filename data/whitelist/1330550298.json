@@ -1,0 +1,27 @@
+{
+  "1330550298": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-05-10 11:18:16",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年105天6分",
+        "version": "1.20"
+      },
+      {
+        "sdate": "2018-01-23 03:16:02",
+        "edate": "2018-05-10 11:18:16",
+        "status": "online",
+        "duration": "107天8小时2分",
+        "version": "1.0.0~1.20"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

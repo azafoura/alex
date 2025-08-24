@@ -1,0 +1,20 @@
+{
+  "1518721249": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-17 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "5年37天5小时38分",
+        "version": "1.0.0~1.0.11"
+      }
+    ],
+    "total": 1,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

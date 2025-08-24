@@ -1,0 +1,27 @@
+{
+  "1439173781": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-11-10 01:10:38",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年286天20小时11分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-10-24 14:47:05",
+        "edate": "2018-11-10 01:10:38",
+        "status": "online",
+        "duration": "16天10小时23分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

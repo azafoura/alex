@@ -1,0 +1,27 @@
+{
+  "1375266999": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-31 08:48:09",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年295天3小时2分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-04-27 00:00:00",
+        "edate": "2020-10-31 08:48:09",
+        "status": "online",
+        "duration": "2年188天8小时48分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

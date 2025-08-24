@@ -1,0 +1,27 @@
+{
+  "979074390": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:18:52",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天18小时0分",
+        "version": "5.2.2"
+      },
+      {
+        "sdate": "2015-04-02 00:00:00",
+        "edate": "2020-12-31 04:18:52",
+        "status": "online",
+        "duration": "5年275天4小时18分",
+        "version": "1.0.3~5.2.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

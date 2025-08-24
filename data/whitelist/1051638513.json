@@ -1,0 +1,27 @@
+{
+  "1051638513": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-29 20:26:25",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年296天2小时42分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2015-12-04 00:00:00",
+        "edate": "2020-10-29 20:26:25",
+        "status": "online",
+        "duration": "4年331天20小时26分",
+        "version": "1.0~2.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

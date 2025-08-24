@@ -1,0 +1,48 @@
+{
+  "1565075278": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-04-05 04:09:17",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年140天7小时48分",
+        "version": "1.1.2"
+      },
+      {
+        "sdate": "2023-02-15 16:05:37",
+        "edate": "2023-04-05 04:09:17",
+        "status": "online",
+        "duration": "48天12小时3分",
+        "version": "1.1.2"
+      },
+      {
+        "sdate": "2021-09-08 12:58:06",
+        "edate": "2023-02-15 16:05:37",
+        "status": "offline",
+        "duration": "1年160天3小时7分",
+        "version": "1.1.2"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-06-21 11:58:25",
+        "edate": "2021-06-21 13:43:55",
+        "duration": "1小时45分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2021-05-12 00:00:00",
+        "edate": "2021-09-08 12:58:06",
+        "status": "online",
+        "duration": "119天12小时58分",
+        "version": "1.0~1.1.2"
+      }
+    ],
+    "total": 5,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

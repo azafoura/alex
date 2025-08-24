@@ -1,0 +1,41 @@
+{
+  "954751394": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2020-12-09 09:07:41",
+        "edate": "2020-12-09 11:00:41",
+        "duration": "1小时53分",
+        "version": "6.4.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-10-29 08:44:50",
+        "edate": "2020-10-29 10:45:38",
+        "duration": "2小时0分",
+        "version": "6.2.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-09-18 20:47:59",
+        "edate": "2020-09-18 22:44:46",
+        "duration": "1小时56分",
+        "version": "5.13.0"
+      },
+      {
+        "sdate": "2015-05-21 12:33:08",
+        "edate": "",
+        "status": "online",
+        "duration": "10年94天9小时31分",
+        "version": "1.0.0~6.42.1"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

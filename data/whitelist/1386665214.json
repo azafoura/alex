@@ -1,0 +1,27 @@
+{
+  "1386665214": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-08-09 07:52:12",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年14天4小时4分",
+        "version": "1.01"
+      },
+      {
+        "sdate": "2018-06-11 05:08:22",
+        "edate": "2018-08-09 07:52:12",
+        "status": "online",
+        "duration": "59天2小时43分",
+        "version": "1.0~1.01"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

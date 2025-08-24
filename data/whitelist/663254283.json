@@ -1,0 +1,27 @@
+{
+  "663254283": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-04-14 18:33:47",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年128天14小时19分",
+        "version": "3.5.4"
+      },
+      {
+        "sdate": "2014-02-08 16:48:26",
+        "edate": "2020-04-14 18:33:47",
+        "status": "online",
+        "duration": "6年67天1小时45分",
+        "version": "1.0~3.5.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

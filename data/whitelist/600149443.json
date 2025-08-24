@@ -1,0 +1,27 @@
+{
+  "600149443": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-01-10 15:39:36",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年223天17小时9分",
+        "version": "1.7"
+      },
+      {
+        "sdate": "2013-03-13 15:17:21",
+        "edate": "2017-01-10 15:39:36",
+        "status": "online",
+        "duration": "3年304天22分",
+        "version": "1.0~1.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

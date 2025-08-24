@@ -1,0 +1,27 @@
+{
+  "1257645671": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-01-21 00:35:16",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年214天7小时13分",
+        "version": "3.7.0"
+      },
+      {
+        "sdate": "2017-10-11 09:00:53",
+        "edate": "2019-01-21 00:35:16",
+        "status": "online",
+        "duration": "1年101天15小时34分",
+        "version": "3.1.20170930~3.7.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

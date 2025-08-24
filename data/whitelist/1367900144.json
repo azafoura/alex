@@ -1,0 +1,27 @@
+{
+  "1367900144": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-10-27 08:33:32",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年300天3小时12分",
+        "version": "4.0.8"
+      },
+      {
+        "sdate": "2018-04-24 13:00:30",
+        "edate": "2018-10-27 08:33:32",
+        "status": "online",
+        "duration": "185天19小时33分",
+        "version": "4.0.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "1248042487": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-11-29 06:58:23",
+        "edate": "",
+        "status": "online",
+        "duration": "5年267天46分",
+        "version": "1.7.27~1.8.12"
+      },
+      {
+        "sdate": "2019-06-12 18:23:02",
+        "edate": "2019-11-29 06:58:23",
+        "status": "offline",
+        "duration": "169天12小时35分",
+        "version": "1.7.13~1.7.27"
+      },
+      {
+        "sdate": "2017-08-31 20:36:26",
+        "edate": "2019-06-12 18:23:02",
+        "status": "online",
+        "duration": "1年284天21小时46分",
+        "version": "0.1.6~1.7.13"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

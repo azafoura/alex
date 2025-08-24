@@ -1,0 +1,20 @@
+{
+  "1547355580": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-01-06 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "4年229天11小时25分",
+        "version": "0.7~1.5"
+      }
+    ],
+    "total": 1,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

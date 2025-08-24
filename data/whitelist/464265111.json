@@ -1,0 +1,27 @@
+{
+  "464265111": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-08 11:54:53",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年43天20小时43分",
+        "version": "8.0.2.1"
+      },
+      {
+        "sdate": "2013-04-09 03:24:30",
+        "edate": "2020-07-08 11:54:53",
+        "status": "online",
+        "duration": "7年92天8小时30分",
+        "version": "2.5.2~8.0.2.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

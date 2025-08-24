@@ -1,0 +1,27 @@
+{
+  "1235386905": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-05-24 18:49:42",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年89天12小时49分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2017-07-16 08:17:39",
+        "edate": "2020-05-24 18:49:42",
+        "status": "online",
+        "duration": "2年313天10小时32分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

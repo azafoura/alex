@@ -1,0 +1,27 @@
+{
+  "445305390": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-05-11 19:06:31",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年102天13小时30分",
+        "version": "3.7.3"
+      },
+      {
+        "sdate": "2011-07-13 21:42:34",
+        "edate": "2018-05-11 19:06:31",
+        "status": "online",
+        "duration": "6年303天21小时23分",
+        "version": "Poker KinG Online~3.7.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

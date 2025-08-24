@@ -1,0 +1,41 @@
+{
+  "922398602": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-08-01 04:15:34",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年20天17小时41分",
+        "version": "1.9.6"
+      },
+      {
+        "sdate": "2020-05-18 15:58:33",
+        "edate": "2020-08-01 04:15:34",
+        "status": "online",
+        "duration": "74天12小时17分",
+        "version": "1.02~1.9.6"
+      },
+      {
+        "sdate": "2016-10-17 21:47:09",
+        "edate": "2020-05-18 15:58:33",
+        "status": "offline",
+        "duration": "3年213天18小时11分",
+        "version": "1.02"
+      },
+      {
+        "sdate": "2014-10-08 21:31:49",
+        "edate": "2016-10-17 21:47:09",
+        "status": "online",
+        "duration": "2年10天15分",
+        "version": "1.02"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "1258175835": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-04-25 15:37:25",
+        "edate": "",
+        "status": "online",
+        "duration": "3年118天16小时12分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2022-04-24 18:32:56",
+        "edate": "2022-04-25 15:37:25",
+        "status": "offline",
+        "duration": "21小时4分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2018-01-10 00:00:00",
+        "edate": "2022-04-24 18:32:56",
+        "status": "online",
+        "duration": "4年105天18小时32分",
+        "version": "1.0.0~1.0.1"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

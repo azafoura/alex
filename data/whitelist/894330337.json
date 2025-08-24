@@ -1,0 +1,20 @@
+{
+  "894330337": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2014-08-02 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "11年23天4小时53分",
+        "version": "1.0~3.22"
+      }
+    ],
+    "total": 1,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

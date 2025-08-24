@@ -1,0 +1,41 @@
+{
+  "1566998358": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-06-22 03:01:17",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年62天8小时59分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2021-05-27 16:40:43",
+        "edate": "2021-06-22 03:01:17",
+        "status": "online",
+        "duration": "25天10小时20分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2021-05-21 19:20:10",
+        "edate": "2021-05-27 16:40:43",
+        "status": "offline",
+        "duration": "5天21小时20分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2021-05-18 00:00:00",
+        "edate": "2021-05-21 19:20:10",
+        "status": "online",
+        "duration": "3天19小时20分",
+        "version": "1.0~1.0.2"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

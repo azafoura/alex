@@ -1,0 +1,27 @@
+{
+  "1448813017": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:36:22",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天19小时4分",
+        "version": "1.2.17"
+      },
+      {
+        "sdate": "2019-06-28 01:16:40",
+        "edate": "2020-12-31 04:36:22",
+        "status": "online",
+        "duration": "1年187天3小时19分",
+        "version": "1.0.1~1.2.17"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

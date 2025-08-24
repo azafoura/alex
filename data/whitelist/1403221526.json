@@ -1,0 +1,83 @@
+{
+  "1403221526": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:32:36",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天16小时36分",
+        "version": "2.6"
+      },
+      {
+        "sdate": "2019-07-02 15:38:05",
+        "edate": "2020-12-31 04:32:36",
+        "status": "online",
+        "duration": "1年182天12小时54分",
+        "version": "2.6"
+      },
+      {
+        "sdate": "2019-05-02 19:01:35",
+        "edate": "2019-07-02 15:38:05",
+        "status": "offline",
+        "duration": "60天20小时36分",
+        "version": "2.6"
+      },
+      {
+        "sdate": "2019-02-23 14:48:32",
+        "edate": "2019-05-02 19:01:35",
+        "status": "online",
+        "duration": "68天4小时13分",
+        "version": "2.6"
+      },
+      {
+        "sdate": "2019-01-21 16:19:44",
+        "edate": "2019-02-23 14:48:32",
+        "status": "offline",
+        "duration": "32天22小时28分",
+        "version": "2.6"
+      },
+      {
+        "sdate": "2018-12-13 11:08:05",
+        "edate": "2019-01-21 16:19:44",
+        "status": "online",
+        "duration": "39天5小时11分",
+        "version": "2.6"
+      },
+      {
+        "sdate": "2018-12-12 12:53:37",
+        "edate": "2018-12-13 11:08:05",
+        "status": "offline",
+        "duration": "22小时14分",
+        "version": "2.6"
+      },
+      {
+        "sdate": "2018-08-06 18:41:09",
+        "edate": "2018-12-12 12:53:37",
+        "status": "online",
+        "duration": "127天18小时12分",
+        "version": "2.5.2~2.6"
+      },
+      {
+        "sdate": "2018-08-03 01:13:18",
+        "edate": "2018-08-06 18:41:09",
+        "status": "offline",
+        "duration": "3天17小时27分",
+        "version": "2.5.2"
+      },
+      {
+        "sdate": "2018-07-02 00:00:00",
+        "edate": "2018-08-03 01:13:18",
+        "status": "online",
+        "duration": "32天1小时13分",
+        "version": "2.5.1~2.5.2"
+      }
+    ],
+    "total": 10,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

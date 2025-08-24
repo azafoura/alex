@@ -1,0 +1,27 @@
+{
+  "907470416": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:24:56",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时12分",
+        "version": "1.8"
+      },
+      {
+        "sdate": "2014-10-01 00:00:00",
+        "edate": "2020-12-31 04:24:56",
+        "status": "online",
+        "duration": "6年93天4小时24分",
+        "version": "1.0~1.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

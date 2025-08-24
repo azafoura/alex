@@ -1,0 +1,27 @@
+{
+  "1119082248": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-03-29 19:39:06",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年145天8小时51分",
+        "version": "1.0.41"
+      },
+      {
+        "sdate": "2016-11-16 11:02:36",
+        "edate": "2021-03-29 19:39:06",
+        "status": "online",
+        "duration": "4年134天8小时36分",
+        "version": "1.0.14~1.0.41"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

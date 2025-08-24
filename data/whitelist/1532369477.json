@@ -1,0 +1,27 @@
+{
+  "1532369477": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-04-29 20:24:04",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年114天9小时39分",
+        "version": "1.13.16"
+      },
+      {
+        "sdate": "2020-09-20 00:00:00",
+        "edate": "2024-04-29 20:24:04",
+        "status": "online",
+        "duration": "3年222天20小时24分",
+        "version": "1.0.0~1.13.16"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

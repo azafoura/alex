@@ -1,0 +1,27 @@
+{
+  "959428821": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:18:20",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时48分",
+        "version": "740.0.0"
+      },
+      {
+        "sdate": "2015-04-20 08:25:34",
+        "edate": "2020-12-31 04:18:20",
+        "status": "online",
+        "duration": "5年256天19小时52分",
+        "version": "0.0.2~740.0.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

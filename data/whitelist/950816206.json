@@ -1,0 +1,27 @@
+{
+  "950816206": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-01-27 05:09:14",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年207天16小时53分",
+        "version": "3.6"
+      },
+      {
+        "sdate": "2015-01-31 03:56:08",
+        "edate": "2020-01-27 05:09:14",
+        "status": "online",
+        "duration": "4年362天1小时13分",
+        "version": "1.0~3.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

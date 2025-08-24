@@ -1,0 +1,41 @@
+{
+  "1474676263": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:02:54",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天20小时35分",
+        "version": "0.10.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-10-05 15:06:33",
+        "edate": "2019-10-05 17:00:00",
+        "duration": "1小时53分",
+        "version": "0.3.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-09-03 20:56:58",
+        "edate": "2019-09-03 23:00:00",
+        "duration": "2小时3分",
+        "version": "0.1.9"
+      },
+      {
+        "sdate": "2019-07-31 22:48:44",
+        "edate": "2020-12-31 04:02:54",
+        "status": "online",
+        "duration": "1年153天5小时14分",
+        "version": "0.1.0~0.10.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

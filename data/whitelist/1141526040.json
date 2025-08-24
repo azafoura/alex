@@ -1,0 +1,27 @@
+{
+  "1141526040": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-08-01 03:38:05",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年21天1小时9分",
+        "version": "4.7.5"
+      },
+      {
+        "sdate": "2016-10-01 20:22:26",
+        "edate": "2020-08-01 03:38:05",
+        "status": "online",
+        "duration": "3年304天7小时15分",
+        "version": "2.4.0~4.7.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

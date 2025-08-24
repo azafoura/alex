@@ -1,0 +1,41 @@
+{
+  "1344733855": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2019-10-07 00:02:18",
+        "edate": "2019-10-07 02:00:00",
+        "duration": "1小时57分",
+        "version": "0.5.4"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-09-04 02:56:33",
+        "edate": "2019-09-04 05:00:00",
+        "duration": "2小时3分",
+        "version": "0.5.2"
+      },
+      {
+        "sdate": "2019-06-20 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "6年64天11小时32分",
+        "version": "0.5.0~0.14.4"
+      },
+      {
+        "sdate": "2019-03-26 00:00:00",
+        "edate": "2019-06-20 00:00:00",
+        "status": "preorder",
+        "duration": "86天0分",
+        "version": "0.4.6~0.5.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

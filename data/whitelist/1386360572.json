@@ -1,0 +1,27 @@
+{
+  "1386360572": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 05:15:05",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天6小时41分",
+        "version": "4.8"
+      },
+      {
+        "sdate": "2018-06-19 16:50:33",
+        "edate": "2020-12-31 05:15:05",
+        "status": "online",
+        "duration": "2年195天12小时24分",
+        "version": "1.0~4.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

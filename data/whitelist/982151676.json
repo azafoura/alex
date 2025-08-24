@@ -1,0 +1,41 @@
+{
+  "982151676": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-09-27 08:57:36",
+        "edate": null,
+        "status": "offline",
+        "duration": "327天13小时45分",
+        "version": "1.5"
+      },
+      {
+        "sdate": "2021-02-25 01:50:20",
+        "edate": "2024-09-27 08:57:36",
+        "status": "online",
+        "duration": "3年215天7小时7分",
+        "version": "1.5"
+      },
+      {
+        "sdate": "2020-04-30 15:00:33",
+        "edate": "2021-02-25 01:50:20",
+        "status": "offline",
+        "duration": "300天10小时49分",
+        "version": "1.5"
+      },
+      {
+        "sdate": "2015-04-18 00:00:00",
+        "edate": "2020-04-30 15:00:33",
+        "status": "online",
+        "duration": "5年14天15小时0分",
+        "version": "1~1.5"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

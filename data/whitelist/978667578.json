@@ -1,0 +1,27 @@
+{
+  "978667578": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:18:47",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天18小时0分",
+        "version": "4.5.1"
+      },
+      {
+        "sdate": "2015-04-01 01:44:48",
+        "edate": "2020-12-31 04:18:47",
+        "status": "online",
+        "duration": "5年276天2小时33分",
+        "version": "1.0~4.5.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

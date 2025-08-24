@@ -1,0 +1,27 @@
+{
+  "1238247658": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-02-22 07:55:34",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年181天23小时44分",
+        "version": ""
+      },
+      {
+        "sdate": "2017-05-26 23:08:59",
+        "edate": "2018-02-22 07:55:34",
+        "status": "online",
+        "duration": "271天8小时46分",
+        "version": ""
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

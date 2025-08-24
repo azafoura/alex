@@ -1,0 +1,34 @@
+{
+  "1585742092": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-01-19 07:25:30",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年216天8小时30分",
+        "version": "1.3.3"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-10-10 17:56:50",
+        "edate": "2021-10-10 19:48:58",
+        "duration": "1小时52分",
+        "version": "1.3.3"
+      },
+      {
+        "sdate": "2021-09-16 00:00:00",
+        "edate": "2024-01-19 07:25:30",
+        "status": "online",
+        "duration": "2年125天7小时25分",
+        "version": "1.3.3"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

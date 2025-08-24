@@ -1,0 +1,27 @@
+{
+  "940452319": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-18 18:24:08",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年246天3小时35分",
+        "version": "3.2.4"
+      },
+      {
+        "sdate": "2014-12-03 11:52:19",
+        "edate": "2020-12-18 18:24:08",
+        "status": "online",
+        "duration": "6年17天6小时31分",
+        "version": "1.0~3.2.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

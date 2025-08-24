@@ -1,0 +1,34 @@
+{
+  "622333898": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-02-13 09:50:58",
+        "edate": "",
+        "status": "online",
+        "duration": "2年188天22小时59分",
+        "version": "4.22~5.01"
+      },
+      {
+        "sdate": "2022-05-20 11:13:21",
+        "edate": "2023-02-13 09:50:58",
+        "status": "offline",
+        "duration": "268天22小时37分",
+        "version": "4.22"
+      },
+      {
+        "sdate": "2013-04-07 19:34:24",
+        "edate": "2022-05-20 11:13:21",
+        "status": "online",
+        "duration": "9年44天15小时38分",
+        "version": "1.0~4.22"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

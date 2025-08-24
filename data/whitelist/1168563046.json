@@ -1,0 +1,27 @@
+{
+  "1168563046": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2018-01-14 05:04:32",
+        "edate": "2018-01-15 00:00:00",
+        "duration": "18小时55分",
+        "version": "2.4.8"
+      },
+      {
+        "sdate": "2017-01-18 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "8年217天5小时10分",
+        "version": "1.0~2.11.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

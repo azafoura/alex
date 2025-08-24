@@ -1,0 +1,27 @@
+{
+  "1534137488": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2020-11-14 00:04:52",
+        "edate": "2020-11-14 02:02:10",
+        "duration": "1小时57分",
+        "version": "0.2.1"
+      },
+      {
+        "sdate": "2020-10-06 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "4年321天6小时7分",
+        "version": "0.1.0~0.5.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

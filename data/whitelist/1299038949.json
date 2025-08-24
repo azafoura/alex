@@ -1,0 +1,27 @@
+{
+  "1299038949": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-31 18:48:39",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年21天13小时16分",
+        "version": "1.0.96"
+      },
+      {
+        "sdate": "2018-08-08 06:45:37",
+        "edate": "2020-07-31 18:48:39",
+        "status": "online",
+        "duration": "1年358天12小时3分",
+        "version": "1.0.0~1.0.96"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

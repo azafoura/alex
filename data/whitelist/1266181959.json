@@ -1,0 +1,27 @@
+{
+  "1266181959": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 03:46:33",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天4小时5分",
+        "version": "3.10.8"
+      },
+      {
+        "sdate": "2017-09-16 01:05:14",
+        "edate": "2020-12-31 03:46:33",
+        "status": "online",
+        "duration": "3年107天2小时41分",
+        "version": "1.0~3.10.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

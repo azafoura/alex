@@ -1,0 +1,41 @@
+{
+  "1596065220": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-02-12 10:04:11",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年192天5小时54分",
+        "version": "1.4"
+      },
+      {
+        "status": "out",
+        "sdate": "2022-01-02 09:42:18",
+        "edate": "2022-01-02 12:08:03",
+        "duration": "2小时25分",
+        "version": "1.4"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-11-25 12:14:30",
+        "edate": "2021-11-25 13:59:03",
+        "duration": "1小时44分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2021-11-19 00:00:00",
+        "edate": "2022-02-12 10:04:11",
+        "status": "online",
+        "duration": "85天10小时4分",
+        "version": "1.0~1.4"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

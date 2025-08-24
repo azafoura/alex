@@ -1,0 +1,27 @@
+{
+  "1564632573": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-07-08 04:11:25",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年46天7小时45分",
+        "version": "1.0.3"
+      },
+      {
+        "sdate": "2021-04-28 00:00:00",
+        "edate": "2021-07-08 04:11:25",
+        "status": "online",
+        "duration": "71天4小时11分",
+        "version": "1.0.0~1.0.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

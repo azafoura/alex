@@ -1,0 +1,27 @@
+{
+  "943273841": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:20:59",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时39分",
+        "version": "1.41.0"
+      },
+      {
+        "sdate": "2015-01-15 00:00:00",
+        "edate": "2020-12-31 04:20:59",
+        "status": "online",
+        "duration": "5年352天4小时20分",
+        "version": "0.5~1.41.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

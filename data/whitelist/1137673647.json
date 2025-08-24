@@ -1,0 +1,41 @@
+{
+  "1137673647": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-30 09:01:56",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年22天19小时57分",
+        "version": "3.6.0"
+      },
+      {
+        "sdate": "2020-07-08 10:59:12",
+        "edate": "2020-07-30 09:01:56",
+        "status": "online",
+        "duration": "21天22小时2分",
+        "version": "3.6.0"
+      },
+      {
+        "sdate": "2020-07-04 16:58:24",
+        "edate": "2020-07-08 10:59:12",
+        "status": "offline",
+        "duration": "3天18小时0分",
+        "version": "3.6.0"
+      },
+      {
+        "sdate": "2016-08-24 00:00:00",
+        "edate": "2020-07-04 16:58:24",
+        "status": "online",
+        "duration": "3年315天16小时58分",
+        "version": "1.0~3.6.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

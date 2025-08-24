@@ -1,0 +1,27 @@
+{
+  "1221307048": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-08-09 08:52:53",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年13天22小时38分",
+        "version": "2.5.3"
+      },
+      {
+        "sdate": "2017-05-02 01:35:04",
+        "edate": "2018-08-09 08:52:53",
+        "status": "online",
+        "duration": "1年99天7小时17分",
+        "version": "1.2~2.5.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

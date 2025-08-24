@@ -1,0 +1,34 @@
+{
+  "582951832": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-04-25 15:39:44",
+        "edate": "",
+        "status": "online",
+        "duration": "3年117天17小时7分",
+        "version": "1.0.14"
+      },
+      {
+        "sdate": "2022-04-24 18:39:52",
+        "edate": "2022-04-25 15:39:44",
+        "status": "offline",
+        "duration": "20小时59分",
+        "version": "1.0.14"
+      },
+      {
+        "sdate": "2012-12-06 00:00:00",
+        "edate": "2022-04-24 18:39:52",
+        "status": "online",
+        "duration": "9年141天18小时39分",
+        "version": "1.0.0~1.0.14"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

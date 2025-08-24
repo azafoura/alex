@@ -1,0 +1,27 @@
+{
+  "668517441": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-08-06 19:34:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年14天13小时19分",
+        "version": "10.0"
+      },
+      {
+        "sdate": "2013-07-10 03:33:59",
+        "edate": "2020-08-06 19:34:13",
+        "status": "online",
+        "duration": "7年29天16小时0分",
+        "version": "1.0~10.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

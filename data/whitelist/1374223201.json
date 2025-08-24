@@ -1,0 +1,41 @@
+{
+  "1374223201": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-02-15 20:27:08",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年188天15小时23分",
+        "version": "2.4.05"
+      },
+      {
+        "sdate": "2019-01-23 18:11:37",
+        "edate": "2019-02-15 20:27:08",
+        "status": "online",
+        "duration": "23天2小时15分",
+        "version": "2.4.05"
+      },
+      {
+        "sdate": "2018-11-07 16:28:38",
+        "edate": "2019-01-23 18:11:37",
+        "status": "offline",
+        "duration": "77天1小时42分",
+        "version": "2.3.0~2.4.05"
+      },
+      {
+        "sdate": "2018-05-21 06:22:44",
+        "edate": "2018-11-07 16:28:38",
+        "status": "online",
+        "duration": "170天10小时5分",
+        "version": "2.2.5~2.3.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

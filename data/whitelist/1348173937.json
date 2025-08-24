@@ -1,0 +1,41 @@
+{
+  "1348173937": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 05:14:42",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天6小时19分",
+        "version": "1.6.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-11-16 23:39:43",
+        "edate": "2019-11-17 02:00:00",
+        "duration": "2小时20分",
+        "version": "1.5.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-06-30 21:29:47",
+        "edate": "2019-07-01 00:00:00",
+        "duration": "2小时30分",
+        "version": "1.4.5"
+      },
+      {
+        "sdate": "2018-02-14 00:35:35",
+        "edate": "2020-12-31 05:14:42",
+        "status": "online",
+        "duration": "2年321天4小时39分",
+        "version": "1.0~1.6.1"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1375538436": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-01-27 21:32:03",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年206天14小时19分",
+        "version": "1.0.8"
+      },
+      {
+        "sdate": "2018-05-15 00:00:00",
+        "edate": "2021-01-27 21:32:03",
+        "status": "online",
+        "duration": "2年258天21小时32分",
+        "version": "1.0.0~1.0.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

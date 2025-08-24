@@ -1,0 +1,27 @@
+{
+  "1206756939": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:25:48",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天1小时3分",
+        "version": "1.31"
+      },
+      {
+        "sdate": "2017-02-28 23:58:53",
+        "edate": "2020-12-31 04:25:48",
+        "status": "online",
+        "duration": "3年306天4小时26分",
+        "version": "1.1~1.31"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "951744068": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:17:52",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时45分",
+        "version": "1.70"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-12-11 08:58:43",
+        "edate": "2020-12-11 10:54:30",
+        "duration": "1小时55分",
+        "version": "1.70"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-11-09 02:44:29",
+        "edate": "2020-11-09 04:41:54",
+        "duration": "1小时57分",
+        "version": "1.70"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-08-21 02:46:05",
+        "edate": "2020-08-21 04:40:28",
+        "duration": "1小时54分",
+        "version": "1.70"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-07-16 17:35:21",
+        "edate": "2020-07-16 19:29:21",
+        "duration": "1小时54分",
+        "version": "1.60"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-06-13 20:35:27",
+        "edate": "2020-06-13 22:32:25",
+        "duration": "1小时56分",
+        "version": "1.60"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-05-03 20:44:20",
+        "edate": "2020-05-03 22:32:25",
+        "duration": "1小时48分",
+        "version": "1.60"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-12-14 20:59:51",
+        "edate": "2019-12-14 23:00:00",
+        "duration": "2小时0分",
+        "version": "1.60"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-06-29 18:15:57",
+        "edate": "2019-06-29 21:00:00",
+        "duration": "2小时44分",
+        "version": "1.60"
+      },
+      {
+        "sdate": "2015-12-23 21:11:14",
+        "edate": "2020-12-31 04:17:52",
+        "status": "online",
+        "duration": "5年9天7小时6分",
+        "version": "1.0~1.70"
+      }
+    ],
+    "total": 10,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

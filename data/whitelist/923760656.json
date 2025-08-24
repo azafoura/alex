@@ -1,0 +1,55 @@
+{
+  "923760656": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:55:36",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时1分",
+        "version": "1.0.11"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-04-18 08:40:46",
+        "edate": "2020-04-18 10:35:08",
+        "duration": "1小时54分",
+        "version": "1.0.11"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-12-20 18:00:25",
+        "edate": "2019-12-20 20:00:00",
+        "duration": "1小时59分",
+        "version": "1.0.11"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-10-25 08:39:13",
+        "edate": "2019-10-25 11:00:00",
+        "duration": "2小时20分",
+        "version": "1.0.11"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-09-12 17:58:29",
+        "edate": "2019-09-12 20:00:00",
+        "duration": "2小时1分",
+        "version": "1.0.11"
+      },
+      {
+        "sdate": "2015-01-29 00:00:00",
+        "edate": "2020-12-31 04:55:36",
+        "status": "online",
+        "duration": "5年338天4小时55分",
+        "version": "1.0.0~1.0.11"
+      }
+    ],
+    "total": 6,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1184130808": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-11-14 17:19:16",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年281天11小时56分",
+        "version": "1.1.0"
+      },
+      {
+        "sdate": "2016-12-20 20:22:28",
+        "edate": "2019-11-14 17:19:16",
+        "status": "online",
+        "duration": "2年328天20小时56分",
+        "version": "1.0~1.1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "868759616": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-08-03 19:56:26",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年17天21小时57分",
+        "version": "1.1.2"
+      },
+      {
+        "sdate": "2014-12-10 00:00:00",
+        "edate": "2020-08-03 19:56:26",
+        "status": "online",
+        "duration": "5年238天19小时56分",
+        "version": "0.9~1.1.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

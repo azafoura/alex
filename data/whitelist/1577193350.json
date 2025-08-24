@@ -1,0 +1,27 @@
+{
+  "1577193350": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2025-07-18 19:33:50",
+        "edate": null,
+        "status": "offline",
+        "duration": "34天20小时17分",
+        "version": "2.2"
+      },
+      {
+        "sdate": "2021-07-29 00:00:00",
+        "edate": "2025-07-18 19:33:50",
+        "status": "online",
+        "duration": "3年355天19小时33分",
+        "version": "1.0~2.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

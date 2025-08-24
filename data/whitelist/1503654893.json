@@ -1,0 +1,27 @@
+{
+  "1503654893": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2025-02-08 15:03:06",
+        "edate": null,
+        "status": "offline",
+        "duration": "194天14小时2分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2020-03-21 00:00:00",
+        "edate": "2025-02-08 15:03:06",
+        "status": "online",
+        "duration": "4年325天15小时3分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

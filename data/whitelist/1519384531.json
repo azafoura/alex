@@ -1,0 +1,27 @@
+{
+  "1519384531": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-03-29 17:36:11",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年146天12小时2分",
+        "version": "2.3.7"
+      },
+      {
+        "sdate": "2020-06-20 00:00:00",
+        "edate": "2022-03-29 17:36:11",
+        "status": "online",
+        "duration": "1年282天17小时36分",
+        "version": "1.0.0~2.3.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

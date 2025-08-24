@@ -1,0 +1,27 @@
+{
+  "1487766983": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-06-24 06:28:47",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年59天22小时27分",
+        "version": "1.4.8"
+      },
+      {
+        "sdate": "2019-11-22 21:12:33",
+        "edate": "2022-06-24 06:28:47",
+        "status": "online",
+        "duration": "2年214天9小时16分",
+        "version": "1.0.0~1.4.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "541835159": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:09:11",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时34分",
+        "version": "4.2.2"
+      },
+      {
+        "sdate": "2012-12-17 22:16:55",
+        "edate": "2020-12-31 04:09:11",
+        "status": "online",
+        "duration": "8年15天5小时52分",
+        "version": "1.2~4.2.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

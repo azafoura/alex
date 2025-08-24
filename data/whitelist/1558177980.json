@@ -1,0 +1,27 @@
+{
+  "1558177980": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-04-19 18:24:46",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年125天17小时19分",
+        "version": "1.07"
+      },
+      {
+        "sdate": "2021-03-14 15:05:05",
+        "edate": "2021-04-19 18:24:46",
+        "status": "online",
+        "duration": "36天3小时19分",
+        "version": "1.0~1.07"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

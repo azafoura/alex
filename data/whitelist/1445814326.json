@@ -1,0 +1,20 @@
+{
+  "1445814326": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-12-21 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "6年245天21小时27分",
+        "version": "1.0.0~2.0.0"
+      }
+    ],
+    "total": 1,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "636511657": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-01-07 08:52:40",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年226天23小时58分",
+        "version": "1.38.0"
+      },
+      {
+        "sdate": "2014-10-27 10:03:44",
+        "edate": "2018-01-07 08:52:40",
+        "status": "online",
+        "duration": "3年72天22小时48分",
+        "version": "1.5.0~1.38.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

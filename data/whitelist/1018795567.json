@@ -1,0 +1,27 @@
+{
+  "1018795567": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:58:18",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时54分",
+        "version": "1.42.0"
+      },
+      {
+        "sdate": "2015-11-05 06:21:36",
+        "edate": "2020-12-31 04:58:18",
+        "status": "online",
+        "duration": "5年57天22小时36分",
+        "version": "1.0.8~1.42.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

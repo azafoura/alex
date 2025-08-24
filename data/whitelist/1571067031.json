@@ -1,0 +1,34 @@
+{
+  "1571067031": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-11-26 12:02:51",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年270天3小时44分",
+        "version": "1.0.6"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-06-18 18:02:01",
+        "edate": "2021-06-18 19:57:49",
+        "duration": "1小时55分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2021-06-08 00:00:00",
+        "edate": "2021-11-26 12:02:51",
+        "status": "online",
+        "duration": "171天12小时2分",
+        "version": "1.0~1.0.6"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

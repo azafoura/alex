@@ -1,0 +1,27 @@
+{
+  "524947771": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 02:34:02",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年145天6小时8分",
+        "version": "1.5"
+      },
+      {
+        "sdate": "2012-08-02 21:57:17",
+        "edate": "2016-03-30 02:34:02",
+        "status": "online",
+        "duration": "3年240天4小时36分",
+        "version": "1.0~1.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1599863912": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-11-26 05:03:20",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年270天11小时38分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2021-12-13 00:00:00",
+        "edate": "2023-11-26 05:03:20",
+        "status": "online",
+        "duration": "1年348天5小时3分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

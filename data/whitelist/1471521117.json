@@ -1,0 +1,34 @@
+{
+  "1471521117": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-09-26 11:20:54",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年330天13小时13分",
+        "version": "1.1.3"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-08-17 00:43:19",
+        "edate": "2019-08-17 03:00:00",
+        "duration": "2小时16分",
+        "version": "1.1.3"
+      },
+      {
+        "sdate": "2019-07-19 00:00:00",
+        "edate": "2023-09-26 11:20:54",
+        "status": "online",
+        "duration": "4年70天11小时20分",
+        "version": "1.0.9~1.1.3"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

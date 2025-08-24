@@ -1,0 +1,27 @@
+{
+  "1559188098": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-09-07 04:30:47",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年350天7小时15分",
+        "version": "3.15.11 (81)"
+      },
+      {
+        "sdate": "2021-03-31 00:00:00",
+        "edate": "2023-09-07 04:30:47",
+        "status": "online",
+        "duration": "2年160天4小时30分",
+        "version": "0.0.4~3.15.11 (81)"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

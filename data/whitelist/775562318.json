@@ -1,0 +1,27 @@
+{
+  "775562318": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-06-13 18:44:52",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年68天14小时17分",
+        "version": "1.4.2"
+      },
+      {
+        "sdate": "2014-03-10 21:31:25",
+        "edate": "2020-06-13 18:44:52",
+        "status": "online",
+        "duration": "6年96天21小时13分",
+        "version": "1.0.1~1.4.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

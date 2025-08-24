@@ -1,0 +1,27 @@
+{
+  "1503152694": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:47:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年235天17分",
+        "version": "1.21"
+      },
+      {
+        "sdate": "2020-03-18 14:21:22",
+        "edate": "2020-12-31 04:47:13",
+        "status": "online",
+        "duration": "287天14小时25分",
+        "version": "1.0~1.21"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

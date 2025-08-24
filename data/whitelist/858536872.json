@@ -1,0 +1,41 @@
+{
+  "858536872": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-06-06 18:50:43",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年75天14小时18分",
+        "version": "3.0.0"
+      },
+      {
+        "sdate": "2019-05-08 01:59:04",
+        "edate": "2020-06-06 18:50:43",
+        "status": "online",
+        "duration": "1年30天16小时51分",
+        "version": "3.0.0"
+      },
+      {
+        "sdate": "2019-04-29 19:04:30",
+        "edate": "2019-05-08 01:59:04",
+        "status": "offline",
+        "duration": "8天6小时54分",
+        "version": "3.0.0"
+      },
+      {
+        "sdate": "2014-05-09 20:21:36",
+        "edate": "2019-04-29 19:04:30",
+        "status": "online",
+        "duration": "4年355天22小时42分",
+        "version": "1.0.0~3.0.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

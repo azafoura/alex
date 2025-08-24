@@ -1,0 +1,27 @@
+{
+  "780426870": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-01-10 16:13:24",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年223天16小时49分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2014-01-23 02:07:09",
+        "edate": "2017-01-10 16:13:24",
+        "status": "online",
+        "duration": "2年353天14小时6分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

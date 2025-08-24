@@ -1,0 +1,48 @@
+{
+  "720063540": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:13:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时45分",
+        "version": "1.6.10"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-10-28 21:45:53",
+        "edate": "2020-10-28 23:39:24",
+        "duration": "1小时53分",
+        "version": "1.6.10"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-02-13 14:38:07",
+        "edate": "2020-02-13 16:36:31",
+        "duration": "1小时58分",
+        "version": "1.6.3"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-11-26 23:55:56",
+        "edate": "2019-11-27 02:00:00",
+        "duration": "2小时4分",
+        "version": "1.6.3"
+      },
+      {
+        "sdate": "2013-10-18 22:44:16",
+        "edate": "2020-12-31 04:13:13",
+        "status": "online",
+        "duration": "7年75天5小时28分",
+        "version": "0.2.0~1.6.10"
+      }
+    ],
+    "total": 5,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

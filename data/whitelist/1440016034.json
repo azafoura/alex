@@ -1,0 +1,41 @@
+{
+  "1440016034": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-11-24 19:54:33",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年271天1小时28分",
+        "version": "UIF"
+      },
+      {
+        "sdate": "2018-12-10 23:45:07",
+        "edate": "2020-11-24 19:54:33",
+        "status": "online",
+        "duration": "1年349天20小时9分",
+        "version": "UIF"
+      },
+      {
+        "sdate": "2018-12-10 20:12:42",
+        "edate": "2018-12-10 23:45:07",
+        "status": "offline",
+        "duration": "3小时32分",
+        "version": "UIF"
+      },
+      {
+        "sdate": "2018-12-05 00:00:00",
+        "edate": "2018-12-10 20:12:42",
+        "status": "online",
+        "duration": "5天20小时12分",
+        "version": "UIF"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

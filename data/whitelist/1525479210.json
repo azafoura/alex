@@ -1,0 +1,27 @@
+{
+  "1525479210": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-03-14 23:12:54",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年161天6小时35分",
+        "version": "1.9"
+      },
+      {
+        "sdate": "2020-08-28 00:00:00",
+        "edate": "2023-03-14 23:12:54",
+        "status": "online",
+        "duration": "2年198天23小时12分",
+        "version": "1.0~1.9"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

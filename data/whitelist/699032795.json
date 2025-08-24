@@ -1,0 +1,41 @@
+{
+  "699032795": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2024-09-09 12:22:05",
+        "edate": "2024-09-09 15:15:21",
+        "duration": "2小时53分",
+        "version": "5.2.19"
+      },
+      {
+        "sdate": "2020-04-22 10:18:05",
+        "edate": "",
+        "status": "online",
+        "duration": "5年120天22小时38分",
+        "version": "5.2~5.2.19"
+      },
+      {
+        "sdate": "2016-03-30 01:30:47",
+        "edate": "2020-04-22 10:18:05",
+        "status": "offline",
+        "duration": "4年24天8小时47分",
+        "version": "5.0.1~5.2"
+      },
+      {
+        "sdate": "2013-09-12 00:00:00",
+        "edate": "2016-03-30 01:30:47",
+        "status": "online",
+        "duration": "2年200天1小时30分",
+        "version": "1.0~5.0.1"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

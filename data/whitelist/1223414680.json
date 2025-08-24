@@ -1,0 +1,27 @@
+{
+  "1223414680": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-06-12 20:57:37",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年71天10小时34分",
+        "version": "1.1.548"
+      },
+      {
+        "sdate": "2018-04-16 21:52:48",
+        "edate": "2018-06-12 20:57:37",
+        "status": "online",
+        "duration": "56天23小时4分",
+        "version": "1.1.531~1.1.548"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

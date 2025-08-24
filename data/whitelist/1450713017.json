@@ -1,0 +1,27 @@
+{
+  "1450713017": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-04-09 16:05:20",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年136天8小时1分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2019-02-15 03:03:56",
+        "edate": "2019-04-09 16:05:20",
+        "status": "online",
+        "duration": "53天13小时1分",
+        "version": "1.0.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

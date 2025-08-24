@@ -1,0 +1,27 @@
+{
+  "875790902": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-04-20 10:09:52",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年123天7小时44分",
+        "version": "3.8.7"
+      },
+      {
+        "sdate": "2014-08-06 16:20:34",
+        "edate": "2020-04-20 10:09:52",
+        "status": "online",
+        "duration": "5年258天17小时49分",
+        "version": "1.2~3.8.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

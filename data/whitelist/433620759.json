@@ -1,0 +1,27 @@
+{
+  "433620759": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-02-23 12:49:52",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年179天19小时46分",
+        "version": "1.0.6"
+      },
+      {
+        "sdate": "2011-10-08 23:17:03",
+        "edate": "2018-02-23 12:49:52",
+        "status": "online",
+        "duration": "6年139天13小时32分",
+        "version": "1.0.0~1.0.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

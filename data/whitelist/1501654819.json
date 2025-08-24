@@ -1,0 +1,27 @@
+{
+  "1501654819": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:45:37",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年235天18分",
+        "version": "1.2.20"
+      },
+      {
+        "sdate": "2020-03-06 00:48:10",
+        "edate": "2020-12-31 04:45:37",
+        "status": "online",
+        "duration": "300天3小时57分",
+        "version": "1.0~1.2.20"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

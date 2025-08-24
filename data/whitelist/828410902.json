@@ -1,0 +1,41 @@
+{
+  "828410902": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:18:51",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时48分",
+        "version": "4.2.1"
+      },
+      {
+        "sdate": "2020-03-19 22:51:52",
+        "edate": "2020-12-31 04:18:51",
+        "status": "online",
+        "duration": "286天5小时26分",
+        "version": "4.1.4~4.2.1"
+      },
+      {
+        "sdate": "2020-03-17 18:49:57",
+        "edate": "2020-03-19 22:51:52",
+        "status": "offline",
+        "duration": "2天4小时1分",
+        "version": "4.1.4"
+      },
+      {
+        "sdate": "2016-11-28 09:21:33",
+        "edate": "2020-03-17 18:49:57",
+        "status": "online",
+        "duration": "3年110天9小时28分",
+        "version": "1.18~4.1.4"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

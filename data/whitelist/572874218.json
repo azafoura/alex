@@ -1,0 +1,48 @@
+{
+  "572874218": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-10-15 21:31:30",
+        "edate": "",
+        "status": "online",
+        "duration": "308天11小时15分",
+        "version": "1.3.9"
+      },
+      {
+        "sdate": "2024-09-26 17:50:55",
+        "edate": "2024-10-15 21:31:30",
+        "status": "offline",
+        "duration": "19天3小时40分",
+        "version": "1.3.9"
+      },
+      {
+        "sdate": "2024-02-12 16:28:59",
+        "edate": "2024-09-26 17:50:55",
+        "status": "online",
+        "duration": "227天1小时21分",
+        "version": "1.3.9"
+      },
+      {
+        "sdate": "2024-02-11 19:50:45",
+        "edate": "2024-02-12 16:28:59",
+        "status": "offline",
+        "duration": "20小时38分",
+        "version": "1.3.9"
+      },
+      {
+        "sdate": "2012-11-05 00:00:00",
+        "edate": "2024-02-11 19:50:45",
+        "status": "online",
+        "duration": "11年100天19小时50分",
+        "version": "1.0~1.3.9"
+      }
+    ],
+    "total": 5,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "930350602": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2015-06-04 11:09:02",
+        "edate": null,
+        "status": "offline",
+        "duration": "10年80天10小时48分",
+        "version": "1.0.3~3.3.1"
+      },
+      {
+        "sdate": "2015-04-09 01:05:41",
+        "edate": "2015-06-04 11:09:02",
+        "status": "online",
+        "duration": "56天10小时3分",
+        "version": "1.0.0~1.0.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

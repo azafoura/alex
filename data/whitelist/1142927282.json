@@ -1,0 +1,27 @@
+{
+  "1142927282": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-08-04 02:55:07",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年18天2小时4分",
+        "version": "1.0.7"
+      },
+      {
+        "sdate": "2016-09-04 21:36:35",
+        "edate": "2020-08-04 02:55:07",
+        "status": "online",
+        "duration": "3年334天5小时18分",
+        "version": "1.0~1.0.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

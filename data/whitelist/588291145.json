@@ -1,0 +1,48 @@
+{
+  "588291145": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2024-07-10 03:20:37",
+        "edate": "2024-07-10 06:51:54",
+        "duration": "3小时31分",
+        "version": "1.4"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-12-05 17:56:31",
+        "edate": "2021-12-05 19:33:58",
+        "duration": "1小时37分",
+        "version": "1.4"
+      },
+      {
+        "sdate": "2019-03-05 12:32:36",
+        "edate": "",
+        "status": "online",
+        "duration": "6年169天20小时15分",
+        "version": "1.4"
+      },
+      {
+        "sdate": "2018-12-23 16:34:08",
+        "edate": "2019-03-05 12:32:36",
+        "status": "offline",
+        "duration": "71天19小时58分",
+        "version": "1.4"
+      },
+      {
+        "sdate": "2013-01-17 00:00:00",
+        "edate": "2018-12-23 16:34:08",
+        "status": "online",
+        "duration": "5年341天16小时34分",
+        "version": "1.0~1.4"
+      }
+    ],
+    "total": 5,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

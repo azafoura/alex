@@ -1,0 +1,41 @@
+{
+  "1324918900": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-09-07 09:11:21",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年349天23小时3分",
+        "version": "1.0.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2018-07-14 12:35:26",
+        "edate": "2018-09-07 09:11:21",
+        "duration": "54天20小时35分",
+        "version": "1.0.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2018-05-08 14:29:26",
+        "edate": "2018-07-11 00:00:00",
+        "duration": "63天9小时30分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2017-12-18 19:22:44",
+        "edate": "2018-09-07 09:11:21",
+        "status": "online",
+        "duration": "262天13小时48分",
+        "version": "1.0.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

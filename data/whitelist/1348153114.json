@@ -1,0 +1,27 @@
+{
+  "1348153114": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:30:39",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天7小时3分",
+        "version": "2.2.0"
+      },
+      {
+        "sdate": "2018-03-12 00:00:00",
+        "edate": "2020-12-31 04:30:39",
+        "status": "online",
+        "duration": "2年295天4小时30分",
+        "version": "1.0.0~2.2.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1572267009": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-06-19 17:55:02",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年64天21小时52分",
+        "version": "0.0.16"
+      },
+      {
+        "sdate": "2021-06-18 00:00:00",
+        "edate": "2021-06-19 17:55:02",
+        "status": "online",
+        "duration": "1天17小时55分",
+        "version": "0.0.16"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

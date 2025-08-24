@@ -1,0 +1,34 @@
+{
+  "1584557745": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-04-26 22:58:26",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年118天16小时56分",
+        "version": "1.2.2"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-11-12 03:06:21",
+        "edate": "2021-11-12 04:52:06",
+        "duration": "1小时45分",
+        "version": "1.2.1"
+      },
+      {
+        "sdate": "2021-09-07 00:00:00",
+        "edate": "2023-04-26 22:58:26",
+        "status": "online",
+        "duration": "1年231天22小时58分",
+        "version": "1.0~1.2.2"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1254124029": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-05-18 09:30:12",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年94天22小时16分",
+        "version": "5.0"
+      },
+      {
+        "sdate": "2017-07-01 00:00:00",
+        "edate": "2024-05-18 09:30:12",
+        "status": "online",
+        "duration": "6年323天9小时30分",
+        "version": "1.0~5.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

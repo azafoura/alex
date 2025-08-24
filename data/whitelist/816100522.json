@@ -1,0 +1,34 @@
+{
+  "816100522": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-07-03 08:40:06",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年49天25分",
+        "version": "12.5.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-05-31 21:00:12",
+        "edate": "2021-07-03 08:40:06",
+        "duration": "32天11小时39分",
+        "version": "12.4.2~12.5.1"
+      },
+      {
+        "sdate": "2014-03-23 15:53:07",
+        "edate": "2021-07-03 08:40:06",
+        "status": "online",
+        "duration": "7年103天16小时46分",
+        "version": "4.1.0~12.5.1"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "500973644": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 05:36:58",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天3小时3分",
+        "version": "1.56"
+      },
+      {
+        "sdate": "2012-06-15 00:00:00",
+        "edate": "2020-12-31 05:36:58",
+        "status": "online",
+        "duration": "8年201天5小时36分",
+        "version": "1.0~1.56"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

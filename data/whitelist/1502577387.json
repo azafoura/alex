@@ -1,0 +1,27 @@
+{
+  "1502577387": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-29 20:19:53",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年297天8小时44分",
+        "version": "1.5.9"
+      },
+      {
+        "sdate": "2020-03-20 13:45:25",
+        "edate": "2020-10-29 20:19:53",
+        "status": "online",
+        "duration": "223天6小时34分",
+        "version": "1.0~1.5.9"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

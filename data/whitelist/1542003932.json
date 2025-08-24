@@ -1,0 +1,34 @@
+{
+  "1542003932": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-06-07 10:36:40",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年76天19小时39分",
+        "version": "1.0.16"
+      },
+      {
+        "sdate": "2021-06-22 01:59:18",
+        "edate": "2022-06-07 10:36:40",
+        "status": "online",
+        "duration": "350天8小时37分",
+        "version": "1.0.2~1.0.16"
+      },
+      {
+        "sdate": "2021-04-14 10:42:10",
+        "edate": "2021-06-22 01:59:18",
+        "status": "preorder",
+        "duration": "68天15小时17分",
+        "version": "1.0~1.0.2"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

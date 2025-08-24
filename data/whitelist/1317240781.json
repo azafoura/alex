@@ -1,0 +1,27 @@
+{
+  "1317240781": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-01-29 10:40:51",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年205天21小时31分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2018-01-26 23:50:37",
+        "edate": "2018-01-29 10:40:51",
+        "status": "online",
+        "duration": "2天10小时50分",
+        "version": "1.0.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "924373886": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2015-05-28 11:00:36",
+        "edate": null,
+        "status": "offline",
+        "duration": "10年87天10小时56分",
+        "version": "1.2.2~1.3.9"
+      },
+      {
+        "sdate": "2014-10-24 00:43:44",
+        "edate": "2015-05-28 11:00:36",
+        "status": "online",
+        "duration": "216天10小时16分",
+        "version": "1.0.1~1.2.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

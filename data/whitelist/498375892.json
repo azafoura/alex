@@ -1,0 +1,27 @@
+{
+  "498375892": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-02-22 13:15:29",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年180天19小时24分",
+        "version": "4.25.6"
+      },
+      {
+        "sdate": "2014-05-13 16:15:21",
+        "edate": "2018-02-22 13:15:29",
+        "status": "online",
+        "duration": "3年285天21小时0分",
+        "version": "4.8.1~4.25.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

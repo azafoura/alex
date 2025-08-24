@@ -1,0 +1,34 @@
+{
+  "1025675619": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-05-28 07:34:42",
+        "edate": "",
+        "status": "online",
+        "duration": "2年85天15小时20分",
+        "version": "1.3.13"
+      },
+      {
+        "sdate": "2023-05-23 19:00:55",
+        "edate": "2023-05-28 07:34:42",
+        "status": "offline",
+        "duration": "4天12小时33分",
+        "version": "1.3.13"
+      },
+      {
+        "sdate": "2015-09-06 00:00:00",
+        "edate": "2023-05-23 19:00:55",
+        "status": "online",
+        "duration": "7年261天19小时0分",
+        "version": "1.0.3~1.3.13"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

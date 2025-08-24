@@ -1,0 +1,41 @@
+{
+  "1180459805": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-08 11:56:22",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年317天17小时18分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2020-07-08 11:00:01",
+        "edate": "2020-10-08 11:56:22",
+        "status": "online",
+        "duration": "92天56分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2020-07-04 06:07:24",
+        "edate": "2020-07-08 11:00:01",
+        "status": "offline",
+        "duration": "4天4小时52分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2016-12-01 00:00:00",
+        "edate": "2020-07-04 06:07:24",
+        "status": "online",
+        "duration": "3年216天6小时7分",
+        "version": "1.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

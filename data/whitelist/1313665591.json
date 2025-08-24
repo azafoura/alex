@@ -1,0 +1,41 @@
+{
+  "1313665591": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2020-12-21 17:58:32",
+        "edate": "2020-12-21 19:55:00",
+        "duration": "1小时56分",
+        "version": "1.2.0"
+      },
+      {
+        "sdate": "2018-08-21 08:04:43",
+        "edate": "",
+        "status": "online",
+        "duration": "7年2天5分",
+        "version": "1.0.5~1.6.9"
+      },
+      {
+        "sdate": "2018-08-09 09:23:12",
+        "edate": "2018-08-21 08:04:43",
+        "status": "offline",
+        "duration": "11天22小时41分",
+        "version": "1.0.5"
+      },
+      {
+        "sdate": "2017-11-16 23:17:42",
+        "edate": "2018-08-09 09:23:12",
+        "status": "online",
+        "duration": "265天10小时5分",
+        "version": "1.0.0~1.0.5"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

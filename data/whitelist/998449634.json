@@ -1,0 +1,27 @@
+{
+  "998449634": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:19:51",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天18小时28分",
+        "version": "5.12"
+      },
+      {
+        "sdate": "2015-06-16 07:05:11",
+        "edate": "2020-12-31 04:19:51",
+        "status": "online",
+        "duration": "5年199天21小时14分",
+        "version": "3.0~5.12"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1091699305": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-02-15 03:53:43",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年188天22分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2016-05-11 00:00:00",
+        "edate": "2023-02-15 03:53:43",
+        "status": "online",
+        "duration": "6年281天3小时53分",
+        "version": "1.0~2.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

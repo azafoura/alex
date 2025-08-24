@@ -1,0 +1,27 @@
+{
+  "1560325722": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-01-11 06:56:01",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年224天4小时52分",
+        "version": "0.2.5"
+      },
+      {
+        "sdate": "2021-03-28 00:00:00",
+        "edate": "2022-01-11 06:56:01",
+        "status": "online",
+        "duration": "289天6小时56分",
+        "version": "0.0.4~0.2.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

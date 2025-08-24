@@ -1,0 +1,41 @@
+{
+  "1221174690": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:26:02",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天3小时5分",
+        "version": "1.0.383"
+      },
+      {
+        "sdate": "2018-10-06 13:26:35",
+        "edate": "2020-12-31 04:26:02",
+        "status": "online",
+        "duration": "2年86天14小时59分",
+        "version": "1.0.113~1.0.383"
+      },
+      {
+        "sdate": "2018-10-06 02:21:56",
+        "edate": "2018-10-06 13:26:35",
+        "status": "offline",
+        "duration": "11小时4分",
+        "version": "1.0.113"
+      },
+      {
+        "sdate": "2017-06-21 01:46:00",
+        "edate": "2018-10-06 02:21:56",
+        "status": "online",
+        "duration": "1年107天35分",
+        "version": "1.0.10~1.0.113"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

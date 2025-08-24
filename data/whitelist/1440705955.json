@@ -1,0 +1,27 @@
+{
+  "1440705955": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-05-23 00:58:04",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年92天20小时25分",
+        "version": "326"
+      },
+      {
+        "sdate": "2018-11-13 11:23:28",
+        "edate": "2019-05-23 00:58:04",
+        "status": "online",
+        "duration": "190天13小时34分",
+        "version": "326"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

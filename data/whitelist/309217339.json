@@ -1,0 +1,27 @@
+{
+  "309217339": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-07-07 10:24:16",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年47天17小时6分",
+        "version": "5.6"
+      },
+      {
+        "sdate": "2010-12-10 00:36:56",
+        "edate": "2019-07-07 10:24:16",
+        "status": "online",
+        "duration": "8年211天9小时47分",
+        "version": "2.1~5.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

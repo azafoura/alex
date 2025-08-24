@@ -1,0 +1,27 @@
+{
+  "1535922800": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-11-03 23:12:47",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年292天6小时55分",
+        "version": "0.1.5"
+      },
+      {
+        "sdate": "2020-10-19 17:43:52",
+        "edate": "2020-11-03 23:12:47",
+        "status": "online",
+        "duration": "15天5小时28分",
+        "version": "0.1.0~0.1.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

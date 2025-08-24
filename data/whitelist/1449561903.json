@@ -1,0 +1,27 @@
+{
+  "1449561903": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-06-12 14:00:33",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年72天9小时42分",
+        "version": "1.0.188"
+      },
+      {
+        "sdate": "2019-02-26 07:30:48",
+        "edate": "2019-06-12 14:00:33",
+        "status": "online",
+        "duration": "106天6小时29分",
+        "version": "1.0.166~1.0.188"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1536475808": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-11-26 20:58:36",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年269天9小时10分",
+        "version": "0.3"
+      },
+      {
+        "sdate": "2020-10-22 18:41:17",
+        "edate": "2020-11-26 20:58:36",
+        "status": "online",
+        "duration": "35天2小时17分",
+        "version": "0.1~0.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

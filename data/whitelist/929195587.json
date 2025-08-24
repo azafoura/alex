@@ -1,0 +1,34 @@
+{
+  "929195587": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:17:06",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时40分",
+        "version": "51.0.2"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-04-18 17:37:24",
+        "edate": "2020-04-18 19:32:14",
+        "duration": "1小时54分",
+        "version": "46.177.0"
+      },
+      {
+        "sdate": "2014-11-26 02:14:31",
+        "edate": "2020-12-31 04:17:06",
+        "status": "online",
+        "duration": "6年37天2小时2分",
+        "version": "1.0.0~51.0.2"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

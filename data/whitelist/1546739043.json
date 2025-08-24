@@ -1,0 +1,27 @@
+{
+  "1546739043": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-01-20 20:05:06",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年214天15小时18分",
+        "version": "1.38"
+      },
+      {
+        "sdate": "2020-12-31 00:00:00",
+        "edate": "2024-01-20 20:05:06",
+        "status": "online",
+        "duration": "3年20天20小时5分",
+        "version": "1.12~1.38"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "824694361": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:24:30",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时42分",
+        "version": "4.9.1"
+      },
+      {
+        "sdate": "2018-07-30 16:46:33",
+        "edate": "2020-12-31 04:24:30",
+        "status": "online",
+        "duration": "2年154天11小时37分",
+        "version": "3.3.4~4.9.1"
+      },
+      {
+        "sdate": "2015-06-06 03:49:00",
+        "edate": "2018-07-30 16:46:33",
+        "status": "offline",
+        "duration": "3年55天12小时57分",
+        "version": "1.6.4~3.3.4"
+      },
+      {
+        "sdate": "2014-05-21 17:47:08",
+        "edate": "2015-06-06 03:49:00",
+        "status": "online",
+        "duration": "1年15天10小时1分",
+        "version": "1.1.2~1.6.4"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

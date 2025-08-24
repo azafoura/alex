@@ -1,0 +1,34 @@
+{
+  "1183167837": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2025-06-23 19:15:05",
+        "edate": "",
+        "status": "online",
+        "duration": "58天10小时0分",
+        "version": "1.5"
+      },
+      {
+        "sdate": "2025-06-14 17:13:30",
+        "edate": "2025-06-23 19:15:05",
+        "status": "offline",
+        "duration": "9天2小时1分",
+        "version": "1.5"
+      },
+      {
+        "sdate": "2017-01-03 00:00:00",
+        "edate": "2025-06-14 17:13:30",
+        "status": "online",
+        "duration": "8年164天17小时13分",
+        "version": "1.0~1.5"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

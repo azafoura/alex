@@ -1,0 +1,27 @@
+{
+  "651510680": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:58:22",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天3小时53分",
+        "version": "3.98.1"
+      },
+      {
+        "sdate": "2014-06-11 13:32:43",
+        "edate": "2020-12-31 04:58:22",
+        "status": "online",
+        "duration": "6年204天15小时25分",
+        "version": "1.7~3.98.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

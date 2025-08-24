@@ -1,0 +1,27 @@
+{
+  "1327228064": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:29:42",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天3小时46分",
+        "version": "2.9.1"
+      },
+      {
+        "sdate": "2018-02-06 03:38:20",
+        "edate": "2020-12-31 04:29:42",
+        "status": "online",
+        "duration": "2年329天51分",
+        "version": "1.1.5~2.9.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

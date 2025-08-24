@@ -1,0 +1,27 @@
+{
+  "1222515237": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:31:25",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天3小时0分",
+        "version": "1.5.2"
+      },
+      {
+        "sdate": "2017-04-30 22:16:41",
+        "edate": "2020-12-31 04:31:25",
+        "status": "online",
+        "duration": "3年245天6小时14分",
+        "version": "0.6~1.5.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

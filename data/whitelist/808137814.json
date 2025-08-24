@@ -1,0 +1,41 @@
+{
+  "808137814": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:22:10",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时43分",
+        "version": "2.2.0"
+      },
+      {
+        "sdate": "2019-12-12 05:11:37",
+        "edate": "2020-12-31 04:22:10",
+        "status": "online",
+        "duration": "1年19天23小时10分",
+        "version": "1.40.2~2.2.0"
+      },
+      {
+        "sdate": "2019-12-12 03:59:39",
+        "edate": "2019-12-12 05:11:37",
+        "status": "offline",
+        "duration": "1小时11分",
+        "version": "1.40.2"
+      },
+      {
+        "sdate": "2014-09-25 01:57:02",
+        "edate": "2019-12-12 03:59:39",
+        "status": "online",
+        "duration": "5年79天2小时2分",
+        "version": "1.0.15.4~1.40.2"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

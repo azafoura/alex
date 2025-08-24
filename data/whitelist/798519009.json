@@ -1,0 +1,27 @@
+{
+  "798519009": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 10:09:24",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年144天22小时54分",
+        "version": "1.5.1"
+      },
+      {
+        "sdate": "2014-10-28 02:06:34",
+        "edate": "2016-03-30 10:09:24",
+        "status": "online",
+        "duration": "1年154天8小时2分",
+        "version": "1.0.0~1.5.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

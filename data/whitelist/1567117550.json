@@ -1,0 +1,41 @@
+{
+  "1567117550": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-08-05 02:01:28",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年18天9小时59分",
+        "version": "1.3"
+      },
+      {
+        "sdate": "2021-07-31 06:55:30",
+        "edate": "2021-08-05 02:01:28",
+        "status": "online",
+        "duration": "4天19小时5分",
+        "version": "1.3"
+      },
+      {
+        "sdate": "2021-07-26 21:53:40",
+        "edate": "2021-07-31 06:55:30",
+        "status": "offline",
+        "duration": "4天9小时1分",
+        "version": "1.3"
+      },
+      {
+        "sdate": "2021-05-14 00:00:00",
+        "edate": "2021-07-26 21:53:40",
+        "status": "online",
+        "duration": "73天21小时53分",
+        "version": "1.0~1.3"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

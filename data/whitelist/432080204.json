@@ -1,0 +1,55 @@
+{
+  "432080204": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:08:44",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时27分",
+        "version": "2.15"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-11-21 12:01:09",
+        "edate": "2020-11-21 14:00:00",
+        "duration": "1小时58分",
+        "version": "2.10"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-04-16 14:46:58",
+        "edate": "2020-04-16 16:41:51",
+        "duration": "1小时54分",
+        "version": "2.10"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-11-12 15:00:53",
+        "edate": "2019-11-12 17:00:00",
+        "duration": "1小时59分",
+        "version": "2.10"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-09-07 02:46:18",
+        "edate": "2019-09-07 05:00:00",
+        "duration": "2小时13分",
+        "version": "2.10"
+      },
+      {
+        "sdate": "2011-04-18 22:44:46",
+        "edate": "2020-12-31 04:08:44",
+        "status": "online",
+        "duration": "9年259天5小时23分",
+        "version": "1.0.0~2.15"
+      }
+    ],
+    "total": 6,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

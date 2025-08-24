@@ -1,0 +1,27 @@
+{
+  "1002228096": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-04-13 12:30:31",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年130天10小时18分",
+        "version": "2.42"
+      },
+      {
+        "sdate": "2016-03-19 00:00:00",
+        "edate": "2020-04-13 12:30:31",
+        "status": "online",
+        "duration": "4年26天12小时30分",
+        "version": "1.0~2.42"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

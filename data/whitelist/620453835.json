@@ -1,0 +1,27 @@
+{
+  "620453835": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:11:21",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时39分",
+        "version": "2.20"
+      },
+      {
+        "sdate": "2013-03-25 20:25:13",
+        "edate": "2020-12-31 04:11:21",
+        "status": "online",
+        "duration": "7年282天7小时46分",
+        "version": "1.0~2.20"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

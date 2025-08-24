@@ -1,0 +1,27 @@
+{
+  "940806918": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-01-10 14:02:05",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年224天7小时57分",
+        "version": "1.7"
+      },
+      {
+        "sdate": "2014-11-19 20:44:55",
+        "edate": "2017-01-10 14:02:05",
+        "status": "online",
+        "duration": "2年52天17小时17分",
+        "version": "1.0~1.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "445204560": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-09-30 21:10:20",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年325天11小时26分",
+        "version": "3.7.3"
+      },
+      {
+        "sdate": "2019-06-30 11:52:02",
+        "edate": "2019-09-30 21:10:20",
+        "status": "online",
+        "duration": "92天9小时18分",
+        "version": "3.7.3"
+      },
+      {
+        "sdate": "2018-05-11 20:31:29",
+        "edate": "2019-06-30 11:52:02",
+        "status": "offline",
+        "duration": "1年49天15小时20分",
+        "version": "3.7.3"
+      },
+      {
+        "sdate": "2011-07-07 01:16:33",
+        "edate": "2018-05-11 20:31:29",
+        "status": "online",
+        "duration": "6年310天19小时14分",
+        "version": "1.0.0~3.7.3"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

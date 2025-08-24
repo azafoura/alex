@@ -1,0 +1,27 @@
+{
+  "1356464028": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2019-06-01 13:41:09",
+        "edate": "2019-08-01 22:00:00",
+        "duration": "61天8小时18分",
+        "version": "1.15.9~2.1.6"
+      },
+      {
+        "sdate": "2018-05-07 02:00:46",
+        "edate": "",
+        "status": "online",
+        "duration": "7年108天9小时37分",
+        "version": "0.7.1~8.1.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "686420990": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:20:50",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时34分",
+        "version": "2.7.7"
+      },
+      {
+        "sdate": "2020-09-24 04:56:05",
+        "edate": "2020-12-31 04:20:50",
+        "status": "online",
+        "duration": "97天23小时24分",
+        "version": "2.7.4~2.7.7"
+      },
+      {
+        "sdate": "2020-09-02 02:18:25",
+        "edate": "2020-09-24 04:56:05",
+        "status": "offline",
+        "duration": "22天2小时37分",
+        "version": "2.7.3~2.7.4"
+      },
+      {
+        "sdate": "2013-08-30 01:12:10",
+        "edate": "2020-09-02 02:18:25",
+        "status": "online",
+        "duration": "7年5天1小时6分",
+        "version": "1.0~2.7.3"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

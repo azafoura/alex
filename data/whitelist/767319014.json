@@ -1,0 +1,27 @@
+{
+  "767319014": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-07-11 17:32:33",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年41天15小时29分",
+        "version": "3.0.1"
+      },
+      {
+        "sdate": "2014-03-14 22:41:09",
+        "edate": "2019-07-11 17:32:33",
+        "status": "online",
+        "duration": "5年119天18小时51分",
+        "version": "1.0.0~3.0.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

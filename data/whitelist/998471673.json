@@ -1,0 +1,27 @@
+{
+  "998471673": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:19:32",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天18小时28分",
+        "version": "1.4.3"
+      },
+      {
+        "sdate": "2016-04-09 00:00:00",
+        "edate": "2020-12-31 04:19:32",
+        "status": "online",
+        "duration": "4年267天4小时19分",
+        "version": "1.2.32~1.4.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

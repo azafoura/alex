@@ -1,0 +1,41 @@
+{
+  "1362072943": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-20 00:02:06",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年306天11小时40分",
+        "version": "1.6.41"
+      },
+      {
+        "sdate": "2020-08-08 12:56:03",
+        "edate": "2020-10-20 00:02:06",
+        "status": "online",
+        "duration": "72天11小时6分",
+        "version": "1.6.41"
+      },
+      {
+        "sdate": "2020-08-01 10:38:11",
+        "edate": "2020-08-08 12:56:03",
+        "status": "offline",
+        "duration": "7天2小时17分",
+        "version": "1.6.41"
+      },
+      {
+        "sdate": "2018-04-18 00:00:00",
+        "edate": "2020-08-01 10:38:11",
+        "status": "online",
+        "duration": "2年106天10小时38分",
+        "version": "1.0~1.6.41"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

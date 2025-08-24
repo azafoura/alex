@@ -1,0 +1,34 @@
+{
+  "1433221722": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-04-12 16:44:27",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年94天21小时16分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2019-04-04 18:05:56",
+        "edate": "2019-04-09 10:47:05",
+        "status": "offline",
+        "duration": "4天16小时41分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2019-04-02 12:23:35",
+        "edate": "2019-04-12 16:44:27",
+        "status": "preorder",
+        "duration": "10天4小时20分",
+        "version": "1.0.2"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

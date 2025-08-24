@@ -1,0 +1,34 @@
+{
+  "1482766542": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-29 23:31:01",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年24天1小时20分",
+        "version": "1.9"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-02-28 23:37:43",
+        "edate": "2020-02-29 01:35:33",
+        "duration": "1小时57分",
+        "version": "1.2"
+      },
+      {
+        "sdate": "2020-01-10 00:00:00",
+        "edate": "2020-07-29 23:31:01",
+        "status": "online",
+        "duration": "201天23小时31分",
+        "version": "1.0.0~1.9"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

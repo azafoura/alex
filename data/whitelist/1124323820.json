@@ -1,0 +1,27 @@
+{
+  "1124323820": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-07-08 17:27:22",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年45天11小时8分",
+        "version": "2.0.5"
+      },
+      {
+        "sdate": "2018-03-28 02:38:50",
+        "edate": "2019-07-08 17:27:22",
+        "status": "online",
+        "duration": "1年102天14小时48分",
+        "version": "1.0.0~2.0.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

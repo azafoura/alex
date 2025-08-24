@@ -1,0 +1,27 @@
+{
+  "987072755": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 06:41:19",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年145天16小时3分",
+        "version": "2.9.02~2.9.40"
+      },
+      {
+        "sdate": "2015-07-01 04:26:49",
+        "edate": "2016-03-30 06:41:19",
+        "status": "online",
+        "duration": "273天2小时14分",
+        "version": "1.2.33~2.9.02"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

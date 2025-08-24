@@ -1,0 +1,27 @@
+{
+  "732544456": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-09-03 11:10:05",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年352天21小时49分",
+        "version": "9.9.0"
+      },
+      {
+        "sdate": "2013-11-18 19:22:55",
+        "edate": "2018-09-03 11:10:05",
+        "status": "online",
+        "duration": "4年289天15小时47分",
+        "version": "3.0.6~9.9.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1175241527": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-05-12 06:56:17",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年102天22小时16分",
+        "version": ""
+      },
+      {
+        "sdate": "2017-05-11 02:43:44",
+        "edate": "2017-05-12 06:56:17",
+        "status": "online",
+        "duration": "1天4小时12分",
+        "version": ""
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

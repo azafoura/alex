@@ -1,0 +1,27 @@
+{
+  "885661130": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-03-19 01:39:12",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年158天3小时13分",
+        "version": "3.9.0"
+      },
+      {
+        "sdate": "2014-08-27 01:28:17",
+        "edate": "2019-03-19 01:39:12",
+        "status": "online",
+        "duration": "4年205天10分",
+        "version": "0.7.0~3.9.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

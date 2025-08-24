@@ -1,0 +1,27 @@
+{
+  "1298915029": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-08-27 13:32:46",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年360天18小时32分",
+        "version": ""
+      },
+      {
+        "sdate": "2018-05-14 06:32:28",
+        "edate": "2018-08-27 13:32:46",
+        "status": "online",
+        "duration": "105天7小时0分",
+        "version": ""
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

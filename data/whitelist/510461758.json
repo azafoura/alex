@@ -1,0 +1,34 @@
+{
+  "510461758": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:14:27",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时26分",
+        "version": "8.3.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-06-30 01:48:40",
+        "edate": "2020-06-30 03:41:39",
+        "duration": "1小时52分",
+        "version": "8.3.1"
+      },
+      {
+        "sdate": "2013-05-11 03:03:59",
+        "edate": "2020-12-31 04:14:27",
+        "status": "online",
+        "duration": "7年236天1小时10分",
+        "version": "2.3.3~8.3.1"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

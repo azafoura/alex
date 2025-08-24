@@ -1,0 +1,41 @@
+{
+  "970503221": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-09-11 00:11:34",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年344天22小时1分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2021-08-10 20:45:16",
+        "edate": "2022-09-11 00:11:34",
+        "status": "online",
+        "duration": "1年31天3小时26分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2021-08-10 19:13:16",
+        "edate": "2021-08-10 20:45:16",
+        "status": "offline",
+        "duration": "1小时32分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2015-03-04 00:00:00",
+        "edate": "2021-08-10 19:13:16",
+        "status": "online",
+        "duration": "6年161天19小时13分",
+        "version": "1.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

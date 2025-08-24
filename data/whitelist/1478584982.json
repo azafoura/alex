@@ -1,0 +1,41 @@
+{
+  "1478584982": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 05:24:49",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天19小时20分",
+        "version": "2.15"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-11-12 11:36:34",
+        "edate": "2019-11-12 14:00:00",
+        "duration": "2小时23分",
+        "version": "1.98"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-09-06 20:53:15",
+        "edate": "2019-09-06 23:00:00",
+        "duration": "2小时6分",
+        "version": "1.82"
+      },
+      {
+        "sdate": "2019-09-04 01:02:47",
+        "edate": "2020-12-31 05:24:49",
+        "status": "online",
+        "duration": "1年119天4小时22分",
+        "version": "1.82~2.15"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

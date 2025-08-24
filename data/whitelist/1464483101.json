@@ -1,0 +1,27 @@
+{
+  "1464483101": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-01-29 06:20:27",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年205天18小时5分",
+        "version": "14.2.3"
+      },
+      {
+        "sdate": "2019-08-21 00:00:00",
+        "edate": "2022-01-29 06:20:27",
+        "status": "online",
+        "duration": "2年162天6小时20分",
+        "version": "10.0.0~14.2.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

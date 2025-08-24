@@ -1,0 +1,41 @@
+{
+  "450542233": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:06:51",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时30分",
+        "version": "1.7.6"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-11-20 17:52:18",
+        "edate": "2020-11-20 19:50:52",
+        "duration": "1小时58分",
+        "version": "1.7.6"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-08-01 23:33:24",
+        "edate": "2020-08-02 01:30:11",
+        "duration": "1小时56分",
+        "version": "1.7.6"
+      },
+      {
+        "sdate": "2011-07-29 23:06:06",
+        "edate": "2020-12-31 04:06:51",
+        "status": "online",
+        "duration": "9年157天5小时0分",
+        "version": "1.0~1.7.6"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

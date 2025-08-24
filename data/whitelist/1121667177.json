@@ -1,0 +1,41 @@
+{
+  "1121667177": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-01-07 19:22:17",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年227天9小时10分",
+        "version": "1.14.4"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-12-30 23:55:52",
+        "edate": "2019-12-31 02:00:00",
+        "duration": "2小时4分",
+        "version": "1.14.4"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-09-21 11:57:22",
+        "edate": "2019-09-21 14:00:00",
+        "duration": "2小时2分",
+        "version": "1.13.6"
+      },
+      {
+        "sdate": "2017-04-12 19:10:44",
+        "edate": "2020-01-07 19:22:17",
+        "status": "online",
+        "duration": "2年270天11分",
+        "version": "0.1.1~1.14.4"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

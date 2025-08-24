@@ -1,0 +1,27 @@
+{
+  "461402734": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-12-06 19:13:36",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年258天13小时24分",
+        "version": "7.1.22"
+      },
+      {
+        "sdate": "2014-02-03 10:08:42",
+        "edate": "2018-12-06 19:13:36",
+        "status": "online",
+        "duration": "4年307天9小时4分",
+        "version": "4.3~7.1.22"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "901294947": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:16:09",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天13小时55分",
+        "version": "1.7"
+      },
+      {
+        "sdate": "2020-02-18 15:08:07",
+        "edate": "2020-12-31 04:16:09",
+        "status": "online",
+        "duration": "316天13小时8分",
+        "version": "1.7"
+      },
+      {
+        "sdate": "2020-01-26 19:56:50",
+        "edate": "2020-02-18 15:08:07",
+        "status": "offline",
+        "duration": "22天19小时11分",
+        "version": "1.7"
+      },
+      {
+        "sdate": "2014-08-04 00:00:00",
+        "edate": "2020-01-26 19:56:50",
+        "status": "online",
+        "duration": "5年176天19小时56分",
+        "version": "1.0~1.7"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

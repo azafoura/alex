@@ -1,0 +1,41 @@
+{
+  "1335772572": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 05:13:39",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天6小时14分",
+        "version": "2.1"
+      },
+      {
+        "sdate": "2018-05-31 17:27:12",
+        "edate": "2020-12-31 05:13:39",
+        "status": "online",
+        "duration": "2年214天11小时46分",
+        "version": "1.9.11~2.1"
+      },
+      {
+        "sdate": "2018-05-29 12:29:22",
+        "edate": "2018-05-31 17:27:12",
+        "status": "offline",
+        "duration": "2天4小时57分",
+        "version": "1.7.1~1.9.11"
+      },
+      {
+        "sdate": "2018-02-13 20:40:08",
+        "edate": "2018-05-29 12:29:22",
+        "status": "online",
+        "duration": "104天15小时49分",
+        "version": "1.0~1.7.1"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

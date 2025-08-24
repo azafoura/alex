@@ -1,0 +1,34 @@
+{
+  "1323924595": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-07-17 04:47:46",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年37天3小时26分",
+        "version": "1.0.8"
+      },
+      {
+        "sdate": "2018-04-18 00:00:00",
+        "edate": "2018-07-17 04:47:46",
+        "status": "online",
+        "duration": "90天4小时47分",
+        "version": "1.0.2~1.0.8"
+      },
+      {
+        "sdate": "2018-04-04 01:17:01",
+        "edate": "2018-04-18 00:00:00",
+        "status": "preorder",
+        "duration": "13天22小时42分",
+        "version": "1.0.2"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

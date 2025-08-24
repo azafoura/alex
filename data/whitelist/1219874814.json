@@ -1,0 +1,27 @@
+{
+  "1219874814": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 02:57:47",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天4小时32分",
+        "version": "15.4.8"
+      },
+      {
+        "sdate": "2017-04-06 05:47:25",
+        "edate": "2020-12-31 02:57:47",
+        "status": "online",
+        "duration": "3年269天21小时10分",
+        "version": "2.6.7~15.4.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

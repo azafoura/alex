@@ -1,0 +1,41 @@
+{
+  "915690839": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:16:38",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时25分",
+        "version": "1.2"
+      },
+      {
+        "sdate": "2018-05-27 12:16:03",
+        "edate": "2020-12-31 04:16:38",
+        "status": "online",
+        "duration": "2年218天16小时0分",
+        "version": "1.0.1~1.2"
+      },
+      {
+        "sdate": "2017-05-30 21:49:55",
+        "edate": "2018-05-27 12:16:03",
+        "status": "offline",
+        "duration": "361天14小时26分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2014-09-19 00:00:00",
+        "edate": "2017-05-30 21:49:55",
+        "status": "online",
+        "duration": "2年254天21小时49分",
+        "version": "1.0.0~1.0.1"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

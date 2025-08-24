@@ -1,0 +1,27 @@
+{
+  "1523985631": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-11-16 03:07:44",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年280天2小时37分",
+        "version": "1.0.13"
+      },
+      {
+        "sdate": "2020-07-19 00:00:00",
+        "edate": "2023-11-16 03:07:44",
+        "status": "online",
+        "duration": "3年120天3小时7分",
+        "version": "1.0.8~1.0.13"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

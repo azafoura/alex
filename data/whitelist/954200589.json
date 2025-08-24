@@ -1,0 +1,27 @@
+{
+  "954200589": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2019-08-09 17:55:18",
+        "edate": "2019-08-09 20:00:00",
+        "duration": "2小时4分",
+        "version": "75(1.190726.0)"
+      },
+      {
+        "sdate": "2015-06-30 02:16:34",
+        "edate": "",
+        "status": "online",
+        "duration": "10年54天19小时47分",
+        "version": "1.150610.0~1.231214.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

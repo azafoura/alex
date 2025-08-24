@@ -1,0 +1,27 @@
+{
+  "1586619092": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2025-07-18 19:34:32",
+        "edate": null,
+        "status": "offline",
+        "duration": "34天20小时21分",
+        "version": "Version 1.9"
+      },
+      {
+        "sdate": "2021-09-29 00:00:00",
+        "edate": "2025-07-18 19:34:32",
+        "status": "online",
+        "duration": "3年293天19小时34分",
+        "version": "1.0~Version 1.9"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

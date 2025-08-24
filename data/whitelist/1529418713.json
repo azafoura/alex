@@ -1,0 +1,41 @@
+{
+  "1529418713": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-02-06 11:37:06",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年197天18小时21分",
+        "version": "1.3"
+      },
+      {
+        "sdate": "2022-10-31 13:24:15",
+        "edate": "2024-02-06 11:37:06",
+        "status": "online",
+        "duration": "1年97天22小时12分",
+        "version": "1.0~1.3"
+      },
+      {
+        "sdate": "2022-09-24 19:34:54",
+        "edate": "2022-10-31 13:24:15",
+        "status": "offline",
+        "duration": "36天17小时49分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2020-09-09 00:00:00",
+        "edate": "2022-09-24 19:34:54",
+        "status": "online",
+        "duration": "2年15天19小时34分",
+        "version": "1.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1543875034": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2025-02-13 11:28:07",
+        "edate": null,
+        "status": "offline",
+        "duration": "189天18小时50分",
+        "version": "0.8.7"
+      },
+      {
+        "sdate": "2020-12-09 00:00:00",
+        "edate": "2025-02-13 11:28:07",
+        "status": "online",
+        "duration": "4年67天11小时28分",
+        "version": "0.1.0~0.8.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

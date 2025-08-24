@@ -1,0 +1,41 @@
+{
+  "427774127": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:06:10",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时30分",
+        "version": "1.10.4"
+      },
+      {
+        "sdate": "2020-10-15 20:34:15",
+        "edate": "2020-12-31 04:06:10",
+        "status": "online",
+        "duration": "76天7小时31分",
+        "version": "1.10.4"
+      },
+      {
+        "sdate": "2020-10-07 19:11:19",
+        "edate": "2020-10-15 20:34:15",
+        "status": "offline",
+        "duration": "8天1小时22分",
+        "version": "1.10.4"
+      },
+      {
+        "sdate": "2011-04-08 00:00:00",
+        "edate": "2020-10-07 19:11:19",
+        "status": "online",
+        "duration": "9年185天19小时11分",
+        "version": "1.0~1.10.4"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

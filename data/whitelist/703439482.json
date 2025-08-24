@@ -1,0 +1,41 @@
+{
+  "703439482": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:13:02",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时44分",
+        "version": "1.45.30"
+      },
+      {
+        "sdate": "2018-04-04 05:58:15",
+        "edate": "2020-12-31 04:13:02",
+        "status": "online",
+        "duration": "2年271天22小时14分",
+        "version": "1.45.24~1.45.30"
+      },
+      {
+        "sdate": "2018-03-29 12:00:26",
+        "edate": "2018-04-04 05:58:15",
+        "status": "offline",
+        "duration": "5天17小时57分",
+        "version": "1.45.23~1.45.24"
+      },
+      {
+        "sdate": "2013-09-24 21:43:41",
+        "edate": "2018-03-29 12:00:26",
+        "status": "online",
+        "duration": "4年186天14小时16分",
+        "version": "1.0~1.45.23"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

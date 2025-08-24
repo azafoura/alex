@@ -1,0 +1,27 @@
+{
+  "447331712": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:07:47",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时29分",
+        "version": "3.0.6"
+      },
+      {
+        "sdate": "2012-03-13 10:41:00",
+        "edate": "2020-12-31 04:07:47",
+        "status": "online",
+        "duration": "8年294天17小时26分",
+        "version": "1.0.2~3.0.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

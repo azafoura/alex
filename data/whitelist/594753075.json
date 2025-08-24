@@ -1,0 +1,27 @@
+{
+  "594753075": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:10:55",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时37分",
+        "version": "2.25.17"
+      },
+      {
+        "sdate": "2014-08-27 03:31:31",
+        "edate": "2020-12-31 04:10:55",
+        "status": "online",
+        "duration": "6年128天39分",
+        "version": "1.0.1~2.25.17"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

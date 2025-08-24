@@ -1,0 +1,27 @@
+{
+  "1513114005": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:07:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年235天1小时6分",
+        "version": "1.2.17"
+      },
+      {
+        "sdate": "2020-06-10 01:03:45",
+        "edate": "2020-12-31 04:07:13",
+        "status": "online",
+        "duration": "204天3小时3分",
+        "version": "1.2.15~1.2.17"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

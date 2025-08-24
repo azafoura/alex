@@ -1,0 +1,34 @@
+{
+  "1271906610": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-12-03 04:50:41",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年262天3小时2分",
+        "version": "1.719"
+      },
+      {
+        "status": "out",
+        "sdate": "2018-05-01 07:00:34",
+        "edate": "2018-05-15 00:00:00",
+        "duration": "13天16小时59分",
+        "version": "1.493"
+      },
+      {
+        "sdate": "2017-08-21 17:44:45",
+        "edate": "2021-12-03 04:50:41",
+        "status": "online",
+        "duration": "4年104天11小时5分",
+        "version": "1.0~1.719"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1116590162": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-08-01 03:35:33",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年21天52分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2016-06-06 17:00:49",
+        "edate": "2020-08-01 03:35:33",
+        "status": "online",
+        "duration": "4年56天10小时34分",
+        "version": "1.0~2.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

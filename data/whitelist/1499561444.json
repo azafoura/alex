@@ -1,0 +1,27 @@
+{
+  "1499561444": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-06-10 08:04:59",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年73天20小时57分",
+        "version": "1.1.2"
+      },
+      {
+        "sdate": "2020-04-04 00:00:00",
+        "edate": "2021-06-10 08:04:59",
+        "status": "online",
+        "duration": "1年67天8小时4分",
+        "version": "1.0~1.1.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

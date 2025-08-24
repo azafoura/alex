@@ -1,0 +1,27 @@
+{
+  "1229635195": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-06-29 12:22:20",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年53天19小时13分",
+        "version": "7.1.1"
+      },
+      {
+        "sdate": "2017-12-13 23:25:36",
+        "edate": "2020-06-29 12:22:20",
+        "status": "online",
+        "duration": "2年198天12小时56分",
+        "version": "2.0.4~7.1.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

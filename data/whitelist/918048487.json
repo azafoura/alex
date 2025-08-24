@@ -1,0 +1,27 @@
+{
+  "918048487": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-12-05 20:56:55",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年260天46分",
+        "version": "1.1"
+      },
+      {
+        "sdate": "2014-09-23 14:42:27",
+        "edate": "2019-12-05 20:56:55",
+        "status": "online",
+        "duration": "5年74天6小时14分",
+        "version": "1.0~1.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

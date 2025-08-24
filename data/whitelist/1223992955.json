@@ -1,0 +1,41 @@
+{
+  "1223992955": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-09-16 14:15:20",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年339天17小时17分",
+        "version": "1.301"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-06-17 17:34:23",
+        "edate": "2020-06-17 19:29:49",
+        "duration": "1小时55分",
+        "version": "1.301"
+      },
+      {
+        "sdate": "2018-11-21 00:00:00",
+        "edate": "2020-09-16 14:15:20",
+        "status": "online",
+        "duration": "1年300天14小时15分",
+        "version": "1.060~1.301"
+      },
+      {
+        "sdate": "2018-09-11 11:10:27",
+        "edate": "2018-11-21 00:00:00",
+        "status": "preorder",
+        "duration": "70天12小时49分",
+        "version": "1.04~1.060"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

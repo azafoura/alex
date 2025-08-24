@@ -1,0 +1,27 @@
+{
+  "1426253241": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-12-20 13:35:49",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年246天7小时40分",
+        "version": "5.00"
+      },
+      {
+        "sdate": "2018-08-22 11:54:02",
+        "edate": "2018-12-20 13:35:49",
+        "status": "online",
+        "duration": "120天1小时41分",
+        "version": "1.00~5.00"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

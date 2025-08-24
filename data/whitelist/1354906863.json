@@ -1,0 +1,34 @@
+{
+  "1354906863": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-08-04 04:48:55",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年19天6小时48分",
+        "version": "1.0.2"
+      },
+      {
+        "status": "out",
+        "sdate": "2018-04-24 17:11:33",
+        "edate": "2018-07-05 00:00:00",
+        "duration": "71天6小时48分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2018-04-22 21:07:34",
+        "edate": "2018-08-04 04:48:55",
+        "status": "online",
+        "duration": "103天7小时41分",
+        "version": "1.0.2"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

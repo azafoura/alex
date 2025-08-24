@@ -1,0 +1,34 @@
+{
+  "1499294722": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-07-15 11:25:31",
+        "edate": "",
+        "status": "online",
+        "duration": "3年38天17小时36分",
+        "version": "1.0.6"
+      },
+      {
+        "sdate": "2022-07-15 10:54:18",
+        "edate": "2022-07-15 11:25:31",
+        "status": "offline",
+        "duration": "31分",
+        "version": "1.0.6"
+      },
+      {
+        "sdate": "2020-02-22 00:00:00",
+        "edate": "2022-07-15 10:54:18",
+        "status": "online",
+        "duration": "2年144天10小时54分",
+        "version": "1.0~1.0.6"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

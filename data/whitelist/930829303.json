@@ -1,0 +1,27 @@
+{
+  "930829303": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-05-29 13:25:25",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年85天8小时32分",
+        "version": "1.1.2"
+      },
+      {
+        "sdate": "2015-02-17 08:27:50",
+        "edate": "2017-05-29 13:25:25",
+        "status": "online",
+        "duration": "2年102天4小时57分",
+        "version": "1.0.3~1.1.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

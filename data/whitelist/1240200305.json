@@ -1,0 +1,41 @@
+{
+  "1240200305": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:27:45",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天3小时13分",
+        "version": "1.32.0"
+      },
+      {
+        "sdate": "2019-12-12 05:03:54",
+        "edate": "2020-12-31 04:27:45",
+        "status": "online",
+        "duration": "1年19天23小时23分",
+        "version": "1.12.0~1.32.0"
+      },
+      {
+        "sdate": "2019-12-12 04:27:00",
+        "edate": "2019-12-12 05:03:54",
+        "status": "offline",
+        "duration": "36分",
+        "version": "1.12.0"
+      },
+      {
+        "sdate": "2018-10-26 08:22:06",
+        "edate": "2019-12-12 04:27:00",
+        "status": "online",
+        "duration": "1年46天20小时4分",
+        "version": "0.941~1.12.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

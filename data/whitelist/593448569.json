@@ -1,0 +1,41 @@
+{
+  "593448569": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:24:27",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时24分",
+        "version": "3.90.21673"
+      },
+      {
+        "sdate": "2019-12-04 14:47:18",
+        "edate": "2020-12-31 04:24:27",
+        "status": "online",
+        "duration": "1年27天13小时37分",
+        "version": "3.90.21673"
+      },
+      {
+        "sdate": "2017-11-02 12:32:01",
+        "edate": "2019-12-04 14:47:18",
+        "status": "offline",
+        "duration": "2年32天2小时15分",
+        "version": "3.90.21673"
+      },
+      {
+        "sdate": "2013-01-31 21:53:35",
+        "edate": "2017-11-02 12:32:01",
+        "status": "online",
+        "duration": "4年275天14小时38分",
+        "version": "5.30.32846~3.90.21673"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "1582605584": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-07-22 03:21:38",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年32天12小时32分",
+        "version": "1.7.11"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-09-02 19:23:01",
+        "edate": "2021-09-02 20:58:51",
+        "duration": "1小时35分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2021-08-26 00:00:00",
+        "edate": "2023-07-22 03:21:38",
+        "status": "online",
+        "duration": "1年330天3小时21分",
+        "version": "1.0.0~1.7.11"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "1179715015": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-04-21 03:54:53",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年123天1小时19分",
+        "version": "15.1.98"
+      },
+      {
+        "sdate": "2019-12-12 05:02:33",
+        "edate": "2020-04-21 03:54:53",
+        "status": "online",
+        "duration": "130天22小时52分",
+        "version": "12.0~15.1.98"
+      },
+      {
+        "sdate": "2019-12-12 03:44:38",
+        "edate": "2019-12-12 05:02:33",
+        "status": "offline",
+        "duration": "1小时17分",
+        "version": "12.0"
+      },
+      {
+        "sdate": "2017-04-19 16:28:17",
+        "edate": "2019-12-12 03:44:38",
+        "status": "online",
+        "duration": "2年236天11小时16分",
+        "version": "1.9.3~12.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

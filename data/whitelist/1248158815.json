@@ -1,0 +1,27 @@
+{
+  "1248158815": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-02-09 17:14:25",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年194天14小时30分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2017-06-16 16:23:11",
+        "edate": "2019-02-09 17:14:25",
+        "status": "online",
+        "duration": "1年238天51分",
+        "version": "1.0.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1095623181": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-12-29 13:13:23",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年236天15小时4分",
+        "version": "1.1.2"
+      },
+      {
+        "sdate": "2016-07-07 12:15:57",
+        "edate": "2017-12-29 13:13:23",
+        "status": "online",
+        "duration": "1年175天57分",
+        "version": "1.0~1.1.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

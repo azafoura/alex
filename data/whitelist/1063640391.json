@@ -1,0 +1,27 @@
+{
+  "1063640391": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-01-25 02:53:53",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年210天20小时21分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2016-01-05 11:11:32",
+        "edate": "2016-01-25 02:53:53",
+        "status": "online",
+        "duration": "19天15小时42分",
+        "version": "1.0.1~1.0.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "934596429": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-12 03:18:24",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年252天18小时40分",
+        "version": "7.0.9.628"
+      },
+      {
+        "sdate": "2015-07-10 04:22:12",
+        "edate": "2020-12-12 03:18:24",
+        "status": "online",
+        "duration": "5年156天22小时56分",
+        "version": "3.01~7.0.9.628"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

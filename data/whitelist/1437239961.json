@@ -1,0 +1,27 @@
+{
+  "1437239961": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-04-03 08:04:48",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年142天13小时15分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-09-28 09:14:44",
+        "edate": "2019-04-03 08:04:48",
+        "status": "online",
+        "duration": "186天22小时50分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

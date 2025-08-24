@@ -1,0 +1,27 @@
+{
+  "1597143719": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-10-10 03:00:21",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年317天12小时58分",
+        "version": "0.1.9"
+      },
+      {
+        "sdate": "2021-12-03 00:00:00",
+        "edate": "2023-10-10 03:00:21",
+        "status": "online",
+        "duration": "1年311天3小时0分",
+        "version": "0.1.9"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

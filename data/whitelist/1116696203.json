@@ -1,0 +1,27 @@
+{
+  "1116696203": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:26:08",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天1分",
+        "version": "2.06"
+      },
+      {
+        "sdate": "2016-06-01 00:00:00",
+        "edate": "2020-12-31 04:26:08",
+        "status": "online",
+        "duration": "4年214天4小时26分",
+        "version": "1.0~2.06"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

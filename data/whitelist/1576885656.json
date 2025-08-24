@@ -1,0 +1,27 @@
+{
+  "1576885656": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-07-20 06:47:15",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年34天9小时3分",
+        "version": "0.2"
+      },
+      {
+        "sdate": "2021-07-18 00:00:00",
+        "edate": "2021-07-20 06:47:15",
+        "status": "online",
+        "duration": "2天6小时47分",
+        "version": "0.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

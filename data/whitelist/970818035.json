@@ -1,0 +1,27 @@
+{
+  "970818035": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 00:46:46",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年145天21小时26分",
+        "version": "1.0.45~1.0.61"
+      },
+      {
+        "sdate": "2015-10-01 04:02:13",
+        "edate": "2016-03-30 00:46:46",
+        "status": "online",
+        "duration": "180天20小时44分",
+        "version": "0.9.92~1.0.45"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "658511662": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 04:14:26",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年145天4小时38分",
+        "version": "5.6.2~6.0.0"
+      },
+      {
+        "sdate": "2014-06-16 08:11:02",
+        "edate": "2016-03-30 04:14:26",
+        "status": "online",
+        "duration": "1年287天20小时3分",
+        "version": "2.5.1~5.6.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

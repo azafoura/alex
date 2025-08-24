@@ -1,0 +1,27 @@
+{
+  "1050904663": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-02-29 07:12:22",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年174天15小时56分",
+        "version": "1.0.3"
+      },
+      {
+        "sdate": "2015-11-02 22:28:22",
+        "edate": "2020-02-29 07:12:22",
+        "status": "online",
+        "duration": "4年119天8小时44分",
+        "version": "1.0.0~1.0.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

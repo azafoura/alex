@@ -1,0 +1,27 @@
+{
+  "595831580": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-10-01 06:51:04",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年325天1小时57分",
+        "version": "1.7.0"
+      },
+      {
+        "sdate": "2013-03-02 18:44:05",
+        "edate": "2017-10-01 06:51:04",
+        "status": "online",
+        "duration": "4年213天12小时6分",
+        "version": "1.0~1.7.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

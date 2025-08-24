@@ -1,0 +1,41 @@
+{
+  "1475077823": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-06-28 06:33:36",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年55天18小时5分",
+        "version": "1.9.9"
+      },
+      {
+        "sdate": "2019-10-25 15:05:02",
+        "edate": "2020-06-28 06:33:36",
+        "status": "online",
+        "duration": "246天15小时28分",
+        "version": "1.05~1.9.9"
+      },
+      {
+        "sdate": "2019-09-17 17:21:41",
+        "edate": "2019-10-25 15:05:02",
+        "status": "offline",
+        "duration": "37天21小时43分",
+        "version": "1.04~1.05"
+      },
+      {
+        "sdate": "2019-08-14 12:08:43",
+        "edate": "2019-09-17 17:21:41",
+        "status": "online",
+        "duration": "34天5小时12分",
+        "version": "1.0~1.04"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

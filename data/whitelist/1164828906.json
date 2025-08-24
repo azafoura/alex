@@ -1,0 +1,27 @@
+{
+  "1164828906": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2025-03-21 19:50:07",
+        "edate": null,
+        "status": "offline",
+        "duration": "152天9小时18分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2016-10-14 00:00:00",
+        "edate": "2025-03-21 19:50:07",
+        "status": "online",
+        "duration": "8年160天19小时50分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "1535174274": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2021-02-28 18:03:43",
+        "edate": "2021-02-28 19:44:53",
+        "duration": "1小时41分",
+        "version": "5.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-01-29 01:09:40",
+        "edate": "2021-02-03 05:38:26",
+        "duration": "5天4小时28分",
+        "version": "5.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-01-13 00:20:15",
+        "edate": "2021-01-13 02:02:47",
+        "duration": "1小时42分",
+        "version": "4.0"
+      },
+      {
+        "sdate": "2020-10-22 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "4年305天6小时8分",
+        "version": "1.0~16.2"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "962680846": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:18:16",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时50分",
+        "version": "1.22.8"
+      },
+      {
+        "sdate": "2015-04-22 07:03:09",
+        "edate": "2020-12-31 04:18:16",
+        "status": "online",
+        "duration": "5年254天21小时15分",
+        "version": "1.0.0~1.22.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

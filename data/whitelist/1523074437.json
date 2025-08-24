@@ -1,0 +1,27 @@
+{
+  "1523074437": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-10-13 23:26:43",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年313天6小时16分",
+        "version": "2.0.21"
+      },
+      {
+        "sdate": "2020-07-29 00:00:00",
+        "edate": "2022-10-13 23:26:43",
+        "status": "online",
+        "duration": "2年76天23小时26分",
+        "version": "1.0~2.0.21"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

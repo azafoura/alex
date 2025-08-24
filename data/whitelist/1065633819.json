@@ -1,0 +1,27 @@
+{
+  "1065633819": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-06-05 21:33:00",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年78天1小时43分",
+        "version": "1.07"
+      },
+      {
+        "sdate": "2017-04-20 14:45:32",
+        "edate": "2019-06-05 21:33:00",
+        "status": "online",
+        "duration": "2年46天6小时47分",
+        "version": "1.04~1.07"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

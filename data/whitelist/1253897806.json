@@ -1,0 +1,27 @@
+{
+  "1253897806": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-12-25 18:59:23",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年240天12小时47分",
+        "version": "1.3"
+      },
+      {
+        "sdate": "2018-12-21 04:27:03",
+        "edate": "2018-12-25 18:59:23",
+        "status": "online",
+        "duration": "4天14小时32分",
+        "version": "1.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

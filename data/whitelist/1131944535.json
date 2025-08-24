@@ -1,0 +1,27 @@
+{
+  "1131944535": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2018-01-14 05:04:32",
+        "edate": "2018-01-15 00:00:00",
+        "duration": "18小时55分",
+        "version": "1.16.4"
+      },
+      {
+        "sdate": "2016-09-02 11:08:34",
+        "edate": "",
+        "status": "online",
+        "duration": "8年354天17小时33分",
+        "version": "1.0~1.26.72"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

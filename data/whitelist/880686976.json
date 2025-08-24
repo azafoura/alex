@@ -1,0 +1,27 @@
+{
+  "880686976": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:15:31",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天13小时39分",
+        "version": "1.7.3"
+      },
+      {
+        "sdate": "2014-07-01 23:46:01",
+        "edate": "2020-12-31 04:15:31",
+        "status": "online",
+        "duration": "6年184天4小时29分",
+        "version": "1.0.1~1.7.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

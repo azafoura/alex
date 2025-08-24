@@ -1,0 +1,27 @@
+{
+  "975820095": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 09:20:39",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年145天12小时54分",
+        "version": "1.3.3"
+      },
+      {
+        "sdate": "2015-05-25 13:29:33",
+        "edate": "2016-03-30 09:20:39",
+        "status": "online",
+        "duration": "309天19小时51分",
+        "version": "1.0.1~1.3.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

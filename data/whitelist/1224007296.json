@@ -1,0 +1,27 @@
+{
+  "1224007296": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-02-22 12:17:50",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年181天19小时14分",
+        "version": "4.5.3"
+      },
+      {
+        "sdate": "2017-05-31 04:07:50",
+        "edate": "2020-02-22 12:17:50",
+        "status": "online",
+        "duration": "2年267天8小时10分",
+        "version": "1.0.0~4.5.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

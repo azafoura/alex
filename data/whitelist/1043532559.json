@@ -1,0 +1,27 @@
+{
+  "1043532559": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 00:05:55",
+        "edate": "",
+        "status": "offline",
+        "duration": "9年145天22小时58分",
+        "version": "1.0.5~4.8"
+      },
+      {
+        "sdate": "2015-12-09 09:24:16",
+        "edate": "2016-03-30 00:05:55",
+        "status": "online",
+        "duration": "111天14小时41分",
+        "version": "1.0.0~1.0.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

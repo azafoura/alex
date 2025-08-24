@@ -1,0 +1,27 @@
+{
+  "743669894": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 09:16:41",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年144天23小时44分",
+        "version": "4.1.1~4.2.0"
+      },
+      {
+        "sdate": "2014-01-22 23:03:33",
+        "edate": "2016-03-30 09:16:41",
+        "status": "online",
+        "duration": "2年67天10小时13分",
+        "version": "1.0.0~4.1.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

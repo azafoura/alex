@@ -1,0 +1,27 @@
+{
+  "1515850366": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2020-08-14 17:36:28",
+        "edate": "2020-08-14 19:33:33",
+        "duration": "1小时57分",
+        "version": "1.3.0"
+      },
+      {
+        "sdate": "2020-06-05 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "5年79天5小时14分",
+        "version": "0.0.1~2.0.12"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

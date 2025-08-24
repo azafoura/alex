@@ -1,0 +1,27 @@
+{
+  "1476043340": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:02:01",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天20小时38分",
+        "version": "2.13"
+      },
+      {
+        "sdate": "2019-08-10 11:48:17",
+        "edate": "2020-12-31 04:02:01",
+        "status": "online",
+        "duration": "1年143天16小时13分",
+        "version": "1.0~2.13"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

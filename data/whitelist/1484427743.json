@@ -1,0 +1,27 @@
+{
+  "1484427743": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-08-01 03:29:52",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年21天21小时24分",
+        "version": "1.06"
+      },
+      {
+        "sdate": "2020-05-25 23:09:18",
+        "edate": "2020-08-01 03:29:52",
+        "status": "online",
+        "duration": "67天4小时20分",
+        "version": "1.0~1.06"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

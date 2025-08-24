@@ -1,0 +1,20 @@
+{
+  "1108800175": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-06-06 07:50:56",
+        "edate": "",
+        "status": "online",
+        "duration": "9年77天20小时31分",
+        "version": "3.6.000~9.5.100"
+      }
+    ],
+    "total": 1,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

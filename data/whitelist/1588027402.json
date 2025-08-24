@@ -1,0 +1,41 @@
+{
+  "1588027402": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2025-08-20 07:42:04",
+        "edate": "2025-08-20 09:12:24",
+        "duration": "1小时30分",
+        "version": "1.8.6"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-12-13 06:30:02",
+        "edate": "2021-12-13 08:06:58",
+        "duration": "1小时36分",
+        "version": "1.2.2"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-10-26 17:58:20",
+        "edate": "2021-10-26 19:41:01",
+        "duration": "1小时42分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2021-10-12 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "3年315天15小时56分",
+        "version": "1.0~1.8.8"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

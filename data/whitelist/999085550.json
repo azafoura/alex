@@ -1,0 +1,55 @@
+{
+  "999085550": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:59:43",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时48分",
+        "version": "1.45.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-11-14 20:57:14",
+        "edate": "2020-11-14 22:55:03",
+        "duration": "1小时57分",
+        "version": "1.45.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-09-20 23:40:47",
+        "edate": "2020-09-21 01:32:02",
+        "duration": "1小时51分",
+        "version": "1.45.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-02-25 17:37:56",
+        "edate": "2020-02-25 19:32:22",
+        "duration": "1小时54分",
+        "version": "1.40.12"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-11-16 17:37:15",
+        "edate": "2019-11-16 20:00:00",
+        "duration": "2小时22分",
+        "version": "1.38.12"
+      },
+      {
+        "sdate": "2015-06-11 12:39:34",
+        "edate": "2020-12-31 04:59:43",
+        "status": "online",
+        "duration": "5年204天16小时20分",
+        "version": "1.3.2~1.45.1"
+      }
+    ],
+    "total": 6,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

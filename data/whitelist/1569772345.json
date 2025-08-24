@@ -1,0 +1,34 @@
+{
+  "1569772345": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-03-17 13:06:18",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年159天2小时39分",
+        "version": "1.2.46"
+      },
+      {
+        "sdate": "2021-10-02 01:17:05",
+        "edate": "2023-03-17 13:06:18",
+        "status": "online",
+        "duration": "1年166天11小时49分",
+        "version": "1.2.43~1.2.46"
+      },
+      {
+        "sdate": "2021-08-11 15:04:14",
+        "edate": "2021-10-02 01:17:05",
+        "status": "preorder",
+        "duration": "51天10小时12分",
+        "version": "1.2.27~1.2.43"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

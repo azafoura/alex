@@ -1,0 +1,41 @@
+{
+  "1493758080": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-03-06 20:13:40",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年169天8小时46分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2021-02-04 08:33:56",
+        "edate": "2023-03-06 20:13:40",
+        "status": "online",
+        "duration": "2年30天11小时39分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2021-02-01 19:50:45",
+        "edate": "2021-02-04 08:33:56",
+        "status": "offline",
+        "duration": "2天12小时43分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2020-01-15 00:00:00",
+        "edate": "2021-02-01 19:50:45",
+        "status": "online",
+        "duration": "1年18天19小时50分",
+        "version": "1.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

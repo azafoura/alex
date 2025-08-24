@@ -1,0 +1,34 @@
+{
+  "740535889": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-08 10:55:58",
+        "edate": "",
+        "status": "online",
+        "duration": "5年43天22小时4分",
+        "version": "5.0~6.0"
+      },
+      {
+        "sdate": "2020-07-02 13:26:05",
+        "edate": "2020-07-08 10:55:58",
+        "status": "offline",
+        "duration": "5天21小时29分",
+        "version": "5.0"
+      },
+      {
+        "sdate": "2014-02-03 00:00:00",
+        "edate": "2020-07-02 13:26:05",
+        "status": "online",
+        "duration": "6年151天13小时26分",
+        "version": "1~5.0"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

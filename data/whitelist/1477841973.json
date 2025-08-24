@@ -1,0 +1,41 @@
+{
+  "1477841973": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-10-05 16:14:19",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年320天43分",
+        "version": "0.9~0.9.1"
+      },
+      {
+        "sdate": "2019-09-13 18:48:26",
+        "edate": "2019-09-13 20:23:02",
+        "status": "offline",
+        "duration": "1小时34分",
+        "version": "0.9"
+      },
+      {
+        "sdate": "2019-08-29 04:09:34",
+        "edate": "2019-10-05 16:14:19",
+        "status": "preorder",
+        "duration": "37天12小时4分",
+        "version": "0.9"
+      },
+      {
+        "sdate": "2019-08-28 11:25:42",
+        "edate": "2019-09-13 18:48:26",
+        "status": "preorder",
+        "duration": "16天7小时22分",
+        "version": "0.9"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

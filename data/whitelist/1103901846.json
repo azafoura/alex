@@ -1,0 +1,27 @@
+{
+  "1103901846": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-12-11 02:00:20",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年255天2小时20分",
+        "version": "2.3.7914"
+      },
+      {
+        "sdate": "2016-11-14 17:42:46",
+        "edate": "2019-12-11 02:00:20",
+        "status": "online",
+        "duration": "3年26天8小时17分",
+        "version": "2.0.6820~2.3.7914"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

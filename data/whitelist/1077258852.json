@@ -1,0 +1,20 @@
+{
+  "1077258852": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-01-30 01:46:52",
+        "edate": "",
+        "status": "online",
+        "duration": "9年205天21小时57分",
+        "version": "1.0.0~2.4.1"
+      }
+    ],
+    "total": 1,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

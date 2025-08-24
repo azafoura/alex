@@ -1,0 +1,27 @@
+{
+  "1129234419": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-02-23 21:38:29",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年181天7小时16分",
+        "version": "1.11"
+      },
+      {
+        "sdate": "2016-09-14 12:50:05",
+        "edate": "2017-02-23 21:38:29",
+        "status": "online",
+        "duration": "162天8小时48分",
+        "version": "1.0~1.11"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "559353119": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-10-29 09:28:35",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年296天23小时16分",
+        "version": "2.9.48"
+      },
+      {
+        "sdate": "2019-10-14 04:05:33",
+        "edate": "2019-10-29 09:28:35",
+        "status": "online",
+        "duration": "15天5小时23分",
+        "version": "2.9.48"
+      },
+      {
+        "sdate": "2019-10-13 18:57:30",
+        "edate": "2019-10-14 04:05:33",
+        "status": "offline",
+        "duration": "9小时8分",
+        "version": "2.9.48"
+      },
+      {
+        "sdate": "2013-11-08 15:25:41",
+        "edate": "2019-10-13 18:57:30",
+        "status": "online",
+        "duration": "5年340天3小时31分",
+        "version": "1.7.47~2.9.48"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

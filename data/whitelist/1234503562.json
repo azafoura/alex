@@ -1,0 +1,41 @@
+{
+  "1234503562": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-12-19 14:11:02",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年246天17小时27分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-03-04 04:39:51",
+        "edate": "2019-12-19 14:11:02",
+        "status": "online",
+        "duration": "1年290天9小时31分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-03-04 01:03:27",
+        "edate": "2018-03-04 04:39:51",
+        "status": "offline",
+        "duration": "3小时36分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2017-05-15 22:10:01",
+        "edate": "2018-03-04 01:03:27",
+        "status": "online",
+        "duration": "292天2小时53分",
+        "version": "1.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

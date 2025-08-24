@@ -1,0 +1,27 @@
+{
+  "1399526309": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-07-05 11:38:05",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年48天9小时29分",
+        "version": "1.89.041201"
+      },
+      {
+        "sdate": "2018-09-03 00:00:00",
+        "edate": "2022-07-05 11:38:05",
+        "status": "online",
+        "duration": "3年306天11小时38分",
+        "version": "0.90.082901~1.89.041201"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

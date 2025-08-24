@@ -1,0 +1,55 @@
+{
+  "788406144": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-11-08 19:26:58",
+        "edate": "",
+        "status": "online",
+        "duration": "3年285天13小时36分",
+        "version": "5.1.4a~5.9.5"
+      },
+      {
+        "sdate": "2021-11-08 19:24:36",
+        "edate": "2021-11-08 19:26:58",
+        "status": "offline",
+        "duration": "2分",
+        "version": "5.1.4a"
+      },
+      {
+        "sdate": "2021-11-08 19:22:22",
+        "edate": "2021-11-08 19:24:36",
+        "status": "online",
+        "duration": "2分",
+        "version": "5.1.4a"
+      },
+      {
+        "sdate": "2021-11-04 16:36:39",
+        "edate": "2021-11-08 19:22:22",
+        "status": "offline",
+        "duration": "4天2小时45分",
+        "version": "5.1.4~5.1.4a"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-01-26 14:45:41",
+        "edate": "2020-01-26 16:41:11",
+        "duration": "1小时55分",
+        "version": "4.8.4"
+      },
+      {
+        "sdate": "2014-02-04 17:44:07",
+        "edate": "2021-11-04 16:36:39",
+        "status": "online",
+        "duration": "7年274天22小时52分",
+        "version": "1.0.0~5.1.4"
+      }
+    ],
+    "total": 6,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1525680837": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-01-16 13:21:58",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年218天16小时27分",
+        "version": "1.3.2"
+      },
+      {
+        "sdate": "2020-08-12 18:28:08",
+        "edate": "2021-01-16 13:21:58",
+        "status": "online",
+        "duration": "156天18小时53分",
+        "version": "1.0~1.3.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

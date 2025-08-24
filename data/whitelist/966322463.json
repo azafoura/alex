@@ -1,0 +1,41 @@
+{
+  "966322463": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:18:25",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年235天35分",
+        "version": "3.1.6"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-08-08 05:29:49",
+        "edate": "2020-08-08 07:27:03",
+        "duration": "1小时57分",
+        "version": "3.0.14"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-01-25 11:45:14",
+        "edate": "2020-01-25 13:39:11",
+        "duration": "1小时53分",
+        "version": "3.0.01"
+      },
+      {
+        "sdate": "2016-01-21 01:37:24",
+        "edate": "2020-12-31 04:18:25",
+        "status": "online",
+        "duration": "4年346天2小时41分",
+        "version": "1.0~3.1.6"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

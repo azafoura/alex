@@ -1,0 +1,41 @@
+{
+  "1390973329": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-07-19 05:25:26",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年35天6小时34分",
+        "version": "1.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2018-07-14 12:35:26",
+        "edate": "2018-07-19 05:25:26",
+        "duration": "4天16小时50分",
+        "version": "1.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2018-07-08 04:05:14",
+        "edate": "2018-07-11 00:00:00",
+        "duration": "2天19小时54分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-06-08 05:28:09",
+        "edate": "2018-07-19 05:25:26",
+        "status": "online",
+        "duration": "40天23小时57分",
+        "version": "1.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

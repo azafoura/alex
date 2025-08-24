@@ -1,0 +1,34 @@
+{
+  "1566376131": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-06-06 18:12:01",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年76天17小时47分",
+        "version": "1.0.46"
+      },
+      {
+        "status": "out",
+        "sdate": "2022-03-20 18:14:05",
+        "edate": "2022-03-20 19:47:04",
+        "duration": "1小时32分",
+        "version": "1.0.36"
+      },
+      {
+        "sdate": "2021-10-31 00:00:00",
+        "edate": "2024-06-06 18:12:01",
+        "status": "online",
+        "duration": "2年219天18小时12分",
+        "version": "1.0.6~1.0.46"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

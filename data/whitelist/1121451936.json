@@ -1,0 +1,27 @@
+{
+  "1121451936": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-06-30 08:58:04",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年52天19小时34分",
+        "version": "1.41"
+      },
+      {
+        "sdate": "2016-06-09 04:58:09",
+        "edate": "2023-06-30 08:58:04",
+        "status": "online",
+        "duration": "7年22天3小时59分",
+        "version": "1.0~1.41"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "974533839": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-05-18 08:30:30",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年95天13小时44分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2015-07-08 02:01:58",
+        "edate": "2021-05-18 08:30:30",
+        "status": "online",
+        "duration": "5年316天6小时28分",
+        "version": "1.0~2.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

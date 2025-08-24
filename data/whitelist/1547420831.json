@@ -1,0 +1,27 @@
+{
+  "1547420831": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-03-16 23:48:21",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年159天11小时37分",
+        "version": "21.2.24"
+      },
+      {
+        "sdate": "2021-01-11 12:06:16",
+        "edate": "2021-03-16 23:48:21",
+        "status": "online",
+        "duration": "64天11小时42分",
+        "version": "21.1.8~21.2.24"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

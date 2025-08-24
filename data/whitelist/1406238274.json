@@ -1,0 +1,27 @@
+{
+  "1406238274": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-05-13 13:18:01",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年101天7小时52分",
+        "version": "4.0"
+      },
+      {
+        "sdate": "2018-07-19 02:59:00",
+        "edate": "2021-05-13 13:18:01",
+        "status": "online",
+        "duration": "2年299天10小时19分",
+        "version": "1.0~4.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

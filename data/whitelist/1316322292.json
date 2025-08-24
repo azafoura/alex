@@ -1,0 +1,27 @@
+{
+  "1316322292": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-08-01 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "7年22天8小时11分",
+        "version": "1.4.5~7.1.20"
+      },
+      {
+        "sdate": "2018-06-22 08:46:04",
+        "edate": "2018-08-01 00:00:00",
+        "status": "preorder",
+        "duration": "39天15小时13分",
+        "version": "1.2.4(0)~1.4.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "444538941": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-04-12 02:49:52",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年132天5小时47分",
+        "version": "1.13.1"
+      },
+      {
+        "sdate": "2011-06-22 15:37:10",
+        "edate": "2017-04-12 02:49:52",
+        "status": "online",
+        "duration": "5年295天11小时12分",
+        "version": "1.0~1.13.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

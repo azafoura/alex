@@ -1,0 +1,41 @@
+{
+  "828578246": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-04-17 16:18:40",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年126天16小时48分",
+        "version": "3.25.1"
+      },
+      {
+        "sdate": "2019-03-27 03:33:44",
+        "edate": "2019-04-17 16:18:40",
+        "status": "online",
+        "duration": "21天12小时44分",
+        "version": "3.25.0~3.25.1"
+      },
+      {
+        "sdate": "2019-03-27 02:50:04",
+        "edate": "2019-03-27 03:33:44",
+        "status": "offline",
+        "duration": "43分",
+        "version": "3.25.0"
+      },
+      {
+        "sdate": "2014-08-29 20:16:51",
+        "edate": "2019-03-27 02:50:04",
+        "status": "online",
+        "duration": "4年210天6小时33分",
+        "version": "1.0.3~3.25.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

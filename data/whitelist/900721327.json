@@ -1,0 +1,27 @@
+{
+  "900721327": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-05-31 07:48:38",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年83天13小时45分",
+        "version": "1.9.2"
+      },
+      {
+        "sdate": "2015-02-24 17:07:29",
+        "edate": "2017-05-31 07:48:38",
+        "status": "online",
+        "duration": "2年96天14小时41分",
+        "version": "1.0~1.9.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

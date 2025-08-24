@@ -1,0 +1,27 @@
+{
+  "1542331542": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-12-01 06:15:12",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年265天1分",
+        "version": "1.6.1"
+      },
+      {
+        "sdate": "2020-12-03 00:00:00",
+        "edate": "2021-12-01 06:15:12",
+        "status": "online",
+        "duration": "363天6小时15分",
+        "version": "1.0~1.6.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

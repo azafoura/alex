@@ -1,0 +1,27 @@
+{
+  "1489442217": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-03-11 00:26:58",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年165天4小时30分",
+        "version": "1.2"
+      },
+      {
+        "sdate": "2020-06-05 00:00:00",
+        "edate": "2021-03-11 00:26:58",
+        "status": "online",
+        "duration": "279天26分",
+        "version": "1.0~1.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

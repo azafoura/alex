@@ -1,0 +1,55 @@
+{
+  "1394355304": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-07-11 16:21:05",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年40天19小时40分",
+        "version": "2.1.5"
+      },
+      {
+        "sdate": "2024-02-01 15:18:05",
+        "edate": "2024-07-11 16:21:05",
+        "status": "online",
+        "duration": "161天1小时3分",
+        "version": "2.1.4~2.1.5"
+      },
+      {
+        "sdate": "2024-01-30 19:42:39",
+        "edate": "2024-02-01 15:18:05",
+        "status": "offline",
+        "duration": "1天19小时35分",
+        "version": "2.1.4"
+      },
+      {
+        "sdate": "2020-12-03 18:21:42",
+        "edate": "2024-01-30 19:42:39",
+        "status": "online",
+        "duration": "3年58天1小时20分",
+        "version": "2.0~2.1.4"
+      },
+      {
+        "sdate": "2020-11-29 19:33:32",
+        "edate": "2020-12-03 18:21:42",
+        "status": "offline",
+        "duration": "3天22小时48分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2018-06-05 00:00:00",
+        "edate": "2020-11-29 19:33:32",
+        "status": "online",
+        "duration": "2年178天19小时33分",
+        "version": "1.0~2.0"
+      }
+    ],
+    "total": 6,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

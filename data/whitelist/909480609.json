@@ -1,0 +1,27 @@
+{
+  "909480609": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:16:25",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时22分",
+        "version": "2.9.3"
+      },
+      {
+        "sdate": "2014-10-20 03:28:15",
+        "edate": "2020-12-31 04:16:25",
+        "status": "online",
+        "duration": "6年74天48分",
+        "version": "1.0.3~2.9.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

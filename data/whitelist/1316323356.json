@@ -1,0 +1,41 @@
+{
+  "1316323356": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2020-01-26 02:49:06",
+        "edate": "2020-01-26 04:40:45",
+        "duration": "1小时51分",
+        "version": "1.16.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-11-25 20:53:32",
+        "edate": "2019-11-25 23:00:00",
+        "duration": "2小时6分",
+        "version": "1.11.0"
+      },
+      {
+        "sdate": "2019-10-16 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "5年311天8小时11分",
+        "version": "1.9.0~1.29.0"
+      },
+      {
+        "sdate": "2019-09-19 20:04:01",
+        "edate": "2019-10-16 00:00:00",
+        "status": "preorder",
+        "duration": "26天3小时55分",
+        "version": "1.7.0~1.9.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

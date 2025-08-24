@@ -1,0 +1,27 @@
+{
+  "1446697578": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-05-25 01:04:30",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年90天20小时23分",
+        "version": "1.3"
+      },
+      {
+        "sdate": "2018-12-28 10:13:34",
+        "edate": "2019-05-25 01:04:30",
+        "status": "online",
+        "duration": "147天14小时50分",
+        "version": "1.0~1.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

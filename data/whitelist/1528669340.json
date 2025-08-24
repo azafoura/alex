@@ -1,0 +1,62 @@
+{
+  "1528669340": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-12-04 10:29:29",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年261天19小时27分",
+        "version": "1.2.2"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-08-24 17:48:01",
+        "edate": "2021-08-24 19:43:59",
+        "duration": "1小时55分",
+        "version": "1.2.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-02-10 14:45:12",
+        "edate": "2021-02-10 16:41:44",
+        "duration": "1小时56分",
+        "version": "1.0.8"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-12-13 15:07:48",
+        "edate": "2020-12-13 16:59:52",
+        "duration": "1小时52分",
+        "version": "1.0.7"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-09-08 14:40:25",
+        "edate": "2020-09-08 16:33:49",
+        "duration": "1小时53分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2020-09-04 18:11:21",
+        "edate": "2021-12-04 10:29:29",
+        "status": "online",
+        "duration": "1年90天16小时18分",
+        "version": "1.0.1~1.2.2"
+      },
+      {
+        "sdate": "2020-08-29 11:48:17",
+        "edate": "2020-09-04 18:11:21",
+        "status": "preorder",
+        "duration": "6天6小时23分",
+        "version": "1.0.0~1.0.1"
+      }
+    ],
+    "total": 7,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

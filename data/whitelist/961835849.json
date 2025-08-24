@@ -1,0 +1,34 @@
+{
+  "961835849": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-02 09:00:17",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年50天13小时7分",
+        "version": "6.1.4"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-12-12 23:53:58",
+        "edate": "2019-12-13 02:00:00",
+        "duration": "2小时6分",
+        "version": "6.0.3"
+      },
+      {
+        "sdate": "2015-02-07 06:16:22",
+        "edate": "2020-07-02 09:00:17",
+        "status": "online",
+        "duration": "5年147天2小时43分",
+        "version": "1.0.2~6.1.4"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

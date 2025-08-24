@@ -1,0 +1,27 @@
+{
+  "443491512": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-02-23 12:45:46",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年179天19小时51分",
+        "version": "1.7.1"
+      },
+      {
+        "sdate": "2011-12-07 02:20:25",
+        "edate": "2018-02-23 12:45:46",
+        "status": "online",
+        "duration": "6年80天10小时25分",
+        "version": "1.0.0~1.7.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

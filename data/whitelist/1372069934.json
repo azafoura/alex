@@ -1,0 +1,41 @@
+{
+  "1372069934": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2025-02-27 04:27:30",
+        "edate": null,
+        "status": "offline",
+        "duration": "175天7小时21分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2021-01-05 15:33:21",
+        "edate": "2025-02-27 04:27:30",
+        "status": "online",
+        "duration": "4年53天12小时54分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2020-12-29 19:57:15",
+        "edate": "2021-01-05 15:33:21",
+        "status": "offline",
+        "duration": "6天19小时36分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2018-04-24 00:00:00",
+        "edate": "2020-12-29 19:57:15",
+        "status": "online",
+        "duration": "2年250天19小时57分",
+        "version": "1.0~1.0.1"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

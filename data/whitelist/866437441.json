@@ -1,0 +1,34 @@
+{
+  "866437441": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-02-24 22:55:00",
+        "edate": "",
+        "status": "online",
+        "duration": "4年177天18小时58分",
+        "version": "1.82"
+      },
+      {
+        "sdate": "2020-12-31 04:15:15",
+        "edate": "2021-02-24 22:55:00",
+        "status": "offline",
+        "duration": "55天18小时39分",
+        "version": "1.82"
+      },
+      {
+        "sdate": "2014-05-15 00:00:00",
+        "edate": "2020-12-31 04:15:15",
+        "status": "online",
+        "duration": "6年232天4小时15分",
+        "version": "1.0~1.82"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

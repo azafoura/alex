@@ -1,0 +1,41 @@
+{
+  "550971517": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:09:29",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时35分",
+        "version": "2.6"
+      },
+      {
+        "sdate": "2019-09-29 10:41:02",
+        "edate": "2020-12-31 04:09:29",
+        "status": "online",
+        "duration": "1年93天17小时28分",
+        "version": "2.6"
+      },
+      {
+        "sdate": "2019-09-18 01:20:39",
+        "edate": "2019-09-29 10:41:02",
+        "status": "offline",
+        "duration": "11天9小时20分",
+        "version": "2.5~2.6"
+      },
+      {
+        "sdate": "2012-09-01 00:00:00",
+        "edate": "2019-09-18 01:20:39",
+        "status": "online",
+        "duration": "7年18天1小时20分",
+        "version": "1.0~2.5"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

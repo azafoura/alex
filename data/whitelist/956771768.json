@@ -1,0 +1,27 @@
+{
+  "956771768": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2023-10-10 18:02:05",
+        "edate": "2023-10-10 21:00:04",
+        "duration": "2小时57分",
+        "version": "1.7"
+      },
+      {
+        "sdate": "2015-02-08 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "10年196天22小时5分",
+        "version": "1.0~1.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

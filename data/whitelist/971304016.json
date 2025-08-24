@@ -1,0 +1,27 @@
+{
+  "971304016": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-12-04 22:22:44",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年260天23小时50分",
+        "version": "2.1.11"
+      },
+      {
+        "sdate": "2015-08-26 15:15:56",
+        "edate": "2019-12-04 22:22:44",
+        "status": "online",
+        "duration": "4年101天7小时6分",
+        "version": "1.0.47768~2.1.11"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

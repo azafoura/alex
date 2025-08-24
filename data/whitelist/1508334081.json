@@ -1,0 +1,20 @@
+{
+  "1508334081": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2020-06-19 23:32:02",
+        "edate": "2020-06-20 01:27:59",
+        "duration": "1小时55分",
+        "version": "1.0.7"
+      }
+    ],
+    "total": 1,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

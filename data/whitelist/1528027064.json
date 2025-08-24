@@ -1,0 +1,34 @@
+{
+  "1528027064": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-03 11:30:12",
+        "edate": "",
+        "status": "online",
+        "duration": "4年262天18小时25分",
+        "version": "1.3.1~1.3.3"
+      },
+      {
+        "sdate": "2020-12-02 12:49:26",
+        "edate": "2020-12-03 11:30:12",
+        "status": "offline",
+        "duration": "22小时40分",
+        "version": "1.3.1"
+      },
+      {
+        "sdate": "2020-08-20 00:00:00",
+        "edate": "2020-12-02 12:49:26",
+        "status": "online",
+        "duration": "104天12小时49分",
+        "version": "0.5.0~1.3.1"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1552408816": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-05-26 15:32:30",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年88天20小时3分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2021-02-10 00:00:00",
+        "edate": "2021-05-26 15:32:30",
+        "status": "online",
+        "duration": "105天15小时32分",
+        "version": "0.5.2~1.0.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

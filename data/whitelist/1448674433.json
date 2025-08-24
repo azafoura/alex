@@ -1,0 +1,27 @@
+{
+  "1448674433": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-02-21 07:12:37",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年183天16小时27分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2019-01-18 07:45:30",
+        "edate": "2019-02-21 07:12:37",
+        "status": "online",
+        "duration": "33天23小时27分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

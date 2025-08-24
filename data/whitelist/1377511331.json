@@ -1,0 +1,27 @@
+{
+  "1377511331": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-07-06 18:40:24",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年46天17小时11分",
+        "version": "1.5"
+      },
+      {
+        "sdate": "2018-05-04 00:00:00",
+        "edate": "2022-07-06 18:40:24",
+        "status": "online",
+        "duration": "4年64天18小时40分",
+        "version": "1.1~1.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

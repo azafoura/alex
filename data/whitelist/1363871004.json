@@ -1,0 +1,27 @@
+{
+  "1363871004": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-09-17 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "6年340天11小时43分",
+        "version": "2.80~4.06"
+      },
+      {
+        "sdate": "2018-06-20 03:45:06",
+        "edate": "2018-09-17 00:00:00",
+        "status": "preorder",
+        "duration": "88天20小时14分",
+        "version": "2.56~2.80"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

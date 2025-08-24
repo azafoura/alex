@@ -1,0 +1,27 @@
+{
+  "1313179105": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:34:40",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天3小时35分",
+        "version": "1.5.2"
+      },
+      {
+        "sdate": "2018-02-15 09:23:26",
+        "edate": "2020-12-31 04:34:40",
+        "status": "online",
+        "duration": "2年319天19小时11分",
+        "version": "0.5~1.5.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

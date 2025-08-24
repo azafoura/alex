@@ -1,0 +1,48 @@
+{
+  "986722176": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-01-06 05:41:00",
+        "edate": "",
+        "status": "online",
+        "duration": "4年227天17小时4分",
+        "version": "3.9.2~4.6.2"
+      },
+      {
+        "sdate": "2020-12-31 04:19:07",
+        "edate": "2021-01-06 05:41:00",
+        "status": "offline",
+        "duration": "6天1小时21分",
+        "version": "3.9.2"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-05-03 17:33:25",
+        "edate": "2020-05-03 19:31:44",
+        "duration": "1小时58分",
+        "version": "3.9.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-03-02 02:09:24",
+        "edate": "2020-03-02 04:04:29",
+        "duration": "1小时55分",
+        "version": "3.8.3"
+      },
+      {
+        "sdate": "2015-06-24 07:01:58",
+        "edate": "2020-12-31 04:19:07",
+        "status": "online",
+        "duration": "5年191天21小时17分",
+        "version": "1.0.0~3.9.2"
+      }
+    ],
+    "total": 5,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

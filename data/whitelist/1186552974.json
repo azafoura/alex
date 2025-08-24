@@ -1,0 +1,27 @@
+{
+  "1186552974": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2020-03-04 20:50:31",
+        "edate": "2020-03-04 22:48:39",
+        "duration": "1小时58分",
+        "version": "3.8"
+      },
+      {
+        "sdate": "2016-12-22 01:38:41",
+        "edate": "",
+        "status": "online",
+        "duration": "8年244天3小时39分",
+        "version": "1.0~5.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

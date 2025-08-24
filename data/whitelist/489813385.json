@@ -1,0 +1,34 @@
+{
+  "489813385": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-12-01 20:27:35",
+        "edate": "",
+        "status": "online",
+        "duration": "3年262天12小时12分",
+        "version": "3.8.2"
+      },
+      {
+        "sdate": "2021-12-01 19:50:09",
+        "edate": "2021-12-01 20:27:35",
+        "status": "offline",
+        "duration": "37分",
+        "version": "3.8.2"
+      },
+      {
+        "sdate": "2011-12-20 00:00:00",
+        "edate": "2021-12-01 19:50:09",
+        "status": "online",
+        "duration": "9年349天19小时50分",
+        "version": "1.0~3.8.2"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

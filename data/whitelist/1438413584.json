@@ -1,0 +1,41 @@
+{
+  "1438413584": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:33:56",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天16小时47分",
+        "version": "1.9.8"
+      },
+      {
+        "sdate": "2019-12-10 16:41:01",
+        "edate": "2020-12-31 04:33:56",
+        "status": "online",
+        "duration": "1年21天11小时52分",
+        "version": "1.7.4~1.9.8"
+      },
+      {
+        "sdate": "2019-08-13 18:13:57",
+        "edate": "2019-12-10 16:41:01",
+        "status": "offline",
+        "duration": "118天22小时27分",
+        "version": "1.6.5~1.7.4"
+      },
+      {
+        "sdate": "2018-12-12 09:40:01",
+        "edate": "2019-08-13 18:13:57",
+        "status": "online",
+        "duration": "244天8小时33分",
+        "version": "1.0.0~1.6.5"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "530061728": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-06-01 08:27:18",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年82天16分",
+        "version": "6.0.7"
+      },
+      {
+        "sdate": "2013-02-25 04:54:56",
+        "edate": "2017-06-01 08:27:18",
+        "status": "online",
+        "duration": "4年97天3小时32分",
+        "version": "1.0.8~6.0.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

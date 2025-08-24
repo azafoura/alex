@@ -1,0 +1,41 @@
+{
+  "1341722867": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:30:15",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天7小时0分",
+        "version": "20.1.9"
+      },
+      {
+        "sdate": "2018-07-25 00:58:20",
+        "edate": "2020-12-31 04:30:15",
+        "status": "online",
+        "duration": "2年160天3小时31分",
+        "version": "19.2.220~20.1.9"
+      },
+      {
+        "sdate": "2018-05-25 07:53:35",
+        "edate": "2018-07-25 00:58:20",
+        "status": "offline",
+        "duration": "60天17小时4分",
+        "version": "15.2.3~19.2.220"
+      },
+      {
+        "sdate": "2018-02-13 11:04:30",
+        "edate": "2018-05-25 07:53:35",
+        "status": "online",
+        "duration": "100天20小时49分",
+        "version": "5.1.154~15.2.3"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1047584864": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-02-22 18:44:25",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年181天4小时21分",
+        "version": "1.2.4991"
+      },
+      {
+        "sdate": "2015-12-30 09:40:01",
+        "edate": "2018-02-22 18:44:25",
+        "status": "online",
+        "duration": "2年55天9小时4分",
+        "version": "1.0.4991~1.2.4991"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

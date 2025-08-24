@@ -1,0 +1,27 @@
+{
+  "1555055071": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-12-24 02:32:27",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年242天9小时7分",
+        "version": "1.0.9"
+      },
+      {
+        "sdate": "2021-02-23 00:00:00",
+        "edate": "2021-12-24 02:32:27",
+        "status": "online",
+        "duration": "304天2小时32分",
+        "version": "1.0.0~1.0.9"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

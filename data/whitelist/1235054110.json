@@ -1,0 +1,41 @@
+{
+  "1235054110": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-25 22:01:47",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年27天9小时36分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2020-07-25 11:13:36",
+        "edate": "2020-07-25 22:01:47",
+        "status": "online",
+        "duration": "10小时48分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2020-07-14 11:53:32",
+        "edate": "2020-07-25 11:13:36",
+        "status": "offline",
+        "duration": "10天23小时20分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2017-05-12 00:00:00",
+        "edate": "2020-07-14 11:53:32",
+        "status": "online",
+        "duration": "3年64天11小时53分",
+        "version": "1.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

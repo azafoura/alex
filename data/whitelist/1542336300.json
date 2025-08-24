@@ -1,0 +1,27 @@
+{
+  "1542336300": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-02-05 03:21:16",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年199天2小时55分",
+        "version": "0.1.1"
+      },
+      {
+        "sdate": "2020-12-03 12:31:28",
+        "edate": "2021-02-05 03:21:16",
+        "status": "online",
+        "duration": "63天14小时49分",
+        "version": "0.0.1~0.1.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

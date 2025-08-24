@@ -1,0 +1,27 @@
+{
+  "1359190812": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-08-21 12:38:28",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年0天23小时2分",
+        "version": "1.17.10"
+      },
+      {
+        "sdate": "2018-10-28 09:44:54",
+        "edate": "2020-08-21 12:38:28",
+        "status": "online",
+        "duration": "1年298天2小时53分",
+        "version": "1.0~1.17.10"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

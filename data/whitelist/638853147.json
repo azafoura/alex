@@ -1,0 +1,27 @@
+{
+  "638853147": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 08:47:59",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年145天3分",
+        "version": "1.2.4~1.4"
+      },
+      {
+        "sdate": "2013-09-10 19:13:58",
+        "edate": "2016-03-30 08:47:59",
+        "status": "online",
+        "duration": "2年201天13小时34分",
+        "version": "1.0.0~1.2.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

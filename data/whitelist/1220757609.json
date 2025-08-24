@@ -1,0 +1,27 @@
+{
+  "1220757609": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-11-20 20:29:14",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年275天11小时1分",
+        "version": "0.1.2"
+      },
+      {
+        "sdate": "2017-04-10 21:44:16",
+        "edate": "2019-11-20 20:29:14",
+        "status": "online",
+        "duration": "2年223天22小时44分",
+        "version": "0.0.9~0.1.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

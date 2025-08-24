@@ -1,0 +1,27 @@
+{
+  "589599502": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 01:42:57",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年145天7小时5分",
+        "version": "1.2.3"
+      },
+      {
+        "sdate": "2013-02-25 23:12:10",
+        "edate": "2016-03-30 01:42:57",
+        "status": "online",
+        "duration": "3年33天2小时30分",
+        "version": "1.0~1.2.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

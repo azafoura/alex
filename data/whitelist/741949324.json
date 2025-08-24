@@ -1,0 +1,27 @@
+{
+  "741949324": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2015-05-28 10:52:48",
+        "edate": null,
+        "status": "offline",
+        "duration": "10年86天22小时8分",
+        "version": "3.6.63~4.2.60"
+      },
+      {
+        "sdate": "2014-10-15 18:59:26",
+        "edate": "2015-05-28 10:52:48",
+        "status": "online",
+        "duration": "224天15小时53分",
+        "version": "3.0.51~3.6.63"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "1343715523": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-08-25 00:28:08",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年363天11小时3分",
+        "version": "1.9.25"
+      },
+      {
+        "sdate": "2018-05-28 11:22:03",
+        "edate": "2018-08-25 00:28:08",
+        "status": "online",
+        "duration": "88天13小时6分",
+        "version": "1.9.25"
+      },
+      {
+        "sdate": "2018-03-05 15:00:11",
+        "edate": "2018-05-28 11:22:03",
+        "status": "offline",
+        "duration": "83天20小时21分",
+        "version": "1.4.5~1.9.25"
+      },
+      {
+        "sdate": "2018-02-16 04:37:47",
+        "edate": "2018-03-05 15:00:11",
+        "status": "online",
+        "duration": "17天10小时22分",
+        "version": "1.4.5"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

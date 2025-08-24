@@ -1,0 +1,27 @@
+{
+  "1204075112": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:25:34",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天1小时2分",
+        "version": "3.0.3"
+      },
+      {
+        "sdate": "2020-05-02 02:28:31",
+        "edate": "2020-12-31 04:25:34",
+        "status": "online",
+        "duration": "243天1小时57分",
+        "version": "2.9.4~3.0.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

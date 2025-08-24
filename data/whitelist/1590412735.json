@@ -1,0 +1,27 @@
+{
+  "1590412735": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-07-25 04:03:08",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年28天11小时54分",
+        "version": "4.8.4"
+      },
+      {
+        "sdate": "2021-10-19 00:00:00",
+        "edate": "2024-07-25 04:03:08",
+        "status": "online",
+        "duration": "2年280天4小时3分",
+        "version": "1.0~4.8.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

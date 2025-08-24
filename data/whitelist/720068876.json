@@ -1,0 +1,48 @@
+{
+  "720068876": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:13:14",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时45分",
+        "version": "2.0.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-11-14 23:58:27",
+        "edate": "2020-11-15 01:53:59",
+        "duration": "1小时55分",
+        "version": "2.0.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-09-04 23:39:22",
+        "edate": "2020-09-05 01:35:58",
+        "duration": "1小时56分",
+        "version": "1.9.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-05-06 17:34:26",
+        "edate": "2020-05-06 19:31:03",
+        "duration": "1小时56分",
+        "version": "1.9.0"
+      },
+      {
+        "sdate": "2013-11-16 03:47:03",
+        "edate": "2020-12-31 04:13:14",
+        "status": "online",
+        "duration": "7年47天26分",
+        "version": "1.0.0~2.0.0"
+      }
+    ],
+    "total": 5,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

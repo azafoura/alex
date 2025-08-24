@@ -1,0 +1,27 @@
+{
+  "1324210753": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:35:17",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天3小时39分",
+        "version": "1.2.5"
+      },
+      {
+        "sdate": "2018-03-20 16:56:10",
+        "edate": "2020-12-31 04:35:17",
+        "status": "online",
+        "duration": "2年286天11小时39分",
+        "version": "1.0.0~1.2.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

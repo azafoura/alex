@@ -1,0 +1,34 @@
+{
+  "1341308478": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-06 03:47:00",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年47天7小时43分",
+        "version": "1.8.3"
+      },
+      {
+        "sdate": "2018-06-24 00:00:00",
+        "edate": "2020-07-06 03:47:00",
+        "status": "online",
+        "duration": "2年13天3小时47分",
+        "version": "1.0.3~1.8.3"
+      },
+      {
+        "sdate": "2018-06-09 07:00:00",
+        "edate": "2018-06-24 00:00:00",
+        "status": "preorder",
+        "duration": "14天17小时0分",
+        "version": "1.0~1.0.3"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

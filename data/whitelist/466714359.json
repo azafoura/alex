@@ -1,0 +1,41 @@
+{
+  "466714359": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:07:10",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时31分",
+        "version": "3.2.0"
+      },
+      {
+        "sdate": "2020-04-20 03:00:58",
+        "edate": "2020-12-31 04:07:10",
+        "status": "online",
+        "duration": "255天1小时6分",
+        "version": "3.2.0"
+      },
+      {
+        "sdate": "2020-04-13 18:59:32",
+        "edate": "2020-04-20 03:00:58",
+        "status": "offline",
+        "duration": "6天8小时1分",
+        "version": "3.2.0"
+      },
+      {
+        "sdate": "2011-11-24 00:00:00",
+        "edate": "2020-04-13 18:59:32",
+        "status": "online",
+        "duration": "8年143天18小时59分",
+        "version": "0.8~3.2.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

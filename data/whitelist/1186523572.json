@@ -1,0 +1,27 @@
+{
+  "1186523572": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:25:04",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天52分",
+        "version": "2.4.72"
+      },
+      {
+        "sdate": "2017-03-08 22:58:41",
+        "edate": "2020-12-31 04:25:04",
+        "status": "online",
+        "duration": "3年298天5小时26分",
+        "version": "1.0.18~2.4.72"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

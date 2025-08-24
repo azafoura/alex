@@ -1,0 +1,27 @@
+{
+  "1252529056": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:28:59",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天3小时17分",
+        "version": "2.6"
+      },
+      {
+        "sdate": "2017-08-04 23:02:15",
+        "edate": "2020-12-31 04:28:59",
+        "status": "online",
+        "duration": "3年149天5小时26分",
+        "version": "1.0~2.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

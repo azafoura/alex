@@ -1,0 +1,27 @@
+{
+  "1250389374": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-12-05 11:17:43",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年260天20小时27分",
+        "version": "1.0.3"
+      },
+      {
+        "sdate": "2017-07-10 06:37:04",
+        "edate": "2017-12-05 11:17:43",
+        "status": "online",
+        "duration": "148天4小时40分",
+        "version": "1.0~1.0.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

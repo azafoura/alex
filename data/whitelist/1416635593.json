@@ -1,0 +1,41 @@
+{
+  "1416635593": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:34:57",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天16小时38分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2019-04-23 13:15:33",
+        "edate": "2020-12-31 04:34:57",
+        "status": "online",
+        "duration": "1年252天15小时19分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2019-04-22 19:27:36",
+        "edate": "2019-04-23 13:15:33",
+        "status": "offline",
+        "duration": "17小时47分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2018-08-06 00:00:00",
+        "edate": "2019-04-22 19:27:36",
+        "status": "online",
+        "duration": "259天19小时27分",
+        "version": "1.0.2"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1383187127": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-08-21 23:55:55",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年0天11小时58分",
+        "version": "1.42"
+      },
+      {
+        "sdate": "2018-05-11 06:34:17",
+        "edate": "2020-08-21 23:55:55",
+        "status": "online",
+        "duration": "2年103天17小时21分",
+        "version": "1.0~1.42"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

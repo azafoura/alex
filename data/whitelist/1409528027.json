@@ -1,0 +1,27 @@
+{
+  "1409528027": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-04-04 14:14:10",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年140天6小时57分",
+        "version": "1.0.5"
+      },
+      {
+        "sdate": "2018-07-23 00:00:00",
+        "edate": "2020-04-04 14:14:10",
+        "status": "online",
+        "duration": "1年256天14小时14分",
+        "version": "1.0.0~1.0.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

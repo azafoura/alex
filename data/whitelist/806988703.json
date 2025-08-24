@@ -1,0 +1,41 @@
+{
+  "806988703": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-02-21 22:33:58",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年180天10小时31分",
+        "version": "2.7.9"
+      },
+      {
+        "sdate": "2023-03-17 10:29:00",
+        "edate": "2024-02-21 22:33:58",
+        "status": "online",
+        "duration": "341天12小时4分",
+        "version": "2.7.9"
+      },
+      {
+        "sdate": "2023-03-05 19:14:03",
+        "edate": "2023-03-17 10:29:00",
+        "status": "offline",
+        "duration": "11天15小时14分",
+        "version": "2.7.9"
+      },
+      {
+        "sdate": "2014-05-21 00:00:00",
+        "edate": "2023-03-05 19:14:03",
+        "status": "online",
+        "duration": "8年290天19小时14分",
+        "version": "1.1.0~2.7.9"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

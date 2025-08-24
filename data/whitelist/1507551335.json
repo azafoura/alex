@@ -1,0 +1,27 @@
+{
+  "1507551335": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:47:49",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年235天18分",
+        "version": "1.8"
+      },
+      {
+        "sdate": "2020-04-15 00:00:00",
+        "edate": "2020-12-31 04:47:49",
+        "status": "online",
+        "duration": "260天4小时47分",
+        "version": "1.0~1.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

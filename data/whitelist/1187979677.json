@@ -1,0 +1,41 @@
+{
+  "1187979677": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-09-23 09:42:29",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年332天19小时36分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2021-07-15 01:47:53",
+        "edate": "2021-09-23 09:42:29",
+        "status": "online",
+        "duration": "70天7小时54分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2019-12-14 19:52:58",
+        "edate": "2021-07-15 01:47:53",
+        "status": "offline",
+        "duration": "1年213天5小时54分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2017-01-04 17:39:11",
+        "edate": "2019-12-14 19:52:58",
+        "status": "online",
+        "duration": "2年344天2小时13分",
+        "version": "1.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

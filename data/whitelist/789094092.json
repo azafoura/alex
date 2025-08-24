@@ -1,0 +1,27 @@
+{
+  "789094092": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-02-08 12:40:45",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年194天20小时22分",
+        "version": "1.20"
+      },
+      {
+        "sdate": "2018-04-26 13:10:10",
+        "edate": "2019-02-08 12:40:45",
+        "status": "online",
+        "duration": "287天23小时30分",
+        "version": "1.01~1.20"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

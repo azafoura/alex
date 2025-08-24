@@ -1,0 +1,27 @@
+{
+  "1441495772": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-12-23 16:00:49",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年243天5小时23分",
+        "version": "2.3.0"
+      },
+      {
+        "sdate": "2019-04-27 16:34:13",
+        "edate": "2019-12-23 16:00:49",
+        "status": "online",
+        "duration": "239天23小时26分",
+        "version": "1.0~2.3.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

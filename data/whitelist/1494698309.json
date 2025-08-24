@@ -1,0 +1,27 @@
+{
+  "1494698309": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2020-05-15 17:37:48",
+        "edate": "2020-05-15 19:31:56",
+        "duration": "1小时54分",
+        "version": "2.7.0"
+      },
+      {
+        "sdate": "2020-02-07 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "5年198天5小时0分",
+        "version": "1.0~3.0.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

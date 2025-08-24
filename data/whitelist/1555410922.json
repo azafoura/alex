@@ -1,0 +1,41 @@
+{
+  "1555410922": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-06-24 03:38:14",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年60天8小时2分",
+        "version": "2.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-06-11 14:56:49",
+        "edate": "2021-06-11 16:50:28",
+        "duration": "1小时53分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2021-03-23 22:10:07",
+        "edate": "2021-06-24 03:38:14",
+        "status": "online",
+        "duration": "92天5小时28分",
+        "version": "1.0~2.0"
+      },
+      {
+        "sdate": "2021-03-18 19:21:12",
+        "edate": "2021-03-23 22:10:07",
+        "status": "preorder",
+        "duration": "5天2小时48分",
+        "version": "1.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

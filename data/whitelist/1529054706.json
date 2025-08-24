@@ -1,0 +1,34 @@
+{
+  "1529054706": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-03 10:44:08",
+        "edate": "",
+        "status": "online",
+        "duration": "4年262天19小时13分",
+        "version": "1.18~1.19.2"
+      },
+      {
+        "sdate": "2020-12-02 13:47:30",
+        "edate": "2020-12-03 10:44:08",
+        "status": "offline",
+        "duration": "20小时56分",
+        "version": "1.18"
+      },
+      {
+        "sdate": "2020-08-27 00:00:00",
+        "edate": "2020-12-02 13:47:30",
+        "status": "online",
+        "duration": "97天13小时47分",
+        "version": "1.8.1~1.18"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

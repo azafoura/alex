@@ -1,0 +1,27 @@
+{
+  "859204347": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 08:31:16",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年145天38分",
+        "version": "2.7~2.8.0"
+      },
+      {
+        "sdate": "2014-04-30 04:09:41",
+        "edate": "2016-03-30 08:31:16",
+        "status": "online",
+        "duration": "1年335天4小时21分",
+        "version": "1.0.0~2.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

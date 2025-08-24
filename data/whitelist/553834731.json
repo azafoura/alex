@@ -1,0 +1,27 @@
+{
+  "553834731": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 08:03:48",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年145天41分",
+        "version": "1.71.0~1.74.0"
+      },
+      {
+        "sdate": "2014-10-14 07:50:18",
+        "edate": "2016-03-30 08:03:48",
+        "status": "online",
+        "duration": "1年168天13分",
+        "version": "1.39.4~1.71.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

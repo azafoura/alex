@@ -1,0 +1,41 @@
+{
+  "1256307763": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-08-27 11:02:43",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年359天20小时45分",
+        "version": "1.7.90"
+      },
+      {
+        "sdate": "2018-11-13 20:25:55",
+        "edate": "2020-08-27 11:02:43",
+        "status": "online",
+        "duration": "1年287天14小时36分",
+        "version": "1.7.64~1.7.90"
+      },
+      {
+        "sdate": "2018-04-27 10:25:48",
+        "edate": "2018-11-13 20:25:55",
+        "status": "offline",
+        "duration": "200天10小时0分",
+        "version": "1.7.55~1.7.64"
+      },
+      {
+        "sdate": "2017-08-28 04:37:10",
+        "edate": "2018-04-27 10:25:48",
+        "status": "online",
+        "duration": "242天5小时48分",
+        "version": "1.7.43~1.7.55"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

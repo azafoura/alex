@@ -1,0 +1,27 @@
+{
+  "967099322": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-08-05 17:07:03",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年16天5小时4分",
+        "version": "2.7.3"
+      },
+      {
+        "sdate": "2015-06-10 13:34:44",
+        "edate": "2020-08-05 17:07:03",
+        "status": "online",
+        "duration": "5年58天3小时32分",
+        "version": "1.0~2.7.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1338707595": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-02-16 08:25:15",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年188天3小时3分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-02-12 06:16:59",
+        "edate": "2019-02-16 08:25:15",
+        "status": "online",
+        "duration": "1年4天2小时8分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

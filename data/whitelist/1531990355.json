@@ -1,0 +1,27 @@
+{
+  "1531990355": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-11-11 00:02:41",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年285天6小时0分",
+        "version": "1.0.4"
+      },
+      {
+        "sdate": "2020-09-18 00:00:00",
+        "edate": "2020-11-11 00:02:41",
+        "status": "online",
+        "duration": "54天2分",
+        "version": "1.0~1.0.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

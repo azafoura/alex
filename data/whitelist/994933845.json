@@ -1,0 +1,27 @@
+{
+  "994933845": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-05-31 11:30:21",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年83天11小时17分",
+        "version": "1.0.5"
+      },
+      {
+        "sdate": "2015-08-20 03:01:59",
+        "edate": "2017-05-31 11:30:21",
+        "status": "online",
+        "duration": "1年285天8小时28分",
+        "version": "1.0~1.0.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

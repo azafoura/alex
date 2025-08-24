@@ -1,0 +1,27 @@
+{
+  "1564260627": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-08-26 02:33:51",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年362天9小时22分",
+        "version": "2.4.1"
+      },
+      {
+        "sdate": "2021-05-30 00:00:00",
+        "edate": "2021-08-26 02:33:51",
+        "status": "online",
+        "duration": "88天2小时33分",
+        "version": "1.7~2.4.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

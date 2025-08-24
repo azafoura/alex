@@ -1,0 +1,27 @@
+{
+  "1385304773": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2021-08-08 17:56:26",
+        "edate": "2021-08-08 19:50:16",
+        "duration": "1小时53分",
+        "version": "1.4"
+      },
+      {
+        "sdate": "2018-05-19 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "7年96天11小时55分",
+        "version": "1.0~2.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

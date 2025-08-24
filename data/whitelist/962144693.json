@@ -1,0 +1,27 @@
+{
+  "962144693": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:18:21",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时50分",
+        "version": "1.7.1"
+      },
+      {
+        "sdate": "2015-02-13 00:00:00",
+        "edate": "2020-12-31 04:18:21",
+        "status": "online",
+        "duration": "5年323天4小时18分",
+        "version": "1.0.0~1.7.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

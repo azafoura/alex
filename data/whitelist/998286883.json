@@ -1,0 +1,27 @@
+{
+  "998286883": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-16 00:05:17",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年309天22小时42分",
+        "version": "1.31.0"
+      },
+      {
+        "sdate": "2015-06-10 08:46:54",
+        "edate": "2020-10-16 00:05:17",
+        "status": "online",
+        "duration": "5年129天15小时18分",
+        "version": "1.0~1.31.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

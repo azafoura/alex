@@ -1,0 +1,27 @@
+{
+  "693997323": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 08:53:21",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年145天2分",
+        "version": "1.5.3~1.5.4"
+      },
+      {
+        "sdate": "2013-11-13 20:31:00",
+        "edate": "2016-03-30 08:53:21",
+        "status": "online",
+        "duration": "2年137天12小时22分",
+        "version": "1.2.0~1.5.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

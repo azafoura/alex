@@ -1,0 +1,27 @@
+{
+  "905408749": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:56:00",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天16小时40分",
+        "version": "1.51.0"
+      },
+      {
+        "sdate": "2014-08-21 00:00:00",
+        "edate": "2020-12-31 04:56:00",
+        "status": "online",
+        "duration": "6年134天4小时56分",
+        "version": "1.0~1.51.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

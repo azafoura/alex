@@ -1,0 +1,27 @@
+{
+  "980577347": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-05-30 13:48:07",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年84天8小时54分",
+        "version": "1.0.4"
+      },
+      {
+        "sdate": "2015-04-15 04:04:39",
+        "edate": "2017-05-30 13:48:07",
+        "status": "online",
+        "duration": "2年46天9小时43分",
+        "version": "1.0.1~1.0.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

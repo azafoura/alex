@@ -1,0 +1,41 @@
+{
+  "1499798442": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-09-17 05:32:14",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年339天23小时30分",
+        "version": "4.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-08-04 15:09:27",
+        "edate": "2020-10-04 12:00:00",
+        "duration": "60天20小时50分",
+        "version": "2.0~3.0"
+      },
+      {
+        "sdate": "2020-07-25 22:08:19",
+        "edate": "2022-09-17 05:32:14",
+        "status": "online",
+        "duration": "2年53天7小时23分",
+        "version": "2.0~4.0"
+      },
+      {
+        "sdate": "2020-06-05 14:04:03",
+        "edate": "2020-07-25 22:08:19",
+        "status": "preorder",
+        "duration": "50天8小时4分",
+        "version": "1.0~2.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

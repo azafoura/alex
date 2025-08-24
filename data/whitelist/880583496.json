@@ -1,0 +1,27 @@
+{
+  "880583496": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:15:43",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天13小时38分",
+        "version": "2.1"
+      },
+      {
+        "sdate": "2014-05-29 00:00:00",
+        "edate": "2020-12-31 04:15:43",
+        "status": "online",
+        "duration": "6年218天4小时15分",
+        "version": "1.0~2.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "943806613": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:21:34",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时38分",
+        "version": "2.2.3"
+      },
+      {
+        "sdate": "2015-05-20 00:00:00",
+        "edate": "2020-12-31 04:21:34",
+        "status": "online",
+        "duration": "5年227天4小时21分",
+        "version": "0.4~2.2.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

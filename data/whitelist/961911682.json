@@ -1,0 +1,27 @@
+{
+  "961911682": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-02-08 07:46:43",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年195天14小时21分",
+        "version": "1.2.0"
+      },
+      {
+        "sdate": "2015-02-09 23:37:46",
+        "edate": "2020-02-08 07:46:43",
+        "status": "online",
+        "duration": "4年364天8小时8分",
+        "version": "1.0.1~1.2.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

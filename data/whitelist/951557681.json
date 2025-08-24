@@ -1,0 +1,41 @@
+{
+  "951557681": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-11-21 12:35:35",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年273天9小时27分",
+        "version": "6.27.09"
+      },
+      {
+        "sdate": "2023-11-20 11:08:23",
+        "edate": "2023-11-21 12:35:35",
+        "status": "online",
+        "duration": "1天1小时27分",
+        "version": "6.27.09"
+      },
+      {
+        "sdate": "2021-10-13 01:00:15",
+        "edate": "2023-11-20 11:08:23",
+        "status": "offline",
+        "duration": "2年38天10小时8分",
+        "version": "6.27.09"
+      },
+      {
+        "sdate": "2015-01-21 06:49:19",
+        "edate": "2021-10-13 01:00:15",
+        "status": "online",
+        "duration": "6年266天18小时10分",
+        "version": "1.13~6.27.09"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

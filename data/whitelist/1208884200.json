@@ -1,0 +1,27 @@
+{
+  "1208884200": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-03-01 19:47:33",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年173天9小时42分",
+        "version": "2.5.1"
+      },
+      {
+        "sdate": "2017-02-27 22:15:32",
+        "edate": "2020-03-01 19:47:33",
+        "status": "online",
+        "duration": "3年2天21小时32分",
+        "version": "1.0~2.5.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

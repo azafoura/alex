@@ -1,0 +1,41 @@
+{
+  "1356922424": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-11-30 19:51:59",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年265天15小时47分",
+        "version": "1.1.0"
+      },
+      {
+        "sdate": "2019-03-05 12:27:37",
+        "edate": "2019-11-30 19:51:59",
+        "status": "online",
+        "duration": "270天7小时24分",
+        "version": "1.1.0"
+      },
+      {
+        "sdate": "2019-03-03 20:05:28",
+        "edate": "2019-03-05 12:27:37",
+        "status": "offline",
+        "duration": "1天16小时22分",
+        "version": "1.1.0"
+      },
+      {
+        "sdate": "2018-03-14 10:10:11",
+        "edate": "2019-03-03 20:05:28",
+        "status": "online",
+        "duration": "354天9小时55分",
+        "version": "1.0.0~1.1.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1458323705": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-01-07 14:41:53",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年228天9小时35分",
+        "version": "1.6"
+      },
+      {
+        "sdate": "2019-04-12 14:39:10",
+        "edate": "2020-01-07 14:41:53",
+        "status": "online",
+        "duration": "270天2分",
+        "version": "1.0~1.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

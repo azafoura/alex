@@ -1,0 +1,48 @@
+{
+  "1356040265": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-02-19 18:32:54",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年183天17小时5分",
+        "version": "1.20.11"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-01-12 08:55:10",
+        "edate": "2020-01-12 10:46:14",
+        "duration": "1小时51分",
+        "version": "1.9.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-12-09 11:53:12",
+        "edate": "2019-12-09 14:00:00",
+        "duration": "2小时6分",
+        "version": "1.8.0"
+      },
+      {
+        "sdate": "2019-02-22 00:00:00",
+        "edate": "2024-02-19 18:32:54",
+        "status": "online",
+        "duration": "4年363天18小时32分",
+        "version": "1.1.0~1.20.11"
+      },
+      {
+        "sdate": "2018-12-14 00:00:00",
+        "edate": "2019-02-22 00:00:00",
+        "status": "preorder",
+        "duration": "70天0分",
+        "version": "1.0.5~1.1.0"
+      }
+    ],
+    "total": 5,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

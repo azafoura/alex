@@ -1,0 +1,27 @@
+{
+  "946914271": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-02-05 11:49:19",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年197天10小时11分",
+        "version": "7.7.0"
+      },
+      {
+        "sdate": "2014-12-15 11:52:37",
+        "edate": "2021-02-05 11:49:19",
+        "status": "online",
+        "duration": "6年53天23小时56分",
+        "version": "1.0.0~7.7.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1523446532": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-02-02 23:15:14",
+        "edate": "",
+        "status": "online",
+        "duration": "4年201天6小时29分",
+        "version": "1.60.11~3.5.8"
+      },
+      {
+        "sdate": "2021-01-02 22:49:00",
+        "edate": "2021-02-02 23:15:14",
+        "status": "preorder",
+        "duration": "31天26分",
+        "version": "1.0~1.60.11"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

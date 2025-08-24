@@ -1,0 +1,27 @@
+{
+  "804379658": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-30 18:30:14",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年21天14小时34分",
+        "version": "14.71.2"
+      },
+      {
+        "sdate": "2014-04-10 23:06:11",
+        "edate": "2020-07-30 18:30:14",
+        "status": "online",
+        "duration": "6年112天19小时24分",
+        "version": "1.1~14.71.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

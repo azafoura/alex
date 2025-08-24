@@ -1,0 +1,27 @@
+{
+  "1531652684": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-07-28 13:08:03",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年25天16小时54分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2020-09-14 00:00:00",
+        "edate": "2021-07-28 13:08:03",
+        "status": "online",
+        "duration": "317天13小时8分",
+        "version": "1.0~1.0.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

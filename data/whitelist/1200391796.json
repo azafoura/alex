@@ -1,0 +1,27 @@
+{
+  "1200391796": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-12-06 20:08:17",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年259天9小时17分",
+        "version": "1.27.6"
+      },
+      {
+        "sdate": "2017-04-12 13:37:30",
+        "edate": "2018-12-06 20:08:17",
+        "status": "online",
+        "duration": "1年238天6小时30分",
+        "version": "0.6.6~1.27.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

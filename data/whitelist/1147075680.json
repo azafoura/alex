@@ -1,0 +1,27 @@
+{
+  "1147075680": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-08-05 11:51:52",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年17天17小时10分",
+        "version": "1.7.2"
+      },
+      {
+        "sdate": "2016-09-30 08:21:22",
+        "edate": "2019-08-05 11:51:52",
+        "status": "online",
+        "duration": "2年309天3小时30分",
+        "version": "1.0~1.7.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

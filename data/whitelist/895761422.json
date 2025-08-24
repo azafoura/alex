@@ -1,0 +1,27 @@
+{
+  "895761422": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-07-10 19:30:37",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年42天22小时32分",
+        "version": "1.14.1"
+      },
+      {
+        "sdate": "2015-04-23 01:34:40",
+        "edate": "2017-07-10 19:30:37",
+        "status": "online",
+        "duration": "2年79天17小时55分",
+        "version": "1.0.0~1.14.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

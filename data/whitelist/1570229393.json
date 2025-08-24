@@ -1,0 +1,27 @@
+{
+  "1570229393": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-06-13 18:03:17",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年70天21小时42分",
+        "version": "1.009"
+      },
+      {
+        "sdate": "2021-06-03 00:00:00",
+        "edate": "2021-06-13 18:03:17",
+        "status": "online",
+        "duration": "10天18小时3分",
+        "version": "1.007~1.009"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

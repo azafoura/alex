@@ -1,0 +1,41 @@
+{
+  "705483535": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:13:01",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时44分",
+        "version": "5.1"
+      },
+      {
+        "sdate": "2018-12-03 01:39:03",
+        "edate": "2020-12-31 04:13:01",
+        "status": "online",
+        "duration": "2年29天2小时33分",
+        "version": "4.0~5.1"
+      },
+      {
+        "sdate": "2018-11-30 20:39:27",
+        "edate": "2018-12-03 01:39:03",
+        "status": "offline",
+        "duration": "2天4小时59分",
+        "version": "4.0"
+      },
+      {
+        "sdate": "2013-09-19 00:00:00",
+        "edate": "2018-11-30 20:39:27",
+        "status": "online",
+        "duration": "5年73天20小时39分",
+        "version": "1.0.0~4.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

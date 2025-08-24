@@ -1,0 +1,27 @@
+{
+  "1182314032": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-12-17 20:11:40",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年247天9小时3分",
+        "version": "1.06"
+      },
+      {
+        "sdate": "2017-02-09 00:00:00",
+        "edate": "2021-12-17 20:11:40",
+        "status": "online",
+        "duration": "4年312天20小时11分",
+        "version": "1.0~1.06"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

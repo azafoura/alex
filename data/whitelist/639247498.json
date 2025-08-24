@@ -1,0 +1,27 @@
+{
+  "639247498": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-11-21 03:39:57",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年274天5小时11分",
+        "version": "3.3.5"
+      },
+      {
+        "sdate": "2013-05-10 19:15:07",
+        "edate": "2019-11-21 03:39:57",
+        "status": "online",
+        "duration": "6年195天8小时24分",
+        "version": "1.0~3.3.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

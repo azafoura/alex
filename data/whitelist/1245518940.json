@@ -1,0 +1,27 @@
+{
+  "1245518940": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 05:12:11",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天2小时31分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2017-06-08 00:00:00",
+        "edate": "2020-12-31 05:12:11",
+        "status": "online",
+        "duration": "3年207天5小时12分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "652945710": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:12:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时40分",
+        "version": "2.107"
+      },
+      {
+        "sdate": "2013-07-03 00:51:18",
+        "edate": "2020-12-31 04:12:13",
+        "status": "online",
+        "duration": "7年183天3小时20分",
+        "version": "1.00~2.107"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

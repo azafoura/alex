@@ -1,0 +1,27 @@
+{
+  "1576305143": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2025-04-07 17:25:47",
+        "edate": null,
+        "status": "offline",
+        "duration": "136天22小时24分",
+        "version": "1.0.9"
+      },
+      {
+        "sdate": "2021-07-23 00:00:00",
+        "edate": "2025-04-07 17:25:47",
+        "status": "online",
+        "duration": "3年259天17小时25分",
+        "version": "1.0.2~1.0.9"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

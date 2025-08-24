@@ -1,0 +1,27 @@
+{
+  "1579018641": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2021-08-19 05:46:01",
+        "edate": "2021-08-19 07:48:14",
+        "duration": "2小时2分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2021-08-13 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "4年10天15小时51分",
+        "version": "1.0.0~1.0.9"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

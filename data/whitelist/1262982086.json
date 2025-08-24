@@ -1,0 +1,27 @@
+{
+  "1262982086": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2019-08-16 21:03:43",
+        "edate": "2019-08-16 23:00:00",
+        "duration": "1小时56分",
+        "version": "1.8.238.1"
+      },
+      {
+        "sdate": "2018-05-14 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "7年101天7小时51分",
+        "version": "1.0.1~1.9.138"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

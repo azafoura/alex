@@ -1,0 +1,34 @@
+{
+  "1450350093": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-03-25 00:08:14",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年151天23小时57分",
+        "version": "5057"
+      },
+      {
+        "sdate": "2019-03-14 00:00:00",
+        "edate": "2019-03-25 00:08:14",
+        "status": "online",
+        "duration": "11天8分",
+        "version": "4911~5057"
+      },
+      {
+        "sdate": "2019-03-06 06:23:28",
+        "edate": "2019-03-14 00:00:00",
+        "status": "preorder",
+        "duration": "7天17小时36分",
+        "version": "4719~4911"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

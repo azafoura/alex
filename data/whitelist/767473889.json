@@ -1,0 +1,27 @@
+{
+  "767473889": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 08:56:53",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年145天5分",
+        "version": "1.8~1.9"
+      },
+      {
+        "sdate": "2014-07-02 23:07:27",
+        "edate": "2016-03-30 08:56:53",
+        "status": "online",
+        "duration": "1年271天9小时49分",
+        "version": "0.0.0~1.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

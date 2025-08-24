@@ -1,0 +1,27 @@
+{
+  "1511699206": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:47:31",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年235天25分",
+        "version": "2.5"
+      },
+      {
+        "sdate": "2020-06-12 17:39:06",
+        "edate": "2020-12-31 04:47:31",
+        "status": "online",
+        "duration": "201天11小时8分",
+        "version": "1.0~2.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

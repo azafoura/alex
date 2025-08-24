@@ -1,0 +1,55 @@
+{
+  "484411781": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-05-09 01:56:42",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年104天6小时42分",
+        "version": "2.5.6"
+      },
+      {
+        "status": "out",
+        "sdate": "2023-03-25 21:38:06",
+        "edate": "2023-03-25 22:50:50",
+        "duration": "1小时12分",
+        "version": "2.5.5"
+      },
+      {
+        "status": "out",
+        "sdate": "2022-12-06 11:54:46",
+        "edate": "2022-12-06 13:45:58",
+        "duration": "1小时51分",
+        "version": "2.5.2"
+      },
+      {
+        "status": "out",
+        "sdate": "2022-04-01 00:00:06",
+        "edate": "2022-04-01 01:40:16",
+        "duration": "1小时40分",
+        "version": "2.5.2"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-10-21 15:08:02",
+        "edate": "2021-10-21 17:00:59",
+        "duration": "1小时52分",
+        "version": "2.5.2"
+      },
+      {
+        "sdate": "2011-12-11 00:00:00",
+        "edate": "2023-05-09 01:56:42",
+        "status": "online",
+        "duration": "11年152天1小时56分",
+        "version": "1.0~2.5.6"
+      }
+    ],
+    "total": 6,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

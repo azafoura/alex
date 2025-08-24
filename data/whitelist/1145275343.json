@@ -1,0 +1,27 @@
+{
+  "1145275343": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-09-06 00:12:11",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年351天4小时48分",
+        "version": ""
+      },
+      {
+        "sdate": "2016-11-11 09:20:03",
+        "edate": "2017-09-06 00:12:11",
+        "status": "online",
+        "duration": "298天14小时52分",
+        "version": ""
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

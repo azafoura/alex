@@ -1,0 +1,27 @@
+{
+  "1546973598": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-02-24 02:14:10",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年180天9小时10分",
+        "version": "2.7"
+      },
+      {
+        "sdate": "2021-01-12 00:00:00",
+        "edate": "2022-02-24 02:14:10",
+        "status": "online",
+        "duration": "1年43天2小时14分",
+        "version": "1.0~2.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

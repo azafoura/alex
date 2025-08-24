@@ -1,0 +1,27 @@
+{
+  "439159270": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-08 11:25:12",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年43天21小时11分",
+        "version": "5.6.8"
+      },
+      {
+        "sdate": "2013-04-03 02:43:43",
+        "edate": "2020-07-08 11:25:12",
+        "status": "online",
+        "duration": "7年98天8小时41分",
+        "version": "2.5.2~5.6.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

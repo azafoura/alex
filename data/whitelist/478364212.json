@@ -1,0 +1,27 @@
+{
+  "478364212": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:07:31",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时31分",
+        "version": "3.2.6"
+      },
+      {
+        "sdate": "2012-01-18 00:00:00",
+        "edate": "2020-12-31 04:07:31",
+        "status": "online",
+        "duration": "8年350天4小时7分",
+        "version": "1.0.0~3.2.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

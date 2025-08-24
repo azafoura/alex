@@ -1,0 +1,27 @@
+{
+  "1274499822": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-04-04 06:50:27",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年140天1小时4分",
+        "version": "2.0.1"
+      },
+      {
+        "sdate": "2017-08-30 00:00:00",
+        "edate": "2023-04-04 06:50:27",
+        "status": "online",
+        "duration": "5年218天6小时50分",
+        "version": "1.0~2.0.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

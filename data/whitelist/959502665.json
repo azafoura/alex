@@ -1,0 +1,41 @@
+{
+  "959502665": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:24:22",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时43分",
+        "version": "4.8.89"
+      },
+      {
+        "sdate": "2019-05-20 17:02:03",
+        "edate": "2020-12-31 04:24:22",
+        "status": "online",
+        "duration": "1年225天11小时22分",
+        "version": "3.6.70~4.8.89"
+      },
+      {
+        "sdate": "2019-05-19 18:57:11",
+        "edate": "2019-05-20 17:02:03",
+        "status": "offline",
+        "duration": "22小时4分",
+        "version": "3.6.70"
+      },
+      {
+        "sdate": "2015-03-03 06:06:29",
+        "edate": "2019-05-19 18:57:11",
+        "status": "online",
+        "duration": "4年78天12小时50分",
+        "version": "1.0~3.6.70"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

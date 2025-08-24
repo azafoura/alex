@@ -1,0 +1,27 @@
+{
+  "1416677940": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-01-10 09:54:15",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年225天11小时19分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2018-07-25 16:57:32",
+        "edate": "2019-01-10 09:54:15",
+        "status": "online",
+        "duration": "168天16小时56分",
+        "version": "1.0~2.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

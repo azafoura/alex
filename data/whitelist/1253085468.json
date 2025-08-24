@@ -1,0 +1,27 @@
+{
+  "1253085468": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-02-29 02:34:25",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年175天5小时12分",
+        "version": "1.06"
+      },
+      {
+        "sdate": "2017-07-31 03:13:25",
+        "edate": "2020-02-29 02:34:25",
+        "status": "online",
+        "duration": "2年212天23小时21分",
+        "version": "1.0~1.06"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

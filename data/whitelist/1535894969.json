@@ -1,0 +1,27 @@
+{
+  "1535894969": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-09-15 09:03:07",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年341天21小时5分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2020-10-17 00:00:00",
+        "edate": "2021-09-15 09:03:07",
+        "status": "online",
+        "duration": "333天9小时3分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

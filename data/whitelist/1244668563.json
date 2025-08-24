@@ -1,0 +1,27 @@
+{
+  "1244668563": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:27:06",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天3小时15分",
+        "version": "2.8.0"
+      },
+      {
+        "sdate": "2017-08-29 06:44:44",
+        "edate": "2020-12-31 04:27:06",
+        "status": "online",
+        "duration": "3年124天21小时42分",
+        "version": "1.2.1~2.8.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

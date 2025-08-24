@@ -1,0 +1,41 @@
+{
+  "1582784727": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-10-09 01:02:26",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年318天14小时51分",
+        "version": "1.0.6"
+      },
+      {
+        "sdate": "2021-10-09 00:49:43",
+        "edate": "2021-10-09 01:02:26",
+        "status": "online",
+        "duration": "12分",
+        "version": "1.0.6"
+      },
+      {
+        "sdate": "2021-10-09 00:47:56",
+        "edate": "2021-10-09 00:49:43",
+        "status": "offline",
+        "duration": "1分",
+        "version": "1.0.6"
+      },
+      {
+        "sdate": "2021-09-01 00:00:00",
+        "edate": "2021-10-09 00:47:56",
+        "status": "online",
+        "duration": "38天47分",
+        "version": "1.0.6"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

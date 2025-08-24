@@ -1,0 +1,34 @@
+{
+  "1470125745": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:38:07",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天19小时54分",
+        "version": "1.05"
+      },
+      {
+        "sdate": "2020-06-19 00:00:00",
+        "edate": "2020-12-31 04:38:07",
+        "status": "online",
+        "duration": "195天4小时38分",
+        "version": "0.735~1.05"
+      },
+      {
+        "sdate": "2020-03-31 14:10:45",
+        "edate": "2020-06-19 00:00:00",
+        "status": "preorder",
+        "duration": "79天9小时49分",
+        "version": "1.0~0.735"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1386783629": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-01-09 08:13:48",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年226天3小时43分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-06-13 11:36:45",
+        "edate": "2019-01-09 08:13:48",
+        "status": "online",
+        "duration": "209天20小时37分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

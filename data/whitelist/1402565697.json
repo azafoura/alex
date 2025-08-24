@@ -1,0 +1,20 @@
+{
+  "1402565697": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2018-07-08 04:05:14",
+        "edate": "2018-07-11 00:00:00",
+        "duration": "2天19小时54分",
+        "version": "1.0"
+      }
+    ],
+    "total": 1,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

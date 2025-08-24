@@ -1,0 +1,41 @@
+{
+  "1330894790": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-09-17 18:55:48",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年339天16小时29分",
+        "version": "2.1.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2018-09-12 11:43:08",
+        "edate": "2018-09-17 18:55:48",
+        "duration": "5天7小时12分",
+        "version": "2.1.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2018-05-01 07:00:34",
+        "edate": "2018-06-30 00:00:00",
+        "duration": "59天16小时59分",
+        "version": "2.1.1"
+      },
+      {
+        "sdate": "2018-01-23 02:31:19",
+        "edate": "2018-09-17 18:55:48",
+        "status": "online",
+        "duration": "237天16小时24分",
+        "version": "1.9.1~2.1.1"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

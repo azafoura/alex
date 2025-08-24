@@ -1,0 +1,41 @@
+{
+  "1115667074": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-09-09 05:44:35",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年347天22小时42分",
+        "version": "1.0.3"
+      },
+      {
+        "sdate": "2018-05-08 21:43:46",
+        "edate": "2018-09-09 05:44:35",
+        "status": "online",
+        "duration": "123天8小时0分",
+        "version": "1.0.3"
+      },
+      {
+        "sdate": "2018-05-06 08:03:52",
+        "edate": "2018-05-08 21:43:46",
+        "status": "offline",
+        "duration": "2天13小时39分",
+        "version": "1.0.3"
+      },
+      {
+        "sdate": "2016-06-05 20:48:21",
+        "edate": "2018-05-06 08:03:52",
+        "status": "online",
+        "duration": "1年334天11小时15分",
+        "version": "1.0.2~1.0.3"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

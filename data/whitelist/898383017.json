@@ -1,0 +1,27 @@
+{
+  "898383017": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:16:05",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天13小时53分",
+        "version": "1.133491"
+      },
+      {
+        "sdate": "2014-09-15 23:38:29",
+        "edate": "2020-12-31 04:16:05",
+        "status": "online",
+        "duration": "6年108天4小时37分",
+        "version": "1.51056~1.133491"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

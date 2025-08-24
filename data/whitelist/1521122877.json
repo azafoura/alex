@@ -1,0 +1,27 @@
+{
+  "1521122877": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-10-14 21:17:21",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年312天8小时23分",
+        "version": "2.6.8"
+      },
+      {
+        "sdate": "2020-06-30 00:00:00",
+        "edate": "2022-10-14 21:17:21",
+        "status": "online",
+        "duration": "2年106天21小时17分",
+        "version": "1.0.0~2.6.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

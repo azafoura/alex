@@ -1,0 +1,41 @@
+{
+  "1383162420": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-03-23 12:17:47",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年152天23小时36分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-08-15 10:40:14",
+        "edate": "2019-03-23 12:17:47",
+        "status": "online",
+        "duration": "220天1小时37分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-08-09 14:07:53",
+        "edate": "2018-08-15 10:40:14",
+        "status": "offline",
+        "duration": "5天20小时32分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-06-08 02:54:38",
+        "edate": "2018-08-09 14:07:53",
+        "status": "online",
+        "duration": "62天11小时13分",
+        "version": "1.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

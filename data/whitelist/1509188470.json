@@ -1,0 +1,27 @@
+{
+  "1509188470": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-01-04 10:24:35",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年230天18小时42分",
+        "version": "2.8.12"
+      },
+      {
+        "sdate": "2020-04-23 00:00:00",
+        "edate": "2024-01-04 10:24:35",
+        "status": "online",
+        "duration": "3年256天10小时24分",
+        "version": "1.0.0~2.8.12"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

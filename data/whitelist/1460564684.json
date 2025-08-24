@@ -1,0 +1,27 @@
+{
+  "1460564684": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-07-14 00:01:37",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年41天19分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2019-07-10 21:01:34",
+        "edate": "2019-07-14 00:01:37",
+        "status": "online",
+        "duration": "3天3小时0分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

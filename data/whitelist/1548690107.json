@@ -1,0 +1,27 @@
+{
+  "1548690107": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-04-26 07:54:14",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年119天3小时33分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2021-01-15 12:51:26",
+        "edate": "2021-04-26 07:54:14",
+        "status": "online",
+        "duration": "100天19小时2分",
+        "version": "1.0.0~1.0.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1127260440": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 05:02:47",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天23小时35分",
+        "version": "3.2"
+      },
+      {
+        "sdate": "2016-08-06 14:00:39",
+        "edate": "2020-12-31 05:02:47",
+        "status": "online",
+        "duration": "4年147天15小时2分",
+        "version": "1.0~3.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

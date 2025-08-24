@@ -1,0 +1,48 @@
+{
+  "687986692": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-08 10:55:55",
+        "edate": "",
+        "status": "online",
+        "duration": "5年43天21小时59分",
+        "version": "2.2.4~2.9.3"
+      },
+      {
+        "sdate": "2020-07-04 03:46:44",
+        "edate": "2020-07-08 10:55:55",
+        "status": "offline",
+        "duration": "4天7小时9分",
+        "version": "2.2.4"
+      },
+      {
+        "sdate": "2019-04-09 00:23:40",
+        "edate": "2020-07-04 03:46:44",
+        "status": "online",
+        "duration": "1年87天3小时23分",
+        "version": "2.2.3~2.2.4"
+      },
+      {
+        "sdate": "2018-08-09 06:33:45",
+        "edate": "2019-04-09 00:23:40",
+        "status": "offline",
+        "duration": "242天17小时49分",
+        "version": "2.2.0~2.2.3"
+      },
+      {
+        "sdate": "2013-09-04 00:00:00",
+        "edate": "2018-08-09 06:33:45",
+        "status": "online",
+        "duration": "4年340天6小时33分",
+        "version": "1.0~2.2.0"
+      }
+    ],
+    "total": 5,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "1125334443": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2025-06-24 03:59:01",
+        "edate": "",
+        "status": "online",
+        "duration": "58天38分",
+        "version": "1.5"
+      },
+      {
+        "sdate": "2025-06-15 00:46:31",
+        "edate": "2025-06-24 03:59:01",
+        "status": "offline",
+        "duration": "9天3小时12分",
+        "version": "1.5"
+      },
+      {
+        "sdate": "2016-06-21 00:00:00",
+        "edate": "2025-06-15 00:46:31",
+        "status": "online",
+        "duration": "8年361天46分",
+        "version": "1.0~1.5"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

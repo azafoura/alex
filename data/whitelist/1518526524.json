@@ -1,0 +1,27 @@
+{
+  "1518526524": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-01-19 08:57:49",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年215天20小时40分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2020-06-15 00:00:00",
+        "edate": "2022-01-19 08:57:49",
+        "status": "online",
+        "duration": "1年218天8小时57分",
+        "version": "1.0.0~1.0.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

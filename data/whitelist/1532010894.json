@@ -1,0 +1,27 @@
+{
+  "1532010894": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-01-29 06:48:22",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年205天23小时15分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2020-10-22 00:00:00",
+        "edate": "2022-01-29 06:48:22",
+        "status": "online",
+        "duration": "1年99天6小时48分",
+        "version": "1.0.0~1.0.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

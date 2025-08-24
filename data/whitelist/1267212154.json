@@ -1,0 +1,41 @@
+{
+  "1267212154": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-05-07 06:29:21",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年108天1小时22分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2019-01-19 14:52:34",
+        "edate": "2019-05-07 06:29:21",
+        "status": "online",
+        "duration": "107天15小时36分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2019-01-18 20:18:59",
+        "edate": "2019-01-19 14:52:34",
+        "status": "offline",
+        "duration": "18小时33分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2017-08-16 07:31:26",
+        "edate": "2019-01-18 20:18:59",
+        "status": "online",
+        "duration": "1年155天12小时47分",
+        "version": "1.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

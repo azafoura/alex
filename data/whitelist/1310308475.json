@@ -1,0 +1,34 @@
+{
+  "1310308475": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-11-30 15:04:55",
+        "edate": "",
+        "status": "online",
+        "duration": "3年264天17小时4分",
+        "version": "6.1.1"
+      },
+      {
+        "sdate": "2020-12-31 04:29:48",
+        "edate": "2021-11-30 15:04:55",
+        "status": "offline",
+        "duration": "334天10小时35分",
+        "version": "6.1.1"
+      },
+      {
+        "sdate": "2017-12-21 00:00:00",
+        "edate": "2020-12-31 04:29:48",
+        "status": "online",
+        "duration": "3年11天4小时29分",
+        "version": "1.0~6.1.1"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

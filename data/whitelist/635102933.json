@@ -1,0 +1,27 @@
+{
+  "635102933": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:12:10",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时38分",
+        "version": "1.4.2"
+      },
+      {
+        "sdate": "2013-07-08 00:00:00",
+        "edate": "2020-12-31 04:12:10",
+        "status": "online",
+        "duration": "7年178天4小时12分",
+        "version": "1.0~1.4.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

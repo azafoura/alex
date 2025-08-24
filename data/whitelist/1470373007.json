@@ -1,0 +1,41 @@
+{
+  "1470373007": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-08-29 13:53:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年359天10小时39分",
+        "version": "1.1.7"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-08-27 12:12:12",
+        "edate": "2019-08-27 19:00:00",
+        "duration": "6小时47分",
+        "version": "1.1.7"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-08-08 21:03:31",
+        "edate": "2019-08-08 23:00:00",
+        "duration": "1小时56分",
+        "version": "1.1.4"
+      },
+      {
+        "sdate": "2019-07-02 02:01:29",
+        "edate": "2019-08-29 13:53:13",
+        "status": "online",
+        "duration": "58天11小时51分",
+        "version": "1.0~1.1.7"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

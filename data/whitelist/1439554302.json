@@ -1,0 +1,41 @@
+{
+  "1439554302": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-05-14 10:40:45",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年100天10小时41分",
+        "version": "1.6"
+      },
+      {
+        "sdate": "2020-05-13 17:49:32",
+        "edate": "2020-05-14 10:40:45",
+        "status": "online",
+        "duration": "16小时51分",
+        "version": "1.6"
+      },
+      {
+        "sdate": "2020-04-04 04:46:57",
+        "edate": "2020-05-13 17:49:32",
+        "status": "offline",
+        "duration": "39天13小时2分",
+        "version": "1.6"
+      },
+      {
+        "sdate": "2018-10-31 13:36:00",
+        "edate": "2020-04-04 04:46:57",
+        "status": "online",
+        "duration": "1年155天15小时10分",
+        "version": "1.0~1.6"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

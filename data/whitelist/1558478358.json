@@ -1,0 +1,27 @@
+{
+  "1558478358": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-09-10 22:04:48",
+        "edate": null,
+        "status": "offline",
+        "duration": "345天13小时39分",
+        "version": "31.0"
+      },
+      {
+        "sdate": "2021-03-17 00:00:00",
+        "edate": "2024-09-10 22:04:48",
+        "status": "online",
+        "duration": "3年178天22小时4分",
+        "version": "1.0~31.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

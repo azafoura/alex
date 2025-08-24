@@ -1,0 +1,27 @@
+{
+  "1521674763": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-09-23 23:39:25",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年333天6小时2分",
+        "version": "3.3.0"
+      },
+      {
+        "sdate": "2020-07-09 16:10:03",
+        "edate": "2020-09-23 23:39:25",
+        "status": "online",
+        "duration": "76天7小时29分",
+        "version": "0.1.0~3.3.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

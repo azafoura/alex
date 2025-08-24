@@ -1,0 +1,27 @@
+{
+  "1477578758": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-08-31 02:41:39",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年356天22小时1分",
+        "version": "1.9"
+      },
+      {
+        "sdate": "2019-08-30 00:00:00",
+        "edate": "2022-08-31 02:41:39",
+        "status": "online",
+        "duration": "3年2天2小时41分",
+        "version": "1.0~1.9"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

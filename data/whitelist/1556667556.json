@@ -1,0 +1,27 @@
+{
+  "1556667556": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-05-06 07:30:12",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年109天4小时12分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2021-03-04 20:00:49",
+        "edate": "2021-05-06 07:30:12",
+        "status": "online",
+        "duration": "62天11小时29分",
+        "version": "1.0.0~1.0.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1555987905": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-04-25 16:51:11",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年119天18小时49分",
+        "version": "1.2.5"
+      },
+      {
+        "sdate": "2021-03-10 00:00:00",
+        "edate": "2022-04-25 16:51:11",
+        "status": "online",
+        "duration": "1年46天16小时51分",
+        "version": "1.0~1.2.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

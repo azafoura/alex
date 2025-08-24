@@ -1,0 +1,27 @@
+{
+  "816202468": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-03-08 11:34:19",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年165天21小时31分",
+        "version": "1.0.7"
+      },
+      {
+        "sdate": "2014-02-17 00:00:00",
+        "edate": "2022-03-08 11:34:19",
+        "status": "online",
+        "duration": "8年21天11小时34分",
+        "version": "1.0.0~1.0.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

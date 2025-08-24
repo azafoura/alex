@@ -1,0 +1,27 @@
+{
+  "722772114": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-05-20 19:13:49",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年92天13小时45分",
+        "version": "9.8"
+      },
+      {
+        "sdate": "2013-10-18 20:52:12",
+        "edate": "2020-05-20 19:13:49",
+        "status": "online",
+        "duration": "6年215天22小时21分",
+        "version": "1.0~9.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

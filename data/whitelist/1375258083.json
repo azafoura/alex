@@ -1,0 +1,27 @@
+{
+  "1375258083": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:32:23",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天7小时18分",
+        "version": "420"
+      },
+      {
+        "sdate": "2018-04-26 16:24:41",
+        "edate": "2020-12-31 04:32:23",
+        "status": "online",
+        "duration": "2年249天12小时7分",
+        "version": "1.0~420"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

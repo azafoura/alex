@@ -1,0 +1,27 @@
+{
+  "1453950124": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-12-30 16:09:41",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年236天8小时1分",
+        "version": "1.16.4"
+      },
+      {
+        "sdate": "2019-03-01 00:03:13",
+        "edate": "2019-12-30 16:09:41",
+        "status": "online",
+        "duration": "304天16小时6分",
+        "version": "1.0~1.16.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

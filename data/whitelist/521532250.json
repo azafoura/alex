@@ -1,0 +1,27 @@
+{
+  "521532250": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:09:26",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时32分",
+        "version": "5.4.3"
+      },
+      {
+        "sdate": "2013-02-12 01:57:57",
+        "edate": "2020-12-31 04:09:26",
+        "status": "online",
+        "duration": "7年324天2小时11分",
+        "version": "2.2~5.4.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

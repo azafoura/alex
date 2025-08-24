@@ -1,0 +1,27 @@
+{
+  "1247474592": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-12-12 08:45:48",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年253天22小时58分",
+        "version": "1.12.1"
+      },
+      {
+        "sdate": "2017-07-10 06:50:23",
+        "edate": "2018-12-12 08:45:48",
+        "status": "online",
+        "duration": "1年155天1小时55分",
+        "version": "1.0~1.12.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1041858985": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 07:25:23",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年145天15小时39分",
+        "version": "2.0.0~3.0.0"
+      },
+      {
+        "sdate": "2016-01-06 08:29:00",
+        "edate": "2016-03-30 07:25:23",
+        "status": "online",
+        "duration": "83天22小时56分",
+        "version": "1.0.2~2.0.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

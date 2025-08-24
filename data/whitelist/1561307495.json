@@ -1,0 +1,27 @@
+{
+  "1561307495": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2021-04-18 14:50:30",
+        "edate": "2021-04-18 16:53:36",
+        "duration": "2小时3分",
+        "version": "2.1.0"
+      },
+      {
+        "sdate": "2021-04-15 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "4年130天11小时50分",
+        "version": "2.1.0~2.5.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "1576178294": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-12-16 12:13:18",
+        "edate": null,
+        "status": "offline",
+        "duration": "249天3小时37分",
+        "version": "1.1.17"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-07-16 21:00:01",
+        "edate": "2021-07-16 22:58:02",
+        "duration": "1小时58分",
+        "version": "1.1.6"
+      },
+      {
+        "sdate": "2021-07-16 10:28:24",
+        "edate": "2024-12-16 12:13:18",
+        "status": "online",
+        "duration": "3年154天1小时44分",
+        "version": "1.1.6~1.1.17"
+      },
+      {
+        "sdate": "2021-07-15 10:57:06",
+        "edate": "2021-07-16 10:28:24",
+        "status": "preorder",
+        "duration": "23小时31分",
+        "version": "1.1.5~1.1.6"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1448446830": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-01-22 02:29:36",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年213天21小时10分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2019-01-12 17:02:00",
+        "edate": "2019-01-22 02:29:36",
+        "status": "online",
+        "duration": "9天9小时27分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

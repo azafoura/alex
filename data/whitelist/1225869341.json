@@ -1,0 +1,27 @@
+{
+  "1225869341": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-05 08:59:57",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年259天22小时33分",
+        "version": "1.0.4"
+      },
+      {
+        "sdate": "2017-04-19 00:00:00",
+        "edate": "2020-12-05 08:59:57",
+        "status": "online",
+        "duration": "3年231天8小时59分",
+        "version": "1.0.2~1.0.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

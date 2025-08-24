@@ -1,0 +1,41 @@
+{
+  "419424268": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:06:40",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时29分",
+        "version": "11.47"
+      },
+      {
+        "sdate": "2018-04-06 02:18:08",
+        "edate": "2020-12-31 04:06:40",
+        "status": "online",
+        "duration": "2年270天1小时48分",
+        "version": "8.00~11.47"
+      },
+      {
+        "sdate": "2018-01-09 03:11:01",
+        "edate": "2018-04-06 02:18:08",
+        "status": "offline",
+        "duration": "86天23小时7分",
+        "version": "7.31~8.00"
+      },
+      {
+        "sdate": "2011-03-28 22:58:58",
+        "edate": "2018-01-09 03:11:01",
+        "status": "online",
+        "duration": "6年288天4小时12分",
+        "version": "1.0~7.31"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

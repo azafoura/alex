@@ -1,0 +1,34 @@
+{
+  "988518358": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:22:42",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天18小时22分",
+        "version": "1.5"
+      },
+      {
+        "status": "out",
+        "sdate": "2017-02-11 01:09:02",
+        "edate": "2017-02-12 00:00:00",
+        "duration": "22小时50分",
+        "version": "1.5"
+      },
+      {
+        "sdate": "2015-05-16 02:23:47",
+        "edate": "2020-12-31 04:22:42",
+        "status": "online",
+        "duration": "5年231天1小时58分",
+        "version": "1.0~1.5"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

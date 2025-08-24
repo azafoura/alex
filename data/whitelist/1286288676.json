@@ -1,0 +1,27 @@
+{
+  "1286288676": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-10-21 15:58:50",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年304天16小时0分",
+        "version": "2.32"
+      },
+      {
+        "sdate": "2017-09-19 01:32:10",
+        "edate": "2021-10-21 15:58:50",
+        "status": "online",
+        "duration": "4年33天14小时26分",
+        "version": "1.0~2.32"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

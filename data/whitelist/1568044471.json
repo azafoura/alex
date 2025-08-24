@@ -1,0 +1,34 @@
+{
+  "1568044471": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-01-07 16:46:57",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年227天19小时15分",
+        "version": "1.3.39"
+      },
+      {
+        "sdate": "2021-07-08 01:49:20",
+        "edate": "2022-01-07 16:46:57",
+        "status": "online",
+        "duration": "183天14小时57分",
+        "version": "1.2.550~1.3.39"
+      },
+      {
+        "sdate": "2021-06-13 15:36:06",
+        "edate": "2021-07-08 01:49:20",
+        "status": "preorder",
+        "duration": "24天10小时13分",
+        "version": "1.2.43~1.2.550"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

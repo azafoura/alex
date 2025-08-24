@@ -1,0 +1,27 @@
+{
+  "721512422": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2021-04-12 14:41:40",
+        "edate": "2021-04-12 16:41:45",
+        "duration": "2小时0分",
+        "version": "1.6.0"
+      },
+      {
+        "sdate": "2013-10-17 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "11年310天8小时58分",
+        "version": "1.2.0~1.6.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

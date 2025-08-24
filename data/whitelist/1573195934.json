@@ -1,0 +1,41 @@
+{
+  "1573195934": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-12-01 11:44:16",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年265天4小时4分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2021-12-01 11:16:06",
+        "edate": "2021-12-01 11:44:16",
+        "status": "online",
+        "duration": "28分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2021-12-01 11:15:17",
+        "edate": "2021-12-01 11:16:06",
+        "status": "offline",
+        "duration": "0分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2021-06-22 00:00:00",
+        "edate": "2021-12-01 11:15:17",
+        "status": "online",
+        "duration": "162天11小时15分",
+        "version": "1.0~2.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

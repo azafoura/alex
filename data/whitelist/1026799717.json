@@ -1,0 +1,27 @@
+{
+  "1026799717": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-09-30 19:38:56",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年326天3小时16分",
+        "version": "9.3.6"
+      },
+      {
+        "sdate": "2015-08-20 22:03:01",
+        "edate": "2019-09-30 19:38:56",
+        "status": "online",
+        "duration": "4年41天21小时35分",
+        "version": "1.0~9.3.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

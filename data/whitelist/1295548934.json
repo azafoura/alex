@@ -1,0 +1,41 @@
+{
+  "1295548934": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-12-25 04:07:07",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年240天3小时56分",
+        "version": "1.2"
+      },
+      {
+        "sdate": "2022-11-24 19:53:38",
+        "edate": "2023-12-25 04:07:07",
+        "status": "online",
+        "duration": "1年30天8小时13分",
+        "version": "1.2"
+      },
+      {
+        "sdate": "2022-09-23 19:00:13",
+        "edate": "2022-11-24 19:53:38",
+        "status": "offline",
+        "duration": "62天53分",
+        "version": "1.2"
+      },
+      {
+        "sdate": "2017-10-18 22:01:10",
+        "edate": "2022-09-23 19:00:13",
+        "status": "online",
+        "duration": "4年340天20小时59分",
+        "version": "1.0~1.2"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1079358619": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-08-01 04:16:53",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年20天19小时31分",
+        "version": "1.2"
+      },
+      {
+        "sdate": "2016-02-04 21:08:46",
+        "edate": "2020-08-01 04:16:53",
+        "status": "online",
+        "duration": "4年179天7小时8分",
+        "version": "1.0~1.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

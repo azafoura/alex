@@ -1,0 +1,27 @@
+{
+  "864578890": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-01-13 10:34:07",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年220天22小时35分",
+        "version": "1.0.17"
+      },
+      {
+        "sdate": "2014-06-03 15:14:46",
+        "edate": "2017-01-13 10:34:07",
+        "status": "online",
+        "duration": "2年224天19小时19分",
+        "version": "1.0.0~1.0.17"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

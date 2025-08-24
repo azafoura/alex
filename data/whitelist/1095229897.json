@@ -1,0 +1,34 @@
+{
+  "1095229897": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2021-10-29 02:58:01",
+        "edate": "2021-10-29 04:47:01",
+        "duration": "1小时49分",
+        "version": "1.7"
+      },
+      {
+        "status": "out",
+        "sdate": "2018-11-26 16:53:11",
+        "edate": "2019-03-19 00:00:00",
+        "duration": "112天7小时6分",
+        "version": "1.04"
+      },
+      {
+        "sdate": "2016-03-30 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "9年146天4小时17分",
+        "version": "1.0~2.9"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

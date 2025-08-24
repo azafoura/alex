@@ -1,0 +1,27 @@
+{
+  "975364678": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 02:36:30",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年147天2小时17分",
+        "version": "2.3.2~2.3.5"
+      },
+      {
+        "sdate": "2015-05-27 17:13:09",
+        "edate": "2016-03-30 02:36:30",
+        "status": "online",
+        "duration": "307天9小时23分",
+        "version": "2.0.59~2.3.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

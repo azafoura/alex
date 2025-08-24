@@ -1,0 +1,27 @@
+{
+  "728200220": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-10 10:49:55",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年314天22小时9分",
+        "version": "3.6.4"
+      },
+      {
+        "sdate": "2013-11-16 18:38:03",
+        "edate": "2020-10-10 10:49:55",
+        "status": "online",
+        "duration": "6年329天16小时11分",
+        "version": "1.0.0~3.6.4"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

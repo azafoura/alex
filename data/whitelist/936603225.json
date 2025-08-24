@@ -1,0 +1,55 @@
+{
+  "936603225": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2025-08-08 06:37:13",
+        "edate": null,
+        "status": "offline",
+        "duration": "12天15小时21分",
+        "version": "4.1.1"
+      },
+      {
+        "sdate": "2025-08-08 02:08:40",
+        "edate": "2025-08-08 06:37:13",
+        "status": "online",
+        "duration": "4小时28分",
+        "version": "4.1.1"
+      },
+      {
+        "sdate": "2020-12-31 04:17:21",
+        "edate": "2025-08-08 02:08:40",
+        "status": "offline",
+        "duration": "4年220天21小时51分",
+        "version": "3.8~4.1.1"
+      },
+      {
+        "sdate": "2019-10-08 11:51:03",
+        "edate": "2020-12-31 04:17:21",
+        "status": "online",
+        "duration": "1年84天16小时26分",
+        "version": "2.0~3.8"
+      },
+      {
+        "sdate": "2019-06-14 04:37:45",
+        "edate": "2019-10-08 11:51:03",
+        "status": "offline",
+        "duration": "116天7小时13分",
+        "version": "1.8.0~2.0"
+      },
+      {
+        "sdate": "2014-11-27 00:00:00",
+        "edate": "2019-06-14 04:37:45",
+        "status": "online",
+        "duration": "4年200天4小时37分",
+        "version": "1.0.0~1.8.0"
+      }
+    ],
+    "total": 6,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

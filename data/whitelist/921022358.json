@@ -1,0 +1,41 @@
+{
+  "921022358": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-05 22:30:21",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年319天23小时13分",
+        "version": "0.20.0"
+      },
+      {
+        "sdate": "2020-10-05 22:14:00",
+        "edate": "2020-10-05 22:30:21",
+        "status": "online",
+        "duration": "16分",
+        "version": "0.20.0"
+      },
+      {
+        "sdate": "2020-08-21 06:48:17",
+        "edate": "2020-10-05 22:14:00",
+        "status": "offline",
+        "duration": "45天15小时25分",
+        "version": "0.20.0"
+      },
+      {
+        "sdate": "2015-09-17 23:21:38",
+        "edate": "2020-08-21 06:48:17",
+        "status": "online",
+        "duration": "4年339天7小时26分",
+        "version": "0.0.32~0.20.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

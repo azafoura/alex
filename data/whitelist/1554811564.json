@@ -1,0 +1,27 @@
+{
+  "1554811564": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2021-10-13 18:10:37",
+        "edate": "2021-10-13 21:32:09",
+        "duration": "3小时21分",
+        "version": "1.4.1"
+      },
+      {
+        "sdate": "2021-06-27 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "4年57天11小时39分",
+        "version": "0.0.3~1.4.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

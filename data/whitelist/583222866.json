@@ -1,0 +1,27 @@
+{
+  "583222866": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:10:25",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时37分",
+        "version": "3.15.0"
+      },
+      {
+        "sdate": "2013-06-29 16:37:07",
+        "edate": "2020-12-31 04:10:25",
+        "status": "online",
+        "duration": "7年186天11小时33分",
+        "version": "0.1.0~3.15.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

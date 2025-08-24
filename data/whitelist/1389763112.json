@@ -1,0 +1,27 @@
+{
+  "1389763112": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-05-11 16:12:24",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年102天19小时46分",
+        "version": "1.1.20"
+      },
+      {
+        "sdate": "2021-03-23 00:00:00",
+        "edate": "2022-05-11 16:12:24",
+        "status": "online",
+        "duration": "1年49天16小时12分",
+        "version": "1.0.0~1.1.20"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

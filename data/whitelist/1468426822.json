@@ -1,0 +1,27 @@
+{
+  "1468426822": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2019-06-29 18:16:38",
+        "edate": "2019-06-29 21:00:00",
+        "duration": "2小时43分",
+        "version": "0.08.00"
+      },
+      {
+        "sdate": "2019-06-26 00:00:00",
+        "edate": "",
+        "status": "online",
+        "duration": "6年59天30分",
+        "version": "0.08.00~1.00.14"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

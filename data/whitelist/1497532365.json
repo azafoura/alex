@@ -1,0 +1,34 @@
+{
+  "1497532365": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-07-29 17:38:52",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年24天11小时22分",
+        "version": "2.1.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-07-22 20:37:36",
+        "edate": "2020-07-22 22:34:51",
+        "duration": "1小时57分",
+        "version": "2.1.1"
+      },
+      {
+        "sdate": "2020-02-08 12:38:24",
+        "edate": "2020-07-29 17:38:52",
+        "status": "online",
+        "duration": "172天5小时0分",
+        "version": "1.0~2.1.1"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

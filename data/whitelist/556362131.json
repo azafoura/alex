@@ -1,0 +1,41 @@
+{
+  "556362131": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:09:35",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时35分",
+        "version": "1.7"
+      },
+      {
+        "sdate": "2020-10-02 14:34:40",
+        "edate": "2020-12-31 04:09:35",
+        "status": "online",
+        "duration": "89天13小时34分",
+        "version": "1.7"
+      },
+      {
+        "sdate": "2020-09-09 18:32:21",
+        "edate": "2020-10-02 14:34:40",
+        "status": "offline",
+        "duration": "22天20小时2分",
+        "version": "1.7"
+      },
+      {
+        "sdate": "2013-01-09 00:00:00",
+        "edate": "2020-09-09 18:32:21",
+        "status": "online",
+        "duration": "7年245天18小时32分",
+        "version": "1.0~1.7"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

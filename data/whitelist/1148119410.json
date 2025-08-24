@@ -1,0 +1,27 @@
+{
+  "1148119410": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-05-02 06:21:04",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年112天22小时41分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2016-10-22 00:43:50",
+        "edate": "2019-05-02 06:21:04",
+        "status": "online",
+        "duration": "2年192天5小时37分",
+        "version": "1.0.0~1.0.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

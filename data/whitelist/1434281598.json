@@ -1,0 +1,27 @@
+{
+  "1434281598": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-03-10 17:09:12",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年165天4小时8分",
+        "version": "2.0.7"
+      },
+      {
+        "sdate": "2018-09-14 13:42:59",
+        "edate": "2021-03-10 17:09:12",
+        "status": "online",
+        "duration": "2年178天3小时26分",
+        "version": "2.0.1~2.0.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

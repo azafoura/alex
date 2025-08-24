@@ -1,0 +1,27 @@
+{
+  "1281569872": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:28:29",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天3小时29分",
+        "version": "3.3.1"
+      },
+      {
+        "sdate": "2018-02-20 07:44:07",
+        "edate": "2020-12-31 04:28:29",
+        "status": "online",
+        "duration": "2年314天20小时44分",
+        "version": "1.0~3.3.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1591875020": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-04-05 04:27:05",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年140天11小时30分",
+        "version": "1.1.0"
+      },
+      {
+        "sdate": "2021-11-03 00:00:00",
+        "edate": "2022-04-05 04:27:05",
+        "status": "online",
+        "duration": "153天4小时27分",
+        "version": "1.0.0~1.1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

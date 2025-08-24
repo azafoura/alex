@@ -1,0 +1,27 @@
+{
+  "1118240656": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-11-29 14:17:52",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年266天14小时12分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2016-05-31 14:27:32",
+        "edate": "2019-11-29 14:17:52",
+        "status": "online",
+        "duration": "3年181天23小时50分",
+        "version": "1.0.1~1.0.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

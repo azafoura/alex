@@ -1,0 +1,27 @@
+{
+  "938038638": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-03-30 06:28:22",
+        "edate": null,
+        "status": "offline",
+        "duration": "9年145天15小时31分",
+        "version": "2.3.51~2.4.1"
+      },
+      {
+        "sdate": "2015-01-26 11:22:26",
+        "edate": "2016-03-30 06:28:22",
+        "status": "online",
+        "duration": "1年63天19小时5分",
+        "version": "1.0.0~2.3.51"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

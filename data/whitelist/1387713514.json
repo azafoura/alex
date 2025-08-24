@@ -1,0 +1,41 @@
+{
+  "1387713514": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:31:51",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天7小时25分",
+        "version": "1.0.33"
+      },
+      {
+        "sdate": "2020-03-16 14:53:38",
+        "edate": "2020-12-31 04:31:51",
+        "status": "online",
+        "duration": "289天13小时38分",
+        "version": "1.0.33"
+      },
+      {
+        "sdate": "2020-03-01 19:52:44",
+        "edate": "2020-03-16 14:53:38",
+        "status": "offline",
+        "duration": "14天19小时0分",
+        "version": "1.0.33"
+      },
+      {
+        "sdate": "2018-05-30 00:00:00",
+        "edate": "2020-03-01 19:52:44",
+        "status": "online",
+        "duration": "1年276天19小时52分",
+        "version": "1.0.6~1.0.33"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

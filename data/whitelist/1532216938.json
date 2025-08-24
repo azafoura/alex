@@ -1,0 +1,27 @@
+{
+  "1532216938": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-04-03 22:55:25",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年134天6小时3分",
+        "version": "pre order 2.0"
+      },
+      {
+        "sdate": "2020-11-09 21:15:02",
+        "edate": "2021-04-03 22:55:25",
+        "status": "preorder",
+        "duration": "145天1小时40分",
+        "version": "pre order 1.0~pre order 2.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

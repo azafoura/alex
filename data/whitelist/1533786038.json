@@ -1,0 +1,34 @@
+{
+  "1533786038": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-01-11 12:30:30",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年223天17小时36分",
+        "version": "2.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-10-18 20:49:59",
+        "edate": "2020-10-18 22:50:36",
+        "duration": "2小时0分",
+        "version": "1.0.9"
+      },
+      {
+        "sdate": "2020-10-06 00:00:00",
+        "edate": "2022-01-11 12:30:30",
+        "status": "online",
+        "duration": "1年97天12小时30分",
+        "version": "1.0.8~2.1"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

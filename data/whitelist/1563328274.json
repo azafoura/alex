@@ -1,0 +1,27 @@
+{
+  "1563328274": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-03-28 18:02:02",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年147天17小时52分",
+        "version": "5.3.1"
+      },
+      {
+        "sdate": "2021-04-19 00:00:00",
+        "edate": "2023-03-28 18:02:02",
+        "status": "online",
+        "duration": "1年343天18小时2分",
+        "version": "5.2~5.3.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

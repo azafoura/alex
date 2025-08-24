@@ -1,0 +1,27 @@
+{
+  "1367850213": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-09-12 14:57:58",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年344天20小时47分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2018-05-11 17:56:52",
+        "edate": "2018-09-12 14:57:58",
+        "status": "online",
+        "duration": "123天21小时1分",
+        "version": "1.0.2"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1542840251": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-18 07:13:42",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年247天23小时3分",
+        "version": "0.5.1"
+      },
+      {
+        "sdate": "2020-12-09 18:09:46",
+        "edate": "2020-12-18 07:13:42",
+        "status": "online",
+        "duration": "8天13小时3分",
+        "version": "0.4.0~0.5.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

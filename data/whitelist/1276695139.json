@@ -1,0 +1,27 @@
+{
+  "1276695139": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:29:01",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天3小时27分",
+        "version": "2.23.0"
+      },
+      {
+        "sdate": "2017-09-15 08:31:05",
+        "edate": "2020-12-31 04:29:01",
+        "status": "online",
+        "duration": "3年107天19小时57分",
+        "version": "1.0~2.23.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

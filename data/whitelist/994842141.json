@@ -1,0 +1,41 @@
+{
+  "994842141": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:19:21",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天18小时27分",
+        "version": "2.0.3"
+      },
+      {
+        "sdate": "2019-04-22 20:27:49",
+        "edate": "2020-12-31 04:19:21",
+        "status": "online",
+        "duration": "1年253天7小时51分",
+        "version": "2.0.3"
+      },
+      {
+        "sdate": "2019-04-22 18:55:20",
+        "edate": "2019-04-22 20:27:49",
+        "status": "offline",
+        "duration": "1小时32分",
+        "version": "2.0.3"
+      },
+      {
+        "sdate": "2015-07-22 00:00:00",
+        "edate": "2019-04-22 18:55:20",
+        "status": "online",
+        "duration": "3年275天18小时55分",
+        "version": "1.0.0~2.0.3"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

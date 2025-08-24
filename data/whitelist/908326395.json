@@ -1,0 +1,41 @@
+{
+  "908326395": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:16:49",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天17小时21分",
+        "version": "1.2"
+      },
+      {
+        "sdate": "2019-10-07 06:52:03",
+        "edate": "2020-12-31 04:16:49",
+        "status": "online",
+        "duration": "1年85天21小时24分",
+        "version": "1.2"
+      },
+      {
+        "sdate": "2019-09-29 18:30:46",
+        "edate": "2019-10-07 06:52:03",
+        "status": "offline",
+        "duration": "7天12小时21分",
+        "version": "1.2"
+      },
+      {
+        "sdate": "2014-08-22 00:00:00",
+        "edate": "2019-09-29 18:30:46",
+        "status": "online",
+        "duration": "5年39天18小时30分",
+        "version": "1.0~1.2"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

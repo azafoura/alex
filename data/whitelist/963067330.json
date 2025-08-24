@@ -1,0 +1,27 @@
+{
+  "963067330": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-08-07 06:15:06",
+        "edate": "",
+        "status": "offline",
+        "duration": "6年15天15小时53分",
+        "version": "4.64~7.031"
+      },
+      {
+        "sdate": "2018-11-10 01:41:14",
+        "edate": "2019-08-07 06:15:06",
+        "status": "online",
+        "duration": "270天4小时33分",
+        "version": "3.76~4.64"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

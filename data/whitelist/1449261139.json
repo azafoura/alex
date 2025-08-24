@@ -1,0 +1,27 @@
+{
+  "1449261139": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:39:10",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天19小时2分",
+        "version": "39.3"
+      },
+      {
+        "sdate": "2019-02-01 08:23:58",
+        "edate": "2020-12-31 04:39:10",
+        "status": "online",
+        "duration": "1年333天20小时15分",
+        "version": "22.2.0~39.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

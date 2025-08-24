@@ -1,0 +1,27 @@
+{
+  "993476333": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-02-01 22:47:51",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年200天23小时59分",
+        "version": "1.23.0"
+      },
+      {
+        "sdate": "2015-05-23 00:00:00",
+        "edate": "2021-02-01 22:47:51",
+        "status": "online",
+        "duration": "5年256天22小时47分",
+        "version": "1.0.0~1.23.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

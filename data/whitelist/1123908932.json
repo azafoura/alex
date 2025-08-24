@@ -1,0 +1,27 @@
+{
+  "1123908932": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-07-24 19:22:38",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年27天9小时12分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2016-06-21 00:00:00",
+        "edate": "2024-07-24 19:22:38",
+        "status": "online",
+        "duration": "8年35天19小时22分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

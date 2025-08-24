@@ -1,0 +1,41 @@
+{
+  "1280851502": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:28:21",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天3小时29分",
+        "version": "1.0.9"
+      },
+      {
+        "sdate": "2020-01-14 17:26:30",
+        "edate": "2020-12-31 04:28:21",
+        "status": "online",
+        "duration": "351天11小时1分",
+        "version": "1.0.9"
+      },
+      {
+        "sdate": "2019-07-21 20:28:16",
+        "edate": "2020-01-14 17:26:30",
+        "status": "offline",
+        "duration": "176天20小时58分",
+        "version": "1.0.9"
+      },
+      {
+        "sdate": "2017-09-15 00:00:00",
+        "edate": "2019-07-21 20:28:16",
+        "status": "online",
+        "duration": "1年309天20小时28分",
+        "version": "1.0~1.0.9"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

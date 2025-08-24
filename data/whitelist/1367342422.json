@@ -1,0 +1,41 @@
+{
+  "1367342422": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-02-01 03:29:00",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年203天8小时16分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-08-31 10:33:33",
+        "edate": "2019-02-01 03:29:00",
+        "status": "online",
+        "duration": "153天16小时55分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-08-21 16:39:01",
+        "edate": "2018-08-31 10:33:33",
+        "status": "offline",
+        "duration": "9天17小时54分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2018-04-28 12:55:12",
+        "edate": "2018-08-21 16:39:01",
+        "status": "online",
+        "duration": "115天3小时43分",
+        "version": "1.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

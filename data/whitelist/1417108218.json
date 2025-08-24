@@ -1,0 +1,27 @@
+{
+  "1417108218": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-11-12 23:03:29",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年190天21小时13分",
+        "version": "10.0.1"
+      },
+      {
+        "sdate": "2018-11-09 20:47:45",
+        "edate": "2018-11-12 23:03:29",
+        "status": "preorder",
+        "duration": "93天56分",
+        "version": "10.0.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

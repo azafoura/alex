@@ -1,0 +1,27 @@
+{
+  "1478101301": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-08-26 02:02:08",
+        "edate": "",
+        "status": "online",
+        "duration": "3年361天22小时42分",
+        "version": "1.1.4（3）~1.11.27 (1116)"
+      },
+      {
+        "sdate": "2021-07-23 00:00:00",
+        "edate": "2021-08-26 02:02:08",
+        "status": "preorder",
+        "duration": "34天2小时2分",
+        "version": "1.1.1 (4)~1.1.4（3）"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

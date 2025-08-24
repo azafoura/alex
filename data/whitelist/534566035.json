@@ -1,0 +1,27 @@
+{
+  "534566035": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2017-02-08 14:53:39",
+        "edate": null,
+        "status": "offline",
+        "duration": "8年194天17小时50分",
+        "version": "6.7"
+      },
+      {
+        "sdate": "2012-07-02 21:14:16",
+        "edate": "2017-02-08 14:53:39",
+        "status": "online",
+        "duration": "4年221天17小时39分",
+        "version": "1.0~6.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

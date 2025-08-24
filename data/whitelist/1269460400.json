@@ -1,0 +1,27 @@
+{
+  "1269460400": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-07-23 22:11:19",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年30天9小时41分",
+        "version": "5.6"
+      },
+      {
+        "sdate": "2018-02-07 21:08:17",
+        "edate": "2018-07-23 22:11:19",
+        "status": "online",
+        "duration": "166天1小时3分",
+        "version": "5.3~5.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

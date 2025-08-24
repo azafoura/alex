@@ -1,0 +1,27 @@
+{
+  "1315504715": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-04-20 19:38:15",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年124天12小时32分",
+        "version": "1.7"
+      },
+      {
+        "sdate": "2017-11-24 04:09:04",
+        "edate": "2018-04-20 19:38:15",
+        "status": "online",
+        "duration": "147天15小时29分",
+        "version": "1.0~1.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1569042746": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-08-31 02:44:25",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年357天13小时0分",
+        "version": "2.0.6"
+      },
+      {
+        "sdate": "2021-06-29 00:00:00",
+        "edate": "2022-08-31 02:44:25",
+        "status": "online",
+        "duration": "1年63天2小时44分",
+        "version": "1.0~2.0.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

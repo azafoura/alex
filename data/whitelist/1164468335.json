@@ -1,0 +1,27 @@
+{
+  "1164468335": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2025-04-25 18:52:51",
+        "edate": null,
+        "status": "offline",
+        "duration": "117天10小时16分",
+        "version": "2.1"
+      },
+      {
+        "sdate": "2016-10-19 00:00:00",
+        "edate": "2025-04-25 18:52:51",
+        "status": "online",
+        "duration": "8年190天18小时52分",
+        "version": "2.0~2.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

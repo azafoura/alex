@@ -1,0 +1,27 @@
+{
+  "1388241888": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-12-14 09:26:57",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年252天2小时31分",
+        "version": "1.18.1"
+      },
+      {
+        "sdate": "2018-06-04 08:53:20",
+        "edate": "2018-12-14 09:26:57",
+        "status": "online",
+        "duration": "193天33分",
+        "version": "1.16.0~1.18.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

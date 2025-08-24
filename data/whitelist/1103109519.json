@@ -1,0 +1,27 @@
+{
+  "1103109519": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:24:46",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天23小时55分",
+        "version": "2.12"
+      },
+      {
+        "sdate": "2016-05-02 03:15:00",
+        "edate": "2020-12-31 04:24:46",
+        "status": "online",
+        "duration": "4年244天1小时9分",
+        "version": "1.00~2.12"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

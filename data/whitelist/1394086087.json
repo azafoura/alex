@@ -1,0 +1,27 @@
+{
+  "1394086087": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-29 05:38:12",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年297天6小时23分",
+        "version": "7.0"
+      },
+      {
+        "sdate": "2018-08-13 00:00:00",
+        "edate": "2020-10-29 05:38:12",
+        "status": "online",
+        "duration": "2年78天5小时38分",
+        "version": "2.0~7.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

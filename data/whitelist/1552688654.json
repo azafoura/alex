@@ -1,0 +1,27 @@
+{
+  "1552688654": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-02-29 17:43:04",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年174天17小时54分",
+        "version": "0.0.6"
+      },
+      {
+        "sdate": "2021-02-11 00:00:00",
+        "edate": "2024-02-29 17:43:04",
+        "status": "online",
+        "duration": "3年18天17小时43分",
+        "version": "0.0.1~0.0.6"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

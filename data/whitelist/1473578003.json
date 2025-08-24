@@ -1,0 +1,27 @@
+{
+  "1473578003": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-03-30 21:26:10",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年145天3小时11分",
+        "version": "3.16.1"
+      },
+      {
+        "sdate": "2019-07-20 00:00:00",
+        "edate": "2022-03-30 21:26:10",
+        "status": "online",
+        "duration": "2年254天21小时26分",
+        "version": "1.0~3.16.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

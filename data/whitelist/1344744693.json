@@ -1,0 +1,41 @@
+{
+  "1344744693": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-01-06 10:08:57",
+        "edate": "",
+        "status": "online",
+        "duration": "4年228天1小时23分",
+        "version": "3.0.10~3.0.22"
+      },
+      {
+        "sdate": "2020-12-31 04:30:13",
+        "edate": "2021-01-06 10:08:57",
+        "status": "offline",
+        "duration": "6天5小时38分",
+        "version": "3.0.9~3.0.10"
+      },
+      {
+        "sdate": "2018-08-03 00:00:00",
+        "edate": "2020-12-31 04:30:13",
+        "status": "online",
+        "duration": "2年151天4小时30分",
+        "version": "1.0.6~3.0.9"
+      },
+      {
+        "sdate": "2018-07-09 00:00:00",
+        "edate": "2018-08-03 00:00:00",
+        "status": "preorder",
+        "duration": "25天0分",
+        "version": "1.0.1~1.0.6"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

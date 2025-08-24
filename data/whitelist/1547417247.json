@@ -1,0 +1,34 @@
+{
+  "1547417247": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2021-08-31 23:56:38",
+        "edate": "2021-09-03 18:14:52",
+        "duration": "2天18小时18分",
+        "version": "1.17.3"
+      },
+      {
+        "sdate": "2021-01-26 18:39:10",
+        "edate": "",
+        "status": "online",
+        "duration": "4年208天16小时46分",
+        "version": "1.02~1.18.34"
+      },
+      {
+        "sdate": "2021-01-12 16:20:16",
+        "edate": "2021-01-26 18:39:10",
+        "status": "preorder",
+        "duration": "14天2小时18分",
+        "version": "1.0.0~1.02"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

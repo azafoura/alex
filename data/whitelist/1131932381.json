@@ -1,0 +1,27 @@
+{
+  "1131932381": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-02-08 08:15:50",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年195天20小时26分",
+        "version": "1.0.3"
+      },
+      {
+        "sdate": "2016-07-14 19:05:01",
+        "edate": "2019-02-08 08:15:50",
+        "status": "online",
+        "duration": "2年208天13小时10分",
+        "version": "1.0~1.0.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

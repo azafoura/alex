@@ -1,0 +1,34 @@
+{
+  "1165289168": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-10-29 20:08:12",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年296天9小时0分",
+        "version": "4.0.5"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-07-04 14:33:55",
+        "edate": "2020-07-04 16:33:35",
+        "duration": "1小时59分",
+        "version": "4.0.5"
+      },
+      {
+        "sdate": "2017-04-13 13:00:42",
+        "edate": "2020-10-29 20:08:12",
+        "status": "online",
+        "duration": "3年200天7小时7分",
+        "version": "1.0.2~4.0.5"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

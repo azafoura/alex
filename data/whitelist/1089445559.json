@@ -1,0 +1,41 @@
+{
+  "1089445559": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2023-10-20 15:37:47",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年305天8小时15分",
+        "version": "4.6"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-12-22 01:08:33",
+        "edate": "2021-02-21 12:00:00",
+        "duration": "61天10小时51分",
+        "version": "3.5~3.6"
+      },
+      {
+        "status": "out",
+        "sdate": "2018-01-14 05:04:32",
+        "edate": "2018-01-15 00:00:00",
+        "duration": "18小时55分",
+        "version": "1.02"
+      },
+      {
+        "sdate": "2016-03-13 00:00:00",
+        "edate": "2023-10-20 15:37:47",
+        "status": "online",
+        "duration": "7年222天15小时37分",
+        "version": "1.0~4.6"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "1525058607": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-08-03 20:32:44",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年19天9小时15分",
+        "version": "0.6.8"
+      },
+      {
+        "sdate": "2020-07-26 18:54:33",
+        "edate": "2020-08-03 20:32:44",
+        "status": "online",
+        "duration": "8天1小时38分",
+        "version": "0.6.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

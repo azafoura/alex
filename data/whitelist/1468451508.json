@@ -1,0 +1,27 @@
+{
+  "1468451508": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-07-30 14:53:41",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年361天30分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2019-07-25 01:54:34",
+        "edate": "2019-07-30 14:53:41",
+        "status": "preorder",
+        "duration": "28天9小时6分",
+        "version": "1.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "1095086466": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2016-04-29 00:10:13",
+        "edate": "",
+        "status": "online",
+        "duration": "9年116天4小时7分",
+        "version": "0.9.2~7.7.0"
+      }
+    ],
+    "total": 1,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "910222433": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-06-20 09:26:32",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年62天12小时12分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2014-09-04 17:49:44",
+        "edate": "2020-06-20 09:26:32",
+        "status": "online",
+        "duration": "5年290天15小时36分",
+        "version": "1.0~2.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "977921260": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-11-15 20:21:14",
+        "edate": null,
+        "status": "offline",
+        "duration": "278天1小时57分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2023-09-01 10:55:52",
+        "edate": "2024-11-15 20:21:14",
+        "status": "online",
+        "duration": "1年76天9小时25分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2023-08-31 20:08:02",
+        "edate": "2023-09-01 10:55:52",
+        "status": "offline",
+        "duration": "14小时47分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2022-08-01 10:15:39",
+        "edate": "2023-08-31 20:08:02",
+        "status": "online",
+        "duration": "1年30天9小时52分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2022-07-31 18:36:26",
+        "edate": "2022-08-01 10:15:39",
+        "status": "offline",
+        "duration": "15小时39分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2015-03-26 00:00:00",
+        "edate": "2022-07-31 18:36:26",
+        "status": "online",
+        "duration": "7年129天18小时36分",
+        "version": "1.0.0"
+      }
+    ],
+    "total": 6,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

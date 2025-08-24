@@ -1,0 +1,27 @@
+{
+  "1542332918": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-01-19 23:03:19",
+        "edate": "",
+        "status": "online",
+        "duration": "4年215天7小时13分",
+        "version": "1.0.006~1.0136"
+      },
+      {
+        "sdate": "2020-12-16 10:56:35",
+        "edate": "2021-01-19 23:03:19",
+        "status": "preorder",
+        "duration": "34天12小时6分",
+        "version": "1.0.001~1.0.006"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

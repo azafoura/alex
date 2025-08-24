@@ -1,0 +1,55 @@
+{
+  "603527166": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:11:08",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时38分",
+        "version": "1.4.2"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-12-19 21:03:21",
+        "edate": "2020-12-19 22:56:00",
+        "duration": "1小时52分",
+        "version": "1.4.2"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-11-17 14:51:09",
+        "edate": "2020-11-17 16:48:49",
+        "duration": "1小时57分",
+        "version": "1.4.2"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-09-24 02:43:16",
+        "edate": "2020-09-24 04:36:50",
+        "duration": "1小时53分",
+        "version": "1.4.2"
+      },
+      {
+        "status": "out",
+        "sdate": "2020-06-20 17:32:08",
+        "edate": "2020-06-20 19:27:39",
+        "duration": "1小时55分",
+        "version": "1.4.2"
+      },
+      {
+        "sdate": "2013-08-06 22:53:58",
+        "edate": "2020-12-31 04:11:08",
+        "status": "online",
+        "duration": "7年148天5小时17分",
+        "version": "0.1~1.4.2"
+      }
+    ],
+    "total": 6,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "1407609338": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-02-15 19:47:07",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年189天1小时24分",
+        "version": "1.8"
+      },
+      {
+        "status": "out",
+        "sdate": "2018-11-26 16:53:11",
+        "edate": "2019-03-19 00:00:00",
+        "duration": "112天7小时6分",
+        "version": "1.6"
+      },
+      {
+        "sdate": "2018-07-21 23:00:08",
+        "edate": "2020-02-15 19:47:07",
+        "status": "online",
+        "duration": "1年208天20小时46分",
+        "version": "1.0~1.8"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

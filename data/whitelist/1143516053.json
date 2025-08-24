@@ -1,0 +1,27 @@
+{
+  "1143516053": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:24:05",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天36分",
+        "version": "4.2.2940"
+      },
+      {
+        "sdate": "2017-05-11 08:49:19",
+        "edate": "2020-12-31 04:24:05",
+        "status": "online",
+        "duration": "3年234天19小时34分",
+        "version": "1.2.2~4.2.2940"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

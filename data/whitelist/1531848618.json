@@ -1,0 +1,27 @@
+{
+  "1531848618": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-08-07 11:20:12",
+        "edate": null,
+        "status": "offline",
+        "duration": "1年14天18小时42分",
+        "version": "1.0.3"
+      },
+      {
+        "sdate": "2020-09-18 00:00:00",
+        "edate": "2024-08-07 11:20:12",
+        "status": "online",
+        "duration": "3年324天11小时20分",
+        "version": "1.0.0~1.0.3"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

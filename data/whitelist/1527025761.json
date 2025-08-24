@@ -1,0 +1,34 @@
+{
+  "1527025761": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2024-09-06 05:06:32",
+        "edate": null,
+        "status": "offline",
+        "duration": "350天44分",
+        "version": "4.0"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-09-02 19:23:01",
+        "edate": "2021-09-03 18:14:52",
+        "duration": "22小时51分",
+        "version": "2.0"
+      },
+      {
+        "sdate": "2020-08-16 00:00:00",
+        "edate": "2024-09-06 05:06:32",
+        "status": "online",
+        "duration": "4年22天5小时6分",
+        "version": "1.0~4.0"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

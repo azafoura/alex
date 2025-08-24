@@ -1,0 +1,41 @@
+{
+  "1252557803": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-05-07 06:28:55",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年108天1小时17分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2019-01-19 14:52:17",
+        "edate": "2019-05-07 06:28:55",
+        "status": "online",
+        "duration": "107天15小时36分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2019-01-18 20:20:28",
+        "edate": "2019-01-19 14:52:17",
+        "status": "offline",
+        "duration": "18小时31分",
+        "version": "1.0"
+      },
+      {
+        "sdate": "2017-07-07 07:39:51",
+        "edate": "2019-01-18 20:20:28",
+        "status": "online",
+        "duration": "1年195天12小时40分",
+        "version": "1.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

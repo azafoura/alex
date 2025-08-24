@@ -1,0 +1,41 @@
+{
+  "1446834217": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-10-17 05:42:03",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年310天15小时46分",
+        "version": "2.0.0"
+      },
+      {
+        "sdate": "2019-08-07 13:58:32",
+        "edate": "2019-10-17 05:42:03",
+        "status": "online",
+        "duration": "70天15小时43分",
+        "version": "2.0.0"
+      },
+      {
+        "sdate": "2019-04-25 23:35:25",
+        "edate": "2019-08-07 13:58:32",
+        "status": "offline",
+        "duration": "103天14小时23分",
+        "version": "2.0.0"
+      },
+      {
+        "sdate": "2019-03-11 22:37:55",
+        "edate": "2019-04-25 23:35:25",
+        "status": "online",
+        "duration": "45天57分",
+        "version": "1.0~2.0.0"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

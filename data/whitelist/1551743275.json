@@ -1,0 +1,41 @@
+{
+  "1551743275": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-07-27 22:50:18",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年26天12小时44分",
+        "version": "2.1"
+      },
+      {
+        "sdate": "2022-02-24 11:35:22",
+        "edate": "2022-07-27 22:50:18",
+        "status": "online",
+        "duration": "153天11小时14分",
+        "version": "2.1"
+      },
+      {
+        "sdate": "2022-02-22 19:02:13",
+        "edate": "2022-02-24 11:35:22",
+        "status": "offline",
+        "duration": "1天16小时33分",
+        "version": "2.1"
+      },
+      {
+        "sdate": "2021-02-03 00:00:00",
+        "edate": "2022-02-22 19:02:13",
+        "status": "online",
+        "duration": "1年19天19小时2分",
+        "version": "1.0~2.1"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

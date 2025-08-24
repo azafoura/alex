@@ -1,0 +1,27 @@
+{
+  "1487176644": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-01-11 13:27:59",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年224天15小时28分",
+        "version": "1.7"
+      },
+      {
+        "sdate": "2019-11-14 01:40:00",
+        "edate": "2020-01-11 13:27:59",
+        "status": "online",
+        "duration": "58天11小时47分",
+        "version": "1.0~1.7"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

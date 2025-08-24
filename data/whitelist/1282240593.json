@@ -1,0 +1,41 @@
+{
+  "1282240593": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-09-18 06:21:44",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年339天1小时37分",
+        "version": "1.51"
+      },
+      {
+        "sdate": "2019-05-08 19:08:35",
+        "edate": "2019-09-18 06:21:44",
+        "status": "online",
+        "duration": "132天11小时13分",
+        "version": "1.51"
+      },
+      {
+        "sdate": "2018-03-16 19:00:34",
+        "edate": "2019-05-08 19:08:35",
+        "status": "offline",
+        "duration": "1年53天8分",
+        "version": "1.51"
+      },
+      {
+        "sdate": "2017-09-21 04:27:02",
+        "edate": "2018-03-16 19:00:34",
+        "status": "online",
+        "duration": "176天14小时33分",
+        "version": "1.4.0~1.51"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

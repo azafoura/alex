@@ -1,0 +1,41 @@
+{
+  "1275199710": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:28:28",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天3小时26分",
+        "version": "8.4"
+      },
+      {
+        "sdate": "2019-12-12 05:04:29",
+        "edate": "2020-12-31 04:28:28",
+        "status": "online",
+        "duration": "1年19天23小时23分",
+        "version": "7.14~8.4"
+      },
+      {
+        "sdate": "2019-12-12 03:49:00",
+        "edate": "2019-12-12 05:04:29",
+        "status": "offline",
+        "duration": "1小时15分",
+        "version": "7.14"
+      },
+      {
+        "sdate": "2018-04-05 16:50:09",
+        "edate": "2019-12-12 03:49:00",
+        "status": "online",
+        "duration": "1年250天10小时58分",
+        "version": "2.01~7.14"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

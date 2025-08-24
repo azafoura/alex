@@ -1,0 +1,27 @@
+{
+  "881748864": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-06-21 09:42:48",
+        "edate": null,
+        "status": "offline",
+        "duration": "6年62天8小时11分",
+        "version": "1.0.8"
+      },
+      {
+        "sdate": "2014-05-30 21:12:51",
+        "edate": "2019-06-21 09:42:48",
+        "status": "online",
+        "duration": "5年22天12小时29分",
+        "version": "1.0.1~1.0.8"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

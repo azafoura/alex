@@ -1,0 +1,27 @@
+{
+  "1534712015": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2021-04-03 05:29:14",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年142天38分",
+        "version": "1.51"
+      },
+      {
+        "sdate": "2020-10-11 19:49:20",
+        "edate": "2021-04-03 05:29:14",
+        "status": "online",
+        "duration": "173天9小时39分",
+        "version": "1.0~1.51"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

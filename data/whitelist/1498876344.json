@@ -1,0 +1,27 @@
+{
+  "1498876344": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-06-24 14:42:00",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年26天5小时1分",
+        "version": "1.0.0"
+      },
+      {
+        "sdate": "2020-06-23 11:56:06",
+        "edate": "2020-06-24 14:42:00",
+        "status": "preorder",
+        "duration": "33天9小时18分",
+        "version": "1.0.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

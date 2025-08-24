@@ -1,0 +1,27 @@
+{
+  "911667361": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-05-25 07:20:11",
+        "edate": null,
+        "status": "offline",
+        "duration": "3年88天14小时36分",
+        "version": "1.1"
+      },
+      {
+        "sdate": "2015-01-07 00:00:00",
+        "edate": "2022-05-25 07:20:11",
+        "status": "online",
+        "duration": "7年140天7小时20分",
+        "version": "1.0~1.1"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

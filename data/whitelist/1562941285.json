@@ -1,0 +1,41 @@
+{
+  "1562941285": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-11-03 13:00:05",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年292天22小时54分",
+        "version": "1.0.8"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-09-02 19:23:01",
+        "edate": "2021-09-03 18:14:52",
+        "duration": "22小时51分",
+        "version": "1.0.7"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-05-15 17:48:02",
+        "edate": "2021-05-15 19:45:38",
+        "duration": "1小时57分",
+        "version": "1.0.3"
+      },
+      {
+        "sdate": "2021-04-27 00:00:00",
+        "edate": "2022-11-03 13:00:05",
+        "status": "online",
+        "duration": "1年190天13小时0分",
+        "version": "1.0.0~1.0.8"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

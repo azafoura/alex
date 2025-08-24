@@ -1,0 +1,27 @@
+{
+  "1047961826": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "status": "out",
+        "sdate": "2022-09-30 09:22:58",
+        "edate": "2022-09-30 10:48:51",
+        "duration": "1小时25分",
+        "version": "2.9.0"
+      },
+      {
+        "sdate": "2016-06-22 14:15:44",
+        "edate": "",
+        "status": "online",
+        "duration": "9年61天8小时50分",
+        "version": "1.0.0~4.14.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "534473264": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:15:58",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年233天4小时27分",
+        "version": "2.7.5"
+      },
+      {
+        "sdate": "2012-11-06 03:13:01",
+        "edate": "2020-12-31 04:15:58",
+        "status": "online",
+        "duration": "8年57天1小时2分",
+        "version": "1.0~2.7.5"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

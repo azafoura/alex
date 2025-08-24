@@ -1,0 +1,34 @@
+{
+  "1536731464": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2022-09-21 03:37:48",
+        "edate": null,
+        "status": "offline",
+        "duration": "2年336天2小时31分",
+        "version": "2.7.9"
+      },
+      {
+        "status": "out",
+        "sdate": "2021-09-02 19:23:01",
+        "edate": "2021-09-08 23:22:35",
+        "duration": "6天3小时59分",
+        "version": "2.7"
+      },
+      {
+        "sdate": "2020-11-06 00:00:00",
+        "edate": "2022-09-21 03:37:48",
+        "status": "online",
+        "duration": "1年319天3小时37分",
+        "version": "1.3~2.7.9"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

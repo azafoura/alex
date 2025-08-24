@@ -1,0 +1,34 @@
+{
+  "1179964943": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2019-12-13 12:21:38",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年252天16小时52分",
+        "version": "1.0.2"
+      },
+      {
+        "status": "out",
+        "sdate": "2017-04-16 13:04:51",
+        "edate": "2017-10-31 00:00:00",
+        "duration": "197天10小时55分",
+        "version": "1.0.2"
+      },
+      {
+        "sdate": "2016-12-12 16:42:16",
+        "edate": "2019-12-13 12:21:38",
+        "status": "online",
+        "duration": "3年0天19小时39分",
+        "version": "1.0.0~1.0.2"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

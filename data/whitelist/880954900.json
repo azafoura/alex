@@ -1,0 +1,41 @@
+{
+  "880954900": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-06-03 18:38:37",
+        "edate": null,
+        "status": "offline",
+        "duration": "5年78天23小时15分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2019-05-04 16:59:34",
+        "edate": "2020-06-03 18:38:37",
+        "status": "online",
+        "duration": "1年31天1小时39分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2019-04-27 18:56:17",
+        "edate": "2019-05-04 16:59:34",
+        "status": "offline",
+        "duration": "6天22小时3分",
+        "version": "1.0.1"
+      },
+      {
+        "sdate": "2014-05-27 22:33:30",
+        "edate": "2019-04-27 18:56:17",
+        "status": "online",
+        "duration": "4年335天20小时22分",
+        "version": "1.0.0~1.0.1"
+      }
+    ],
+    "total": 4,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

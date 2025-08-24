@@ -1,0 +1,27 @@
+{
+  "926776423": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2018-05-17 08:59:08",
+        "edate": null,
+        "status": "offline",
+        "duration": "7年97天12小时58分",
+        "version": "1.7.0"
+      },
+      {
+        "sdate": "2014-12-09 10:34:25",
+        "edate": "2018-05-17 08:59:08",
+        "status": "online",
+        "duration": "3年159天22小时24分",
+        "version": "1.0~1.7.0"
+      }
+    ],
+    "total": 2,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}

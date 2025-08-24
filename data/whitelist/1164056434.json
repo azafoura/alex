@@ -1,0 +1,34 @@
+{
+  "1164056434": {
+    "code": 10000,
+    "msg": "成功",
+    "is_logout": 0,
+    "data": [
+      {
+        "sdate": "2020-12-31 04:24:31",
+        "edate": null,
+        "status": "offline",
+        "duration": "4年234天44分",
+        "version": "2.12.1"
+      },
+      {
+        "status": "out",
+        "sdate": "2019-07-05 21:12:10",
+        "edate": "2019-07-05 23:00:00",
+        "duration": "1小时47分",
+        "version": "2.4.1"
+      },
+      {
+        "sdate": "2017-06-21 07:28:00",
+        "edate": "2020-12-31 04:24:31",
+        "status": "online",
+        "duration": "3年193天20小时56分",
+        "version": "1.0.0~2.12.1"
+      }
+    ],
+    "total": 3,
+    "pageSize": 20,
+    "maxPage": 1,
+    "currentPage": 1
+  }
+}
