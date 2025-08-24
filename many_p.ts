@@ -2,101 +2,22 @@ import puppeteer , { CookieParam }from 'rebrowser-puppeteer-core';
 
 
 import * as fs from 'fs'
-import path from "path"
-var errors:number=0;
-var Success=0;
-function delay(ms: number): Promise<void> {
-  return new Promise(resolve => setTimeout(resolve, ms));
-}
+import path from "path";
 const read_csv= async ()=>{
   const data= await fs.promises.readFile("many_pages.csv", {encoding:"utf-8"});
   const list= data.split("\n")
   return list
 
- 
+
 }
 const DATA_DIR = path.join(__dirname, 'data');
 const BLACKLIST_FILE = path.join(DATA_DIR, 'blacklist.json');
-const WHITELIST_FILE = path.join(DATA_DIR, 'whitelist.json');
+const WHITELIST_FILE = path.join(DATA_DIR, 'wh.json');
 // Store successful response in whitelist directory
 function storeInWhitelist(id, data: any) {
   const filename = path.join(process.cwd(), 'data', 'many_pages', `${id}.json`);
   fs.writeFileSync(filename, JSON.stringify(data, null, 2));
   console.log(`Success data stored for ID: ${id}`);
-  console.log(`total sucess so far ${++Success}`)
-
-}
-async function waitforpageandclick(page,ide)  {
-      ide=ide.trim()
-    page.setDefaultTimeout(200000)
-    page.setDefaultNavigationTimeout(200000)
-
-    try {
-    // Navigate to the page
-    await page.goto(`https://www.qimai.cn/app/appstatus/appid/${ide}/country/cn/`);
-const downloadPath = '/home/guest/PycharmProjects/alex/data/many_pages';
-
-    // Wait for the button with Chinese text to appear
-    //     await page.waitForSelector('//button[contains(text(), "导出数据")]',{visible:true});
-
-        // Click a button inside a div element that has Checkout as the inner text.
-page.on('response', async (response) => {
-  const contentDisposition = response.headers()['content-disposition'];
-  if (contentDisposition && contentDisposition.includes('attachment')) {
-    const filename = contentDisposition.split('filename=')[1].replace(/"/g, '');
-    console.log(filename)
-    // Get list of files before download
-    const filesBefore = fs.readdirSync(downloadPath);
-
-    // Wait for download to complete
-    // await new Promise((resolve) => {
-    //   const checkFile = setInterval(() => {
-    //     try {
-    //       const filesNow = fs.readdirSync(downloadPath);
-    //       // Find new files that aren't still downloading
-    //       const newFiles = filesNow.filter(file =>
-    //         !filesBefore.includes(file) && !file.endsWith('.crdownload'));
-
-    //       if (newFiles.length > 0) {
-    //         clearInterval(checkFile);
-
-    //         // Get the first new file and rename it
-    //         const newFile = newFiles[0];
-    //         console.log(`New file detected: ${newFile}`);
-    //         const oldPath = path.join(downloadPath, newFile);
-    //         console.log(`Old file path: ${oldPath}`);
-    //         const newPath = path.join(downloadPath, `${ide}.csv`);
-
-    //         fs.renameSync(oldPath, newPath);
-    //         console.log(`File renamed to: ${ide}.csv`);
-
-    //         resolve(1); // Resolve the promise
-    //       }
-    //     } catch (err) {
-    //       console.error("Error checking downloads:", err);
-    //     }
-    //   }, 100);
-    // });
-
-    console.log(`File downloaded and renamed to: ${ide}.csv`);
-  }
-});
-
-        await page.locator('div ::-p-text(导出数据)').click();
-
-    // Wait a moment to ensure the page is stable
-    await delay(300);
-    // Click the button
-    console.log(`Successfully clicked 导出数据 button for ID: ${ide}`);
-
-    // Wait for some time to let the response complete
-    await delay(2000);
-
-    return [ide, "success"];
-  } catch (error) {
-    console.error(`Error processing ${ide}:`, error);
-    return [ide, "error"];
-  }
 }
 
 // Store failed response in blacklist directory
@@ -109,7 +30,7 @@ function get_cookies(filepath:string):any {
     const filecontent = fs.readFileSync(filepath,"utf-8")
     const lines = filecontent.split("\n")
     const cookies :CookieParam[]= [];
-    lines.forEach(line =>{ 
+    lines.forEach(line =>{
         if(line.startsWith("#") || !line.trim()) return;
         const parts=line.split("\t")
         const cookie : CookieParam  = {
@@ -130,13 +51,12 @@ function get_cookies(filepath:string):any {
     return cookies
 } ;
 async function waitForAppStatusReques(page,ide):Promise<[string, any]>  {
-  ide=ide.trim()
+      ide=ide.trim()
     page.setDefaultTimeout(100000)
     page.setDefaultNavigationTimeout(100000)
-
   return new Promise((resolve, reject) => {
     // This code runs immediately when the function is called
-    
+
     // Set up timeout (will reject if no response in 30 seconds)
     const timeout = setTimeout(() => {
       page.off('response', onResponse);  // Clean up
@@ -144,17 +64,15 @@ async function waitForAppStatusReques(page,ide):Promise<[string, any]>  {
     }, 300000);
 
     // Define what to do when we get a response
-    const onResponse = async (response) => {await delay(300);
+    const onResponse = async (response) => {
       if (response.url().includes('/app/appStatusList')) {
         clearTimeout(timeout);  // Cancel the timeout
         page.off('response', onResponse);
           // Clean up
         if (response.ok()){
         try {
-          
-          const data = await response.json();
-          if ('banip' in data){errors+=10;console.log("IPBAN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");page.close;reject([ide,"banip"])}
 
+          const data = await response.json();
           const data_dict = {[ide]:data}
           resolve([ide,data_dict ]);  // Success! Return the data
         } catch (error) {clearTimeout(timeout);
@@ -164,11 +82,10 @@ async function waitForAppStatusReques(page,ide):Promise<[string, any]>  {
         else{clearTimeout(timeout);
                 page.off('response', onResponse);
                 reject([ide,"elseerr"])}
-        
+
       }
     };
-       // waits for 2 seconds
-
+    console.log(ide)
     const promise= page.goto(`https://www.qimai.cn/app/appstatus/appid/${ide}/country/cn/`)
     .catch(()=>{                clearTimeout(timeout);
                 page.off('response', onResponse);
@@ -182,7 +99,7 @@ async function waitForAppStatusReques(page,ide):Promise<[string, any]>  {
 const cookies=get_cookies("cookies.txt");
 const max_errors:number =7;
 (async()=>{
-  
+  var errors:number=0;
   const liste=await read_csv()
   console.log(liste.length)
   const top_number_of_pages:number =5
@@ -198,7 +115,8 @@ const browser = await puppeteer.launch({executablePath:"/usr/bin/brave",
     ]}
 );
 function recursiv(page){
-  
+  console.log(`processing ${page}`)
+
   if (errors<10){
     const nextelem= liste.shift()
   waitForAppStatusReques(page,nextelem)
@@ -207,8 +125,6 @@ function recursiv(page){
 .finally(()=>{recursiv(page)})}
   else{page.close()}
   }
-
-  
 
 await browser.setCookie(...cookies);
 const page= await browser.newPage()
@@ -221,4 +137,8 @@ recursiv(page)
 recursiv(page2)
 recursiv(page3)
 recursiv(page4)
-recursiv(page5)})()
+recursiv(page5)
+
+
+}
+)()
